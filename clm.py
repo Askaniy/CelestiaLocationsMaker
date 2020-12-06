@@ -2,6 +2,9 @@ import os
 import sys
 import inspect
 
+
+# Customizable flags
+
 comments = True
 celestia16 = False
 
@@ -94,9 +97,9 @@ with open(open_path, "r", encoding="UTF-8") as f1:
             data = dict(zip(columns, line[:-1].split("\t")))
             try:
                 if target == data["Target"] and data["Approval_Status"] == "Approved":
-
                     location = "\n"
 
+                    # Comments
                     if comments:
                         if data["Approval_Date"] != "" and data["Last_Updated"] != "":
                             location += f'# Approval Date: {data["Approval_Date"]}; Last Updated: {data["Last_Updated"]}\n'
@@ -105,11 +108,13 @@ with open(open_path, "r", encoding="UTF-8") as f1:
                         if data["Additional_Info"] != "":
                             location += f'# Additional Info: {data["Additional_Info"]}\n'
                     
+                    # Name
                     if data["Feature_Type_Code"] in ["AL", "ME", "OC", "RE", "TA"]:
                         location += f'Location "{data["Feature_Name"].upper()}"'
                     else:
                         location += f'Location "{data["Feature_Name"]}"'
                     
+                    # Target
                     if data["Target"] == "Moon":
                         location += f' "Sol/Earth/Moon"\n'
                     elif data["Target"] in ["Phobos", "Deimos"]:
@@ -129,13 +134,14 @@ with open(open_path, "r", encoding="UTF-8") as f1:
                     else:
                         location += f' "Sol/{data["Target"]}"\n'
                     
+                    # LongLat
                     location += '{\n'
-
                     if data["Target"] == "Vesta":
                         location += f'\tLongLat\t[ {float(data["Center_Longitude"])-150} {data["Center_Latitude"]} 0 ]\n'
                     else:
                         location += f'\tLongLat\t[ {data["Center_Longitude"]} {data["Center_Latitude"]} 0 ]\n'
                     
+                    # Size/Importance
                     if float(data["Diameter"]) == 0:
                         if data["Feature_Type_Code"] == "AL":
                             location += f'\tImportance\t20\n'
@@ -144,11 +150,11 @@ with open(open_path, "r", encoding="UTF-8") as f1:
                     else:
                         location += f'\tSize\t{data["Diameter"]}\n'
                     
+                    # Type
                     if celestia16 and data["Feature_Type_Code"] not in celestia16supports:
                         location += f'\tType\t"XX"'
                     else:
                         location += f'\tType\t"{data["Feature_Type_Code"]}"'
-                    
                     if comments:
                         location += f'\t# {data["Feature_Type"]}'
                     
