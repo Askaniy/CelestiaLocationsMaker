@@ -16,10 +16,10 @@ Run [clm.py](clm.py), select the object and file name. Done. In case of problems
 ## What else do I need to know?
 - By default, the tool is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). To create SSC for Celestia 1.6, change the value of the flag `celestia16` to `True`.
 - The script tries to automatically find the main path and create the `locations` folder. If it fails, you can try specifying them manually in the code.
-- Names of `ME`, `OC`, `RE` and `TA` location types are written in capital letters.
-- For bodies with an unknown size, it sets to 10 km.
+- Names of `AL`, `ME`, `OC`, `RE` and `TA` location types are written in capital letters.
+- For albedo features with an unknown size, `Importance` sets to 20. For other location types, `Size` sets to 10.
 - The IAU in the location database uses the [Vesta coordinate system](https://en.wikipedia.org/wiki/4_Vesta#Coordinate_systems) with an offset of 150° relative to the *Dawn* team system. Since Celestia Origin uses the model based on the second coordinate system, this shift is hardcoded.
 
 ## Roadmap
-- The database contains 340 locations with zero sizes. The record holders are Mercury, Venus, Mars, Rhea, Titan and Triton. I made a version of the script that displays all dimensionless locations on the maps of the corresponding bodies. I hope we can fix them.
+- The database contains 333 locations with zero sizes. The record holders are Mercury, Venus, Mars, Rhea, Titan and Triton. I made a version of the script that displays all dimensionless locations on the maps of the corresponding bodies. I hope we can fix them.
 - It is possible to create an algorithm that will determine the height of a location using an elevation map. This is important for non-ellipsoidal bodies such as Vesta.

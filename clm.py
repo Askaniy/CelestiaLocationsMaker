@@ -2,6 +2,7 @@ import os
 import sys
 import inspect
 
+comments = True
 celestia16 = False
 
 
@@ -18,7 +19,7 @@ def folder(follow_symlinks=True): # Automatic (by jfs)
 
 try:
     path = folder()
-except:
+except Exception:
     print("Automatic folder detection failed.")
     path = input('Please enter the folder where "SearchResults" is located: ')
 
@@ -27,8 +28,12 @@ if not os.path.isfile(open_path):
     print('"SearchResults" not found, please try again.')
     sys.exit()
 
-if not os.path.exists(path + "/locations"):
-    os.mkdir(path + "/locations") 
+try:
+    if not os.path.exists(path + "/locations"):
+        os.mkdir(path + "/locations")
+except Exception:
+    print('Can’t find or create "/locations" folder, you can try to create it manually.')
+    sys.exit()
 
 
 # Target detection
@@ -46,12 +51,13 @@ for index, item in enumerate(targets):
     if (index + 1) % 3 == 0:
         print(temp)
         temp = ""
-print(temp)
+if temp != "":
+    print(temp)
 
 try:
     target = targets[int(input("\nPlease enter the target number: "))]
-except:
-    print("Input was wrong, please try again.")
+except Exception:
+    print("Input was wrong, please try again.\n")
     sys.exit()
 
 print(f'\nDo you want to save the output file as "{target.lower()}_locs.ssc"?')
@@ -59,7 +65,7 @@ name = input('Press "Enter" if yes, else enter custom file name: ')
 if name == "":
     name = target.lower() + "_locs.ssc"
 save_path = path + "/locations/" + name
-print(f'Save path: {save_path}\n')
+print(f'\nSave path: {save_path}')
 
 
 # Reader and writer
@@ -86,19 +92,24 @@ with open(open_path, "r", encoding="UTF-8") as f1:
     with open(save_path, "w", encoding="UTF-8") as f2:
         for line in f1:
             data = dict(zip(columns, line[:-1].split("\t")))
-            if len(data) > 1:
+            try:
                 if target == data["Target"] and data["Approval_Status"] == "Approved":
+
                     location = "\n"
-                    if data["Approval_Date"] != "" and data["Last_Updated"] != "":
-                        location += f'# Approval Date: {data["Approval_Date"]}; Last Updated: {data["Last_Updated"]}\n'
-                    if data["Origin"] != "":
-                        location += f'# Origin: {data["Origin"]}\n'
-                    if data["Additional_Info"] != "":
-                        location += f'# Additional Info: {data["Additional_Info"]}\n'
-                    if data["Feature_Type_Code"] in ["ME", "OC", "RE", "TA"]: # "AL", 
+
+                    if comments:
+                        if data["Approval_Date"] != "" and data["Last_Updated"] != "":
+                            location += f'# Approval Date: {data["Approval_Date"]}; Last Updated: {data["Last_Updated"]}\n'
+                        if data["Origin"] != "":
+                            location += f'# Origin: {data["Origin"]}\n'
+                        if data["Additional_Info"] != "":
+                            location += f'# Additional Info: {data["Additional_Info"]}\n'
+                    
+                    if data["Feature_Type_Code"] in ["AL", "ME", "OC", "RE", "TA"]:
                         location += f'Location "{data["Feature_Name"].upper()}"'
                     else:
                         location += f'Location "{data["Feature_Name"]}"'
+                    
                     if data["Target"] == "Moon":
                         location += f' "Sol/Earth/Moon"\n'
                     elif data["Target"] in ["Phobos", "Deimos"]:
@@ -117,18 +128,33 @@ with open(open_path, "r", encoding="UTF-8") as f1:
                         location += f' "Sol/Ida/Dactyl"\n'
                     else:
                         location += f' "Sol/{data["Target"]}"\n'
+                    
                     location += '{\n'
+
                     if data["Target"] == "Vesta":
                         location += f'\tLongLat\t[ {float(data["Center_Longitude"])-150} {data["Center_Latitude"]} 0 ]\n'
                     else:
                         location += f'\tLongLat\t[ {data["Center_Longitude"]} {data["Center_Latitude"]} 0 ]\n'
+                    
                     if float(data["Diameter"]) == 0:
-                        location += f'\tSize\t10\n'
+                        if data["Feature_Type_Code"] == "AL":
+                            location += f'\tImportance\t20\n'
+                        else:
+                            location += f'\tSize\t10\n'
                     else:
                         location += f'\tSize\t{data["Diameter"]}\n'
+                    
                     if celestia16 and data["Feature_Type_Code"] not in celestia16supports:
-                        location += f'\tType\t"XX"\t# {data["Feature_Type"]}\n'
+                        location += f'\tType\t"XX"'
                     else:
-                        location += f'\tType\t"{data["Feature_Type_Code"]}"\t# {data["Feature_Type"]}\n'
-                    location += '}\n'
+                        location += f'\tType\t"{data["Feature_Type_Code"]}"'
+                    
+                    if comments:
+                        location += f'\t# {data["Feature_Type"]}'
+                    
+                    location += '\n}\n'
                     f2.write(location)
+
+            except KeyError:
+                print("Done!\n")
+                break
