@@ -1,4 +1,4 @@
-# Celestia locations maker
+# Celestia locations maker (CLM)
 A Python script that creates location files for Celestia in SSC format from [Gazetteer of Planetary Nomenclature](https://planetarynames.wr.usgs.gov/) database.
 
 ## How to use it?

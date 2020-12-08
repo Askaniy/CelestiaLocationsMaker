@@ -1,6 +1,7 @@
 import os
 import sys
 import inspect
+from datetime import date
 
 
 # Customizable flags
@@ -84,16 +85,18 @@ celestia16supports = [
 #    "Last_Updated"
 #]
 
-with open(open_path, "r", encoding="UTF-8") as f1:
+with open(open_path, "r", encoding="UTF-8") as database:
 
     # Skip indent and define columns
     for _ in range(5):
-        next(f1)
-    columns = list(map(str.strip, f1.readline()[:-1].split("\t")))
+        next(database)
+    columns = list(map(str.strip, database.readline()[:-1].split("\t")))
 
-    # Output file maker
-    with open(save_path, "w", encoding="UTF-8") as f2:
-        for line in f1:
+    # Output file creation
+    with open(save_path, "w", encoding="UTF-8") as ssc:
+
+        locations = []
+        for line in database:
             data = dict(zip(columns, line[:-1].split("\t")))
             try:
                 if target == data["Target"] and data["Approval_Status"] == "Approved":
@@ -102,11 +105,11 @@ with open(open_path, "r", encoding="UTF-8") as f1:
                     # Comments
                     if comments:
                         if data["Approval_Date"] != "" and data["Last_Updated"] != "":
-                            location += f'# Approval Date: {data["Approval_Date"]}; Last Updated: {data["Last_Updated"]}\n'
+                            location += f'# Approval date: {data["Approval_Date"]}; Last update: {data["Last_Updated"]}\n'
                         if data["Origin"] != "":
                             location += f'# Origin: {data["Origin"]}\n'
                         if data["Additional_Info"] != "":
-                            location += f'# Additional Info: {data["Additional_Info"]}\n'
+                            location += f'# Additional info: {data["Additional_Info"]}\n'
                     
                     # Name
                     if data["Feature_Type_Code"] in ["AL", "ME", "OC", "RE", "TA"]:
@@ -159,8 +162,18 @@ with open(open_path, "r", encoding="UTF-8") as f1:
                         location += f'\t# {data["Feature_Type"]}'
                     
                     location += '\n}\n'
-                    f2.write(location)
+                    locations.append(location)
 
             except KeyError:
+                today = date.today().strftime("%d.%m.%Y")
+                ssc.write(f'# {len(locations)} locations of {target}.\n\n')
+                ssc.write(f'# SSC-file author: CLM tool by Askaniy.\n\n')
+                #if target in ["Mercury", "Venus", "Mars", "Rhea", "Puck", "Triton"]:
+                #    ssc.write(f'# SSC-file authors: CLM tool by Askaniy, Art Blos.\n\n')
+                #else:
+                #    ssc.write(f'# SSC-file author: CLM tool by Askaniy.\n\n')
+                ssc.write(f'# Date of creation: {today}\n')
+                ssc.write(f'# Last update: {today}\n\n')
+                ssc.write("".join(locations))
                 print("Done!\n")
                 break
