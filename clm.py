@@ -6,8 +6,21 @@ from datetime import date
 
 # Customizable flags
 
-comments = True
 celestia16 = False
+description = True
+comments = True
+
+
+#columns = ["Feature_ID", "Feature_Name", "Clean_Feature_Name", "Target", "Diameter", "Center_Latitude", "Center_Longitude",
+#    "Northern_Latitude", "Southern_Latitude", "Eastern_Longitude", "Western_Longitude", "Coordinate_System", "Continent", "Ethnicity",
+#    "Feature_Type", "Feature_Type_Code", "Quad", "Approval_Status", "Approval_Date", "Reference", "Origin", "Additional_Info",
+#    "Last_Updated"
+#]
+
+celestia16supports = [
+    "AA", "AS", "CA", "CH", "CM", "CR", "DO", "ER", "FL", "FO", "FR", "IN", "LF", "LI", "ME", "MN", "MO", "PE", "PL", "PM", "RE", "RI",
+    "RT", "RU", "TA", "TE", "TH", "UN", "VA", "XX"
+]
 
 
 # Paths detection
@@ -25,18 +38,19 @@ try:
     path = folder()
 except Exception:
     print("Automatic folder detection failed.")
-    path = input('Please enter the folder where "SearchResults" is located: ')
+    path = input('\nPlease enter the folder where "CLM.py" is located: ')
 
-open_path = path + "/SearchResults"
-if not os.path.isfile(open_path):
-    print('"SearchResults" not found, please try again.')
+data_path = path + "/data"
+if not os.path.isfile(data_path + "/SearchResults"):
+    print('\n"SearchResults" not found, please try again.\n')
     sys.exit()
 
+save_path = path + "/locations"
 try:
-    if not os.path.exists(path + "/locations"):
-        os.mkdir(path + "/locations")
+    if not os.path.exists(save_path):
+        os.mkdir(save_path)
 except Exception:
-    print('Can’t find or create "/locations" folder, you can try to create it manually.')
+    print('\nCan’t find or create "locations" folder, you can try to create it manually.\n')
     sys.exit()
 
 
@@ -65,27 +79,29 @@ except Exception:
     sys.exit()
 
 print(f'\nDo you want to save the output file as "{target.lower()}_locs.ssc"?')
-name = input('Press "Enter" if yes, else enter custom file name: ')
-if name == "":
-    name = target.lower() + "_locs.ssc"
-save_path = path + "/locations/" + name
-print(f'\nSave path: {save_path}')
+file_name = input('Press "Enter" if yes, else enter custom file name: ')
+if file_name == "":
+    file_name = target.lower() + "_locs.ssc"
+save_path = path + "/locations/"
+print(f'\nSave path: {save_path + file_name}')
 
 
-# Reader and writer
+# Sizes of zero-sized locations
 
-celestia16supports = [
-    "AA", "AS", "CA", "CH", "CM", "CR", "DO", "ER", "FL", "FO", "FR", "IN", "LF", "LI", "ME", "MN", "MO", "PE", "PL", "PM", "RE", "RI",
-    "RT", "RU", "TA", "TE", "TH", "UN", "VA", "XX"
-]
+if os.path.isfile(data_path + "/custom_size.txt"):
+    zero_dict = {}
+    with open(data_path + "/custom_size.txt", "r", encoding="UTF-8") as zero_list:
+        for line in zero_list:
+            try:
+                name, size = line.split("\t")
+                zero_dict.update({name: size})
+            except Exception:
+                pass
 
-#columns = ["Feature_ID", "Feature_Name", "Clean_Feature_Name", "Target", "Diameter", "Center_Latitude", "Center_Longitude",
-#    "Northern_Latitude", "Southern_Latitude", "Eastern_Longitude", "Western_Longitude", "Coordinate_System", "Continent", "Ethnicity",
-#    "Feature_Type", "Feature_Type_Code", "Quad", "Approval_Status", "Approval_Date", "Reference", "Origin", "Additional_Info",
-#    "Last_Updated"
-#]
 
-with open(open_path, "r", encoding="UTF-8") as database:
+# Database reader and SSC writer
+
+with open(data_path + "/SearchResults", "r", encoding="UTF-8") as database:
 
     # Skip indent and define columns
     for _ in range(5):
@@ -93,7 +109,7 @@ with open(open_path, "r", encoding="UTF-8") as database:
     columns = list(map(str.strip, database.readline()[:-1].split("\t")))
 
     # Output file creation
-    with open(save_path, "w", encoding="UTF-8") as ssc:
+    with open(save_path + file_name, "w", encoding="UTF-8") as ssc:
 
         locations = []
         for line in database:
@@ -148,6 +164,8 @@ with open(open_path, "r", encoding="UTF-8") as database:
                     if float(data["Diameter"]) == 0:
                         if data["Feature_Type_Code"] == "AL":
                             location += f'\tImportance\t20\n'
+                        elif data["Feature_Name"] in zero_dict:
+                            location += f'\tSize\t{zero_dict[data["Feature_Name"]]}\n'
                         else:
                             location += f'\tSize\t10\n'
                     else:
@@ -165,15 +183,12 @@ with open(open_path, "r", encoding="UTF-8") as database:
                     locations.append(location)
 
             except KeyError:
-                today = date.today().strftime("%d.%m.%Y")
-                ssc.write(f'# {len(locations)} locations of {target}.\n\n')
-                ssc.write(f'# SSC-file author: CLM tool by Askaniy.\n\n')
-                #if target in ["Mercury", "Venus", "Mars", "Rhea", "Puck", "Triton"]:
-                #    ssc.write(f'# SSC-file authors: CLM tool by Askaniy, Art Blos.\n\n')
-                #else:
-                #    ssc.write(f'# SSC-file author: CLM tool by Askaniy.\n\n')
-                ssc.write(f'# Date of creation: {today}\n')
-                ssc.write(f'# Last update: {today}\n\n')
+                if description:
+                    today = date.today().strftime("%d.%m.%Y")
+                    ssc.write(f'# {len(locations)} locations on {target}.\n\n')
+                    ssc.write(f'# SSC-file author: CLM tool by Askaniy.\n\n')
+                    ssc.write(f'# Date of creation: {today}\n')
+                    ssc.write(f'# Last update: {today}\n\n')
                 ssc.write("".join(locations))
                 print("Done!\n")
                 break

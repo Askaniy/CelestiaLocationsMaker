@@ -1,0 +1,196 @@
+# Venus
+Anning Paterae	100
+Antiope Linea	1300
+Bécuma Mons	300
+Guor Linea	1300
+Hippolyta Linea	1300
+Kara Linea	1300
+Maslenitsa Corona	350
+Minerva Fossae	750
+Molpadia Linea	1300
+Neago Fluctūs	650
+Tethus Regio	2500
+
+# Moon
+Mons Agnes	1
+Planitia Descensus	1
+
+# Mars
+Candor Chaos	97
+Xanthe Dorsa	2700
+
+# Io
+Kanehekili	100
+Loki	200
+Pele	200
+Surt	50
+
+# Epimetheus
+Hilairea	30
+Pollux	30
+
+# Janus
+Castor	30
+Idas	40
+Lynceus	30
+Phoibe	30
+
+# Rhea
+Aananin	50
+Adjua	50
+Agunua	50
+Ameta	50
+Arunaka	50
+Atum	100
+Bulagat	100
+Bumba	150
+Burkhan	150
+Cassini Regio	1000
+Con	100
+Djuli	150
+Ellyay	150
+Faro	150
+Haik	100
+Haoso	100
+Heller	100
+Iraca	100
+Izanagi	200
+Izanami	100
+Jumo	30
+Karora	50
+Khado	50
+Kiho	150
+Kumpara	30
+Leza	150
+Lowa	30
+Malunga	30
+Manoid	30
+Melo	100
+Mubai	30
+Num	50
+Ormazd	200
+Pan Ku	50
+Pedn	100
+Qat	150
+Sholmo	50
+Taaroa	50
+Thunupa	50
+Tika	50
+Tirawa	300
+Tore	30
+Torom	150
+Uku	50
+Whanin	100
+Wuraka	30
+Xamba	150
+Xu	50
+Yu-Ti	100
+
+# Hyperion
+Bahloo	20
+Bond-Lassell Dorsum	250
+Helios	60
+Jarilo	30
+Meri	30
+
+# Iapetus
+Cassini Regio	1000
+
+# Puck
+Bogle	45
+Butz	20
+Lob	20
+
+# Proteus
+Pharos	255
+
+# Triton
+Abatos Planum	400
+Akupara Maculae	100
+Amarum	25
+Andvari	25
+Apep Cavus	25
+Awib Dorsa	100
+Bheki Cavus	25
+Bia Sulci	200
+Boynne Sulci	500
+Bubembe Regio	700
+Cay	25
+Cipango Planum	300
+Dagon Cavus	25
+Dilolo Patera	25
+Doro Macula	100
+Gandvik Patera	25
+Hekt Cavus	25
+Hili	25
+Hirugo Cavus	25
+Ho Sulci	300
+Ilomba	25
+Jumna Fossae	300
+Kasu Patera	25
+Kasyapa Cavus	25
+Kibu Patera	25
+Kikimora Maculae	100
+Kormet Sulci	300
+Kraken Catena	150
+Kulilu Cavus	25
+Kurma	25
+Leipter Sulci	200
+Leviathan Patera	100
+Lo Sulci	150
+Mah Cavus	25
+Mahilani	25
+Mangwe Cavus	25
+Mazomba	25
+Medamothi Planum	300
+Monad Regio	100
+Namazu Macula	100
+Ob Sulci	300
+Ormet Sulci	300
+Ravgga	25
+Raz Fossae	300
+Rem Maculae	150
+Ruach Planitia	200
+Ryugu Planitia	100
+Set Catena	200
+Sipapu Planitia	100
+Slidr Sulci	200
+Tangaroa	100
+Tano Sulci	300
+Tuonela Planitia	300
+Uhlanga Regio	1000
+Ukupanio Cavus	25
+Vimur Sulci	400
+Viviane Macula	100
+Vodyanoy	100
+Yasu Sulci	300
+Yenisey Fossa	300
+Zin Maculae	300
+
+# 21 Lutetia
+Achaia Regio		20
+Baetica Regio		20
+Danuvius Labes		20
+Etruria Regio		20
+Gallicum Labes		20
+Goldschmidt Regio		20
+Narbonensis Regio		20
+Noricum Regio		20
+Pannonia Regio		20
+Raetia Regio		20
+Sarnus Labes		20
+
+# 433 Eros
+Charlois Regio	10
+Finsen Dorsum	10
+Hinks Dorsum	10
+Witt Regio	10
+
+# 951 Gaspra
+Dunne Regio	5
+Neujmin Regio	5
+Yeates Regio	5
+
+# 25143 Itokawa
+Gando	1
+San Marco	1

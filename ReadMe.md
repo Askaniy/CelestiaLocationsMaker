@@ -2,9 +2,17 @@
 A Python script that creates location files for Celestia in SSC format from [Gazetteer of Planetary Nomenclature](https://planetarynames.wr.usgs.gov/) database.
 
 ## How to use it?
-You need Python 3.6 or higher (due to f-strings) and probably Windows. The script doesn't require an Internet connection because the [database](SearchResults) is preloaded.
+You need Python 3.6 or higher (due to f-strings) and probably Windows (not tested on other platforms). The script doesn't require an Internet connection because the [database](data/SearchResults) is preloaded.
 
-Run [clm.py](clm.py), select the object and file name. Done. In case of problems, the script will notify you.
+Run [CLM.py](CLM.py), select output type, target and file name. Done. In case of problems, the tool will notify you.
+
+## What do I need to know?
+- The tool is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). To create SSC for Celestia 1.6, set the `celestia16` flag to `True`.
+- By default, the script adds a file description and creation information by Celestia Origin standard to the first lines of SSC. To disable this feature, set the `description` flag to `False`.
+- By default, the script adds comments about the location type, dates of creation and last update, as well as information about the origin of the name for each location. To disable this feature, set the `comments` flag to `False`.
+- Names of `albedo features (AL)`, `mare/maria (ME)`, `oceanus/oceani (OC)`, `regio/regiones (RE)` and `terra/terrae (TA)` are written in capital letters.
+- The [database](data/SearchResults) contains 333 locations with zero sizes. If the size of one of them is specified in the [custom_size.txt](data/custom_size.txt), the script uses it. Else, `Importance` sets to 20 for albedo features and `Size` sets to 10 (km) for other location types.
+- The IAU in the location database uses the [Vesta coordinate system](https://en.wikipedia.org/wiki/4_Vesta#Coordinate_systems) with an offset of 150° relative to the *Dawn* team system. Since Celestia Origin uses the model based on the second coordinate system, this shift is hardcoded.
 
 ## How to update the database file?
 1. Go to [Planetary Names: Advanced Nomenclature Search](https://planetarynames.wr.usgs.gov/AdvancedSearch);
@@ -12,13 +20,5 @@ Run [clm.py](clm.py), select the object and file name. Done. In case of problems
 3. Choose `Output Format` as `TSV`;
 4. Do `Search` and save the file.
 
-## What else do I need to know?
-- By default, the tool is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). To create SSC for Celestia 1.6, set `celestia16` flag to `True`.
-- By default, the script adds to SSC comments about the location type, dates of creation and last update, as well as information about the origin of the name. To disable this feature, set `comments` flag to `False`.
-- Names of `AL`, `ME`, `OC`, `RE` and `TA` location types are written in capital letters.
-- For albedo features with an unknown size, `Importance` sets to 20. For other location types, `Size` sets to 10.
-- The IAU in the location database uses the [Vesta coordinate system](https://en.wikipedia.org/wiki/4_Vesta#Coordinate_systems) with an offset of 150° relative to the *Dawn* team system. Since Celestia Origin uses the model based on the second coordinate system, this shift is hardcoded.
-
 ## Roadmap
-- The database contains 333 locations with zero sizes. The record holders are Mercury, Venus, Mars, Rhea, Titan and Triton. I made a version of the script that displays all dimensionless locations on the maps of the corresponding bodies. I hope we can fix them.
 - It is possible to create an algorithm that will determine the height of a location using an elevation map. This is important for non-ellipsoidal bodies such as Vesta.
