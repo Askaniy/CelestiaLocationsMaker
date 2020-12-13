@@ -11,6 +11,7 @@ Run [clm.py](clm.py), select output type, target and file name. Done. In case of
 - By default, the script adds a file description and creation information by Celestia Origin standard to the first lines of SSC. To disable this feature, set the `description` flag to `False`.
 - By default, the script adds comments about the location type, dates of creation and last update, as well as information about the origin of the name for each location. To disable this feature, set the `comments` flag to `False`.
 - Names of `albedo features (AL)`, `mare/maria (ME)`, `oceanus/oceani (OC)`, `regio/regiones (RE)` and `terra/terrae (TA)` are written in capital letters.
+- Coordinates and altitude of locations can be set manually through the [custom_longlat.txt](data/custom_longlat.txt). Now it contains locations for which coordinates were not specified. Their parameters are tailored to the models used in Celestia Origin.
 - The [database](data/SearchResults) contains 333 locations with zero sizes. If the size of one of them is specified in the [custom_size.txt](data/custom_size.txt), the script uses it. Else, `Importance` sets to 20 for albedo features and `Size` sets to 10 (km) for other location types.
 - The IAU in the location database uses the [Vesta coordinate system](https://en.wikipedia.org/wiki/4_Vesta#Coordinate_systems) with an offset of 150° relative to the *Dawn* team system. Since Celestia Origin uses the model based on the second coordinate system, this shift is hardcoded.
 

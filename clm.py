@@ -94,17 +94,20 @@ def reader(target):
                 
                 # LongLat
                 location += '{\n'
-                if data["Target"] == "Vesta":
-                    location += f'\tLongLat\t[ {round(float(data["Center_Longitude"])-150, 2)} {data["Center_Latitude"]} 0 ]\n'
+                if data["Feature_Name"] in coord_dict:
+                    location += f'\tLongLat\t[ {coord_dict[data["Feature_Name"]]} ]\n'
                 else:
-                    location += f'\tLongLat\t[ {data["Center_Longitude"]} {data["Center_Latitude"]} 0 ]\n'
+                    if data["Target"] == "Vesta":
+                        location += f'\tLongLat\t[ {round(float(data["Center_Longitude"])-150, 2)} {data["Center_Latitude"]} 0 ]\n'
+                    else:
+                        location += f'\tLongLat\t[ {data["Center_Longitude"]} {data["Center_Latitude"]} 0 ]\n'
                 
                 # Size/Importance
                 if float(data["Diameter"]) == 0:
                     if data["Feature_Type_Code"] == "AL":
                         location += f'\tImportance\t20\n'
-                    elif data["Feature_Name"] in zero_dict:
-                        location += f'\tSize\t{zero_dict[data["Feature_Name"]]}\n'
+                    elif data["Feature_Name"] in size_dict:
+                        location += f'\tSize\t{size_dict[data["Feature_Name"]]}\n'
                     else:
                         location += f'\tSize\t10\n'
                 else:
@@ -208,15 +211,30 @@ save_path = path + "/locations/"
 print(f'\nSave path: {save_path + file_name}')
 
 
+# Custom coordinates and altitudes
+
+coord_dict = {}
+try:
+    with open(data_path + "/custom_longlat.txt", "r", encoding="UTF-8") as coords:
+        for line in coords:
+            try:
+                name, coord = line.split("\t")
+                coord_dict.update({name: coord[:-1]})
+            except Exception:
+                pass
+except Exception:
+    pass
+
+
 # Sizes of zero-sized locations
 
-zero_dict = {}
+size_dict = {}
 try:
-    with open(data_path + "/custom_size.txt", "r", encoding="UTF-8") as zero_list:
-        for line in zero_list:
+    with open(data_path + "/custom_size.txt", "r", encoding="UTF-8") as zeros:
+        for line in zeros:
             try:
                 name, size = line.split("\t")
-                zero_dict.update({name: size[:-1]})
+                size_dict.update({name: size[:-1]})
             except Exception:
                 pass
 except Exception:

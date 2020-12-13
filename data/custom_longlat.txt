@@ -1,0 +1,17 @@
+# Epimetheus
+Hilairea	-217 -24 -3
+Pollux	-266 -42 -6
+
+# Janus
+Castor	-256 5 -5
+Idas	-332 -27 -2
+Lynceus	-272 14 -7
+Phoibe	-349 55 4
+
+# Puck
+Bogle
+Butz
+Lob
+
+# Proteus
+Pharos	-5 -20 4
