@@ -192,5 +192,5 @@ Neujmin Regio	5
 Yeates Regio	5
 
 # 25143 Itokawa
-Gando	1
-San Marco	1
+Gando	0.01
+San Marco	0.01

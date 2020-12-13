@@ -4,7 +4,7 @@ A Python script that creates location files for Celestia in SSC format from [Gaz
 ## How to use it?
 You need Python 3.6 or higher (due to f-strings) and probably Windows (not tested on other platforms). The script doesn't require an Internet connection because the [database](data/SearchResults) is preloaded.
 
-Run [CLM.py](CLM.py), select output type, target and file name. Done. In case of problems, the tool will notify you.
+Run [clm.py](clm.py), select output type, target and file name. Done. In case of problems, the tool will notify you.
 
 ## What do I need to know?
 - The tool is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). To create SSC for Celestia 1.6, set the `celestia16` flag to `True`.
@@ -19,6 +19,8 @@ Run [CLM.py](CLM.py), select output type, target and file name. Done. In case of
 2. Check all the boxes in `Columns to include`;
 3. Choose `Output Format` as `TSV`;
 4. Do `Search` and save the file.
+
+The last update was on December 3, 2020.
 
 ## Roadmap
 - It is possible to create an algorithm that will determine the height of a location using an elevation map. This is important for non-ellipsoidal bodies such as Vesta.
