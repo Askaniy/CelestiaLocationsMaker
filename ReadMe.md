@@ -2,7 +2,7 @@
 A Python script that creates location files for Celestia in SSC format from [Gazetteer of Planetary Nomenclature](https://planetarynames.wr.usgs.gov/) database.
 
 ## How to use it?
-You need Python 3.6 or higher (due to f-strings) and probably Windows (not tested on other platforms). The script doesn't require an Internet connection because the [database](data/SearchResults) is preloaded.
+You need Python 3.6 or higher (due to f-strings) and probably Windows (not tested on other platforms). The script doesn't require installing additional libraries or an Internet connection because the [database](data/SearchResults) is preloaded.
 
 Run [clm.py](clm.py), select output type, target and file name. Done. In case of problems, the tool will notify you.
 
@@ -21,7 +21,4 @@ Run [clm.py](clm.py), select output type, target and file name. Done. In case of
 3. Choose `Output Format` as `TSV`;
 4. Do `Search` and save the file.
 
-The last update was on December 3, 2020.
-
-## Roadmap
-- It is possible to create an algorithm that will determine the height of a location using an elevation map. This is important for non-ellipsoidal bodies such as Vesta.
+The last update was on January 11, 2021.

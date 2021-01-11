@@ -1,0 +1,6330 @@
+# 700 locations on Amalthea, Thebe, Io, Europa, Ganymede and Callisto.
+
+# SSC-file author: CLM tool by Askaniy.
+
+# Date of creation: 11.01.2021
+# Last update: 11.01.2021
+
+
+# 4 locations on Amalthea.
+
+# Approval date: 1979; Last update: 9/10/14
+# Origin: Greek mother earth goddess who brought Zeus to Crete.
+Location "Gaea" "Sol/Jupiter/Amalthea"
+{
+	LongLat	[ 270 -80 0 ]
+	Size	80
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 9/10/14
+# Origin: Greek; mountain where Zeus played as a child.
+Location "Ida Facula" "Sol/Jupiter/Amalthea"
+{
+	LongLat	[ 185 20 0 ]
+	Size	50
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1979; Last update: 9/10/14
+# Origin: Greek; area in Crete where Zeus was raised.
+Location "Lyctos Facula" "Sol/Jupiter/Amalthea"
+{
+	LongLat	[ 190 -20 0 ]
+	Size	25
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1979; Last update: 9/10/14
+# Origin: Greek; goat-god, son of Amalthea and Hermes in some legends, also Zeus' foster brother.
+Location "Pan" "Sol/Jupiter/Amalthea"
+{
+	LongLat	[ 325 55 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+
+# 1 locations on Thebe.
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Husband of Thebe in Greek myths.
+Location "Zethus" "Sol/Jupiter/Thebe"
+{
+	LongLat	[ 185 10 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+
+# 224 locations on Io.
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Chickasaw fire and sun god.
+Location "Ababinili Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 217.83 12.78 0 ]
+	Size	103.63
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Japanese fire god.
+Location "Acala Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 25.4 9.03 0 ]
+	Size	415.32
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Hindu god of fire.
+Location "Agni Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 26.91 -40.78 0 ]
+	Size	19.7
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Mayan thunder god.
+Location "Ah Peku Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 253.02 10.36 0 ]
+	Size	84.91
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Irish creator of fire.
+Location "Aidne Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 182.89 -1.76 0 ]
+	Size	29.8
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Australian sky god whose voice is thunder.
+Location "Altjirra Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 251.18 -34.4 0 ]
+	Size	60.27
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Japanese sun goddess.
+Location "Amaterasu Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 53.45 38.21 0 ]
+	Size	95.27
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Georgian god of fire.
+Location "Amirani" "Sol/Jupiter/Io"
+{
+	LongLat	[ 244.82 25.02 0 ]
+	Size	415.23
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Dakota name meaning the sun.
+Location "Angpetu Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 351.15 -21.18 0 ]
+	Size	18.5
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; name for Epaphus, son of Io and Zeus.
+Location "Apis Tholus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 12.3 -11.92 0 ]
+	Size	199.16
+	Type	"TH"	# Tholus, tholi
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Armenian thunder god.
+Location "Aramazd Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 23.39 -73.57 0 ]
+	Size	69.33
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Where Io was captured by Zeus.
+Location "Argos Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 42.19 -47.9 0 ]
+	Size	170.7
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Hittite sun goddess.
+Location "Arinna Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 210.81 31.63 0 ]
+	Size	121.66
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Hindu god of the rising sun.
+Location "Arusha Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 258.51 -38.99 0 ]
+	Size	69.51
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Persian spirit of fire.
+Location "Asha Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 134.42 -8.84 0 ]
+	Size	117.97
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Iranian personification of fire.
+Location "Ātar Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 81.35 30.87 0 ]
+	Size	80.01
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Egyptian sun god.
+Location "Aten Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 50.03 -48.45 0 ]
+	Size	48.84
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Sumerian; sun god.
+Location "Babbar Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 88.41 -39.81 0 ]
+	Size	110.34
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Io passed through this area of ancient Iran in her wanderings.
+Location "BACTRIA REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 236.47 -48.25 0 ]
+	Size	663.1
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Norse god of light.
+Location "Balder Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 203.84 11.46 0 ]
+	Size	36.95
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic fire and sun god.
+Location "Belenus Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 202.27 2.93 0 ]
+	Size	22.13
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Chibcha sky god.
+Location "Bochica Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 341.12 -61.5 0 ]
+	Size	54.14
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Cave where Io bore Epaphus.
+Location "Boösaule Montes" "Sol/Jupiter/Io"
+{
+	LongLat	[ 90.89 -3.75 0 ]
+	Size	540
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: "Ford of the Cow"; Io wandered through here while trying to escape from the gadfly.
+Location "BOSPHORUS REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 239.43 -2.3 0 ]
+	Size	1607.21
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2006; Last update: 5/15/10
+# Origin: Hot sulfur spring, the water of which sinful women were permitted to use in "The Inferno."
+Location "BULICAME REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 170.06 34.79 0 ]
+	Size	514.24
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Aztec thunder, tornado, and war god.
+Location "Camaxtli Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 223.2 15.28 0 ]
+	Size	55.99
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: The great blasphemer in Dante's "The Inferno."
+Location "Capaneus Mensa" "Sol/Jupiter/Io"
+{
+	LongLat	[ 238.6 -16.82 0 ]
+	Size	288.08
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Bolivian legendary hero who received fire from an owl.
+Location "Carancho Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 42.72 1.52 0 ]
+	Size	30.61
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Inca god of thunder and lightning.
+Location "Cataquil Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 343.34 -24.21 0 ]
+	Size	117.66
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Etruscan sun god.
+Location "Catha Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 258.42 -53.72 0 ]
+	Size	65.71
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Io passed by these mountains while trying to escape from the gadfly.
+Location "Caucasus Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 121.52 -31.95 0 ]
+	Size	146.6
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Mayan thunder and rain god.
+Location "Chaac Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 202.56 11.96 0 ]
+	Size	95.55
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Io passed through here in her wanderings.
+Location "CHALYBES REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 275.33 56.88 0 ]
+	Size	760.29
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2006; Last update: 12/30/08
+# Origin: Slavic sun god.
+Location "Chors Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 110.09 68.42 0 ]
+	Size	68.92
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Io passed through this part of Asia Minor in her wanderings.
+Location "COLCHIS REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 151.58 2.47 0 ]
+	Size	2860
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Celtic smith god.
+Location "Creidne Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 17.45 -53.31 0 ]
+	Size	168.66
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Where Io passed by in her wanderings.
+Location "Crimea Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 116.65 -75.4 0 ]
+	Size	138.56
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Australian snake demon whose growl is thunder.
+Location "Cuchi Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 215.35 -0.83 0 ]
+	Size	74.14
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Celtic smith god.
+Location "Culann Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 199.89 -19.88 0 ]
+	Size	28.85
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek hero, smith; father of Icarus.
+Location "Daedalus Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 85.69 19.5 0 ]
+	Size	74.67
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Where Io passed by in her wanderings.
+Location "Danube Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 101.99 -22.58 0 ]
+	Size	248.03
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 1979; Last update: 12/30/08
+# Origin: Slavonic sun god.
+Location "Dazhbog Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 58.48 55.13 0 ]
+	Size	118.85
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Sumerian sun god; means "shining".
+Location "Dingir Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 18.61 -4.12 0 ]
+	Size	48.26
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Greek; where Io went after the death of Argus.
+Location "Dodona Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 11.77 -59.07 0 ]
+	Size	515
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Teutonic god of thunder.
+Location "Donar Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 173.01 20.29 0 ]
+	Size	436.36
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Region in ancient Greece.
+Location "Dorian Montes" "Sol/Jupiter/Io"
+{
+	LongLat	[ 163.31 -25.1 0 ]
+	Size	566.21
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Nabataean sun god.
+Location "Dusura Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 240.97 37.53 0 ]
+	Size	65.62
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Mother of Iynx.
+Location "Echo Mensa" "Sol/Jupiter/Io"
+{
+	LongLat	[ 5.47 -79.92 0 ]
+	Size	205.05
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Io ended her wanderings here.
+Location "Egypt Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 103.03 -41.56 0 ]
+	Size	218.54
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Basque sun goddess.
+Location "Ekhi Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 271.51 -28.36 0 ]
+	Size	51.68
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Sulca (New Britain) man who brought fire.
+Location "Emakong Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 240.15 -3.37 0 ]
+	Size	77.42
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: "Child of touch," son of Io and Zeus.
+Location "Epaphus Mensa" "Sol/Jupiter/Io"
+{
+	LongLat	[ 120.05 -53.05 0 ]
+	Size	126.26
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Hittite sun god.
+Location "Estan Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 272.41 21.53 0 ]
+	Size	95.6
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Where Io passed by in her wanderings.
+Location "Ethiopia Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 335.55 -45.48 0 ]
+	Size	328.01
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 1985; Last update: 11/17/08
+# Origin: Where Io passed by in her wanderings.
+Location "Euboea Fluctūs" "Sol/Jupiter/Io"
+{
+	LongLat	[ 8.9 -44.87 0 ]
+	Size	113
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Where Io passed by in her wanderings.
+Location "Euboea Montes" "Sol/Jupiter/Io"
+{
+	LongLat	[ 24.22 -47.94 0 ]
+	Size	274.91
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Io passed by here in her wanderings.
+Location "Euxine Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 233.56 26.32 0 ]
+	Size	282.13
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse thunder god.
+Location "Fjorgynn Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 1.2 10.92 0 ]
+	Size	413.84
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Chinese fire and sun god.
+Location "Fo Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 168.75 41.78 0 ]
+	Size	104.37
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Ainu fire goddess.
+Location "Fuchi Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 32.4 28.41 0 ]
+	Size	66.44
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Lithuanian fire and household goddess.
+Location "Gabija Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 157.47 -51.9 0 ]
+	Size	50.6
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Mongol fire god.
+Location "Galai Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 71.9 -10.8 0 ]
+	Size	122.02
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Sumerian fire god.
+Location "Gibil Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 65.41 -14.91 0 ]
+	Size	107.63
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Babylonian fire god.
+Location "Girru Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 120 22.83 0 ]
+	Size	67.32
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Babylonian sun god.
+Location "Gish Bar Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 271.05 18.5 0 ]
+	Size	218.54
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Babylonian sun god.
+Location "Gish Bar Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 269.7 16.18 0 ]
+	Size	117.13
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Gaulish sun god.
+Location "Grannos Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 214.66 11.17 0 ]
+	Size	43.56
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: Jul 3, 2007; Last update: 7/3/07
+# Origin: Celtic solar goddess.
+Location "Grian Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 348.15 -11.3 0 ]
+	Size	87.8
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Where Io passed by in her wanderings.
+Location "Haemus Montes" "Sol/Jupiter/Io"
+{
+	LongLat	[ 313.39 -70.12 0 ]
+	Size	331.26
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Sioux thunder god.
+Location "Haokah Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 173.37 -20.85 0 ]
+	Size	52.04
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Yaroro (Slavic) god who, in form of a boy, gave fire to mankind.
+Location "Hatchawa Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 328.03 -59.51 0 ]
+	Size	85.3
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Bushman devil who represents fire.
+Location "Heiseb Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 115.51 29.95 0 ]
+	Size	78.48
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Iroquois god of thunder.
+Location "Heno Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 48.36 -57.09 0 ]
+	Size	71.65
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek smith god.
+Location "Hephaestus Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 70.22 1.85 0 ]
+	Size	40.59
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Freed Io from Argus.
+Location "Hermes Mensa" "Sol/Jupiter/Io"
+{
+	LongLat	[ 113.66 -43.65 0 ]
+	Size	133.3
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Sister of Hawaiian volcano goddess Pele.
+Location "Hi'iaka Montes" "Sol/Jupiter/Io"
+{
+	LongLat	[ 278.04 -4.68 0 ]
+	Size	500
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Sister of Pele.
+Location "Hi'iaka Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 280.52 -3.55 0 ]
+	Size	141.96
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Japanese sun god.
+Location "Hiruko Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 31.13 -65.09 0 ]
+	Size	92.83
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Egyptian falcon-headed solar god.
+Location "Horus Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 22.63 -9.91 0 ]
+	Size	165.14
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Chinese god of fire.
+Location "Huo Shen Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 29.7 -16.69 0 ]
+	Size	182.7
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Where Io passed by in her wanderings.
+Location "Hybristes Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 341.63 -54.39 0 ]
+	Size	195.84
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Io passed by here in her wanderings.
+Location "ILLYRIKON REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 182.23 -70.88 0 ]
+	Size	1000.51
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Finnish blacksmith with supernatural creative powers.
+Location "Ilmarinen Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 358.8 -14.41 0 ]
+	Size	39.79
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; river god, father of Io.
+Location "Inachus Tholus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 12.35 -16.21 0 ]
+	Size	178.93
+	Type	"TH"	# Tholus, tholi
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Inca sun god.
+Location "Inti Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 12.5 -68.37 0 ]
+	Size	76.26
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Io crossed this sea in her wanderings.
+Location "Ionian Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 123.76 9.04 0 ]
+	Size	193.33
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Town where Io was worshipped as moon goddess (present-day Antioch).
+Location "Iopolis Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 27.29 -35.29 0 ]
+	Size	234.69
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Assyrian fire god.
+Location "Isum Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 151.47 29.86 0 ]
+	Size	59.13
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Mayan sun, sky, wind and rain god.
+Location "Itzamna Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 260.82 -15.81 0 ]
+	Size	142.46
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Cast a spell on Zeus so he fell in love with Io.
+Location "Iynx Mensa" "Sol/Jupiter/Io"
+{
+	LongLat	[ 56 -62.28 0 ]
+	Size	116.97
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Italian sun god.
+Location "Janus Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 320.98 -4.56 0 ]
+	Size	53.22
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Japanese god of rolling thunder.
+Location "Kami-Nari Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 124.91 -8.82 0 ]
+	Size	36.22
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Hawaiian thunder god.
+Location "Kanehekili" "Sol/Jupiter/Io"
+{
+	LongLat	[ 326.64 -17.46 0 ]
+	Size	100
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Hawaiian thunder god.
+Location "Kanehekili Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 326.63 -17.18 0 ]
+	Size	258.69
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Hawaiian god of sunlight.
+Location "Kane Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 348.25 -48.42 0 ]
+	Size	132.22
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 5/15/10
+# Origin: Semangan (Malay Peninsula) thunder god.
+Location "Karei Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 346.83 0.2 0 ]
+	Size	35.37
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Persian blacksmith.
+Location "Kava Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 18.59 -16.82 0 ]
+	Size	63
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Bushman sun in form of man often referred to as the hunter.
+Location "Khalla Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 56.73 6.18 0 ]
+	Size	95.79
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Yaroro toad who lives in underworld giving mankind fire.
+Location "Kibero Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 54.89 -11.83 0 ]
+	Size	63.13
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Mayan sun god.
+Location "Kinich Ahau Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 49.75 49.35 0 ]
+	Size	44.26
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 12/30/08
+# Origin: Ossetian celestial smith.
+Location "Kurdalagon Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 141.77 -50.57 0 ]
+	Size	81.12
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Bornean hero who invented fire.
+Location "Laki-oi Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 301.64 -40 0 ]
+	Size	58.4
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Chinese thunder god.
+Location "Lei-Kung Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 153.56 40.13 0 ]
+	Size	347.45
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Chinese goddess of thunder.
+Location "Lei-zi Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 315.07 13.48 0 ]
+	Size	176.92
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; meadows of Lyrcea.
+Location "LERNA REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 67.92 -61.8 0 ]
+	Size	580.94
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Celtic sun god.
+Location "Llew Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 117.66 12.16 0 ]
+	Size	73.29
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse blacksmith, trickster god.
+Location "Loki" "Sol/Jupiter/Io"
+{
+	LongLat	[ 57.42 18.41 0 ]
+	Size	200
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse blacksmith, trickster god.
+Location "Loki Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 51.21 13.01 0 ]
+	Size	226.57
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Stove fire associated with Chinese god of the hearth fire.
+Location "Lu Huo Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 6.9 -38.56 0 ]
+	Size	66.62
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Plain where Io was born.
+Location "Lyrcea Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 90.57 -41.99 0 ]
+	Size	424.95
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Hopi (USA) god of fire and death.
+Location "Maasaw Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 20.89 -40.28 0 ]
+	Size	44.07
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Hawaiian demigoddess whose fingers held fire.
+Location "Mafuike Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 100.58 -13.58 0 ]
+	Size	153.93
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Babylonian, Caananite sun god.
+Location "Malik Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 230.34 -34.15 0 ]
+	Size	117.85
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Chagaba (Chibcha, Colombia) word for sun.
+Location "Mama Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 4.67 -11.29 0 ]
+	Size	13.84
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Hawaiian sun god.
+Location "Manua Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 38.18 35.91 0 ]
+	Size	111.45
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Sumero-Akkadian fire god.
+Location "Marduk" "Sol/Jupiter/Io"
+{
+	LongLat	[ 150.1 -29.64 0 ]
+	Size	370.15
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Sumero-Akkadian fire god.
+Location "Marduk Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 148.67 -26.8 0 ]
+	Size	200
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Nicaraguan smith god.
+Location "Masaya Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 15.42 -22.62 0 ]
+	Size	61.86
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Japanese fire god.
+Location "Masubi" "Sol/Jupiter/Io"
+{
+	LongLat	[ 302.7 -50.29 0 ]
+	Size	509.1
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Japanese fire god.
+Location "Masubi Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 302.23 -50.89 0 ]
+	Size	499.94
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Hawaiian demigod who sought fire from Mafuike.
+Location "Maui" "Sol/Jupiter/Io"
+{
+	LongLat	[ 237.72 19.69 0 ]
+	Size	109.89
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Hawaiian demigod who sought fire from Mafuike.
+Location "Maui Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 235.77 16.61 0 ]
+	Size	38.12
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Babylonian sun god.
+Location "Mazda Paterae" "Sol/Jupiter/Io"
+{
+	LongLat	[ 46.99 -8.2 0 ]
+	Size	223
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Pygmy word representing fire itself.
+Location "Mbali Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 355.04 -31.43 0 ]
+	Size	49.8
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Io passed through this part of Iran in her wanderings.
+Location "MEDIA REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 300.1 10.62 0 ]
+	Size	2627.92
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Mandan (USA) name for the sun.
+Location "Menahka Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 15.16 -31.34 0 ]
+	Size	19.23
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Egyptian god of the rising sun.
+Location "Mentu Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 220.61 7.01 0 ]
+	Size	101.65
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Algonquin lord of eastern light, thunder, and wind.
+Location "Michabo Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 192.44 1.13 0 ]
+	Size	96.7
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Armenian fire god.
+Location "Mihr Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 54.58 -16.46 0 ]
+	Size	58.71
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Persian god of light.
+Location "Mithra Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 93.52 -59.04 0 ]
+	Size	32.16
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Brazilian god who destroyed the world with fire and flood.
+Location "Monan Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 255.8 15.54 0 ]
+	Size	293.77
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Brazilian god who destroyed the world with fire and flood.
+Location "Monan Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 255.19 19.82 0 ]
+	Size	137.49
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Name for Mt. Etna, site of Vulcan's forge in Dante's "The Inferno." Thunderbolts from here killed Capaneus, the great blasphemer.
+Location "Mongibello Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 292.95 22.67 0 ]
+	Size	214.57
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: African thunder god.
+Location "Mulungu Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 142.12 17.29 0 ]
+	Size	64.78
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; in some legends, Io was transformed there.
+Location "MYCENAE REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 195.05 -36.6 0 ]
+	Size	594.01
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Australian "lightening man" who made lightening and thunder by striking clouds with stone axes attached to his elbows and knees.
+Location "Namarrkun Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 184.48 10.06 0 ]
+	Size	17.02
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Greek; where Io was turned into a cow by Zeus and given to Hera.
+Location "Nemea Planum" "Sol/Jupiter/Io"
+{
+	LongLat	[ 94.18 -72.33 0 ]
+	Size	888.5
+	Type	"PM"	# Planum, plana
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Where Zeus restored Io to her human form.
+Location "Nile Montes" "Sol/Jupiter/Io"
+{
+	LongLat	[ 109.54 53.65 0 ]
+	Size	417
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Inca fire god.
+Location "Nina Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 197.37 -38.15 0 ]
+	Size	43.51
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Babylonian god of the spring sun.
+Location "Ninurta Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 44.81 -16.79 0 ]
+	Size	82.86
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Assyrian fire god.
+Location "Nusku Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 356.39 -64.96 0 ]
+	Size	127.99
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Zambezi sun god.
+Location "Nyambe Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 16.84 0.32 0 ]
+	Size	56.64
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Mongolian fire and marriage goddess.
+Location "Ot Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 144.24 4.28 0 ]
+	Size	167.38
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Mongolian fire and marriage goddess.
+Location "Ot Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 142.62 -1.14 0 ]
+	Size	50.07
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 11/17/08
+# Origin: Saami-Lapp sun god.
+Location "Päive Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 1.45 -45.69 0 ]
+	Size	57.42
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Father of Iynx.
+Location "Pan Mensa" "Sol/Jupiter/Io"
+{
+	LongLat	[ 329.14 -51.8 0 ]
+	Size	287.48
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Hopi (USA) name for the sun.
+Location "Pautiwa Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 14.41 -34.2 0 ]
+	Size	7.52
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Hawaiian goddess of the volcano.
+Location "Pele" "Sol/Jupiter/Io"
+{
+	LongLat	[ 104.72 -18.71 0 ]
+	Size	200
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Araucanian thunder, fire, and volcano god.
+Location "Pillan Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 114.59 -8.02 0 ]
+	Size	201.09
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Araucanian thunder, fire, and volcano god.
+Location "Pillan Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 116.71 -12.3 0 ]
+	Size	68.92
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 12/30/08
+# Origin: Tungu spirit who keeps the fire.
+Location "Podja Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 55.25 -18.5 0 ]
+	Size	69.61
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Greek fire god.
+Location "Prometheus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 206.06 -1.52 0 ]
+	Size	438.79
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Greek fire god.
+Location "Prometheus Mensa" "Sol/Jupiter/Io"
+{
+	LongLat	[ 207.83 -2.49 0 ]
+	Size	178.7
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: Jul 3, 2007; Last update: 7/3/07
+# Origin: Greek fire god.
+Location "Prometheus Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 207.59 -0.64 0 ]
+	Size	28.27
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 12/30/08
+# Origin: Mordvinian (Russia) thunder god.
+Location "Purgine Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 62.74 -2.37 0 ]
+	Size	18.48
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Slavonic god of thunder.
+Location "Pyerun Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 108.94 -55.65 0 ]
+	Size	56.93
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: West Slavic maker of thunder and lightning.
+Location "Radegast Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 200.01 -27.81 0 ]
+	Size	25.75
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Egyptian sun god.
+Location "Ra Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 35.18 -8.59 0 ]
+	Size	41.19
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Czech fire deity.
+Location "Rarog Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 55.7 -41.63 0 ]
+	Size	102.94
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 12/1/10
+# Origin: Māori sun hero.
+Location "Rata Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 158.74 -36.4 0 ]
+	Size	167.87
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 12/1/10
+# Origin: Māori sun hero.
+Location "Rata Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 160.31 -35.6 0 ]
+	Size	47.33
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Japanese thunder god.
+Location "Reiden Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 124.53 -13.3 0 ]
+	Size	77.67
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Phoenician god of lightning, sun, and thunder.
+Location "Reshef Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 201.95 27.7 0 ]
+	Size	59.18
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Aramaic sun god.
+Location "Reshet Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 54.38 0.79 0 ]
+	Size	146.07
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2003; Last update: 5/15/10
+# Origin: Polynesian god who causes earthquakes and volcanoes.
+Location "Ruaumoko Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 220.26 14.72 0 ]
+	Size	18.28
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: African sun god associated Mt. Kilimanjaro.
+Location "Ruwa Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 358.35 0.2 0 ]
+	Size	51.39
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Hindu sun god.
+Location "Savitr Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 236.81 48.51 0 ]
+	Size	104.8
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 11/17/08
+# Origin: Phoenician chariot rider of the Sun.
+Location "Sêd Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 56.28 -2.94 0 ]
+	Size	55.12
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 5/15/10
+# Origin: Japanese; deity of Mt. Fujiyama.
+Location "Sengen Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 56.21 -32.86 0 ]
+	Size	65.99
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Etruscan celestial smith.
+Location "Sethlaus Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 166.13 -52.29 0 ]
+	Size	74.54
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Egyptian thunder god.
+Location "Seth Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 225.87 -10.76 0 ]
+	Size	128.02
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Egyptian thunder god.
+Location "Seth Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 227.97 -5.31 0 ]
+	Size	18.48
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Pawnee (USA) sun god of the East; gives light and heat.
+Location "Shakuru Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 94.1 24 0 ]
+	Size	110.22
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Assyro-Babylonian sun god.
+Location "Shamash Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 207.47 -35.49 0 ]
+	Size	112.98
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Arabian sun goddess.
+Location "Shamshu Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 288.59 -12.04 0 ]
+	Size	210
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Arabian sun goddess.
+Location "Shamshu Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 296.83 -9.95 0 ]
+	Size	107.12
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Yoruba thunder god.
+Location "Shango Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 259.49 32.46 0 ]
+	Size	90.8
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Caucasian patron of fire.
+Location "Shoshu Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 35.29 -20.38 0 ]
+	Size	23.24
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse sun hero.
+Location "Sigurd Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 261.95 -5.77 0 ]
+	Size	52.87
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Greek; where Io dies of grief in some legends.
+Location "Silpium Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 87.65 -52.62 0 ]
+	Size	114.5
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Nanai (Siberia) sun god.
+Location "Siun Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 359.68 -49.75 0 ]
+	Size	52.49
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Io passed by here in her wanderings.
+Location "Skythia Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 262.19 26.33 0 ]
+	Size	249.62
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Haitian voodoo thunder spirit.
+Location "Sobo Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 209.24 14.03 0 ]
+	Size	44.78
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: One of the Greek Cyclops who created thunderbolts for Zeus.
+Location "Steropes Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 221.08 15.5 0 ]
+	Size	27.74
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Chinese hero who discovered fire.
+Location "Sui Jen Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 357.44 -19.14 0 ]
+	Size	28.01
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Icelandic volcano god.
+Location "Surt" "Sol/Jupiter/Io"
+{
+	LongLat	[ 22.79 45.37 0 ]
+	Size	50
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Hindu sun god.
+Location "Surya Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 208.64 21.53 0 ]
+	Size	55.77
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Japanese storm and thunder god.
+Location "Susanoo Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 140.25 22.46 0 ]
+	Size	55.22
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Russian smith god.
+Location "Svarog Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 94.35 -48.51 0 ]
+	Size	124.39
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1982; Last update: 8/6/12
+# Origin: Nephew of Daedalus; also a blacksmith.
+# Additional info: Name changed from Talos Patera to Talos Paterae August 3, 2012.
+Location "Talos Paterae" "Sol/Jupiter/Io"
+{
+	LongLat	[ 5.24 -26.35 0 ]
+	Size	28
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 4/9/09
+# Origin: Celtic thunder god.
+Location "Taranis Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 332.03 -71.12 0 ]
+	Size	95.76
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Io passed through here in her wanderings.
+Location "TARSUS REGIO" "Sol/Jupiter/Io"
+{
+	LongLat	[ 306.6 -36.69 0 ]
+	Size	1498.59
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2000; Last update: 12/1/10
+# Origin: Māori lightening god.
+Location "Tawhaki Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 283.79 3.39 0 ]
+	Size	47.42
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 12/1/10
+# Origin: Māori lightning god.
+Location "Tawhaki Vallis" "Sol/Jupiter/Io"
+{
+	LongLat	[ 287.24 0.31 0 ]
+	Size	165.67
+	Type	"VA"	# Vallis, valles
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Monguor word for fire or hearth.
+Location "Taw Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 1.63 -33.65 0 ]
+	Size	7.04
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Egyptian king whom Io married.
+Location "Telegonus Mensae" "Sol/Jupiter/Io"
+{
+	LongLat	[ 244.63 -52.37 0 ]
+	Size	329.5
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Chibcha storm god, a terrifying fire spirit who flew through the air changing men into animals.
+Location "Thomagata Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 194.03 25.65 0 ]
+	Size	55.2
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Norse god of thunder.
+Location "Thor" "Sol/Jupiter/Io"
+{
+	LongLat	[ 226.88 39.2 0 ]
+	Size	240.3
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Chinese Mother-Lightening.
+Location "Tien Mu Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 225.66 12.31 0 ]
+	Size	26.71
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Lapp thunder god.
+Location "Tiermes Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 9.85 22.29 0 ]
+	Size	112.56
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Central American god who gave fire to man.
+Location "Tohil Mons" "Sol/Jupiter/Io"
+{
+	LongLat	[ 198.43 -28.42 0 ]
+	Size	433.44
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Central American god who gave fire to man.
+Location "Tohil Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 201.91 -26.25 0 ]
+	Size	126.46
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 12/30/08
+# Origin: Mordvinian (Russia) goddess of fire.
+Location "Tol-Ava Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 37.96 1.75 0 ]
+	Size	87.22
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2003; Last update: 11/17/08
+# Origin: Hottentot (southern Africa) supreme being, associated with thunder.
+Location "Tsũi Goab Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 196.55 -1.27 0 ]
+	Size	111.38
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 2003; Last update: 11/17/08
+# Origin: Hottentot (southern Africa) supreme being, associated with thunder.
+Location "Tsũi Goab Tholus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 197.05 -0.18 0 ]
+	Size	48.54
+	Type	"TH"	# Tholus, tholi
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Chinese fire god.
+Location "Tung Yo Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 3.49 -17.32 0 ]
+	Size	457.95
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Chinese fire god.
+Location "Tung Yo Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 359.05 -18 0 ]
+	Size	49.59
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Thunder god of the Tupi-Guarani Indians of Brazil.
+Location "Tupan Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 218.85 -18.68 0 ]
+	Size	78.55
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Indian sun god and smith who forged the thunderbolt of the thunder god Indra.
+Location "Tvashtar Mensae" "Sol/Jupiter/Io"
+{
+	LongLat	[ 240.06 61.6 0 ]
+	Size	293
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Indian sun god and smith who forged the thunderbolt of the thunder god Indra. 
+Location "Tvashtar Paterae" "Sol/Jupiter/Io"
+{
+	LongLat	[ 236.47 62.76 0 ]
+	Size	305
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Finnish thunder god.
+Location "Ukko Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 341.52 30.82 0 ]
+	Size	36.03
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 12/30/08
+# Origin: Siberian progenitor god who struck first fire.
+Location "Ülgen Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 72.78 -40.74 0 ]
+	Size	49.81
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Sumerian sun god.
+Location "Uta Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 343.86 -33.12 0 ]
+	Size	366.67
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Sumerian sun god.
+Location "Uta Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 337.48 -35.86 0 ]
+	Size	33.84
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Armenian fire god.
+Location "Vahagn Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 9.27 -24.19 0 ]
+	Size	95.24
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Qechua sun god.
+Location "Viracocha Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 79.93 -61.75 0 ]
+	Size	60.61
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Hindu god of the morning sun.
+Location "Vivasvant Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 66.48 75.59 0 ]
+	Size	98.67
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 4/9/09
+# Origin: Germanic supreme smith of the gods.
+Location "Volund" "Sol/Jupiter/Io"
+{
+	LongLat	[ 188.25 29.33 0 ]
+	Size	427.26
+	Type	"ER"	# Eruptive center
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Potawatomi (north central U.S.) sun god.
+Location "Wabasso Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 193.35 -22.89 0 ]
+	Size	30.6
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Anglo-Saxon legendary smith.
+Location "Wayland Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 134.17 -32.55 0 ]
+	Size	94.47
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Hebrew sun god at Gaza.
+Location "Yaw Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 227.66 9.62 0 ]
+	Size	36.55
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Iranian sun god.
+Location "Zal Montes" "Sol/Jupiter/Io"
+{
+	LongLat	[ 282.82 38.43 0 ]
+	Size	436
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Iranian sun god.
+Location "Zal Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 285.54 40.14 0 ]
+	Size	168.11
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Babylonian sun, corn, and war god.
+Location "Zamama" "Sol/Jupiter/Io"
+{
+	LongLat	[ 187.71 18.7 0 ]
+	Size	198
+	Type	"ER"	# Eruptive center
+}
+
+
+# 121 locations on Europa.
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; son of Phoenix, nephew of Europa.
+Location "Adonis Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 237.4 -61 0 ]
+	Size	1560
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Daughter of Harmonia and Cadmus.
+Location "Agave Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 86.9 12.8 0 ]
+	Size	1440
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Europa's father.
+Location "Agenor Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 146.5 -43.8 0 ]
+	Size	1496
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Celtic goddess of love and fertility.
+Location "Áine" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 182.5 -43 0 ]
+	Size	5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Son of Phoenix, nephew of Europa.
+Location "Alphesiboea Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 184.1 -25.1 0 ]
+	Size	1438
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Celtic god of agriculture.
+Location "Amaethon" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 182.53 13.82 0 ]
+	Size	1.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Legendary Irish druid and poet.
+Location "Amergin" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 129.4 -14.7 0 ]
+	Size	17
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Son of Minos in Greek mythology.
+Location "Androgeos Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 80.7 11.7 0 ]
+	Size	723
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Beautiful Celtic god of love.
+Location "Angus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 284.9 -12.6 0 ]
+	Size	4.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 11, 2007; Last update: 5/11/07
+# Origin: Traditional name of the Welsh Otherworld where sparkling wine is the normal beverage, and age and sickness are unknown.
+Location "ANNWN REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 40 20 0 ]
+	Size	2300
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2003; Last update: 3/8/07
+# Origin: In Celtic mythology, one of the islands of Earthly paradise seen during Bran's voyage.
+Location "ARGADNEL REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 151.5 -14.6 0 ]
+	Size	1900
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; another name for Telephassa.
+Location "Argiope Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 164.4 -1.7 0 ]
+	Size	689
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: Aug 23, 2007; Last update: 11/17/08
+# Origin: Island where Manannán had a palace.
+Location "Arran Chaos" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 279.5 13.4 0 ]
+	Size	26
+	Type	"CH"	# Chaos, chaoses
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Europa's husband after Zeus.
+Location "Asterius Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 89.2 14.9 0 ]
+	Size	1943
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Sister of Europa.
+Location "Astypalaea Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 147.9 -75.8 0 ]
+	Size	817
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Daughter of Harmonia and Cadmus in Greek mythology.
+Location "Autonoë Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 194.9 18.2 0 ]
+	Size	760
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic storm deity, ill-fated son of Tegid the Bald.
+Location "Avagddu" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 190.5 1.4 0 ]
+	Size	10
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 11, 2007; Last update: 11/17/08
+# Origin: In Celtic mythology, pass to which the Tuatha Dé Dannan retreated before the battle with the Fir Bolgs.
+Location "BALGATAN REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 330 -50 0 ]
+	Size	2500
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic god of the night whose evil eye caused the death of those on whom it glanced.
+Location "Balor" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 262.2 -52.8 0 ]
+	Size	4.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Stone row in County Cork, Ireland.
+Location "Beenalaght Fossa" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 277.92 1.2 0 ]
+	Size	882
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Celtic sun god, equated with Apollo in that character; found mainly in Aquileia (now at NE Italy).
+Location "Belenos Mensa" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 284.92 42.75 0 ]
+	Size	34
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Agenor's twin brother.
+Location "Belus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 128.6 9.3 0 ]
+	Size	2437
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Place where Cadmus led cow before it stopped at site of Thebes.
+Location "Boeotia Macula" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 193.2 -53.6 0 ]
+	Size	30
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Romano-Celtic (Gallic) god of healing identified with several therapeutic springs and mineral baths.
+Location "Borvo Mensa" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 134.69 -0.45 0 ]
+	Size	49.72
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Beautiful son of Elatha in Celtic mythology.
+Location "Bress" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 261.34 37.64 0 ]
+	Size	10
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic goddess of healing, smiths, fertility and poetry.
+Location "Brigid" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 278.7 10.8 0 ]
+	Size	9.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in England.
+Location "Butterdon Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 359.9 -44.7 0 ]
+	Size	1900
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; brother of Europa.
+Location "Cadmus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 168.3 38.7 0 ]
+	Size	3548
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Stone circle in the Outer Hebrides, Scotland.
+Location "Callanish" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 25.5 -16.7 0 ]
+	Size	107
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Gaelic war god.
+Location "Camulus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 278.9 -26.5 0 ]
+	Size	4.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Greek; spring where Cadmus, brother of Europa, killed the dragon.
+Location "Castalia Macula" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 134.3 -1.6 0 ]
+	Size	35
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Survivor of the men Cadmus sowed with dragon's teeth, a founder of Thebes.
+Location "Chthonius Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 55.8 -1.4 0 ]
+	Size	2180
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Land named for Cilix on his search for Europa.
+Location "Cilicia Flexus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 188.3 -59.5 0 ]
+	Size	1312
+	Type	"FE"	# Flexus, flexūs
+}
+
+# Approval date: 1985; Last update: 1/4/08
+# Origin: Brother of Europa.
+# Additional info: Defines 182 degrees longitude on Europa.
+Location "Cilix" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 178.1 2.6 0 ]
+	Size	15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic goddess of beauty who was lured asleep by music, then swept away by a great wave.
+Location "Cliodhna" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 283.6 -2.5 0 ]
+	Size	3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Rugged part of western Ireland named for Conmac, son of the Queen of Connacht.
+Location "Conamara Chaos" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 87.3 9.7 0 ]
+	Size	143.7
+	Type	"CH"	# Chaos, chaoses
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in Ireland.
+Location "Corick Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 341.7 17.8 0 ]
+	Size	1300
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Cormac Mac Art, High King of Ulster in Irish myths.
+Location "Cormac" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 271.9 -36.9 0 ]
+	Size	4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Islands where Rhadamanthys reigned.
+Location "Cyclades Macula" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 168.7 -62.5 0 ]
+	Size	107
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: One of the chief deities of the Tuatha de Danann in Irish mythology.
+Location "Dagda" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 191.26 37.35 0 ]
+	Size	9.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: The most beautiful woman in Irish myths.
+Location "Deirdre" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 152.7 -65.4 0 ]
+	Size	4.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Where the cow led Cadmus before it stopped at the site of Thebes.
+Location "Delphi Flexus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 185.9 -68.2 0 ]
+	Size	793
+	Type	"FE"	# Flexus, flexūs
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Handsome Irish mythological warrior, husband of Gráinne.
+Location "Diarmuid" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 258 -61.3 0 ]
+	Size	8.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in England.
+Location "Drizzlecomb Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 248.3 7.7 0 ]
+	Size	1500
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in Ireland.
+Location "Drumskinny Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 199 48.3 0 ]
+	Size	1375
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: May 11, 2007; Last update: 5/11/07
+# Origin: In Welsh mythology, the southwestern kingdom of Wales just east of Annwn, containing a mysterious realm.  
+Location "DYFED REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 110 10 0 ]
+	Size	1750
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic sea god.
+Location "Dylan" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 275.6 -55.3 0 ]
+	Size	5.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Survivor of the men Cadmus sowed with the dragon's teeth; a founder of Thebes.
+Location "Echion Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 174.8 -11.6 0 ]
+	Size	1026
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Stone row in County Kerry, Ireland.
+Location "Eightercua Fossa" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 19.29 6.68 0 ]
+	Size	407
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Handsome Celtic king, father of sun god Bres.
+Location "Elathan" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 280.2 -31.9 0 ]
+	Size	2.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: King of the Fir Bolgs in Celtic mythology.
+Location "Eochaid" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 126.67 -50.48 0 ]
+	Size	10.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: In Greek mythology, son of Europa and Poseidon who could walk on water.
+Location "Euphemus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 314.3 -11.4 0 ]
+	Size	1250
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: May 11, 2007; Last update: 5/11/07
+# Origin: In Celtic mythology, island where Midir had a stronghold.
+Location "FALGA REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 150 30 0 ]
+	Size	2500
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Son of Minos in Greek mythology.
+Location "Glaukos Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 129.1 57.8 0 ]
+	Size	1400
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Place on Crete where Zeus brought Europa.
+Location "Gortyna Flexus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 215.4 -42.1 0 ]
+	Size	940
+	Type	"FE"	# Flexus, flexūs
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: One of the Children of Don, a smith and brewer.
+Location "Govannan" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 57.2 -37.3 0 ]
+	Size	11.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Daughter of Cormac Mac Art, the mythical High King of Ulster, and wife of Diarmuid.
+Location "Gráinne" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 260.6 -59.7 0 ]
+	Size	13.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Romano-Celtic (Continental Europe) god of healing associated with medicinal hot springs and hot mineral waters.
+Location "Grannus Mensa" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 134.2 -2.51 0 ]
+	Size	42
+	Type	"MN"	# Mensa, mensae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Son of Branwen in Celtic mythology.
+Location "Gwern" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 15.46 9.14 0 ]
+	Size	22.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic poet, one of the children of the mother goddess Don.
+Location "Gwydion" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 278.4 -60.5 0 ]
+	Size	5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Wife of Cadmus.
+Location "Harmonia Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 188.3 28 0 ]
+	Size	1154
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Survivor of the men Cadmus sowed with dragon's teeth, a founder of Thebes.
+Location "Hyperenor Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 35.6 -12.1 0 ]
+	Size	2996
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Daughter of Harmonia and Cadmus.
+Location "Ino Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 185.4 -1.7 0 ]
+	Size	1515
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Son of Minos in Greek mythology.
+Location "Katreus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 146.7 -38.8 0 ]
+	Size	195
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in England.
+Location "Kennet Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 48 -41 0 ]
+	Size	3200
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Stone rows in France (Carnac, Brittany).
+Location "Kerlescan Fossae" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 121.76 3.34 0 ]
+	Size	410
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Stone rows in France (Carnac, Brittany).
+Location "Kermario Fossae" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 5.64 44.69 0 ]
+	Size	191
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Agenor's mother.
+Location "Libya Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 179 -54 0 ]
+	Size	366
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic sea god.
+Location "Llyr" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 138.2 -1.8 0 ]
+	Size	1.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Celtic god of carpentry.
+Location "Luchtar" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 102.43 -40.2 0 ]
+	Size	19.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 5/15/10
+# Origin: Irish omnicompetent god.
+Location "Lug" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 315.69 27.99 0 ]
+	Size	11
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Celtic hero.
+Location "Mael Dúin" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 162.1 -16.8 0 ]
+	Size	2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Mythological Irish queen of Connacht province.
+Location "Maeve" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 281.1 58.8 0 ]
+	Size	21.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/17/08
+# Origin: Irish sea and fertility god.
+Location "Manannán" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 120.3 3.1 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Celtic god of wealth and treasure.
+Location "Math" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 176.3 -25.6 0 ]
+	Size	10.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Stone row in County Cork, Ireland.
+Location "Maughanasilly Fossa" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 204.81 -34.24 0 ]
+	Size	920
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in Brittany, France.
+Location "Mehen Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 123.3 56 0 ]
+	Size	1500
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: Stone rows in France (Carnac, Brittany).
+Location "Ménec Fossae" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 182.13 -51.98 0 ]
+	Size	33
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in England.
+Location "Merrivale Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 60.5 -41 0 ]
+	Size	1600
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Gaelic fate and underworld deity.
+Location "Midir" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 21.25 3.65 0 ]
+	Size	37.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; son of Europa and Zeus.
+Location "Minos Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 164.8 47.2 0 ]
+	Size	2170
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Celtic; ugly son of Tegid.
+Location "Morvran" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 207.4 -4.9 0 ]
+	Size	15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 28, 2019; Last update: 5/28/19
+# Origin: In Celtic mythology, a cold sea where the children of Lir (Llyr), transformed into swans, were forced to spend three hundred years.
+Location "Moyle Cavus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 192 -25 0 ]
+	Size	145
+	Type	"CB"	# Cavus, cavi
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Location of battles between the Fomorians and the Tautha de Danann.
+Location "MOYTURA REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 65.7 -50 0 ]
+	Size	483
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2003; Last update: 11/17/08
+# Origin: One of the four great cities of the Tuatha Dé Danann (the people of the goddess Danu, the wizards) in Irish Celtic myths.
+Location "Murias Chaos" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 276.2 22.4 0 ]
+	Size	116
+	Type	"CH"	# Chaos, chaoses
+}
+
+# Approval date: Aug 23, 2007; Last update: 8/23/07
+# Origin: Chief court of Pwyll; he first saw his future wife Rhiannon at a nearby mound.
+Location "Narberth Chaos" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 87 -26 0 ]
+	Size	20
+	Type	"CH"	# Chaos, chaoses
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Golden-haired daughter of the Celtic sea and fertility god Manannán.
+Location "Niamh" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 143.1 21.1 0 ]
+	Size	5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Celtic god of eloquence and literature, a son of Dagda.
+Location "Ogma" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 72.14 87.45 0 ]
+	Size	5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Mythical Irish warrior, son of Fionn Mac Cumhail and Sadb.
+Location "Oisín" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 146.6 -52.3 0 ]
+	Size	6.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Phoenician name for Athene.
+Location "Onga Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 148.7 -38.7 0 ]
+	Size	870
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: King who sold Cadmus the cow with a white full moon on each flank.
+Location "Pelagon Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 186.4 35.5 0 ]
+	Size	616.7
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; survivor of the men Cadmus sowed with the dragon's teeth; a founder of Thebes.
+Location "Pelorus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 171.7 -19.8 0 ]
+	Size	1535
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; brother of Europa.
+Location "Phineus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 40.1 -29.8 0 ]
+	Size	2004
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Where the cow lead Cadmus before it stopped at the site of Thebes.
+Location "Phocis Flexus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 161.6 -44.5 0 ]
+	Size	242
+	Type	"FE"	# Flexus, flexūs
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Brother of Europa.
+Location "Phoenix Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 171.2 16.6 0 ]
+	Size	1621
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: May 11, 2007; Last update: 5/11/07
+# Origin: In Celtic mythology, ancient kingdom of mid-Wales.
+Location "POWYS REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 215 0 0 ]
+	Size	2000
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Son of Pwyll, Celtic god of the underworld.
+Location "Pryderi" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 200.9 -66.1 0 ]
+	Size	1.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Celtic god of the underworld.
+Location "Pwyll" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 88.6 -25.2 0 ]
+	Size	45
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 23, 2007; Last update: 11/17/08
+# Origin: Seat of Mongan, a son of the sea god Manannán.
+Location "Rathmore Chaos" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 285 25.4 0 ]
+	Size	57
+	Type	"CH"	# Chaos, chaoses
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Son of Europa and Zeus.
+Location "Rhadamanthys Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 159.5 19.3 0 ]
+	Size	1747
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Celtic heroine.
+Location "Rhiannon" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 165.1 -80.9 0 ]
+	Size	15.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; son of Europa and Zeus.
+Location "Sarpedon Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 267.1 -49.5 0 ]
+	Size	900
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in England.
+Location "Sharpitor Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 188.3 65.4 0 ]
+	Size	1650
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Another name for Tyre; where Europa was born.
+Location "Sidon Flexus" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 176.6 -66.4 0 ]
+	Size	1133
+	Type	"FE"	# Flexus, flexūs
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: In Greek mythology, warriors who sprouted from the dragon's teeth sewn by Athene, ancestors of the Thebans.
+Location "Sparti Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 114.5 59.3 0 ]
+	Size	1600
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in England.
+Location "Staldon Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 332.6 -0.8 0 ]
+	Size	1525
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Celtic, son of Bran; magician.
+Location "Taliesin" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 222 -22.8 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 11, 2007; Last update: 5/11/07
+# Origin: In Celtic mythology, the main royal residence of the High Kings.
+Location "TARA REGIO" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 285 -10 0 ]
+	Size	1780
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Father of Asterius.
+Location "Tectamus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 160.8 26.9 0 ]
+	Size	2096
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Celtic hero who lived in Bula Lake.
+Location "Tegid" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 195.6 0.8 0 ]
+	Size	29.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Europa's mother.
+Location "Telephassa Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 182.8 -0.8 0 ]
+	Size	777
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; brother of Europa.
+Location "Thasus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 176 -66.1 0 ]
+	Size	669.3
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; place where Cadmus stopped in his search for Europa.
+Location "Thera Macula" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 178.8 -46.7 0 ]
+	Size	95
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Place in northern Greece where Cadmus stopped in his search for Europa.
+Location "Thrace Macula" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 187.9 -45.9 0 ]
+	Size	180.2
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Peninsula between Black and Marmara Seas, where Phineus sought Europa.
+Location "Thynia Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 205.5 -59.2 0 ]
+	Size	412.6
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: Stone row in Ireland.
+Location "Tormsdale Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 102 47.7 0 ]
+	Size	875
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Irish dawn goddess.
+Location "Tuag" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 187.64 59.92 0 ]
+	Size	15.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Greek; the seashore from which Zeus abducted Europa. Changed from Tyre Macula.
+Location "Tyre" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 213.4 33.6 0 ]
+	Size	149
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: The harpist for Dagda, the father of all gods in Celtic myths.
+Location "Uaithne" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 269.3 -48.5 0 ]
+	Size	6.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2003; Last update: 10/1/06
+# Origin: In Greek mythology, survivors of the men Cadmus sowed with dragon's teeth.
+Location "Udaeus Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 120.6 48.6 0 ]
+	Size	2050
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Stone row in England.
+Location "Yelland Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ 164 -16.7 0 ]
+	Size	186
+	Type	"LI"	# Linea, lineae
+}
+
+
+# 196 locations on Ganymede.
+
+# Approval date: 1985; Last update: 2/24/16
+# Origin: Egyptian town where Osiris was worshipped.
+Location "Abydos Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 206.56 33.33 0 ]
+	Size	180
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Greek river god; father of Callirrhoe, Ganymede's mother.
+Location "Achelous" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 348.22 61.9 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian god of thunder.
+Location "Adad" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 1.98 57.43 0 ]
+	Size	39
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian; lost immortality when, at Ea's advice, he refused food of life.
+Location "Adapa" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 328.68 73.08 0 ]
+	Size	57
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Hunter god in Tyre.
+Location "Agreus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 127.3 15.87 0 ]
+	Size	63
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Tyre; greatest god of Gebal; farmer god.
+Location "Agrotes" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 167.38 60.93 0 ]
+	Size	74
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 2/24/16
+# Origin: Egyptian town where Min was worshipped.
+Location "Akhmin Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 170.2 28.3 0 ]
+	Size	245
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1997; Last update: 2/22/16
+# Origin: Where Marduk's statue was carried each year.
+Location "Akitu Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 166 39 0 ]
+	Size	365
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Son of Ba'al, spirit of springs.
+Location "Aleyin" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 225.92 15.14 0 ]
+	Size	12.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Phoenician; god of the west.
+Location "Ammura" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 17.65 31.76 0 ]
+	Size	61.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Theban king of gods.
+Location "Amon" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 139.39 33.69 0 ]
+	Size	102
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: One of the four gods of the dead, son of Horus.
+Location "Amset" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 181.25 -14.41 0 ]
+	Size	11
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/12/16
+# Origin: Assyro-Babylonian goddess of dew.
+# Additional info: Defines 128 degrees longitude on Ganymede.
+Location "Anat" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 232 -4.1 0 ]
+	Size	2.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Egyptian; first god of Busirus.
+Location "Andjeti" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 198.9 -52.75 0 ]
+	Size	52
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Egyptian warrior god.
+Location "Anhur" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 167.68 32.63 0 ]
+	Size	25
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/22/16
+# Origin: Assyro-Babylonian; celestial-world home of Lakhmu and Lakhamu.
+Location "Anshar Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 161.3 18.9 0 ]
+	Size	1372
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Babylonian; wife of Anu.
+Location "Antum" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 141.06 5.09 0 ]
+	Size	14.75
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Sumerian-Akkadian god of power, of heavens.
+Location "Anu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 15.75 65.24 0 ]
+	Size	55
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/13/15
+# Origin: Egyptian jackal-headed god who opened the underworld to the dead.
+Location "Anubis" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 231.34 -84.44 0 ]
+	Size	114
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Gigantic lion-headed bird-like figure, the Sumerian Thunderbird.
+Location "Anzu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 297.27 63.51 0 ]
+	Size	210
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Egyptian gigantic serpent symbolizing chaos or nonexistence.
+Location "Apophis" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 83.84 -8.12 0 ]
+	Size	57
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/18/16
+# Origin: Sumero-Akkadian; primordial ocean.
+Location "Apsu Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 134.8 -37.5 0 ]
+	Size	1950
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 2/23/16
+# Origin: Greek; Zeus set Ganymede among the stars as the constellation of Aquarius, the water carrier.
+Location "Aquarius Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 356 52.4 0 ]
+	Size	1420
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 2/14/16
+# Origin: Assyrian town where Ishtar was worshipped.
+Location "Arbela Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 356 -34 0 ]
+	Size	3850
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Semitic-Arab god of fate.
+Location "Ashîma" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 237.02 -39.05 0 ]
+	Size	84
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian warrior god.
+Location "Asshur" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 26.52 54.16 0 ]
+	Size	25.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Exceedingly wise' hero of Akkadian myth, survived the great flood.
+Location "Atra-hasis" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 105.89 22.54 0 ]
+	Size	133
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian; wife of Shamash.
+Location "Aya" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 37.98 68.34 0 ]
+	Size	38
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Phoenician; Canaanite god.
+Location "Ba'al" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 30.03 24.92 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 29, 2013; Last update: 2/18/16
+# Origin: Assyro-Babylonian town in the land known as Akkad.
+Location "Babylon Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 264.5 -22.5 0 ]
+	Size	3100
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 2/19/16
+# Origin: Edward E.; American astronomer (1857-1923).
+Location "BARNARD REGIO" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 348.4 -6.8 0 ]
+	Size	3200
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1988; Last update: 11/13/15
+# Origin: Goddess who breathed into men the breath of life; daughter of Anu and patroness of Lagash.
+Location "Bau" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 311.33 23.05 0 ]
+	Size	77
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Egyptian god of marriage.
+Location "Bes" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 179.04 -25.48 0 ]
+	Size	63
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 2/24/16
+# Origin: Island where Hapi, Egyptian Nile god, resided.
+Location "Bigeh Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 265.7 29 0 ]
+	Size	224
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Jul 29, 2013; Last update: 2/22/16
+# Origin: Akkadian town, location of the Sumerian god Nabu's principal sanctuary.
+Location "Borsippa Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 360 -60 0 ]
+	Size	3300
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1988; Last update: 3/2/16
+# Origin: Town in Egypt where Bast was worshipped.
+Location "Bubastis Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 135 -81 0 ]
+	Size	2730
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 3/1/16
+# Origin: Town in lower Egypt where Osiris was first installed as local god.
+Location "Busiris Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 144.7 16 0 ]
+	Size	369
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1985; Last update: 2/24/16
+# Origin: Swamp where Isis hid Osiris' body.
+Location "Buto Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 156.8 13.3 0 ]
+	Size	245
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1997; Last update: 2/23/16
+# Origin: Ancient Phoenician city where Adonis was worshipped.
+Location "Byblus Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 160.3 37.6 0 ]
+	Size	645
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Phoenician god; inventor of bait, fishing hooks and line, first to sail.
+Location "Chrysor" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 225.66 15.3 0 ]
+	Size	7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Iranian healing god.
+Location "Cisti" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 295.77 -31.6 0 ]
+	Size	70
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/25/16
+# Origin: Early town from which caravans departed.
+Location "Coptos Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 151 10 0 ]
+	Size	329
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 2006; Last update: 11/13/15
+# Origin: Babylonian sky and health deity, queen of the gods, and mother of Marduk in some accounts.
+Location "Damkina" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 355.12 -30.17 0 ]
+	Size	190
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Phoenician; mythical hero versed in art of divination.
+Location "Danel" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 338.7 -4.33 0 ]
+	Size	56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/18/16
+# Origin: Greek; where Ganymede was abducted by Zeus disguised as an eagle.
+Location "Dardanus Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 347.3 -31.5 0 ]
+	Size	1500
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Town where Hathor was chief goddess. (Name changed from Dendera Facula.)
+Location "Dendera" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 104.54 -1.12 0 ]
+	Size	82
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Egyptian goddess of the dwelling place of the dead.
+Location "Diment" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 8.23 23.14 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/23/16
+# Origin: Sumerian holy cosmic chamber of the gods.
+Location "Dukug Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 357.5 83.7 0 ]
+	Size	385
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Assyro-babylonian god of water, wisdom, and the earth.
+Location "Ea" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 211.27 17.72 0 ]
+	Size	20
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/25/16
+# Origin: Egyptian town where Horus was worshipped.
+Location "Edfu Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 212.9 25.7 0 ]
+	Size	184
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: "Father of Men", existed before the birth of gods.
+Location "El" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 208.64 1.01 0 ]
+	Size	55
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/18/16
+# Origin: Ancient Babylonian seat of sun worship, in present-day Iran.
+Location "Elam Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 160 60 0 ]
+	Size	1500
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Principal water god of the Apsu.
+Location "Enki Catena" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 346.14 38.84 0 ]
+	Size	160
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1982; Last update: 11/13/15
+# Origin: Friend of Gilgamesh.
+Location "Enkidu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 34.87 -26.61 0 ]
+	Size	122
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian; nature god of the air, hurricanes, and nature.
+Location "Enlil" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 47.9 55.36 0 ]
+	Size	34.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 2/12/16
+# Origin: Babylonian moon god.
+Location "En-zu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 191.6 11.59 0 ]
+	Size	5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 2/12/16
+# Origin: Phoenician god.
+Location "Epigeus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 179.35 22.96 0 ]
+	Size	343
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/23/16
+# Origin: Akkadian town that was built by Marduk.
+Location "Erech Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 180.8 -7.3 0 ]
+	Size	953
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Possible father of Ganymede.
+Location "Erichthonius" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 184.74 -15.32 0 ]
+	Size	31
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Phoenician; divinity of Sidon.
+Location "Eshmun" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 167.88 -17.45 0 ]
+	Size	98
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian; asked the eagle for an herb to give him an heir.
+Location "Etana" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 19.65 74.74 0 ]
+	Size	46
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Semitic god of fate or good fortune.
+Location "Gad" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 222.44 -13.56 0 ]
+	Size	72
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/19/16
+# Origin: Italian astronomer (1564-1642).
+Location "GALILEO REGIO" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 233 45 0 ]
+	Size	4439
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Heliopolis Earth god.
+Location "Geb" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 177.35 56.41 0 ]
+	Size	60
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Tyre; god of brick making.
+Location "Geinos" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 140.56 18.64 0 ]
+	Size	56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian; sought immortality after Enkidu died.
+Location "Gilgamesh" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 235.17 -62.84 0 ]
+	Size	153
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Sumerian god of summer heat.
+Location "Gir" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 214.25 34.05 0 ]
+	Size	73
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Assyro-Babylonian; health god.
+Location "Gula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 347.7 64.15 0 ]
+	Size	38
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 9, 2016; Last update: 7/11/16
+# Origin: Gushkin-Banda, Sumerian patron god of goldsmiths.
+Location "Gushkin" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 314.02 20.75 0 ]
+	Size	40.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Tyre; fisherman god.
+Location "Halieus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 192.86 34.45 0 ]
+	Size	90
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 2, 2015; Last update: 11/13/15
+# Origin: Wadi in Egypt, associated with petroglyphs and ancient mining.
+Location "Hammamat Patera" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 41.9 -24.23 0 ]
+	Size	45
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: Mar 2, 2015; Last update: 11/13/15
+# Origin: Wadi in Jordan, associated with red sandstone cliffs and ancient copper mines.
+Location "Hamra Patera" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 188.63 -77.35 0 ]
+	Size	43
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1988; Last update: 11/13/15
+# Origin: Egyptian god of the Nile.
+Location "Hapi" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 147.34 -30.57 0 ]
+	Size	96
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: "Horus of the Two Horizons", form of Egyptian god Horus who represents the path of the sun.
+Location "Harakhtes" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 259.74 35.95 0 ]
+	Size	108
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Egyptian sky god whose eyes are the sun and the moon, a form of Horus.
+Location "Haroeris" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 63.18 28.53 0 ]
+	Size	70
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/18/16
+# Origin: Greek; where Ganymede was abducted an eagle.
+Location "Harpagia Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 46.5 -11.8 0 ]
+	Size	1400
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Egyptian goddess of joy and love.
+Location "Hathor" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 91.26 -66.9 0 ]
+	Size	173
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Nega god, spirit of forest vegetation.
+Location "Hay-tau" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 226.87 14.44 0 ]
+	Size	27
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Egyptian scorpion goddess.
+Location "Hedetet" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 108.99 -32.91 0 ]
+	Size	106
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 2/25/16
+# Origin: Sacred Egyptian city of the sun.
+Location "Heliopolis Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 213 18.5 0 ]
+	Size	50
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1997; Last update: 2/25/16
+# Origin: Place where Unut was worshipped.
+Location "Hermopolis Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 164.7 22.3 0 ]
+	Size	260
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Egyptian ram-headed god.
+Location "Hershef" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 90.62 47.39 0 ]
+	Size	120
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/13/15
+# Origin: Babylonian terrifying guardian of the cedar forests.
+Location "Humbaba" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 292.69 -55.15 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/12/16
+# Origin: Sumerian mountain where winds dwell.
+Location "Hursag Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 111.54 -9.49 0 ]
+	Size	2183
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: First Sumerian sky god.
+Location "Ilah" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 199.38 22 0 ]
+	Size	76
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Ganymede's brother.
+Location "Ilus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 249.57 -13.46 0 ]
+	Size	90
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Sumerian goddess of underworld, seen by Enkidu in a dream.
+Location "Irkalla" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 245.16 -32.52 0 ]
+	Size	117
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Sumerian god of rain.
+Location "Ishkur" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 351.63 0.37 0 ]
+	Size	67
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/12/16
+# Origin: Sumerian god of vegetation.
+Location "Isimu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 0 8.5 0 ]
+	Size	89.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/13/15
+# Origin: Egyptian goddess; wife of Osiris.
+Location "Isis" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 158.8 -67.28 0 ]
+	Size	75
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/13/15
+# Origin: Babylonian goddess of justice.
+Location "Kadi" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 181.5 47.68 0 ]
+	Size	87
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/13/15
+# Origin: Egyptian moon god.
+Location "Khensu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 207.07 1.02 0 ]
+	Size	17
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: God of transformations for the Heliopitans.
+Location "Khepri" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 212.44 20.41 0 ]
+	Size	47
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: Egyptian creation god.
+Location "Khnum Catena" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 10.73 32.9 0 ]
+	Size	66
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1988; Last update: 11/16/15
+# Origin: Egyptian moon god.
+Location "Khonsu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 169.17 -37.51 0 ]
+	Size	80
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/16/15
+# Origin: Assyro-Babylonian; Elamite creator god.
+Location "Khumbam" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 24.65 -24.1 0 ]
+	Size	57
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/16/15
+# Origin: Assyro-Babylonian; conquered leader of Tiamat's forces whose blood was used to create man.
+Location "Kingu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 132.97 -34.66 0 ]
+	Size	78
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/16/15
+# Origin: Assyro-Babylonian; terrestrial progenitor goddess.
+Location "Kishar" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 10.54 72.7 0 ]
+	Size	78
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 3/1/16
+# Origin: Assyro-Babylonian; terrestrial-world home of Lakhmu and Lakhamu.
+Location "Kishar Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 143.4 -6.4 0 ]
+	Size	1187
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: Assyro-Babylonian god of justice.
+Location "Kittu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 25.4 0.4 0 ]
+	Size	15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: Sumerian god of brick making.
+Location "Kulla" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 246.13 33.22 0 ]
+	Size	93
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/16/15
+# Origin: Son of Babylonian god Ea.
+Location "Lagamal" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 115.79 64.3 0 ]
+	Size	131
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/23/16
+# Origin: Early Babylonian town.
+Location "Lagash Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 195.99 -8.99 0 ]
+	Size	1575
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 2/25/16
+# Origin: Dragon monster, or divine natural force produced by Apsu and Tiamat.
+Location "Lakhamu Fossa" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 132.8 -11.7 0 ]
+	Size	370
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Dragon monster, or divine natural force produced by Apsu and Tiamat.
+Location "Lakhmu Fossae" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 232 50.4 0 ]
+	Size	3700
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Apr 3, 2019; Last update: 4/3/19
+# Origin: In Greek mythology, legendary king of Troy, nephew (or possibly father) of Ganymede.
+Location "Laomedon" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 282.1 20.9 0 ]
+	Size	64
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 2/18/16
+# Origin: Sumerian town.
+# Additional info: Changed from Larsa Sulcus to Larsa Sulci July 30, 2013.
+Location "Larsa Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 100 2 0 ]
+	Size	1130
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: One of the sons of El.
+Location "Latpon" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 188.79 58.74 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: Sumerian god of the underworld.
+Location "Lugalmeslam" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 166.11 23.72 0 ]
+	Size	64
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: Title of Enki as patron of singers; also Babylonian priest.
+Location "Lumha" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 205.77 36.01 0 ]
+	Size	58
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: Egyptian god of the sense of sight.
+Location "Maa" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 156.37 1.3 0 ]
+	Size	31
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/18/16
+# Origin: Simon; German astronomer (1570-1624).
+Location "MARIUS REGIO" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 172.3 2.5 0 ]
+	Size	4940
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1979; Last update: 2/23/16
+# Origin: Assyro-Babylonian; mountain with twin peaks where sun rose and set.
+Location "Mashu Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 150 34 0 ]
+	Size	2960
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: Egyptian lion-headed goddess; Anhur's wife.
+Location "Mehit" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 195.61 28.95 0 ]
+	Size	47
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/16/15
+# Origin: Phoenician; divinity of Tyre.
+Location "Melkart" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 173.93 -9.86 0 ]
+	Size	105
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 29, 2013; Last update: 2/18/16
+# Origin: Philibert Jacques; British astronomer (1880-1961).
+Location "MELOTTE REGIO" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 115 -12 0 ]
+	Size	4100
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1985; Last update: 2/25/16
+# Origin: Ancient capitol of lower kingdom.
+Location "Memphis Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 228.09 14.1 0 ]
+	Size	361
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 2006; Last update: 11/16/15
+# Origin: Egyptian lion and war goddess.
+Location "Menhit" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 219.68 -36.31 0 ]
+	Size	140
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/16/15
+# Origin: Egyptian fertility god.
+Location "Min" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 358.74 29.23 0 ]
+	Size	33
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: West Semitic god of wind.
+Location "Mir" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 129.7 -3.3 0 ]
+	Size	8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: Assyro-Babylonian god of law.
+Location "Misharu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 24.11 -4.31 0 ]
+	Size	88
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: Theban war god.
+Location "Mont" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 48.05 44.62 0 ]
+	Size	15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/16/15
+# Origin: Phoenician; spirit of the harvest.
+Location "Mor" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 32.65 30.55 0 ]
+	Size	41
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: Spirit of the harvest, one of the sons of El.
+Location "Mot" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 194.05 9.93 0 ]
+	Size	23
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 29, 2013; Last update: 2/22/16
+# Origin: Assyro-Babylonian;  the tumult of the waves at the place where the waters of primordial freshwater ocean Apsu and salt sea Tiamat are mingled.
+Location "Mummu Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 180 -39 0 ]
+	Size	2680
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Mar 2, 2015; Last update: 2/12/16
+# Origin: Wadi in Jordan, proximal to Petra archeological site.
+Location "Musa Patera" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 171.54 -31.35 0 ]
+	Size	69
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: Sumerian male deity; upper parts are human, lower parts a serpent.
+Location "Mush" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 245.23 -15.12 0 ]
+	Size	99
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/18/16
+# Origin: Greek; where Ganymede was abducted by an eagle.
+Location "Mysia Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 352.2 -7 0 ]
+	Size	5066
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 11/16/15
+# Origin: Sumerian god of intellectual activity.
+Location "Nabu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 358.81 -45.39 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/16/15
+# Origin: Elamite god of light and justice.
+Location "Nah-Hunte" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 274.74 -17.76 0 ]
+	Size	47
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/16/15
+# Origin: Assyro-Babylonian plague demon.
+Location "Namtar" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 19.3 -58.34 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/16/15
+# Origin: Sumerian moon god; god of wisdom.
+Location "Nanna" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 118.13 -17.61 0 ]
+	Size	56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 2/25/16
+# Origin: Goddess of springs and canals, daughter of Enki.
+Location "Nanshe Catena" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 7.1 15.4 0 ]
+	Size	103.8
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: Mar 2, 2015; Last update: 11/16/15
+# Origin: Wadi in Egypt, site of ancient monasteries, proximal to site of Antoine de Saint-Exupéry’s aircraft crash that inspired the novella “The Little Prince”.
+Location "Natrun Patera" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 176.74 -30.93 0 ]
+	Size	37.5
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: Original divine son of the Memphis triad, son of Ptah.
+Location "Nefertum" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 38.96 44.35 0 ]
+	Size	29
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/19/15
+# Origin: Egyptian god of eternity.
+Location "Neheh" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 297.34 72.13 0 ]
+	Size	54
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/16/15
+# Origin: Egyptian warrior goddess; goddess of domestic arts.
+Location "Neith" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 353.03 29.45 0 ]
+	Size	90
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/16/15
+# Origin: Assyro-babylonian king of the underworld.
+Location "Nergal" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 159.67 38.58 0 ]
+	Size	9.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/18/16
+# Origin: Seth Barnes; American astronomer (1891-1963).
+Location "NICHOLSON REGIO" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 353.6 -33.1 0 ]
+	Size	3900
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1985; Last update: 11/19/15
+# Origin: Sumerian grain goddess.
+Location "Nidaba" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 236.57 17.75 0 ]
+	Size	199
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/19/15
+# Origin: Assyro-Babylonian; god of the fields, war god.
+Location "Nigirsu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 39.43 -58.26 0 ]
+	Size	53
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 2/23/16
+# Origin: City where Ishtar was worshipped.
+Location "Nineveh Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 307 23.2 0 ]
+	Size	1700
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/19/15
+# Origin: Sumerian vegetation god.
+Location "Ningishzida" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 170.16 14.11 0 ]
+	Size	32
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/19/15
+# Origin: Sumerian goddess of brewing.
+Location "Ninkasi" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 311.15 59.21 0 ]
+	Size	81
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/19/15
+# Origin: Consort to Ea, Babylonian god of water.
+Location "Ninki" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 239.21 -8.37 0 ]
+	Size	194
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/19/15
+# Origin: Chief Assyrian goddess; Asshur's consort.
+Location "Ninlil" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 241.68 6.27 0 ]
+	Size	91
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/19/15
+# Origin: Minor Babylonian goddess of wisdom; Gilgamesh's mother.
+Location "Ninsum" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 219.45 -14.35 0 ]
+	Size	88
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/23/16
+# Origin: Sumerian city.
+Location "Nippur Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 176.65 35.41 0 ]
+	Size	1425
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Egyptian; chaos; primordial ocean; held germ of all things.
+Location "Nun Sulci" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 43.6 49.5 0 ]
+	Size	1500
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 11/19/15
+# Origin: Egyptian goddess of the sky.
+Location "Nut" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 90.8 -54.21 0 ]
+	Size	90
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 16, 2013; Last update: 11/19/15
+# Origin: Egyptian town where Sebek's triad worshiped; present Kom Ombo.
+# Additional info: Name changed from Ombos Facula August 16, 2013.
+Location "Ombos" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 123.84 4.75 0 ]
+	Size	177
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/19/15
+# Origin: Egyptian god of the dead.
+Location "Osiris" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 193.69 -38 0 ]
+	Size	107
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/19/16
+# Origin: Charles D.; American astronomer (1867-1951).
+Location "PERRINE REGIO" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 332 34 0 ]
+	Size	3800
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1997; Last update: 2/23/16
+# Origin: Temple that was the chief sanctuary of Isis.
+Location "Philae Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 191.8 68.4 0 ]
+	Size	900
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 2/23/16
+# Origin: Greek; where Ganymede and Hebe were worshipped as rain-givers.
+Location "Philus Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 150.1 44.5 0 ]
+	Size	465
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 2/23/16
+# Origin: Greek; kingdom in Asia Minor where Ganymede was born.
+Location "Phrygia Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 339.4 12 0 ]
+	Size	3700
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1988; Last update: 11/19/15
+# Origin: Sovereign god of Memphis; patron of artisans.
+Location "Ptah" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 142.95 -65.9 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/20/15
+# Origin: Land east of Egypt where Bes originated. Changed from Punt Facula.
+Location "Punt" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 120.15 -24.89 0 ]
+	Size	135
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 2, 2015; Last update: 11/20/15
+# Origin: Wadi in Jordan associated with travels of T. E. Lawrence, petroglyphs,  and several Neolithic sites.
+Location "Rum Patera" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 177.18 -30.66 0 ]
+	Size	38
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1979; Last update: 11/20/15
+# Origin: Phoenician; Byblos god.
+Location "Ruti" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 51.35 13.23 0 ]
+	Size	16
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 2/12/16
+# Origin: Babylonian goddess of discord and hostility.
+Location "Saltu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 7.23 -14.15 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/20/15
+# Origin: Assyro-Babylonian; torch of the gods.
+Location "Sapas" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 326.01 57.45 0 ]
+	Size	56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/20/15
+# Origin: Wife of Khnum, Egyptian god of the Cataracts.
+Location "Sati" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 347.2 30.84 0 ]
+	Size	95
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/20/15
+# Origin: Egyptian crocodile god.
+Location "Sebek" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 3.22 61.25 0 ]
+	Size	61
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/20/15
+# Origin: Mother goddess of the Arameans.
+Location "Seima" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 144.03 17.09 0 ]
+	Size	38
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/20/15
+# Origin: Egyptian god of the dead at Memphis.
+Location "Seker" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 14.62 -39.16 0 ]
+	Size	103
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 11/20/15
+# Origin: Tutelary goddess who guarded intestines of the dead.
+Location "Selket" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 254.3 15.03 0 ]
+	Size	168
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 11/20/15
+# Origin: Egyptian healing god.
+Location "Serapis" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 315.89 -12.4 0 ]
+	Size	169
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/20/15
+# Origin: Egyptian god of air.
+Location "Shu" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 3.16 43.16 0 ]
+	Size	44
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 2/14/16
+# Origin: Assyro-Babylonian town on the banks of the Euphrates River where the gods planned the great flood.
+Location "Shuruppak Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 128.25 -19.62 0 ]
+	Size	2730
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 3/9/16
+# Origin: Greek; where Ganymede and Hebe were worshipped as rain-givers.
+Location "Sicyon Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 344.7 33.7 0 ]
+	Size	2125
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 11/20/15
+# Origin: Babylonian moon god.
+Location "Sin" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 2.54 52.94 0 ]
+	Size	19
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/18/16
+# Origin: Ancient Babylonian town.
+Location "Sippar Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 189.8 -19.9 0 ]
+	Size	3260
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1985; Last update: 2/25/16
+# Origin: Oasis oracle of Zeus-Ammon; visited by Alexander.
+Location "Siwah Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 217 7 0 ]
+	Size	220
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1985; Last update: 11/20/15
+# Origin: Akkadian youthful god of vegetation; Ishtar's son.
+Location "Tammuz" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 129.24 13.45 0 ]
+	Size	51
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/20/15
+# Origin: Assyro-Babylonian; Carthaginian goddess.
+Location "Tanit" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 323.38 57.49 0 ]
+	Size	26
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/20/15
+# Origin: Assyro-Babylonian goddess who invented writing with her husband Nabu.
+Location "Tashmetum" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 95.46 -39.72 0 ]
+	Size	135
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/20/15
+# Origin: Egyptian childbirth goddess.
+Location "Ta-urt" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 55.8 27.66 0 ]
+	Size	94
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 2/25/16
+# Origin: Phoenician moon god who battled with Keret in Negeb.
+Location "Terah Catena" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 82.4 7.1 0 ]
+	Size	283
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1994; Last update: 11/20/15
+# Origin: Elamite god of the tempest.
+Location "Teshub" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 80.72 -68.3 0 ]
+	Size	188
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/25/16
+# Origin: Egyptian town where Hatmenit and Osiris were worshipped.
+Location "Tettu Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 199.04 37.6 0 ]
+	Size	189
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1985; Last update: 2/25/16
+# Origin: Ancient capitol of upper kingdom.
+Location "Thebes Facula" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 157.8 7.1 0 ]
+	Size	360
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1985; Last update: 11/20/15
+# Origin: Egyptian moon god; invented all arts and sciences.
+Location "Thoth" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 212.75 -43.22 0 ]
+	Size	102
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 2/24/16
+# Origin: Assyro-Babylonian; tumultuous sea from which everything was generated.
+Location "Tiamat Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 150.9 4.14 0 ]
+	Size	1330
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 11/20/15
+# Origin: Greek; father of Ganymede.
+Location "Tros" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 332.74 11.14 0 ]
+	Size	94
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 2/18/16
+# Origin: Sumerian town.
+Location "Umma Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 110.5 4.1 0 ]
+	Size	1270
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1997; Last update: 11/20/15
+# Origin: Jackal-headed warrior god, god of the dead.
+Location "Upuant" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 40.46 46.4 0 ]
+	Size	17
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 2/18/16
+# Origin: Ancient Sumerian seat of moon worship.
+Location "Ur Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 182.5 49.5 0 ]
+	Size	1145
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1979; Last update: 2/24/16
+# Origin: Babylonian city ruled by Gilgamesh.
+Location "Uruk Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 200 3.4 0 ]
+	Size	2200
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 2000; Last update: 11/20/15
+# Origin: Akkadian god from whom the hero Atra-hasis was created.
+Location "We-ila" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 69.65 -12.36 0 ]
+	Size	36
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/20/15
+# Origin: Ancient Egyptian jackal deity.
+Location "Wepwawet" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 300.19 -69.89 0 ]
+	Size	86
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 2/24/16
+# Origin: Mayan "place of fright"; destination of those who escaped violent death.
+Location "Xibalba Sulcus" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 288.9 43 0 ]
+	Size	2200
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Mar 2, 2015; Last update: 11/20/15
+# Origin: Wadi in Lebanon,  Neolithic archaeological site.
+Location "Yaroun Patera" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 217.85 -46.65 0 ]
+	Size	96
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: 1997; Last update: 11/20/15
+# Origin: Assyrian supreme deity.
+Location "Zakar" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 26.33 31.28 0 ]
+	Size	170
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/20/15
+# Origin: Assyro-Babylonian; Sin's messenger who brought dreams to men.
+Location "Zaqar" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 322.59 58.16 0 ]
+	Size	33
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1985; Last update: 10/1/06
+# Origin: Dragon of chaos slain by Marduk.
+Location "Zu Fossae" "Sol/Jupiter/Ganymede"
+{
+	LongLat	[ 209.5 38.5 0 ]
+	Size	2900
+	Type	"FO"	# Fossa, fossae
+}
+
+
+# 154 locations on Callisto.
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; son of Karl and Erna.
+Location "Adal" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 280.3 75.5 0 ]
+	Size	41.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Eskimo; place in ocean depths where souls are imprisoned after death.
+Location "Adlinda" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 324.4 -48.5 0 ]
+	Size	840
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse sea god.
+Location "Aegir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 256.2 -45.8 0 ]
+	Size	53.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Eskimo spirit of the seal caves.
+Location "Agloolik" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 277.6 -47.7 0 ]
+	Size	61.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Finno-Ugric god of twins.
+Location "Ägröi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 349.1 43.2 0 ]
+	Size	67.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Finnish god of water; sends fish to the fisherman.
+Location "Ahti" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 257.6 41.4 0 ]
+	Size	54.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Saami god of holidays.
+Location "Ajleke" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 258.6 22.7 0 ]
+	Size	70
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Alaskan name of the sun.
+Location "Akycha" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 41.3 72.6 0 ]
+	Size	81
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Alfr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 137.3 -9.9 0 ]
+	Size	96
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; strongest of men.
+Location "Áli" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 304.1 59 0 ]
+	Size	32.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse dwarf.
+Location "Ánarr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 359.5 44 0 ]
+	Size	41.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Callisto's child by Zeus.
+Location "Arcas" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 292.5 -85.6 0 ]
+	Size	60.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; the home of the gods.
+Location "Asgard" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 220.1 32.2 0 ]
+	Size	1400
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; first man, created from a log drifted ashore on a beach.
+Location "Askr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 35.9 51.8 0 ]
+	Size	68.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Ottar's ancestor.
+Location "Audr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 279.4 -30.9 0 ]
+	Size	80.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Austri" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 295.5 -80.9 0 ]
+	Size	15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Estonian spirit of death.
+Location "Aziren" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 181.8 35.4 0 ]
+	Size	55.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Ottar's ancestor.
+Location "Balkr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 348.3 28.9 0 ]
+	Size	68
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Ottar's ancestor.
+Location "Barri" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 289.5 -31.5 0 ]
+	Size	69
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse dwarf.
+Location "Bavörr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 340 49.1 0 ]
+	Size	85.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Celtic; father of Caswallawn.
+Location "Beli" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 279.8 62.6 0 ]
+	Size	55.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Another name for Odinn.
+Location "Biflindi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 285.9 -53.6 0 ]
+	Size	58
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Skaldic; god of poetry.
+Location "Bragi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 299.3 75.5 0 ]
+	Size	61.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Ottar's ancestor.
+Location "Brami" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 341 28.8 0 ]
+	Size	75.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Celtic; omnipotent god who watched over people.
+Location "Bran" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 154.4 -24.2 0 ]
+	Size	78
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 12/30/08
+# Origin: Tungu heaven god.
+Location "Buga" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 36.1 22.3 0 ]
+	Size	59
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Buri" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 314.5 -37.5 0 ]
+	Size	86
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse giant; his sons raised up heaven's vault and shaped the Earth.
+Location "Burr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 225.5 42.7 0 ]
+	Size	75.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Ottar's ancestor.
+Location "Dag" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 286.7 58.5 0 ]
+	Size	46.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; king against whom Konr marched.
+Location "Danr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 283.1 62.5 0 ]
+	Size	45.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 12/30/08
+# Origin: Yukagir (NE Siberia) mythological hero, the first man.
+Location "Debegey" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 193.8 10.2 0 ]
+	Size	125
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; Callisto's sister.
+Location "Dia" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 309.5 73 0 ]
+	Size	34.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 12/30/08
+# Origin: Ketian shaman who created the earth.
+Location "Doh" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 218.6 30.6 0 ]
+	Size	59.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; son of Dia by Apollo.
+Location "Dryops" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 325.2 80 0 ]
+	Size	31.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Durinn" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 270.9 67 0 ]
+	Size	51.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; shepherd for the giants.
+Location "Egdir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 324.1 33.9 0 ]
+	Size	60.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 12/30/08
+# Origin: Karelian deity of the harvest of beans.
+Location "Egres" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 183.4 42.5 0 ]
+	Size	45.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse river.
+Location "Eikin Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 344.5 -8.9 0 ]
+	Size	223.1
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1979; Last update: 12/30/08
+# Origin: Russian first man who became a devil.
+Location "Erlik" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 358.7 66.8 0 ]
+	Size	26.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse farmer.
+Location "Fadir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 347.4 56.6 0 ]
+	Size	78.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Fili" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 10.3 64.2 0 ]
+	Size	31.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse river.
+Location "Fimbulthul Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 295.2 8.2 0 ]
+	Size	287
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Finnr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 355.7 15.5 0 ]
+	Size	80
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 5/15/10
+# Origin: Norse; wolf's name meaning "insatiable."
+Location "Freki" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 8.3 79.8 0 ]
+	Size	55
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Hledis' father.
+Location "Frodi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 220.1 68.4 0 ]
+	Size	45.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; maid to Frigg, queen of the gods.
+Location "Fulla" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 251.9 74 0 ]
+	Size	58.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; son of Thrael and Thyr.
+Location "Fulnir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 324.7 60.1 0 ]
+	Size	43.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Gandalfr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 296.4 -80.5 0 ]
+	Size	17
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse river.
+Location "Geirvimul Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 12.8 48.9 0 ]
+	Size	113.1
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; wolf's name meaning "greedy."
+Location "Geri" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 6.2 66.7 0 ]
+	Size	38.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Ottar's ancestor.
+Location "Ginandi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 307.9 -85.3 0 ]
+	Size	44.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse river.
+Location "Gipul Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 305.8 68.5 0 ]
+	Size	641
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; steed ridden by Aesir.
+Location "Gisl" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 325.4 57.2 0 ]
+	Size	37
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Gloi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 115 49 0 ]
+	Size	115.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; servant to the gods.
+Location "Göll" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 40.3 57.3 0 ]
+	Size	55.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse river.
+Location "Gomul Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 312.9 35.5 0 ]
+	Size	342.6
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; a Valkyrie.
+Location "Göndul" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 245.9 60 0 ]
+	Size	45.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; a name for Odin.
+Location "Grimr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 145.4 41.5 0 ]
+	Size	103.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; a Valkyrie.
+Location "Gunnr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 255.3 64.6 0 ]
+	Size	61.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 4/9/09
+# Origin: Norse river.
+Location "Gunntro Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 16.9 -19.5 0 ]
+	Size	149
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; another name for the sea-god, Legir.
+Location "Gymir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 311.2 63.7 0 ]
+	Size	40.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; a hawk.
+Location "Hábrok" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 228.1 76.2 0 ]
+	Size	37.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse giant.
+Location "Haki" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 44.9 25 0 ]
+	Size	72.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; a name for Odin.
+Location "Hár" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 2 -3.5 0 ]
+	Size	52.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 11/17/08
+# Origin: Teutonic god of light, guardian of the great bridge Bifröst.
+Location "Heimdall" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 3 -63.5 0 ]
+	Size	210
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Hepti" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 336.6 64.5 0 ]
+	Size	48.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 12/30/08
+# Origin: Karelian deity of hunting.
+Location "Hijsi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 188.5 63.1 0 ]
+	Size	54.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; Baldr's blind brother who shot Baldr unknowingly.
+Location "Hödr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 270.8 69.1 0 ]
+	Size	76.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; god who gave souls to first humans.
+Location "Hoenir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 99.1 -33.7 0 ]
+	Size	81.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; Ottar's ancestor.
+Location "Högni" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 355.2 -11.8 0 ]
+	Size	76
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 11/17/08
+# Origin: Son of Karl and Snor in Rigdismal.
+Location "Höldr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 251.8 43.9 0 ]
+	Size	68.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Alaskan name of the Moon.
+Location "Igaluk" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 44 5.6 0 ]
+	Size	111.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: A celestial divinity of air.
+Location "Ilma" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 192.8 -29.9 0 ]
+	Size	102
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Ottar's ancestor.
+Location "Ivarr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 38.6 -5.8 0 ]
+	Size	73.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Another name for Odinn.
+Location "Jalkr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 277.3 -38.6 0 ]
+	Size	93.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Estonian sky god.
+Location "Jumal" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 242 58.9 0 ]
+	Size	58.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Finno-Ugric heaven god.
+Location "Jumo" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 348.2 65.7 0 ]
+	Size	43.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Ottar's ancestor.
+Location "Kári" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 243.7 48.2 0 ]
+	Size	34.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Rigr's son with Amma.
+Location "Karl" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 29.4 56.4 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Eskimo evil spirit who resembles a hairless dog.
+Location "Keelut" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 269.1 -76.8 0 ]
+	Size	64
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Icelandic frost or storm giant.
+Location "Kol Facula" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 77.3 4.5 0 ]
+	Size	390
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 1988; Last update: 12/30/08
+# Origin: Komi wood spirit.
+Location "Kul'" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 238.1 62.9 0 ]
+	Size	40.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Finno-Ugric evil spirit.
+Location "Lempo" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 40.1 -25.2 0 ]
+	Size	41.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Finnish god of grass, roots of trees.
+Location "Ljekio" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 197.7 49.1 0 ]
+	Size	23.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; god who gave first humans goodly color.
+Location "Lodurr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 89.9 -50.8 0 ]
+	Size	72
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse goddess of marriage.
+Location "Lofn" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 337.7 -56.5 0 ]
+	Size	200
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Loni" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 145.7 -3.6 0 ]
+	Size	85
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Mongolian; Mongol evil snake; tried to kill all living things.
+Location "Losy" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 36.7 65.3 0 ]
+	Size	62.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Callisto's father.
+Location "Lycaon" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 354.1 -45.4 0 ]
+	Size	59
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Saami sky god.
+Location "Maderatcha" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 264.7 30.7 0 ]
+	Size	66.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greek; another nymph of Artemis seduced by Zeus.
+Location "Mera" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 284.8 64.1 0 ]
+	Size	39.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse giant.
+Location "Mimir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 306.8 32.6 0 ]
+	Size	47.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Alaskan old man who perished while hunting on ice.
+Location "Mitsina" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 256.3 57.5 0 ]
+	Size	40.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; son of Thor and Sif.
+Location "Modi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 240.7 66.4 0 ]
+	Size	37.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Finnish water god.
+Location "Nakki" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 290.3 -56.4 0 ]
+	Size	59.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 12/30/08
+# Origin: Altaic hero who built ark to save his family from the flood.
+Location "Nama" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 29 57 0 ]
+	Size	30.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse dwarf.
+Location "Nár" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 314 -1.5 0 ]
+	Size	56.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Alaskan name of Sedna.
+Location "Nerrivik" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 303.6 -16.9 0 ]
+	Size	44.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Nidi" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 265.1 66.4 0 ]
+	Size	49.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 12/30/08
+# Origin: Karelian patron of squirrel hunting.
+Location "Nirkes" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 195.7 31.4 0 ]
+	Size	58.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Nordic gods called the Vanir; pacific, benevolent, guardians of man.
+Location "Njord" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 227.4 16.7 0 ]
+	Size	44.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Nori" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 16.4 45.2 0 ]
+	Size	114
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 12/30/08
+# Origin: Mordvinian mistress of the field.
+Location "Norov-Ava" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 247.2 54.6 0 ]
+	Size	41.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Irish chieftan god.
+Location "Nuada" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 87.5 62.3 0 ]
+	Size	66
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 12/30/08
+# Origin: Mansi creator god.
+Location "Numi-Torum" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 267.1 -50.1 0 ]
+	Size	75.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Brother of Callisto.
+Location "Nyctimus" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 356.1 -62.8 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Eskimo god of lakes.
+Location "Oluksak" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 296.5 -47.8 0 ]
+	Size	86.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 12/30/08
+# Origin: Komi wood spirit.
+Location "Omol'" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 243.1 42.3 0 ]
+	Size	60.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Brother of Callisto.
+Location "Orestheus" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 312.3 -46.7 0 ]
+	Size	22.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; a name for Odin.
+Location "Oski" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 91 57.5 0 ]
+	Size	48.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Innsteinn's son and Freyja's favorite.
+Location "Ottar" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 256.1 61.5 0 ]
+	Size	59.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Finno-Ugric god of barley.
+Location "Pekko" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 354.6 18.3 0 ]
+	Size	62
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Ottar's ancestor.
+Location "Randver" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 306.1 -71.9 0 ]
+	Size	28
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Servant of the gods.
+Location "Reginleif" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 263.5 -66 0 ]
+	Size	54.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Reginn" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 269.9 39.8 0 ]
+	Size	57
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Ottar's ancestor.
+Location "Reifnir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 305.7 -50.8 0 ]
+	Size	36.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; another name for the god Heimdall.
+Location "Rigr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 115.4 70.8 0 ]
+	Size	72.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 12/30/08
+# Origin: Karelian deity of the harvest of rye.
+Location "Rongoteus" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 253.9 53.6 0 ]
+	Size	35.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Deity of the underground world.
+Location "Rota" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 251.6 27.2 0 ]
+	Size	45
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 8/4/09
+# Origin: Scandinavian goddess, wife of Odin.
+# Additional info: Defines 326 degrees longitude on Callisto (Rand control point crater (control point number 400)).
+Location "Saga" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 34.1 0.6 0 ]
+	Size	11.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Finno-Ugric goddess of childbirth.
+Location "Sarakka" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 306.5 -3.3 0 ]
+	Size	47.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Eskimo; the sun.
+Location "Seqinek" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 334.6 55.5 0 ]
+	Size	80.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Finno-Ugric heaven god.
+Location "Sholmo" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 343.8 53.7 0 ]
+	Size	57
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse river.
+Location "Sid Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 256.1 49.2 0 ]
+	Size	81.4
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Loki's wife.
+Location "Sigyn" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 331 35.9 0 ]
+	Size	49.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Servant of the gods.
+Location "Skeggold" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 328.1 -49.7 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse wolf.
+Location "Sköll" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 44.4 55.6 0 ]
+	Size	59.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; maiden living near Yggdrasill who governed the fate of humans.
+Location "Skuld" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 322.1 10 0 ]
+	Size	91.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Sudri" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 224.4 55.9 0 ]
+	Size	69.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 12/30/08
+# Origin: Russian (Buriat) world mountain.
+Location "Sumbur" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 34.8 67.1 0 ]
+	Size	37.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse river.
+Location "Svol Catena" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 322.8 10.6 0 ]
+	Size	161
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Finnish deity of the wood who sends game to the hunter.
+Location "Tapio" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 251.4 30.1 0 ]
+	Size	52.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Thekkr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 298 -80.3 0 ]
+	Size	13
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Ottar's ancestor.
+Location "Thorir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 293.3 -31.9 0 ]
+	Size	62.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Ottar's ancestor.
+Location "Tindr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 4.5 -2.3 0 ]
+	Size	75.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Finnish god of housekeeping.
+Location "Tontu" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 259.7 27.6 0 ]
+	Size	40.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Greenland legendary hero.
+Location "Tornarsuk" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 232.4 28.8 0 ]
+	Size	99
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Estonian epic hero; struggled with a giant.
+Location "Tyll" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 193.5 44.8 0 ]
+	Size	68.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Great god of Germanic peoples.
+Location "Tyn" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 127.5 71.1 0 ]
+	Size	63
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 10/1/06
+# Origin: Lapp protector goddess.
+Location "Uksakka" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 317.8 -49.5 0 ]
+	Size	22.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Teutonic home of giants.
+Location "Utgard" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 226 45 0 ]
+	Size	610
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: 1979; Last update: 11/17/08
+# Origin: Norse; a name for Odin, god of wisdom.
+Location "Valfödr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 113 -1.3 0 ]
+	Size	101.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Odin's hall, where he received the souls of slain warriors.
+Location "Valhalla" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 304 14.7 0 ]
+	Size	3000
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; Ottar's ancestor.
+Location "Vali" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 34.7 9.7 0 ]
+	Size	54.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Estonian, a wicked giant.
+Location "Vanapagan" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 201.5 39.5 0 ]
+	Size	62.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Saami god of fertility.
+Location "Veralden" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 264.5 33.3 0 ]
+	Size	75.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Vestri" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 307.5 45.3 0 ]
+	Size	77.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Norse god.
+Location "Vidarr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 166.6 12.1 0 ]
+	Size	78
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 3, 2019; Last update: 4/3/19
+# Origin: In Norse mythology, brother of the god Odin.
+Location "Vili" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 144.1 32.6 0 ]
+	Size	42
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse dwarf.
+Location "Vitr" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 10.6 -22.1 0 ]
+	Size	72.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Estonian spirit of water.
+Location "Vu-Murt" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 189.7 21.5 0 ]
+	Size	34.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1988; Last update: 10/1/06
+# Origin: Estonian spirit of water.
+Location "Vutash" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 257.7 31.6 0 ]
+	Size	46.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1979; Last update: 10/1/06
+# Origin: Norse; giant from whom Earth was created.
+Location "Ymir" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 260.3 51.5 0 ]
+	Size	79
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1997; Last update: 12/30/08
+# Origin: Yakutian heaven god.
+Location "Yuryung" "Sol/Jupiter/Callisto"
+{
+	LongLat	[ 274.3 -54.7 0 ]
+	Size	75.1
+	Type	"AA"	# Crater, craters
+}

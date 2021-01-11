@@ -1,0 +1,7312 @@
+# 806 locations on Epimetheus, Janus, Mimas, Enceladus, Tethys, Dione, Rhea, Titan, Hyperion, Iapetus and Phoebe.
+
+# SSC-file author: CLM tool by Askaniy.
+
+# Date of creation: 11.01.2021
+# Last update: 11.01.2021
+
+
+# 2 locations on Epimetheus.
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Greek; sister of Phoibe, daughter of Leukippos.
+Location "Hilairea" "Sol/Saturn/Epimetheus"
+{
+	LongLat	[ -217 -24 -3 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Latin name for Polydeukes, Castor's twin.
+Location "Pollux" "Sol/Saturn/Epimetheus"
+{
+	LongLat	[ -266 -42 -6 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+
+# 4 locations on Janus.
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: One of the Dioscuri; famous as a tamer of horses.
+Location "Castor" "Sol/Saturn/Janus"
+{
+	LongLat	[ -256 5 -5 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Twins; cousins of Gemini.
+Location "Idas" "Sol/Saturn/Janus"
+{
+	LongLat	[ -332 -27 -2 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: One of twin cousins of Gemini.
+Location "Lynceus" "Sol/Saturn/Janus"
+{
+	LongLat	[ -272 14 -7 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Daughter of Leukippos.
+Location "Phoibe" "Sol/Saturn/Janus"
+{
+	LongLat	[ -349 55 4 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+
+# 42 locations on Mimas.
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Companion of Arthur's; he was tricked into jousting with Arthur.
+Location "Accolon" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 175.59 -70.56 0 ]
+	Size	48
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: King of the Round Table Assemblage.
+Location "Arthur" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 163.96 -35.4 0 ]
+	Size	64
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Arthurian paradise.
+Location "Avalon Chasma" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 213 35 0 ]
+	Size	120
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Knight of "matchless courage and virtue."
+Location "Balin" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 277.49 14.71 0 ]
+	Size	35
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: King of Benwick; father of Sir Launcelot, ally of Arthur in the battle of Bedgrayne.
+Location "Ban" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 199.25 43.93 0 ]
+	Size	37
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Arthurian knight.
+Location "Bedivere" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 210.58 9.57 0 ]
+	Size	25
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: King of Gaul; father of Sir Ector de Marys, Sir Bors, Sir Lyonel.
+Location "Bors" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 187.7 41.82 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/15/08
+# Origin: Home of the Round Table assemblage.
+Location "Camelot Chasma" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 336.6 -43 0 ]
+	Size	150
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Jul 14, 2008; Last update: 8/14/08
+# Origin: Fool at King Arthur's court.
+Location "Dagonet" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 98.38 47.84 0 ]
+	Size	28
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: A knight of the Round Table.
+Location "Dynas" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 279.29 2.35 0 ]
+	Size	35
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Daughter of King Pelles, lover of Sir Launcelot and mother, by him, of Sir Galahad.
+Location "Elaine" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 253 46.33 0 ]
+	Size	21
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Older son of King Lot; killed by Sir Launcelot in his rescue of Gwynevere from burning.
+Location "Gaheris" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 61.81 -44.57 0 ]
+	Size	23
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Bastard son of Launcelot and Elaine. He went on the quest to find the Holy Grail.
+Location "Galahad" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 214.69 -45.32 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Youngest son of King Lot; killed by Sir Launcelot in his rescue of Gwynevere from burning.
+Location "Gareth" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 72.22 -43.06 0 ]
+	Size	23
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Eldest son of King Lot; Arthur's favorite cousin.
+Location "Gawain" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 98.92 -58.54 0 ]
+	Size	27
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Queen; wife of Arthur; lover of Launcelot.
+Location "Gwynevere" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 36.3 -17.6 0 ]
+	Size	42
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: William; German-British astronomer; discovered Mimas and Enceladus (1738-1822).
+Location "Herschel" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 248.24 -1.38 0 ]
+	Size	139
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Wife of Uther; mother of Arthur.
+Location "Igraine" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 128.79 -41.99 0 ]
+	Size	38
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Loved by Tristram.
+Location "Iseult" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 326.22 -47.24 0 ]
+	Size	21
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/15/10
+# Origin: Royal seneschal at Arthur's court.
+Location "Kay" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 239.46 44.61 0 ]
+	Size	24
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Pellinore's son; sent testing horn to King Mark to expose adultery of Sir Tristram.
+Location "Lamerok" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 70.82 -62.27 0 ]
+	Size	20
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: King Arthur's favorite; champion and lover of Queen Gwynevere.
+Location "Launcelot" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 31.51 -9.46 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Leader of the rebel kings of the north and west. Married Margawse and begat Sir Gawain, Sir Aggravayne, Sir Gaheris.
+Location "Lot" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 128.4 -31.46 0 ]
+	Size	22
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 14, 2008; Last update: 8/14/08
+# Origin: Butler at King Arthur's court.
+Location "Lucas" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 139.65 40.75 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 14, 2008; Last update: 8/14/08
+# Origin: Delivers poison wound to Tristram before being mortally wounded by him.
+Location "Marhaus" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 359.94 -8.96 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: King of Cornwall.
+Location "Mark" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 51.68 -26.28 0 ]
+	Size	20.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 14, 2008; Last update: 8/14/08
+# Origin: King of Lyoness; marries King Mark's sister, who dies bearing their son, Sir Tristram. 
+Location "Melyodas" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 282.81 -74.93 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Magician and prophet; son of the devil; Arthur's mentor.
+Location "Merlin" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 140.99 -38.43 0 ]
+	Size	37
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Arthur's bastard son and mortal enemy; delivered fatal wound to Arthur but was killed by him.
+Location "Modred" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 140.32 4.15 0 ]
+	Size	26
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Arthur's half sister; enchantress; plotted to destroy Arthur but failed.
+Location "Morgan" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 115.02 24.21 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 1, 2008; Last update: 8/14/08
+# Origin: King of the West, principal enemy of Arthur.
+Location "Nero" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 52.7 -0.36 0 ]
+	Size	22
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Shook by a Titan in the war between Titans and Olympians.
+Location "Oeta Chasma" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 237.3 19 0 ]
+	Size	110
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 8/15/08
+# Origin: Mt. Pelion piled on top of it in war between Titans and Gods.
+Location "Ossa Chasma" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 56.25 -23.56 0 ]
+	Size	95
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Saracen enemy of Tristam. 
+# Additional info: Defines 162 degrees longitude on Mimas.
+Location "Palomides" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 198 3.39 0 ]
+	Size	10
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Picked up by a Titan in the war with the gods.
+Location "Pangea Chasma" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 19.59 -28.12 0 ]
+	Size	150
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 8/15/08
+# Origin: Mountain piled up with Mt. Ossa in war with gods.
+Location "Pelion Chasma" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 109.92 -25.31 0 ]
+	Size	100
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: King whose duty was to pursue the questing beast and either run it to earth or lose his strength.
+Location "Pellinore" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 224.55 29.76 0 ]
+	Size	36
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Very pure knight; accomplished quest of Holy Grail.
+Location "Percivale" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 181.14 -3.01 0 ]
+	Size	20
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jul 14, 2008; Last update: 8/14/08
+# Origin: King of the West, principal enemy of Arthur.
+Location "Royns" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 12.51 32.46 0 ]
+	Size	22.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/17
+# Origin: Home of Igraine, Arthur's mother.
+# Additional info: Name changed from Tintagil Chasma 7/13/2010.
+Location "Tintagil Catena" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 125 -58 0 ]
+	Size	130
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1982; Last update: 6/17/10
+# Origin: Saved Iseult; fell in love with her.
+Location "Tristram" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 334 -52.32 0 ]
+	Size	20
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/14/08
+# Origin: Ruler of all Britain; Arthur's father.
+Location "Uther" "Sol/Saturn/Mimas"
+{
+	LongLat	[ 109.83 -35.16 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+
+# 85 locations on Enceladus.
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Youngest son; brings father a magic apple; marries the Genie Peri Banu.
+Location "Ahmad" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 49.98 57.87 0 ]
+	Size	18.13
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Brother of Gharib in the tale "The History of Gharib and His Brother Ajib."
+Location "Ajib" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 120.61 61.68 0 ]
+	Size	15.68
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Hero of the tale; he has the magic lamp.
+Location "Aladdin" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 337.86 62.69 0 ]
+	Size	30.53
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: The barber's first brother in "The Hunchback’s Tale."
+Location "Al-Bakbuk" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 168.38 5.26 0 ]
+	Size	9.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/17/08
+# Origin: City in the tale "The Sharper of Alexandria and the Chief of Police" from Richard F. Burton's Arabian Nights.
+Location "Alexandria Sulcus" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 222.44 -75.63 0 ]
+	Size	111
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: The barber's third brother in "The Hunchback’s Tale."
+Location "Al-Fakik" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 53.45 35.52 0 ]
+	Size	15.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: The barber's second brother in "The Hunchback’s Tale."
+Location "Al-Haddar" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 159.22 50.48 0 ]
+	Size	15.08
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Hero of tale who found a great treasure owned by 40 thieves.
+Location "Ali Baba" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 342.49 56.84 0 ]
+	Size	34.09
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: The barber’s fourth brother in “The Hunchback’s Tale.”
+Location "Al-Kuz" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 181.34 -18.88 0 ]
+	Size	10.15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: Place in the tale "The Lovers of Al-Medinah."
+Location "Al-Medinah Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 1.4 -50.7 0 ]
+	Size	117.5
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Father of benevolent prince Al-Mustansir in "The Hunchback’s Tale."
+Location "Al-Mustazi" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 158.25 -21.09 0 ]
+	Size	9.98
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: Place in the tale "The Man of Al-Yaman and His Six Slave-Girls."
+Location "Al-Yaman Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 168.2 9.7 0 ]
+	Size	177.9
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: City in the tale "The Prior who became a Moslem."  
+Location "Anbar Fossae" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 36.68 -8.76 0 ]
+	Size	165
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: City in the tale "The Merchant’s Daughter and the Prince Al-Irak."
+Location "Andalús Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 280.9 29.1 0 ]
+	Size	162
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Damascus merchant, father of Ghanim and Fitnah in the "Tale of Ghanim Bin Ayyub, the Distraught, the Thrall O’ Love."
+Location "Ayyub" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 64.98 38.58 0 ]
+	Size	17.45
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Man betrothed to his cousin Azizah in "The tale of Aziz and Azizah."
+Location "Aziz" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 11.51 17.73 0 ]
+	Size	10.52
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/17/08
+# Origin: City where the hunchback did his tailoring in "The Hunchback’s Tale" from Richard F. Burton's Arabian Nights.
+Location "Baghdad Sulcus" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 129.46 -86.91 0 ]
+	Size	176
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Oldest Prince, brother of Parwez and Perizadah in the tale "The Two Sisters Who Envied Their Cadette."
+Location "Bahman" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 298.63 14.7 0 ]
+	Size	10.56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/4/06
+# Origin: Town from which Sindbad embarked on his 3rd voyage.
+Location "Bassorah Fossa" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 340.1 39.8 0 ]
+	Size	75
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Son of a Persian king in the tale "Prince Behram and the Princess Al-Datma."
+Location "Behram" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 178.51 -15.43 0 ]
+	Size	13.29
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: Place in the tale "Prince Ahmad and the Fairy Peri Banu."
+Location "Bishangarh Fossae" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 134.2 -24 0 ]
+	Size	163
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Feb 4, 2010; Last update: 11/26/14
+# Origin: Place in the tale "Story of the Chief of the Bulak Police."
+Location "Bulak Sulcus" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 250.68 16.67 0 ]
+	Size	49.42
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: City in the "Tale of Nur Al-Din Ali and his son Badr Al-Din Hassan."  
+Location "Cairo Sulcus" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 205.52 -81.62 0 ]
+	Size	165
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: Islands in the "Tale of Aziz and Azizah." 
+Location "Camphor Sulcus" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 210.6 -70.78 0 ]
+	Size	77
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: City in "The Goldsmith and the Cashmere Singing Girl."
+Location "Cashmere Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 63.94 -52.07 0 ]
+	Size	260
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: City in the "Tale of Kamar Al-Zaman."
+Location "Cufa Dorsa" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 73.83 3.19 0 ]
+	Size	90
+	Type	"DO"	# Dorsum, dorsa
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Crafty old crone who fools several men.
+Location "Dalilah" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 110.35 51.55 0 ]
+	Size	15.51
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/17/08
+# Origin: Home city of the merchant Ayyub, father of Ghanim and Fitnah in the "Tale of Ghanim Bin Ayyub, the Distraught, the Thrall O’ Love." 
+Location "Damascus Sulcus" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 74.13 -80.59 0 ]
+	Size	125
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1982; Last update: 7/15/08
+# Origin: "Ocean region"; land from which Princess Daryabar came.
+Location "Daryabar Fossa" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 354.58 9.65 0 ]
+	Size	200
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 1982; Last update: 7/15/08
+# Origin: Country where Khudadad's father ruled.
+Location "Diyar Planitia" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 108.05 -13.4 0 ]
+	Size	325
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Sage who cured King Yunan of leprosy.
+Location "Duban" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 78.74 58.07 0 ]
+	Size	18.73
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Sister of Shahrazad.
+Location "Dunyazad" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 157.96 41.51 0 ]
+	Size	30.81
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: City in the "Tale of Kamar Al-Zaman."
+Location "Ebony Dorsum" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 79.46 5.74 0 ]
+	Size	70
+	Type	"DO"	# Dorsum, dorsa
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Daughter of Ayyub, sister of Ghanim in the "Tale of Ghanim Bin Ayyub, the Distraught, the Thrall O’ Love."
+Location "Fitnah" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 70.01 45.39 0 ]
+	Size	15.54
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Son of  Ayyub, brother of Fitnah in the "Tale of Ghanim Bin Ayyub, the Distraught, the Thrall O’Love."
+Location "Ghanim" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 79.22 38.74 0 ]
+	Size	14.18
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 7/15/08
+# Origin: Hero of many tales.
+Location "Gharib" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 118.85 81.12 0 ]
+	Size	26
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: City in the tale "The Man's Dispute with the Learned Woman of the Relative Excellence of the Male and Female."
+Location "Hamah Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 54 27.26 0 ]
+	Size	164
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1982; Last update: 7/15/08
+# Origin: City where Khudadad's father ruled.
+Location "Harran Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 114.07 26.39 0 ]
+	Size	291
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Harun al-Rashid; Caliph in many tales, for example "Harun Al-Rashid and the Two Slave-Girls."
+Location "Harun" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 134.26 36.47 0 ]
+	Size	14.58
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Character in the tale "Hassan of Bassorah."
+Location "Hassan" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 171.09 -31.57 0 ]
+	Size	15.27
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Caliph in the tale "The Caliph Hisham and the Arab Youth."
+Location "Hisham" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 79.59 48.25 0 ]
+	Size	21.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 7/15/08
+# Origin: Fakir Taj's home; may be ancient Ctesiphon.
+Location "Isbanir Fossa" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 1.74 11.3 0 ]
+	Size	170
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Character in the tale "Isaac of Mosul and the Merchant."
+Location "Ishak" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 134.98 47.6 0 ]
+	Size	13.84
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Vizier of Harun al-Rashid in the tale "Nur al-Din Ali and the Damsel Anis al-Jalis."
+Location "Ja’afar" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 22.44 34.6 0 ]
+	Size	10.15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Female hero in "The Story of Jansha."
+Location "Jansha" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 202.6 -30.65 0 ]
+	Size	10.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: The seaborn; heroine of nights 738 to 756.
+Location "Julnar" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 12.91 53.76 0 ]
+	Size	17.32
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Kamar al-Akmár; Prince, son of Sabur (King of Persia) in the tale "The Ebony Horse."
+Location "Kamar" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 327.75 -40.62 0 ]
+	Size	19.55
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: The greedy brother of Ali Baba in the tale "Ali Baba and the Forty Thieves."
+Location "Kasim" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 186.95 42.35 0 ]
+	Size	10.53
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: Place in the tale "How Abu Hasan Brake Wind."
+Location "Kaukabán Fossae" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 94 33 0 ]
+	Size	83.4
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: Place (province) in the tale "Ali Shar and Zumurrud." 
+Location "Khorasan Fossa" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 123.13 -19 0 ]
+	Size	290
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: King, husband of Shirin in the tale "Khusrau and Shirin and the Fisherman."
+Location "Khusrau" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 174.14 -4.1 0 ]
+	Size	12.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 7/15/08
+# Origin: Royal city, site of a tower locked by kings in the tale "The City of Labtayt."
+Location "Labtayt Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 73.92 -27.69 0 ]
+	Size	162
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/17/08
+# Origin: City in the tale “How Abu Hasan brake wind.”
+Location "Láhej Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 58 -10.89 0 ]
+	Size	150
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Hero in the tale "Ma'aruf the Cobbler and His Wife Fatimah."
+Location "Ma’aruf" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 26.42 -37.16 0 ]
+	Size	7.02
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: Land in the tale "The Tale of Salim, the Youth of Khorasan, and Salma, his Sister."
+Location "Makran Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 224.2 -54.4 0 ]
+	Size	170.5
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Queen in the "Tale of Kamar Al-Zaman."
+Location "Marjanah" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 56.99 38.2 0 ]
+	Size	12.95
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Eunuch sworder in the tale "Nur al-Din Ali and the Damsel Anis al-Jalis."
+Location "Masrur" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 65.73 66.27 0 ]
+	Size	15.13
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: City in the tale "History of Al-Hajjaj Bin Yusuf and the Young Sayyid."
+Location "Misr Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 160.3 18 0 ]
+	Size	109.8
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Clever slave girl in the tale "Ali Baba and the Forty Thieves."
+Location "Morgiana" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 163.83 31.75 0 ]
+	Size	15.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/17/08
+# Origin: City where Isaac was pulled up in a basket to a mansion and four damsels in the tale “Isaac of Mosul.” 
+Location "Mosul Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 23.27 -58.1 0 ]
+	Size	60
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Goes to get the vessels that contain Jinni in "The City of Brass".
+Location "Musa" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 348.41 73.85 0 ]
+	Size	21.81
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Old tailor in the tale "Aladdin; or The Wonderful Lamp."
+Location "Mustafa" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 175.05 -30.76 0 ]
+	Size	15.54
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Great king, father of Sharrkan and Zau al-Makán in "The Tale of King Omar and his Sons."
+Location "Omar" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 86.03 17.89 0 ]
+	Size	11.54
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/28/14
+# Origin: Figure in the tale "Otbah and Rayya."
+Location "Otbah" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 200.2 -40.03 0 ]
+	Size	10.02
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/28/14
+# Origin: Second prince, brother of Bahman and Perizadah in the tale "The Two Sisters Who Envied Their Cadette."
+Location "Parwez" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 334.44 22.95 0 ]
+	Size	13.49
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/28/14
+# Origin: Genie who marries Ahmad and helps him fulfill the demands of his father.
+Location "Peri-Banu" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 40.86 62.04 0 ]
+	Size	14.89
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/29/14
+# Origin: Youngest princess, sister of Bahman and Parwez in the tale "The Two Sisters Who Envied Their Cadette."
+Location "Perizadah" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 204.89 -21.12 0 ]
+	Size	10.43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 8/29/14
+# Origin: Female character in the tale "Otbah and Rayya."
+Location "Rayya" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 181.12 -32.41 0 ]
+	Size	9.54
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 8/29/14
+# Origin: King of Persia and father of Kamar in the tale "The Ebony Horse."
+Location "Sabur" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 63.82 -23.9 0 ]
+	Size	7.53
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/29/14
+# Origin: Brother of Julnar.
+# Additional info: Defines 5 degrees longitude on Enceladus.
+Location "Salih" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 355.6 -5.99 0 ]
+	Size	4.41
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 8/29/14
+# Origin: Shayk who guides Musa and Talib to the mountains in "The City of Brass".
+Location "Samad" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 358.77 61.69 0 ]
+	Size	14.98
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 12, 2015; Last update: 6/22/15
+# Origin: Place in the tale "Khudadad and His Brothers."
+# Additional info: Replaces Samaria Fossa.
+Location "Samaria Rupes" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 134.87 26.86 0 ]
+	Size	193.35
+	Type	"RU"	# Rupes, rupēs
+}
+
+# Approval date: 1982; Last update: 7/15/08
+# Origin: Country ruled over by Zaman, brother of Shahryar.
+Location "Samarkand Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 32.5 30 0 ]
+	Size	360
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: 1982; Last update: 7/15/08
+# Origin: Ceylon (Sri Lanka); the island visited by Sindbad on his 6th voyage.
+Location "Sarandib Planitia" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 48.18 10.23 0 ]
+	Size	165
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: 1982; Last update: 8/29/14
+# Origin: Heroine who tells King Shahryar "The Tales of a Thousand Nights".
+Location "Shahrazad" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 158.4 46.5 0 ]
+	Size	19.91
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 11/6/14
+# Origin: King whom Shahrazad beguiles with the tales of a thousand nights and a night.
+Location "Shahryar" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 133.31 57.71 0 ]
+	Size	24
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/6/14
+# Origin: The barber's sixth brother in "The Hunchback’s Tale."
+Location "Shakashik" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 178.74 -17.59 0 ]
+	Size	8.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/6/14
+# Origin: Son of the great King Omar in "The Tale of King Omar and his Sons."
+Location "Sharrkan" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 58.09 16.42 0 ]
+	Size	4.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: Place in "Prince Ahmad and the Fairy Peri Banu."
+Location "Shiraz Sulcus" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 320.6 -57.2 0 ]
+	Size	80
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/6/14
+# Origin: Wife of King Khusrau in the tale "Khusrau and Shirin and the Fisherman."
+Location "Shirin" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 187.18 -2.27 0 ]
+	Size	8.84
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 11/6/14
+# Origin: Voyager who had many marvelous adventures on seven voyages.
+Location "Sindbad" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 148.39 66.97 0 ]
+	Size	29.44
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2010; Last update: 2/4/10
+# Origin: City in the tale "The Merchant’s Daughter and the Prince of Al-Irak."
+Location "Sind Sulci" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 252.7 -16.4 0 ]
+	Size	116
+	Type	"SU"	# Sulcus, sulci
+}
+
+# Approval date: Nov 17, 2009; Last update: 11/6/14
+# Origin: Fictional king of Persian city in the tale "The Tale of the Vizier and the Sage Duban."
+Location "Yunan" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 74.21 53.95 0 ]
+	Size	19.52
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 17, 2009; Last update: 11/6/14
+# Origin: Daughter of Dalilah in the tale "The Rogueries of Dalilah the Crafty and Her Daughter Zaynab the Coney-Catcher."
+Location "Zaynab" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 333.03 69.52 0 ]
+	Size	23.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Nov 7, 2006; Last update: 11/6/14
+# Origin: Female character in the tale "Ali Shar and Zumurrud."
+Location "Zumurrud" "Sol/Saturn/Enceladus"
+{
+	LongLat	[ 177.95 -22.23 0 ]
+	Size	20.8
+	Type	"AA"	# Crater, craters
+}
+
+
+# 53 locations on Tethys.
+
+# Approval date: Apr 28, 2008; Last update: 6/19/08
+# Origin: Son of Peleus and Thetis, commander of the Myrmidons at Troy.  
+Location "Achilles" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 35.62 0.6 0 ]
+	Size	58.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/19/08
+# Origin: Brother of Circe.
+Location "Aietes" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 353.77 -41.44 0 ]
+	Size	91
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/19/08
+# Origin: Greek hero second only to Achilles.
+Location "Ajax" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 78 -28.41 0 ]
+	Size	88
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/19/08
+# Origin: King of Phaeacia, husband of Arete, father of Nausicaa.  
+Location "Alcinous" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 147.39 30.31 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/19/08
+# Origin: A suitor killed by Telemachus, a favorite of Penelope.  
+Location "Amphinomus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 231.3 -14.87 0 ]
+	Size	13.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/19/08
+# Origin: Mother of Odysseus.
+Location "Anticleia" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 327.63 51.31 0 ]
+	Size	100.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/19/08
+# Origin: Chief of the wooers; slain by Odysseus.
+Location "Antinous" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 73.85 -59.89 0 ]
+	Size	138
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/19/08
+# Origin: Wife of Alcinous, mother of Nausicaa. 
+# Additional info: Defines 299 degrees longitude on Tethys.
+Location "Arete" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 61 -4.67 0 ]
+	Size	13
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/15/10
+# Origin: Changed Odysseus' companions into swine.
+Location "Circe" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 305.34 -12.6 0 ]
+	Size	79
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/19/08
+# Origin: Blind Phaeacian singer.
+Location "Demodocus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 341.79 -59.37 0 ]
+	Size	125
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/19/08
+# Origin: Son of Tydeus, king of Argos.  
+Location "Diomedes" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 70.58 38.12 0 ]
+	Size	48.57
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Old servant of Penelope.
+Location "Dolius" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 149.67 -30.15 0 ]
+	Size	190
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Follower of Odysseus.
+Location "Elpenor" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 96.31 53.43 0 ]
+	Size	60
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Father of Maron.
+Location "Euanthes" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 121.09 7.86 0 ]
+	Size	33
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Faithful swineherd who greets Odysseus, gave him warm cloak and guided him to palace.
+Location "Eumaeus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 308.88 23.1 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Father of Antinous.
+Location "Eupithes" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 188.79 18.71 0 ]
+	Size	22.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Faithful old nurse of Odysseus.
+Location "Eurycleia" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 113.5 52.54 0 ]
+	Size	31
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 11/17/08
+# Origin: Odysseus’ second in command.
+Location "Eurylochus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 332.32 -5.07 0 ]
+	Size	44.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: One of the two leading suitors of Penelope, killed by Odysseus.  
+Location "Eurymachus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 295 -35.65 0 ]
+	Size	38.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Son of Alcinous and Arete.
+Location "Halius" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 355.04 44.4 0 ]
+	Size	29.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Daughter of Menelaus and Helen.  
+Location "Hermione" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 211.31 -38.4 0 ]
+	Size	68.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Father of Penelope.
+Location "Icarius" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 54.15 -5.89 0 ]
+	Size	54.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Ithacan beggar.
+Location "Irus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 115.19 -27 0 ]
+	Size	26.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/5/08
+# Origin: An Ionian island, home of Odysseus.
+Location "Ithaca Chasma" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 353.9 -14 0 ]
+	Size	1219
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Father of Odysseus.
+Location "Laertes" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 292.54 -46.36 0 ]
+	Size	51.13
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: A suitor of Penelope, killed by Telemachus.  
+Location "Leocritus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 241.34 21.53 0 ]
+	Size	12.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 11/17/08
+# Origin: Ino’s name after she became a goddess.  
+Location "Leucothea" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 236.16 -4.26 0 ]
+	Size	13.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Son of Euanthes, priest of Apollo at Ismarus.  
+Location "Maron" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 240.67 2.52 0 ]
+	Size	11.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Herald of Odysseus in Ithaca.  
+Location "Medon" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 216.69 25.5 0 ]
+	Size	18.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Disloyal goatherd; insults Odysseus; is slain.
+Location "Melanthius" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 167.39 -58.5 0 ]
+	Size	250
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Friend of Odysseus.
+Location "Mentor" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 315.84 0.25 0 ]
+	Size	62
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Father of Euryalos.
+Location "Naubolos" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 54.82 -72.19 0 ]
+	Size	54.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Daughter of Alcinous who advised Odysseus.
+Location "Nausicaa" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 355 84.4 0 ]
+	Size	69
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Father of Nestor.
+Location "Neleus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 334.28 -19.38 0 ]
+	Size	37.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: A wise old king.
+Location "Nestor" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 295.19 -54 0 ]
+	Size	38.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Hero of Odyssey.
+Location "Odysseus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 231.11 32.82 0 ]
+	Size	445
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 11/17/08
+# Origin: Father of Penelope’s suitor Leodes.  
+Location "Oenops" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 266.56 28.13 0 ]
+	Size	25.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/5/08
+# Origin: Island home of Calypso.
+Location "Ogygia Chasma" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 264.8 56 0 ]
+	Size	120
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Father of Ctesius.
+Location "Ormenus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 316.15 -20.39 0 ]
+	Size	39.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Faithful wife of Odysseus.
+Location "Penelope" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 110.78 -10.83 0 ]
+	Size	207.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Mother of Nausithous.
+Location "Periboea" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 325.14 8 0 ]
+	Size	51
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Minstrel to the wooers; spared by Odysseus.
+Location "Phemius" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 73.78 11.32 0 ]
+	Size	75.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Faithful herdsman of Odysseus' flock.  
+Location "Philoetius" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 175.29 2.32 0 ]
+	Size	28.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Daughter of Nestor.
+Location "Polycaste" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 273.59 1.38 0 ]
+	Size	23
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Cyclops battled by Odysseus.
+Location "Polyphemus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 77.02 -3.48 0 ]
+	Size	73
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Son of Cronos, brother of Zeus, god of the sea.  
+Location "Poseidon" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 258.7 -55.71 0 ]
+	Size	63
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Brother of Alcinous.
+Location "Rhexenor" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 294.78 -75.63 0 ]
+	Size	38
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Father of Tyro.
+Location "Salmoneus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 24.82 -1.77 0 ]
+	Size	93
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/5/08
+# Origin: Island of the Phaeacians visited by Odysseus on his way home.  
+Location "Scheria Montes" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 229 30 0 ]
+	Size	185
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Aged prophet; Odysseus consults him among the dead.
+Location "Teiresias" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 359.17 60.39 0 ]
+	Size	14.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/20/08
+# Origin: Son of Odysseus.
+Location "Telemachus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 20.62 54 0 ]
+	Size	92
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 6/20/08
+# Origin: Prophet of the Cyclops.
+Location "Telemus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 3.11 -34.53 0 ]
+	Size	320
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 28, 2008; Last update: 11/17/08
+# Origin: Fugitive prophet, given refuge on Telemachus’ ship.  
+Location "Theoclymenus" "Sol/Saturn/Tethys"
+{
+	LongLat	[ 154.37 -14.43 0 ]
+	Size	34.3
+	Type	"AA"	# Crater, craters
+}
+
+
+# 93 locations on Dione.
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: King of Sicily.
+Location "Acestes" "Sol/Saturn/Dione"
+{
+	LongLat	[ 116.63 50.1 0 ]
+	Size	108
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: King of Argos, one of the seven against Thebes, and the only one to return alive.
+Location "Adrastus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 313.43 -61.66 0 ]
+	Size	38.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Hero of the Aeneid. The son of Anchises and Venus and a member of the royal family of Troy.
+Location "Aeneas" "Sol/Saturn/Dione"
+{
+	LongLat	[ 313.73 25.89 0 ]
+	Size	161
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A Trojan defending Aeneas’ camp against the Rutulians, killed by Turnus.
+Location "Alcander" "Sol/Saturn/Dione"
+{
+	LongLat	[ 64.51 -52.89 0 ]
+	Size	120
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: One of the Furies.
+Location "Allecto" "Sol/Saturn/Dione"
+{
+	LongLat	[ 135.44 -7.73 0 ]
+	Size	106
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Trojan, victim of Camilla.
+Location "Amastrus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 122.97 -9.96 0 ]
+	Size	62.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Mother of Lavinia (wife of Aeneas).
+# Additional info: Name moved 3/17/2008 to a smaller, well-defined crater.
+Location "Amata" "Sol/Saturn/Dione"
+{
+	LongLat	[ 80.19 5.17 0 ]
+	Size	76
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Trojan, comrade of Aeneas.
+Location "Amycus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 271.38 -37.52 0 ]
+	Size	27.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Aeneas' father.
+Location "Anchises" "Sol/Saturn/Dione"
+{
+	LongLat	[ 295 -34 0 ]
+	Size	47
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Sister and confidante of Dido.   
+Location "Anna" "Sol/Saturn/Dione"
+{
+	LongLat	[ 270.04 -63.38 0 ]
+	Size	14.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Nephew of Priam. He escaped the fall of Troy and reached Italy before Aeneas, where he founded Padua.
+Location "Antenor" "Sol/Saturn/Dione"
+{
+	LongLat	[ 348.46 -7 0 ]
+	Size	81
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A district of Rome near the Forum.
+Location "Argiletum Fossae" "Sol/Saturn/Dione"
+{
+	LongLat	[ 327.9 65.18 0 ]
+	Size	224
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Mar 17, 2008; Last update: 2/25/11
+# Origin: Town in Apulia (now Puglia, southern Italy) founded after the Trojan war by Diomedes.
+Location "Arpi Fossae" "Sol/Saturn/Dione"
+{
+	LongLat	[ 241 52 0 ]
+	Size	425
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Son of Aeneas by Creusa.
+Location "Ascanius" "Sol/Saturn/Dione"
+{
+	LongLat	[ 127.82 33.43 0 ]
+	Size	98
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: Early king of Troy, son of Tros, brother of Ilus and Ganymede.
+Location "Assaracus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 351.21 32.65 0 ]
+	Size	60
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/23/08
+# Origin: River in the Apulian territory of Diomedes, now called the Ofanto.  
+Location "Aufidus Catena" "Sol/Saturn/Dione"
+{
+	LongLat	[ 63.6 -78 0 ]
+	Size	275
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Etruscan chief, ally of Aeneas.  
+Location "Aulestes" "Sol/Saturn/Dione"
+{
+	LongLat	[ 212.27 9.9 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/23/08
+# Origin: An old town in Campania.
+Location "Aurunca Chasmata" "Sol/Saturn/Dione"
+{
+	LongLat	[ 93.3 11.56 0 ]
+	Size	290
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: A famous boxer who had been defeated by Dares.
+Location "Butes" "Sol/Saturn/Dione"
+{
+	LongLat	[ 313.6 65.72 0 ]
+	Size	35
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: A nurse of Aeneas.
+Location "Caieta" "Sol/Saturn/Dione"
+{
+	LongLat	[ 280.37 -24.71 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 13, 2008; Last update: 6/4/08
+# Origin: A warrior maiden; ally of Turnus.
+Location "Camilla" "Sol/Saturn/Dione"
+{
+	LongLat	[ 299.39 -4.36 0 ]
+	Size	31.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/28/08
+# Origin: A Punic (Phoenician) city in North Africa.
+# Additional info: Name changed from Carthage Linea 3/17/2008.
+Location "Carthage Fossae" "Sol/Saturn/Dione"
+{
+	LongLat	[ 23.25 11.93 0 ]
+	Size	500
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 1982; Last update: 5/15/10
+# Origin: Daughter of Priam; she could foretell the future.
+# Additional info: Name moved 3/17/2008 to a small, well-defined crater.
+Location "Cassandra" "Sol/Saturn/Dione"
+{
+	LongLat	[ 113.78 -39.84 0 ]
+	Size	13
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Brother of Tiburtus and twin brother of Coras.
+Location "Catillus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 84.7 -2.38 0 ]
+	Size	42.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/28/08
+# Origin: One of the twelve chief cities of Etruria, situated on the river Clanis.  
+Location "Clusium Fossae" "Sol/Saturn/Dione"
+{
+	LongLat	[ 58.46 39.27 0 ]
+	Size	260
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Brother of Tiburtus and twin brother of Catillus. He was founder of Tibur and an ally of Turnus against Aeneas.
+Location "Coras" "Sol/Saturn/Dione"
+{
+	LongLat	[ 91.55 0.39 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 11/17/08
+# Origin: A Trojan warrior who took part in the defense of Aeneas’ camp against the Rutulians.  
+Location "Cretheus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 271.47 -43.35 0 ]
+	Size	29
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Daughter of Priam; first wife of Aeneas.
+Location "Creusa" "Sol/Saturn/Dione"
+{
+	LongLat	[ 283.68 49.19 0 ]
+	Size	36.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Rutulian, father of the twins Thymber and Larides.  
+Location "Daucus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 58.86 -15.38 0 ]
+	Size	80
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Ancient king of the Laurentians.  
+Location "Dercennus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 80.07 29.75 0 ]
+	Size	86.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Tyrian princess who founded Carthage.
+Location "Dido" "Sol/Saturn/Dione"
+{
+	LongLat	[ 341.18 -23.97 0 ]
+	Size	122
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/28/08
+# Origin: Coastal town of Sicily where Aeneas found a safe harbor during a raging storm, and where Anchises died.  
+Location "Drepanum Chasma" "Sol/Saturn/Dione"
+{
+	LongLat	[ 95 -46 0 ]
+	Size	360
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Sicilian boxing champion.
+Location "Entellus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 149.46 -10.93 0 ]
+	Size	63
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Superhuman son of the goddess Feronia.   
+Location "Erulus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 255.24 -35 0 ]
+	Size	120
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Trojan companion of Aeneas.  
+Location "Eumelus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 294.04 -0.1 0 ]
+	Size	35.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 2/25/11
+# Origin: The river on which Sparta stood.
+Location "Eurotas Chasmata" "Sol/Saturn/Dione"
+{
+	LongLat	[ 58.65 4.94 0 ]
+	Size	1000
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Trojan companion of Aeneas, friend of Nisus.   
+Location "Euryalus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 360 -74.36 0 ]
+	Size	35
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Son of Mercury by Carmentis, ally of Aeneas against the Latins, mythical king of Arcadia, founded and ruled Pallanteum, built on the future site of Rome.  
+Location "Evander" "Sol/Saturn/Dione"
+{
+	LongLat	[ 215 -57 0 ]
+	Size	350
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A Rutulian of those besieging the men of Aeneas in their leader’s absence.
+Location "Fadus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 134.82 -35.94 0 ]
+	Size	47
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/28/08
+# Origin: Town in Latium near Rome.
+Location "Fidena Fossae" "Sol/Saturn/Dione"
+{
+	LongLat	[ 264 0.66 0 ]
+	Size	550
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: An old Italian killed in the first fighting between Latins and Trojans while trying to make peace.
+Location "Galaesus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 63.75 46.77 0 ]
+	Size	79
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: There are two persons in the Aeneid with this name: (a) a Rutulian from a group attacking the Trojan’s camp in the absence of Aeneas, and (b) an Italian whose son, priest of Apollo and Diana, was a soldier of Turnus.
+Location "Haemon" "Sol/Saturn/Dione"
+{
+	LongLat	[ 83.69 84.33 0 ]
+	Size	65.22
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: A Trojan defending Aeneas' camp against the Rutulian attack. He was killed by Turnus.
+Location "Halys" "Sol/Saturn/Dione"
+{
+	LongLat	[ 306.28 -59.17 0 ]
+	Size	35.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A river in southeastern Sicily with wide marshes near its mouth.
+Location "Helorus Fossa" "Sol/Saturn/Dione"
+{
+	LongLat	[ 283.52 -31.84 0 ]
+	Size	105
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Rutulian who besieged Aeneas' camp.  
+Location "Herbesus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 203.89 34.68 0 ]
+	Size	58.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A river of the Sabines, affluent of the Tiber.
+Location "Himella Fossa" "Sol/Saturn/Dione"
+{
+	LongLat	[ 23.45 -45.6 0 ]
+	Size	147
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: There are two persons in the Aeneid with this name: (a) father of Palinurus, and (b) father of Iapyx.
+Location "Iasus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 114.08 -22.13 0 ]
+	Size	54
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Also known as Rhea Silvia; Mother by Mars of Romulus and Remus, the founders of Rome.
+Location "Ilia" "Sol/Saturn/Dione"
+{
+	LongLat	[ 13.73 -0.5 0 ]
+	Size	52.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Ancient hero, eponymous ancestor of the Italians.
+Location "Italus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 283.59 -18.47 0 ]
+	Size	35.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/23/08
+# Origin: Hill across the Tiber river from Rome.
+Location "Janiculum Dorsa" "Sol/Saturn/Dione"
+{
+	LongLat	[ 215.9 24.6 0 ]
+	Size	900
+	Type	"DO"	# Dorsum, dorsa
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A soldier of Turnus.
+Location "Lagus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 257.05 -13.56 0 ]
+	Size	77
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A Rutulian with the troops besieging the camp of Aeneas.
+Location "Lamyrus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 104.39 53.67 0 ]
+	Size	61
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 11/17/08
+# Origin: A Rutulian, member of Turnus’ army, son of Daucus, twin brother of Thymber.  
+Location "Larides" "Sol/Saturn/Dione"
+{
+	LongLat	[ 48.58 7.17 0 ]
+	Size	29
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/28/08
+# Origin: A town in Thessaly, Achilles' native region.
+Location "Larissa Chasma" "Sol/Saturn/Dione"
+{
+	LongLat	[ 290.5 28.98 0 ]
+	Size	150
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Soldier of Aeneas.
+Location "Latagus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 333.54 14.65 0 ]
+	Size	41
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: King of Latium, husband of Amata.   
+Location "Latinus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 159 52.19 0 ]
+	Size	130
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/28/08
+# Origin: The Trojans' promised land in Italy.
+Location "Latium Chasma" "Sol/Saturn/Dione"
+{
+	LongLat	[ 296.07 20 0 ]
+	Size	360
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Son of Mezentius, killed by Aeneas.
+Location "Lausus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 337.24 34.81 0 ]
+	Size	23.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Soldier of Turnus, brother of Lucagus.  
+Location "Liger" "Sol/Saturn/Dione"
+{
+	LongLat	[ 233.37 24 0 ]
+	Size	53
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Soldier of Turnus, brother of Liger.  
+Location "Lucagus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 228.75 22.15 0 ]
+	Size	45.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: A soldier of Turnus, killed by Aeneas.
+Location "Magus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 335.65 18.44 0 ]
+	Size	45.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: An Etruscan ally of Aeneas.
+Location "Massicus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 304.61 -35 0 ]
+	Size	39
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Rutulian, charioteer of Turnus.  
+Location "Metiscus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 266.71 6 0 ]
+	Size	43.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Etruscan king, ally of Turnus, father of Lausus.  
+Location "Mezentius" "Sol/Saturn/Dione"
+{
+	LongLat	[ 177 19.16 0 ]
+	Size	51
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Rutulian.
+Location "Murranus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 269.27 12.82 0 ]
+	Size	56.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Trojan companion of Aeneas, friend of Euryalus.  
+Location "Nisus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 25 -68.18 0 ]
+	Size	35
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: An ally of Turnus, son of Telon and Sebethis.
+Location "Oebalus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 8.4 44.47 0 ]
+	Size	35.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/23/08
+# Origin: A Lydian river said to carry gold dust after King Midas washed off his golden touch in its waters.  
+Location "Pactolus Catena" "Sol/Saturn/Dione"
+{
+	LongLat	[ 32.85 8.79 0 ]
+	Size	180
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/28/08
+# Origin: City in northern Italy founded by Antenor.
+# Additional info: Changed from Paudua Linea 3/17/2008.
+Location "Padua Chasmata" "Sol/Saturn/Dione"
+{
+	LongLat	[ 112.83 17.7 0 ]
+	Size	1025
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: An Etruscan killed by Camilla.  
+Location "Pagasus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 119 -3 0 ]
+	Size	67
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/28/08
+# Origin: One of the Seven Hills of Rome.
+# Additional info: Descriptor term changed to plural (chasmata) and coordinates and size changed 3/17/2008.
+Location "Palatine Chasmata" "Sol/Saturn/Dione"
+{
+	LongLat	[ 44 -48 0 ]
+	Size	1100
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Pilot of Aeneas' fleet. 
+# Additional info: Defines 63 degrees longitude on Dione. This name was mistakenly applied to a larger crater (4.0S, 61.4W, 33 km), but was moved back to the longitude-defining crater (also a RAND control point crater) on Jan. 11, 2008.
+Location "Palinurus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 297 -3.3 0 ]
+	Size	11.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/23/08
+# Origin: River of Sicily.
+Location "Pantagias Catenae" "Sol/Saturn/Dione"
+{
+	LongLat	[ 218.3 -15.3 0 ]
+	Size	200
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: Mar 17, 2008; Last update: 5/28/08
+# Origin: Town of Lucania in southern Italy, founded by Philoctetes.
+Location "Petelia Fossae" "Sol/Saturn/Dione"
+{
+	LongLat	[ 277.57 -8.16 0 ]
+	Size	225
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Trojan defending Aeneas' camp against Rutulian attack.  
+Location "Phaleris" "Sol/Saturn/Dione"
+{
+	LongLat	[ 193.42 -77.4 0 ]
+	Size	44
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A Trojan, companion of Aeneas.
+Location "Phorbas" "Sol/Saturn/Dione"
+{
+	LongLat	[ 228.71 81.2 0 ]
+	Size	69.3
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Trojan defending Aeneas' camp against Rutulian attack.  
+Location "Prytanis" "Sol/Saturn/Dione"
+{
+	LongLat	[ 72.6 -46.25 0 ]
+	Size	96
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: He and his brother Romulus founded Rome.
+Location "Remus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 328.1 -13.58 0 ]
+	Size	62
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: A Trojan. He fought at the side of Aeneas during Troy's last night.
+Location "Ripheus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 323.2 -56.47 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Mythical founder of Rome in 754 or 753 B.C., son of Mars by Ilia (Rhea Silvia).
+Location "Romulus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 333.15 -8.15 0 ]
+	Size	90.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Fabled ancestor of the Sabines.
+Location "Sabinus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 173.34 -43.65 0 ]
+	Size	88
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Servant of Aeneas.
+Location "Sagaris" "Sol/Saturn/Dione"
+{
+	LongLat	[ 255.8 4.93 0 ]
+	Size	53
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: There are two persons in the Aeneid with this name: (a) a companion of Aeneas and a contestant in the foot race, and (b) a Rutulian.
+Location "Salius" "Sol/Saturn/Dione"
+{
+	LongLat	[ 178.27 65.09 0 ]
+	Size	44
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Son of Aeneas and Lavinia.
+Location "Silvius" "Sol/Saturn/Dione"
+{
+	LongLat	[ 27.74 -32.7 0 ]
+	Size	74
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: There are two persons in the Aeneid with this name: (a) a Rutulian in the troop of Volcens, and (b) an Italian whose sons fought for Turnus.
+Location "Sulmo" "Sol/Saturn/Dione"
+{
+	LongLat	[ 26.5 55.92 0 ]
+	Size	56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: Ruler of the Teleboans on Capri; father of Oebalus.
+Location "Telon" "Sol/Saturn/Dione"
+{
+	LongLat	[ 262.8 -16.2 0 ]
+	Size	39.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: A Trojan, killed by Camilla.  
+Location "Tereus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 115 -2.6 0 ]
+	Size	45
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 11/17/08
+# Origin: A Rutulian, member of Turnus’ army, son of Daucus, twin brother of Larides.  
+Location "Thymber" "Sol/Saturn/Dione"
+{
+	LongLat	[ 50.85 14 0 ]
+	Size	27.29
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 9/24/08
+# Origin: Ancient town of Italy (modern name Tivoli) not far from Rome on the river Anio.
+Location "Tibur Chasmata" "Sol/Saturn/Dione"
+{
+	LongLat	[ 290.7 60 0 ]
+	Size	156
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Brother of the twins Catillus and Coras, founder of Tibur to which he gave his name.  
+Location "Tiburtus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 170.27 29.11 0 ]
+	Size	59
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 6/4/08
+# Origin: Rutililan king; Aeneas' rival for hand of Lavinia.
+Location "Turnus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 14.69 15.59 0 ]
+	Size	101
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 17, 2008; Last update: 6/4/08
+# Origin: Keeper of the herds for Latinus, father of Silvia.  
+Location "Tyrrhus" "Sol/Saturn/Dione"
+{
+	LongLat	[ 72.1 24.7 0 ]
+	Size	49.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 25, 2011; Last update: 2/25/11
+# Origin: A Latin, leader of cavalry sent as reinforcements to Turnus.
+Location "Volcens" "Sol/Saturn/Dione"
+{
+	LongLat	[ 91.49 -13.84 0 ]
+	Size	74
+	Type	"AA"	# Crater, craters
+}
+
+
+# 143 locations on Rhea.
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Korean god of the Heavens.
+Location "Aananin" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 20.1 34.9 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Efik (Ghana) creator god. 
+Location "Abassi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 213.5 -21.3 0 ]
+	Size	87.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Mythical heroine and ancestor of the Ulci tribe.
+Location "Adjua" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 241.1 40.2 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: San Cristobal (Melanesia) god who made sea, land, people.
+Location "Agunua" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 293.8 63.3 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Creator of islands from the giant shellfishes in mythology of Malekula   Island (New Hebrides/Vanuatu, Melanesia).   
+Location "Ambat" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 58.3 -76.4 0 ]
+	Size	42.9
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Ceram (Indonesia) ancestor whose blood made Hainuwele.
+Location "Ameta" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 338.1 53.3 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Dogon (Mali) creator of the universe. 
+Location "Amma" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 77.3 -26.4 0 ]
+	Size	31.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Salish (NW USA, SW Canada) creator deity, wise and kind old man.
+Location "Amotken" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 157.3 0.7 0 ]
+	Size	64.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Spider in Ashanti (Ghana) mythology, who created the sun, moon, stars, and   mankind.  
+Location "Anansi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 146.4 -63 0 ]
+	Size	49
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Eskimo/Inuit (N. Canada) supreme being who created everything, father of the sea goddess Sedna.
+Location "Anguta" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 170 25.7 0 ]
+	Size	46.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Inca creator of all things.
+Location "Arunaka" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 337.9 -15.3 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Taino (Puerto Rico) mother goddess, the “First-In-Existence.”   
+Location "Atabei" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 109.3 16 0 ]
+	Size	30.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Old creator God of Heliopolis; became son of Ptah.
+Location "Atum" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 358.9 -47.1 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Underworld in mythology of Cook Islands (Polynesia), home for mother of Vatea, the ancestor of gods and humans.
+Location "Avaiki Chasmata" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 81 25 0 ]
+	Size	580
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Zuni (New Mexico, USA) primeval deity, supreme life giver.
+Location "Awonawilona" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 209.7 -37.3 0 ]
+	Size	49.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Mythological ancestor of the Buriat tribe.
+Location "Bulagat" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 344.8 -38.2 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Bushongo; dwelt in primordial waters; vomited up sun, moon, stars, animals, and men. Showed man how to make fire.
+Location "Bumba" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 309.6 63.1 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Buriat (Siberia) god who created world.
+Location "Burkhan" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 49.4 66.8 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Jivaro (Peru) wife of the creator god Kumpara.
+Location "Chingaso" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 254 -17.1 0 ]
+	Size	47.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Inca coastal creator god.
+Location "Con" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 347.3 -25.8 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Mythical ancestor of Korean nation, son of creator god. 
+Location "Dangun" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 152 7.2 0 ]
+	Size	77.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Neghidahan (Ukrainian) first man who was ancestor of the people.
+Location "Djuli" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 313.3 -31.2 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Mosetene (N. Bolivia) creator of the earth and men. 
+Location "Dohitt" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 285.9 -18 0 ]
+	Size	93.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Ket (Yenisey River area, Central Siberia, Russia) god, creator of the northern, down-sloped part of the earth.    
+Location "Dotet" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 155.3 -45.9 0 ]
+	Size	40.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Aztec feathered serpent god of wind, one of the creators of the Earth, heavens and humans. His other name is Quetzalcoatl.     
+Location "Ehecatl" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 184.4 -54.7 0 ]
+	Size	93.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Yakutian ancestor of the people.
+Location "Ellyay" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 268.2 71.4 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Maasai (Tanzania, Kenya) creator god and the ruler of rains. 
+Location "Enkai" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 113.7 38 0 ]
+	Size	48.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Mande; his sacrificial killing in heaven atoned for his twin Pemba's sin; purified Earth.
+Location "Faro" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 246 45.3 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Samoan (Polynesia) male of the first human couple. 
+Location "Fatu" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 183.9 7.7 0 ]
+	Size	88
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Chinese god, husband of the goddess Nugua. These two beings were worshipped as the ultimate ancestors of all humankind. 
+Location "Fuxi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 235.8 -5.5 0 ]
+	Size	47.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Vault above the sky in Cherokee (SE USA) myths, where anything that was alive lived before the creation of Earth.
+Location "Galunlati Chasmata" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 70 38 0 ]
+	Size	740
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Lugbara (Uganda) first man, pair to Meme. 
+Location "Gborogboro" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 197.8 -12.7 0 ]
+	Size	62.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Algonquin (Great Lakes area, Canada and USA) creator of plants, animals and  humans; son of the Great Earth Mother.   
+Location "Glooskap" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 302.8 -35 0 ]
+	Size	63.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Georgian (Caucasus) god, founder and keeper of the world order.
+Location "Gmerti" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 167.4 -52 0 ]
+	Size	57.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Mayan creator god.
+Location "Gucumatz" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 184.2 37 0 ]
+	Size	68.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Mythological ancestor of the Armenian people.
+Location "Haik" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 330.7 -36.6 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Manchurian creator of all things.
+Location "Haoso" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 347.5 8.3 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Beautiful land created by Persian god Ahura Mazda (Ormazd); modern Kandahar, Afghanistan.
+Location "Harahvaiti Fossa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 189 -36 0 ]
+	Size	190
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Auracanin creator of men and bringer of civilization.
+Location "Heller" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 44.9 10.1 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Kiche (Guatemala) creator god, bringer of children, ruler of wind and storms.
+Location "Huracan" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 171.5 53.2 0 ]
+	Size	71.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Kakadu (N. Australia) creator goddess, the Great Mother, mate of the giant Wuraka.
+Location "Imberombera" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 143.3 -33.3 0 ]
+	Size	47.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Kafir (Nuristan, NE Afghanistan) supreme god, creator of gods and people.
+Location "Imra" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 225.8 19 0 ]
+	Size	28
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Dakota (USA) spirit, "The Spider," created time, space and language.
+Location "Inktomi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 247.9 -14.1 0 ]
+	Size	47.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Udmurtian (Uralic Finns, Russia) creator god.
+Location "Inmar" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 58.4 -2.3 0 ]
+	Size	54.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Incan creator god who became the moon.
+Location "Iraca" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 247.9 39.4 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Yaruro (Venezuela) jaguar god, creator of the river waters.     
+Location "Itciai" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 11 -17.8 0 ]
+	Size	39.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Japanese creator god, brother of Izanami.
+Location "Izanagi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 49.8 -49.4 0 ]
+	Size	200
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Sister and wife of Izanagi; creator goddess.
+Location "Izanami" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 46.6 -46.3 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Marijan sky god.
+Location "Jumo" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 293.5 52.8 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Shilluk (S. Sudan) creator god.
+Location "Juok" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 205 37.6 0 ]
+	Size	73.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Warrau/Warao (Orinoco River Delta, Venezuela) benevolent supreme being and creator god.
+Location "Kanobo" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 322.6 -63.8 0 ]
+	Size	75.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Aranda (Australia) ancestor who, in his dreams, gives birth to animals and male children.
+Location "Karora" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 339.9 5.9 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Mundurucu (Tapajos and Trombetas Rivers area, NE Brazil) creator god.
+Location "Karusakaibo" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 139.3 -14.2 0 ]
+	Size	43.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Nanajan; mythological hero who built the world. The first Shaman.
+Location "Khado" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 0.9 41.6 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Ossetian (N. Caucasus, Russia) supreme god, creator of the Earth.
+Location "Khutsau" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 153.1 44.5 0 ]
+	Size	52.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Tuamotu (Society Islands) progenitor being; existed in void; made land, sea.
+Location "Kiho" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 1.3 -11.1 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Kikuyu (Kenya) holy mountain, where the creator god Ngai lives, when he came down from the sky (Mount Kenya).
+Location "Kirinyaga Linea" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 231.2 -1.8 0 ]
+	Size	400
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Nganasan (Taymyr Peninsula Samoyed, Russia) mythical mountain range, the first land to appear from the primordial waters after creation. The first man and woman were placed on it.
+Location "Koykamou Catena" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 116 -70 0 ]
+	Size	110
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Pomo (N. California, USA) deity who created the world with his brother Madumda.
+Location "Kuksu" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 71.3 25.3 0 ]
+	Size	34.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Yaruro (Venezuela) moon goddess, creator of all things.
+Location "Kuma" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 82.8 10 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Jivaro (Ecuador) creator god.
+Location "Kumpara" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 32.9 9.6 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Mountain in Chinese mythology, dwelling place of the immortals, location of palace of Hsi Wang Mu (Xiwangmu), the Queen Mother of the West.
+# Additional info: Previously Kun Lun Chasma.
+Location "Kunlun Linea" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 52 45 0 ]
+	Size	180
+	Type	"LI"	# Linea, lineae
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Chukchi (NE Russia) creator raven.
+Location "Kurkyl" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 246.3 -39.9 0 ]
+	Size	57.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Tonga originator of the conditions of life.
+Location "Leza" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 50.8 -21.8 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Micronesian (Truk/Chuuk Island, Caroline Islands) earth goddess, created the world together with her husband Anulap, a god of magic and knowledge.       
+Location "Ligoupup" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 313.8 -14.5 0 ]
+	Size	78.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 1/18/12
+# Origin: Marshall Islands (Micronesia) great creator god.
+Location "Lowa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 343.4 40.9 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Nias Island (W. Indonesia) sky god, creator of humans.
+Location "Lowalangi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 110 -36.5 0 ]
+	Size	53
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Ember-goose who took up some clay from an ocean floor to create a land in Mansi myth (W. Siberia, Russia).  
+Location "Luli" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 116.9 46.5 0 ]
+	Size	52.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Igorot (Luzon Island, Philippines) Great Spirit, created humans from cut reeds.
+Location "Lumawig" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 223.5 58 0 ]
+	Size	49.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Pomo (N. California, USA) creator of the universe, brother of Kuksu.
+Location "Madumda" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 295.2 -36.9 0 ]
+	Size	82.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Cheyenne (Great Plains, USA) Great Spirit, creator of the world.
+Location "Maheo" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 78.3 31.6 0 ]
+	Size	29.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Yao (Bantu); creator god; left Earth to live in sky when man was cruel to animals.
+Location "Malunga" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 303.8 65.1 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Nanai (Amur River area, E. Siberia, Russia) goddess who created the Asian continent and Sakhalin Island. For this action, she was killed by her husband and world creator, Khado.
+Location "Mamaldi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 176 14 0 ]
+	Size	480
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/15/10
+# Origin: Negrito (Malay Peninsula) female progenitor goddess; wife of Pedn.
+Location "Manoid" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 351.5 29.5 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Guarani (Paraguay, Argentina, Brazil) creator worm who appeared in pre-existing water, then became a human and made the world.         
+Location "Mbir" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 48.1 46.6 0 ]
+	Size	46
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Minyong (India); original male.
+Location "Melo" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 352.9 -53.2 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Holy land created by Persian god Ahura Mazda (Ormazd); modern Mary/Merv Oasis, Turkmenistan.
+Location "Mouru Catena" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 16.5 48.5 0 ]
+	Size	80
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Tibetan heavenly god.
+Location "Mubai" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 339.8 55.8 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Mythological mother of the Kikuyu people (Kenya), wife of Gikuyu, the ancestor of the people, created by god Ngai, who took him on top of Kirinyaga (Mount Kenya) to show all the land given for him.
+Location "Mumbi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 228.8 -1.9 0 ]
+	Size	67.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Uitoto (Amazon basin, SW Colombia) creator god.
+Location "Nainema" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 13.6 25.5 0 ]
+	Size	53.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Blackfoot (Alberta, Canada/Montana, USA) creator of the earth, animals and mankind.
+Location "Napi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 185.2 26.9 0 ]
+	Size	55.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Micronesian (Gilbert Islands/Kiribati) creator of the universe; made the world   from a mussel shell.                  
+Location "Nareau" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 118.1 -24.9 0 ]
+	Size	73.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Sre and Ma (Mon-Khmer peoples, S. Vietnam) supreme god, created people and fire.                    
+Location "Ndu" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 68.7 -22.4 0 ]
+	Size	33.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Arikara (N. Dakota, USA) creation spirit, great sky chief.
+Location "Nishanu" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 231 -9 0 ]
+	Size	103.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Mordvinian (Volga River Finns, Russia) supreme god, creator of the sky and the  Earth.       
+Location "Nishke" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 311 3.8 0 ]
+	Size	74.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Nenets and Selkup (Samoyed) god of heaven.
+Location "Num" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 267.3 24 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/26/10
+# Origin: Fang (Gabon) sky god and creator of all things.
+Location "Nzame" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 335.1 9 0 ]
+	Size	119.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Yoruba (Nigeria) sky god involved in the work of creation.
+Location "Obatala" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 90.3 -1.1 0 ]
+	Size	67.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Yoruba (Nigeria) creator god, gave life to man.
+Location "Olorun" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 204.6 24.7 0 ]
+	Size	58.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Island in Japanese mythology formed by a drop of water that fell from a sword held by the primeval deities Izanagi and Izanami.
+Location "Onokoro Catenae" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 31.5 -44.7 0 ]
+	Size	240
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Persian progenitor god of light.
+Location "Ormazd" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 301.5 52.5 0 ]
+	Size	200
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Inca supreme god, "Earth maker."
+Location "Pachacamac" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 276.3 -23.4 0 ]
+	Size	46.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Miao; creator of all things.
+Location "Pan Ku" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 252.3 65.7 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Nuristan (NE Afghanistan) river in which Bagisht, the creator of people, was born by the mother goddess Disani.
+Location "Parun Fossa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 208 -46.5 0 ]
+	Size	120
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Negrito (Malay Peninsula) god who created first men.
+Location "Pedn" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 8.3 46 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Pallawonaps (S. California, USA) deity who made all things.
+Location "Pokoh" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 33.6 -71.7 0 ]
+	Size	45.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: The first male being in Hawaiian myth, parent (with Powehiwehi) of all the creatures in the ocean.
+Location "Pouliuli" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 75.6 -16.9 0 ]
+	Size	59.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: The first female being in Hawaiian myth, parent (with Pouliuli) of all the creatures in the ocean.
+Location "Powehiwehi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 79.6 -8.2 0 ]
+	Size	271.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Mountain in Chinese mythology attacked by horned monster Kung Chung, resulting in the Earth’s axis becoming tilted.
+# Additional info: Previously Pu Chou Chasma.
+Location "Puchou Catenae" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 273 32 0 ]
+	Size	620
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Mount in Igorot (Luzon Island, Philippines) mythology, on the peak of which the palace of creator god Lumawig is located.
+Location "Pulag Chasma" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 93.5 -33 0 ]
+	Size	190
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Chamorro (Guam Island, Micronesia) pre-existent being from whose body the world was formed.  
+Location "Puntan" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 67.6 33.9 0 ]
+	Size	33
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Ancient Hindu primordial being from whom the cosmos was formed.
+Location "Purusa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 192.2 -21.2 0 ]
+	Size	96.7
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: New Hebrides (Melanesia); born from a stone; formed men out of trees.
+Location "Qat" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 8.4 -23.8 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Cuebo (Columbia) god who created creeks and rocks, and stocked streams with fish.
+Location "Quwai" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 294 19.6 0 ]
+	Size	38.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Kachins (Burma) primeval god, the male element and father of the gods.
+Location "Samni" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 269.3 -47.7 0 ]
+	Size	101.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Evenki (Siberia, Russia) creator of the earth and man.
+Location "Seveki" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 195.3 12.9 0 ]
+	Size	89.1
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: The first woman, ancestor of human race, co-creator (with her brother and husband Melo) of the earth and sky in the myths of the Minyong (Assam, India).
+Location "Shedi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 13.2 -53.5 0 ]
+	Size	47.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Buriat (Siberia) devil who creates.
+Location "Sholmo" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 13.6 12 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Dhammai (NE India) pre-existent male. He and his wife Zumiang-Nui were the   parents of the Earth and the sky.             
+Location "Shuzanghu" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 349.7 -74.9 0 ]
+	Size	47.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Birhor (Jharkhand, E. India) creator god, who arises out of the primordial waters through the stem of a lotus.               
+Location "Singbonga" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 213.1 -54.8 0 ]
+	Size	60.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Tahitian god imminent in all creation; existed alone in the void.
+Location "Taaroa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 264.5 16.5 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Coyote, creator of many places and things in Chinook (NW USA) mythology.
+Location "Talapas" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 18.2 -16.7 0 ]
+	Size	51.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Tuamotu Islands (Polynesia) creator god.
+Location "Tane" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 302.6 -12.5 0 ]
+	Size	82.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Lapcha (Nepal) god who created the first man and woman from the ice of   mountain glaciers.              
+Location "Tasheting" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 304.5 -59 0 ]
+	Size	60.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Hopi (Arizona, USA) sun god who existed at the beginning of creation, father of everything.
+Location "Tawa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 184.8 17.9 0 ]
+	Size	62.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Holy mountain in Korean mythology, where creator god came onto the earth.
+Location "Thebeksan Catena" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 186 -39.5 0 ]
+	Size	220
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Inca creator of all things.
+Location "Thunupa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 338.7 45.6 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: Abkhaz (Georgian - eastern Black Sea region) supreme being.
+Location "Tika" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 275.9 25.1 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1987; Last update: 10/1/06
+# Origin: Great spirit of Pawnee Tribe (USA), created first men; his messengers were the planets, stars, lightning and thunder.
+Location "Tirawa" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 208.3 34.2 0 ]
+	Size	300
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 3/22/10
+# Origin: Pygmy lord of the world, creator of all things. 
+# Additional info: Defines 340 degrees longitude on Rhea.
+Location "Tore" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 20 0 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/15/10
+# Origin: Ostyak (western Siberia) sky god.
+Location "Torom" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 17 -72.5 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Japanese moon god, born from the right eye of the primeval god Izanagi.
+Location "Tsuki-Yomi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 316.2 35 0 ]
+	Size	35
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Kazakh (Central Asia) winged horse born in the deep primordial ocean;   personification of the sun and eternal movement.         
+Location "Tulpar" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 201.4 56.1 0 ]
+	Size	70.4
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Ceram (Molucca Islands, Indonesia) sun god and personification of the sky, took part in creation.
+Location "Tuwale" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 117.6 -78 0 ]
+	Size	59.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Estonian super god.
+Location "Uku" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 264.5 78.7 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Itelmen (Kamchatka Peninsula, E. Russia) creator and master of the world.
+Location "Utleygon" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 165.1 -20.1 0 ]
+	Size	58.2
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Father of gods and humans in Cook Islands mythology (Polynesia).
+Location "Vatea" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 209.6 16 0 ]
+	Size	96.6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: River in Cuebo (Columbia) myths, where the Cuebo people were born.
+Location "Vaupas Chasma" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 100 -35 0 ]
+	Size	280
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: Ethiopian creator god, “Father of the Universe.”
+Location "Wak" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 165.7 29.6 0 ]
+	Size	57.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Sioux (Great Plains, USA) great creator of all things.
+Location "Wakonda" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 90.3 48.6 0 ]
+	Size	123
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Mossi (Burkina Faso) supreme god who lives in the sun, creator of the heavens and earth.  
+Location "Wende" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 133.6 -56.3 0 ]
+	Size	83
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Korean creator of all things.
+Location "Whanin" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 245 66.9 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Ijaw (Nigeria) creatrix who made men out of earth.
+Location "Woyengi" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 65.5 13.7 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Krachi (Ghana) primeval sky god, mate of mother earth.
+Location "Wulbari" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 271.1 67 0 ]
+	Size	33
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Place where Kakadu (N. Australia) creator goddess Imberombera landed after crossing the sea (modern Malay Bay). There he met the giant Wuraka, ancestor of all peoples.
+Location "Wungaran Catenae" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 281 22.5 0 ]
+	Size	350
+	Type	"CA"	# Catena, catenae
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Kakadu (Australia) ancestor of all people; a giant.
+Location "Wuraka" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 356 25.1 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Bushman supreme being, creator of all things.
+Location "Xamba" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 10.3 2.1 0 ]
+	Size	150
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Joshua (Oregon, USA) creator god.
+Location "Xowalaci" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 303.7 2.4 0 ]
+	Size	60
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Bushman creator.
+Location "Xu" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 288.1 55 0 ]
+	Size	50
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 6, 2010; Last update: 8/6/10
+# Origin: Lodge of the North Wind in Klamath (NW USA) myth, where the creator god Kemush slept during the creation of the world.
+Location "Yamsi Chasmata" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 79.5 -28 0 ]
+	Size	380
+	Type	"CM"	# Chasma, chasmata
+}
+
+# Approval date: Jun 17, 2010; Last update: 6/17/10
+# Origin: The Great Raven, creator and cultural hero in Tlingit (SE Alaska) myths.
+Location "Yehl" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 37.6 38 0 ]
+	Size	36.8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: "August Personage of Jade"; supreme primal Chinese god.
+Location "Yu-Ti" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 278.5 50.1 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 23, 2010; Last update: 4/23/10
+# Origin: Assyro/Babylonian primeval goddess from whom came the earth and the heavens, mother of the gods.
+Location "Zicum" "Sol/Saturn/Rhea"
+{
+	LongLat	[ 248.8 -50.9 0 ]
+	Size	76.8
+	Type	"AA"	# Crater, craters
+}
+
+
+# 284 locations on Titan.
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Egyptian abode of the blessed dead.
+Location "AARU" "Sol/Saturn/Titan"
+{
+	LongLat	[ 20 10 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Ethiopia.
+Location "Abaya Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 314.45 73.17 0 ]
+	Size	65
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Melanesian afterworld where life is easier than on Earth.
+Location "ADIRI" "Sol/Saturn/Titan"
+{
+	LongLat	[ 150 -10 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Aug 4, 2008; Last update: 8/4/08
+# Origin: New Guinea goddess of creation and knowledge who teaches people how to live correctly.
+Location "Afekan" "Sol/Saturn/Titan"
+{
+	LongLat	[ 159.7 25.8 0 ]
+	Size	115
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Lithuania.
+Location "Akmena Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 304.4 85.1 0 ]
+	Size	35.6
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/17/10
+# Origin: Lake in Italy.
+Location "Albano Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 123.6 65.9 0 ]
+	Size	6.2
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/1/17
+# Origin: Planet from the Dune series; IV Anbus, home of Tibana, an apologist for Socratic Christianity.
+Location "Anbus Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 145 39.2 0 ]
+	Size	120
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Dec 5, 2011; Last update: 4/28/14
+# Origin: Name of a mountain range from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Angmar Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 138.1 -10 0 ]
+	Size	230
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in France.
+Location "Annecy Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 231.1 76.8 0 ]
+	Size	20
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/2/18
+# Origin: Archipelago corresponding to the mythical island of Antilia, once thought to lie midway between Europe and the Americas.
+# Additional info: Changed ET from Netherlands Antilles (10/02/2018) because that country no longer exists.
+Location "Antilia Faculae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 173 -11 0 ]
+	Size	260
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Mar 12, 2020; Last update: 3/13/20
+# Origin: Mythological river in the Aztec Underworld.
+Location "Apanohuaya Flumen" "Sol/Saturn/Titan"
+{
+	LongLat	[ 62.76 84.29 0 ]
+	Size	64
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Mar 2, 2007; Last update: 3/2/07
+# Origin: Armenian god famous for his beauty, also known as a resurrected god who dies and is reborn periodically.
+Location "Ara Fluctus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 241.6 39.8 0 ]
+	Size	70
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Mali.
+Location "Arala Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 235.1 78.1 0 ]
+	Size	12.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Fjord in Iceland.
+Location "Arnar Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 38 72.6 0 ]
+	Size	101
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Apr 5, 2010; Last update: 4/5/10
+# Origin: Planet from the Dune series; home of the Fremen, a group of fictional people whose culture revolves around preservation and conservation of water, which is a rare commodity on the planet. 
+Location "Arrakis Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 243 -78.4 0 ]
+	Size	337.4
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Dec 19, 2012; Last update: 12/19/12
+# Origin: Daughter of Elrond; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Arwen Colles" "Sol/Saturn/Titan"
+{
+	LongLat	[ 100 -7.5 0 ]
+	Size	64
+	Type	"CO"	# Collis, colles
+}
+
+# Approval date: Dec 21, 2010; Last update: 12/21/10
+# Origin: Intermittent lake (salar) in Chile.
+Location "Atacama Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 132.4 68.2 0 ]
+	Size	35.9
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in Guatemala.
+Location "Atitlán Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 121.2 69.3 0 ]
+	Size	13.7
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jul 20, 2015; Last update: 10/29/15
+# Origin: Greek Titanis goddess of the morning wind.
+Location "Aura Undae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 133.14 13.79 0 ]
+	Size	490
+	Type	"UN"	# Unda, undae
+}
+
+# Approval date: Mar 12, 2020; Last update: 3/31/20
+# Origin: Gulf and bay in NE Russia (Kamchatka Peninsula).
+Location "Avacha Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 24.57 82.87 0 ]
+	Size	51
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Mythical land from which the Aztecs believed they migrated.
+Location "AZTLAN" "Sol/Saturn/Titan"
+{
+	LongLat	[ 340 -10 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Mayan rain god.
+Location "Bacab Virgae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 209 -19 0 ]
+	Size	485
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: Jan 9, 2018; Last update: 1/10/18
+# Origin: Bay in Canada.
+Location "Baffin Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 15.38 80.35 0 ]
+	Size	110
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Hungary.
+Location "Balaton Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 272.5 82.9 0 ]
+	Size	35.6
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Bayta Darell, fictional character in Isaac Asimov's Foundation Series, wife of the Trader Tran Darell and grandmother of famous author Arcadia “Arcady” Darell.
+Location "Bayta Fretum" "Sol/Saturn/Titan"
+{
+	LongLat	[ 48.8 73 0 ]
+	Size	165
+	Type	"FT"	# Fretum, freta
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Mozambique island.
+Location "Bazaruto Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 343.9 11.6 0 ]
+	Size	215
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Apr 15, 2015; Last update: 10/29/15
+# Origin: Celtic/Irish goddess of water, education, and knowledge. Anyone who drinks the water from her well will become wise.
+Location "Beag" "Sol/Saturn/Titan"
+{
+	LongLat	[ 190.45 -34.74 0 ]
+	Size	27
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Malay afterworld reached by a flower-lined bridge.
+Location "BELET" "Sol/Saturn/Titan"
+{
+	LongLat	[ 105 -5 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/20/15
+# Origin: An enchanted island in Shakespeare’s Tempest.
+Location "Bermoothes Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 42.9 67.1 0 ]
+	Size	124
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Dec 19, 2012; Last update: 12/19/12
+# Origin: Hobbit, the main character in ‘The Hobbit’ novel; he traveled across Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Bilbo Colles" "Sol/Saturn/Titan"
+{
+	LongLat	[ 321.44 -4.23 0 ]
+	Size	164
+	Type	"CO"	# Collis, colles
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/19/15
+# Origin: Boicua; Island in Arawak (Bahamas) legend said to contain the fountain of youth.
+Location "Bimini Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 54.6 73.3 0 ]
+	Size	39
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Italy.
+Location "Bolsena Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 349.72 75.75 0 ]
+	Size	101
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 9, 2018; Last update: 1/10/18
+# Origin: Bone; Gulf in Indonesia.
+Location "Boni Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 14.62 78.69 0 ]
+	Size	54
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Dec 5, 2011; Last update: 12/5/11
+# Origin: Greek god of the north wind.
+Location "Boreas Undae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 145 -6 0 ]
+	Size	260
+	Type	"UN"	# Unda, undae
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Baralku; In Yolngu culture (Arnhem Land, Australia), the island of the dead and the place where the Djanggawul, the three creator siblings, originated.
+Location "Bralgu Insulae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 108.5 76.2 0 ]
+	Size	55
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Switzerland
+Location "Brienz Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 316.2 85.3 0 ]
+	Size	50.6
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Nauru.
+Location "Buada Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 230.4 76.4 0 ]
+	Size	10.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: A rocky island in Russian folk tales located on the south shore of the Baltic Sea.
+Location "Buyan Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 114.9 77.3 0 ]
+	Size	48
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Mar 18, 2016; Last update: 3/18/16
+# Origin: Planet from the Dune series; a cold planet, known for its lustrous Soostones, used as a “punishment planet” by the Bene Gesserit.
+Location "Buzzell Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 97.3 -66.3 0 ]
+	Size	870
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Oct 8, 2014; Last update: 10/9/14
+# Origin: Planet from the Dune series; the original home of the House Atriedes, a fictional noble family.
+Location "Caladan Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 134 31 0 ]
+	Size	2800
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Apr 7, 2011; Last update: 4/7/11
+# Origin: Lake in Argentina.
+Location "Cardiel Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 153.5 70.2 0 ]
+	Size	22
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in New York, USA.
+Location "Cayuga Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 130 69.8 0 ]
+	Size	22.7
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Oct 8, 2014; Last update: 10/9/14
+# Origin: River in The Iliad.
+Location "Celadon Flumina" "Sol/Saturn/Titan"
+{
+	LongLat	[ 331.2 -73.7 0 ]
+	Size	160
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Malawi and Mozambique.
+Location "Chilwa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 228.7 75 0 ]
+	Size	19.8
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Chinese Buddhist paradise where those who attain salvation will live in unalloyed happiness.
+Location "CHING-TU" "Sol/Saturn/Titan"
+{
+	LongLat	[ 155 -30 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Aug 4, 2009; Last update: 8/4/09
+# Origin: Planet from the Dune series, known for its musical instruments.
+Location "Chusuk Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 336.5 -5 0 ]
+	Size	125
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Canadian island.
+Location "Coats Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 330.8 -11.1 0 ]
+	Size	80
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Jan 5, 2012; Last update: 1/5/12
+# Origin: Roman abstract divinity of harmony.
+Location "CONCORDIA REGIO" "Sol/Saturn/Titan"
+{
+	LongLat	[ 119 -20 0 ]
+	Size	1500
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: Sep 14, 2017; Last update: 9/15/17
+# Origin: Planet from the Dune series; site of Battle of Corrin.
+Location "Corrin Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 329 -66 0 ]
+	Size	280
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Greek island.
+Location "Crete Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 209.9 9.4 0 ]
+	Size	680
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Jul 20, 2015; Last update: 10/29/15
+# Origin: Lake in Croatia.
+Location "Crveno Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 175.09 -79.55 0 ]
+	Size	41
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Sumerian garden of paradise, primeval land of bliss.
+Location "DILMUN" "Sol/Saturn/Titan"
+{
+	LongLat	[ 185 15 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Angola.
+Location "Dilolo Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 235 76.2 0 ]
+	Size	18.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 9, 2018; Last update: 1/10/18
+# Origin: Bay in Ireland.
+Location "Dingle Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 23.56 81.36 0 ]
+	Size	80
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Dec 5, 2011; Last update: 10/11/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Dolmed Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 143.2 -11.6 0 ]
+	Size	400
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Nov 13, 2012; Last update: 11/13/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting  in fantasy novels by J.R.R. Tolkien.
+Location "Doom Mons" "Sol/Saturn/Titan"
+{
+	LongLat	[ 319.58 -14.65 0 ]
+	Size	63
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Latvia.
+Location "Dridzis Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 228.7 78.9 0 ]
+	Size	50
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Oct 8, 2014; Last update: 10/9/14
+# Origin: Planet from the Dune series; useful for its agricultural contributions to the Imperium.
+Location "Ecaz Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 323.3 -83 0 ]
+	Size	360
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Dec 5, 2011; Last update: 4/28/14
+# Origin: Name of a mountain range from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Echoriath Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 146.2 -7.4 0 ]
+	Size	930
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Norse goddess of healing and peace.
+Location "Eir Macula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 245.3 -24 0 ]
+	Size	145
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Italian island.
+Location "Elba Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 358.8 -10.8 0 ]
+	Size	250
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: In Norse mythology, twelve poisonous ice-cold rivers.
+Location "Elivagar Flumina" "Sol/Saturn/Titan"
+{
+	LongLat	[ 281.5 19.3 0 ]
+	Size	260
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Greek goddess of happiness and hope.
+Location "Elpis Macula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 333 31.2 0 ]
+	Size	500
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: Nov 13, 2012; Last update: 11/13/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting  in fantasy novels by J.R.R. Tolkien.
+Location "Erebor Mons" "Sol/Saturn/Titan"
+{
+	LongLat	[ 323.77 -4.97 0 ]
+	Size	50
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Dec 5, 2011; Last update: 12/5/11
+# Origin: Greek personification of the east wind.
+Location "Eurus Undae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 149.7 -7.5 0 ]
+	Size	220
+	Type	"UN"	# Unda, undae
+}
+
+# Approval date: Dec 21, 2010; Last update: 12/21/10
+# Origin: Intermittent lake in Australia.
+Location "Eyre Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 134.9 72.6 0 ]
+	Size	25.4
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/5/21
+# Origin: Bay in Samoa (Upolu Island).
+Location "Fagaloa Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 39.5 82.9 0 ]
+	Size	33
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Dec 19, 2012; Last update: 12/19/12
+# Origin: Wise man of nobility; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Faramir Colles" "Sol/Saturn/Titan"
+{
+	LongLat	[ 206.2 4 0 ]
+	Size	82
+	Type	"CO"	# Collis, colles
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Brazil.
+Location "Feia Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 295.59 73.7 0 ]
+	Size	47
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: In Norse mythology, magnificent mansion of Frigga, to which she invited all married couples who had led virtuous lives on Earth to enjoy each other's company forever. 
+Location "FENSAL" "Sol/Saturn/Titan"
+{
+	LongLat	[ 330 5 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Fjord between Denmark and Germany.
+Location "Flensborg Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 64.7 64.9 0 ]
+	Size	115
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Portugal, Azores.
+Location "Fogo Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 262 81.9 0 ]
+	Size	32.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Apr 15, 2015; Last update: 10/29/15
+# Origin: Norse god, the wisest and most eloquent of the Aesir.
+Location "Forseti" "Sol/Saturn/Titan"
+{
+	LongLat	[ 349.6 25.53 0 ]
+	Size	145
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 7, 2011; Last update: 4/7/11
+# Origin: Lake in Indiana, USA.
+Location "Freeman Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 148.9 73.6 0 ]
+	Size	26
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 12, 2020; Last update: 3/13/20
+# Origin: Bay in Canada.
+Location "Fundy Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 44.36 83.26 0 ]
+	Size	91
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Gulf in Tunisia.
+Location "Gabes Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 70.4 67.6 0 ]
+	Size	147
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Mar 8, 2017; Last update: 3/8/17
+# Origin: Planet from the Dune series; the name for the planet Giedi Prime after the fall of House Harkonnen.
+Location "Gammu Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 110 -77.9 0 ]
+	Size	115
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/2/17
+# Origin: Planet from the Dune series; third planet of Niushe, noted for its hedonistic culture.
+Location "Gamont Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 285 56.8 0 ]
+	Size	130
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Jul 20, 2015; Last update: 10/29/15
+# Origin: Wizard, leader of the Fellowship of the Ring; character from Middle-earth, the fictional setting fantasy novels by J. R. R. Tolkien.
+Location "Gandalf Colles" "Sol/Saturn/Titan"
+{
+	LongLat	[ 150.46 14.61 0 ]
+	Size	102
+	Type	"CO"	# Collis, colles
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Hindu god of good fortune and wisdom.
+Location "Ganesa Macula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 272.7 50 0 ]
+	Size	160
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: Mar 8, 2017; Last update: 3/8/17
+# Origin: Planet from the Dune series; with a village named London.
+Location "Gansireed Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 120.7 -69.3 0 ]
+	Size	300
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Jan 5, 2012; Last update: 1/5/12
+# Origin: Iranian paradise where the souls of faithful men dwell.
+Location "GAROTMAN TERRA" "Sol/Saturn/Titan"
+{
+	LongLat	[ 12 -13.5 0 ]
+	Size	970
+	Type	"TA"	# Terra, terrae
+}
+
+# Approval date: Jul 20, 2015; Last update: 5/24/18
+# Origin: Peace Queen of the Iroquois.
+Location "Genetaska Macula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 163.7 23.5 0 ]
+	Size	24
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: Jan 9, 2018; Last update: 1/10/18
+# Origin: Gulf in Italy.
+Location "Genova Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 33.39 80.11 0 ]
+	Size	125
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Aug 24, 2017; Last update: 8/25/17
+# Origin: Planet from the Dune series; Giedi Prime is the homeworld of  House Harkonnen.
+Location "Giedi Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 2.98 5.22 0 ]
+	Size	303.26
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/7/21
+# Origin: Biblical second River of Paradise, one of four rivers flowing from Eden.
+Location "Gihon Flumen" "Sol/Saturn/Titan"
+{
+	LongLat	[ 144.45 76.81 0 ]
+	Size	225
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/2/17
+# Origin: Planet from the Dune series; home of House Ginaz.
+Location "Ginaz Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 98.3 83 0 ]
+	Size	160
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Dec 5, 2011; Last update: 10/11/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Gram Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 152.1 -9.9 0 ]
+	Size	260
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in England.
+Location "Grasmere Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 256.9 72.3 0 ]
+	Size	33.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/1/17
+# Origin: Planet from the Dune series; where Duncan Idaho first blooded his sword.
+Location "Grumman Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 253.2 -35.3 0 ]
+	Size	540
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Taino Indian (Antilles) sea goddess who taught the use of amulets.
+Location "Guabonito" "Sol/Saturn/Titan"
+{
+	LongLat	[ 209.2 -10.9 0 ]
+	Size	55
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: Planet from the Dune series; a jewel planet known for its quality quartz, and which is mined out in the time of Shaddam I.
+Location "Hagal Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 15.05 -60.59 0 ]
+	Size	435
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Dec 3, 2013; Last update: 12/3/13
+# Origin: Lake in Iraq.
+Location "Hammar Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 51.71 48.6 0 ]
+	Size	200
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 19, 2012; Last update: 12/19/12
+# Origin: Son of Haldir, a ruler of the fictional Folk of Haleth; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Handir Colles" "Sol/Saturn/Titan"
+{
+	LongLat	[ 3.32 10 0 ]
+	Size	100
+	Type	"CO"	# Collis, colles
+}
+
+# Approval date: Dec 23, 2011; Last update: 12/23/11
+# Origin: Bella Coola (northwestern USA and western Canada) goddess of education, knowledge, and magic. She manifested as a shaman so she could teach the people.
+Location "Hano" "Sol/Saturn/Titan"
+{
+	LongLat	[ 14.9 40.3 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Salvor Hardin, fictional character in Isaac Asimov's Foundation Series, first Mayor of the planet Terminus.
+Location "Hardin Fretum" "Sol/Saturn/Titan"
+{
+	LongLat	[ 42.2 57.3 0 ]
+	Size	246
+	Type	"FT"	# Fretum, freta
+}
+
+# Approval date: Sep 14, 2017; Last update: 9/15/17
+# Origin: Planet from Dune series; sixth stop in the Zensunni migration.
+Location "Harmonthep Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 258.6 -72.3 0 ]
+	Size	363
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/5/21
+# Origin: In Polynesian mythology, original home island of the Polynesian people.
+Location "Hawaiki Insulae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 32.93 84.32 0 ]
+	Size	35
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Jan 5, 2012; Last update: 2/8/12
+# Origin: Egyptian female personification of happiness.
+Location "HETPET REGIO" "Sol/Saturn/Titan"
+{
+	LongLat	[ 68 -22 0 ]
+	Size	1080
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Myanmar.
+Location "Hlawga Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 256.4 76.6 0 ]
+	Size	40.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Arabian rain god.
+Location "Hobal Virga" "Sol/Saturn/Titan"
+{
+	LongLat	[ 194 -35 0 ]
+	Size	1075
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: One of the seven gods of happiness in Japanese Buddhism. He is the god of contentment, good fortune, cheerfulness, and he is always smiling. 
+Location "Hotei Arcus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 281 -28 0 ]
+	Size	600
+	Type	"AR"	# Arcus, arcūs
+}
+
+# Approval date: May 7, 2009; Last update: 5/15/10
+# Origin: One of the seven gods of happiness in Japanese Buddhism. He is the god of contentment, good fortune, and cheerfulness, and he is always smiling. 
+Location "HOTEI REGIO" "Sol/Saturn/Titan"
+{
+	LongLat	[ 282 -26 0 ]
+	Size	500
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: The river that flows at the gates of the netherworld in Mesopotamian mythology.
+Location "Hubur Flumen" "Sol/Saturn/Titan"
+{
+	LongLat	[ 167.15 -70.24 0 ]
+	Size	84
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Legendary island in the marshes of southern Iraq.
+Location "Hufaidh Insulae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 39.7 67 0 ]
+	Size	152
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Madagascar.
+Location "Ihotry Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 222.8 76.1 0 ]
+	Size	37.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Idaho, USA.
+Location "Imogene Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 248.2 71.1 0 ]
+	Size	38
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/5/21
+# Origin: Planet from the Dune series; home of House Thorvald.
+Location "Ipyr Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 71 86.24 0 ]
+	Size	76.97
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Nov 13, 2012; Last update: 11/13/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting  in fantasy novels by J.R.R. Tolkien.
+Location "Irensaga Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 147.29 -5.68 0 ]
+	Size	194
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Dec 21, 2010; Last update: 12/21/10
+# Origin: Intermittent lake (shott) in Tunisia.
+Location "Jerid Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 139 66.7 0 ]
+	Size	42.6
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: Mar 29, 2010; Last update: 3/29/10
+# Origin: Lake in China.
+Location "Jingpo Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 24 73 0 ]
+	Size	240
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/2/17
+# Origin: Planet from the Dune series; once controlled by the Spacing Guild, taken over by the Honored Matres as a stronghold for their leader.
+Location "Junction Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 144.7 -47.7 0 ]
+	Size	484
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in Peru.
+Location "Junín Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 123.1 66.9 0 ]
+	Size	6.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Oct 8, 2014; Last update: 10/9/14
+# Origin: Planet from the Dune series; the capital of the Imperium.
+Location "Kaitain Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 11.34 52.37 0 ]
+	Size	196
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: NW Australian rainbow serpent, bringer of rain.
+Location "Kalseru Virga" "Sol/Saturn/Titan"
+{
+	LongLat	[ 223 -36 0 ]
+	Size	630
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Tajikistan.
+Location "Karakul Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 303.4 86.3 0 ]
+	Size	18.4
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: River in the Iliad.
+Location "Karesos Flumen" "Sol/Saturn/Titan"
+{
+	LongLat	[ 165.25 -70.9 0 ]
+	Size	83
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: Lake in the Philippines.
+Location "Kayangan Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 157.83 -86.3 0 ]
+	Size	6.2
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: French subantarctic island.
+Location "Kerguelen Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 209 -5.4 0 ]
+	Size	135
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Nov 14, 2008; Last update: 11/14/08
+# Origin: Lake on the border between Rwanda and The Democratic Republic of the Congo.
+Location "Kivu Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 239 87 0 ]
+	Size	77.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Finland.
+Location "Koitere Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 323.86 79.4 0 ]
+	Size	68
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/7/21
+# Origin: River of lamentations in the Greek underworld, Hades.
+Location "Kokytos Flumina" "Sol/Saturn/Titan"
+{
+	LongLat	[ 105 72.21 0 ]
+	Size	305
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Apr 11, 2008; Last update: 4/11/08
+# Origin: Fabulous sea monster in the Norwegian seas, said to be a mile   and a half in circumference and to cause a whirlpool when it dives.
+Location "KRAKEN MARE" "Sol/Saturn/Titan"
+{
+	LongLat	[ 50 68 0 ]
+	Size	1170
+	Type	"ME"	# Mare, maria
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/20/15
+# Origin: Crocylea; Mythological Greek island in the Ionian Sea, near Ithaca.
+Location "Krocylea Insulae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 57.6 69.1 0 ]
+	Size	74
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/1/17
+# Origin: Planet from the Dune series; captured by the Honored Matres.
+Location "Kronin Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 263.73 -35.7 0 ]
+	Size	270
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Oct 11, 2006; Last update: 10/16/06
+# Origin: Lakota and Oglala (South Dakota, USA) god of wisdom.
+Location "Ksa" "Sol/Saturn/Titan"
+{
+	LongLat	[ 294.6 14 0 ]
+	Size	29
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Bay in India.
+Location "Kumbaru Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 56.2 56.8 0 ]
+	Size	122
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Dec 3, 2013; Last update: 12/3/13
+# Origin: Intermittent lake on the border of India and Pakistan.
+Location "Kutch Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 143 88.4 0 ]
+	Size	175
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: May 24, 2013; Last update: 5/24/13
+# Origin: Lake in Russia.
+Location "Ladoga Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 333.9 74.8 0 ]
+	Size	110
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Cameroon.
+Location "Lagdo Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 234.3 75.5 0 ]
+	Size	37.8
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 8, 2017; Last update: 3/8/17
+# Origin: Planet from the Dune series; a center for Bene Gesserit education, also where Miles Teg is trained as a Mentat.
+Location "Lampadas Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 236 -81.8 0 ]
+	Size	445
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in the Philippines.
+Location "Lanao Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 142.3 71 0 ]
+	Size	34.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/1/17
+# Origin: Planet from the Dune series; where Glossu Rabban, the nephew of Baron Harkonnen, is a Count.
+Location "Lankiveil Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 210.5 -48.2 0 ]
+	Size	450
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Mar 2, 2007; Last update: 3/2/07
+# Origin: Persian goddess of beauty and chastity.
+Location "Leilah Fluctus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 282.2 50.5 0 ]
+	Size	190
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: Mar 8, 2017; Last update: 3/8/17
+# Origin: Planet from the Dune series; where Miles Teg retires, also the home planet of his Bene Gesserit mother, Lady Janet Roxbrough.
+Location "Lernaeus Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 222 -83.4 0 ]
+	Size	167
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Vanuatu.
+Location "Letas Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 271.8 81.3 0 ]
+	Size	23.7
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Apr 11, 2008; Last update: 1/29/13
+# Origin: One of the sirens in Greek mythology.
+Location "LIGEIA MARE" "Sol/Saturn/Titan"
+{
+	LongLat	[ 112.1 79.7 0 ]
+	Size	500
+	Type	"ME"	# Mare, maria
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/7/21
+# Origin: Name of a mountain range (Ered Lithui, Ash Mountains), the northern border of the land of Mordor from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Lithui Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 247.44 84.68 0 ]
+	Size	200
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in Manipur, India.
+Location "Logtak Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 133.9 70.8 0 ]
+	Size	14.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 12, 2020; Last update: 3/31/20
+# Origin: Cove in England.
+Location "Lulworth Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 43.12 67.19 0 ]
+	Size	24
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Australia.
+Location "Mackay Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 262.47 78.32 0 ]
+	Size	180
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 9, 2018; Last update: 1/10/18
+# Origin: Bay in Japan.
+Location "Maizuru Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 7.47 78.9 0 ]
+	Size	92
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jan 9, 2018; Last update: 1/10/18
+# Origin: Bay in Tanzania.
+Location "Manza Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 13.9 79.29 0 ]
+	Size	37
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Venezuela.
+Location "Maracaibo Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 232.3 75.3 0 ]
+	Size	20.4
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Apr 11, 2008; Last update: 4/11/08
+# Origin: Legendary island in the northeastern region of the Atlantic Ocean.
+Location "Mayda Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 47.8 79.1 0 ]
+	Size	168
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Dec 21, 2010; Last update: 12/21/10
+# Origin: Intermittent lake (shott) in Algeria.
+Location "Melrhir Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 147.4 64.9 0 ]
+	Size	23
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Etruscan goddess of wisdom.
+Location "Menrva" "Sol/Saturn/Titan"
+{
+	LongLat	[ 272.8 20.1 0 ]
+	Size	392
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Dec 5, 2011; Last update: 10/11/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Merlock Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 148.2 -8.9 0 ]
+	Size	200
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/5/21
+# Origin: Fictional island mentioned by ancient Greek writer Theopompus in his work Philippica.
+Location "Meropis Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 46.32 83.85 0 ]
+	Size	30
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Oasis of happiness in the African desert, from an Italian legend.
+Location "MEZZORAMIA" "Sol/Saturn/Titan"
+{
+	LongLat	[ 360 -70 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Philippine island.
+Location "Mindanao Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 185.8 -6.6 0 ]
+	Size	210
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Nov 13, 2012; Last update: 4/28/14
+# Origin: Name of a mountain from Middle-earth, the fictional setting  in fantasy novels by J.R.R. Tolkien.
+Location "Mindolluin Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 151.04 -3.3 0 ]
+	Size	340
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Nov 13, 2012; Last update: 11/13/12
+# Origin: Name of a mountain range from Middle-earth, the fictional setting  in fantasy novels by J.R.R. Tolkien.
+Location "Misty Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 297.56 56.8 0 ]
+	Size	73
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Nov 13, 2012; Last update: 11/13/12
+# Origin: Name of a mountain range from Middle-earth, the fictional setting  in fantasy novels by J.R.R. Tolkien.
+Location "Mithrim Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 232.58 -2.16 0 ]
+	Size	147
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Nov 13, 2012; Last update: 11/13/12
+# Origin: Indian goddess of beauty and magic.
+Location "Mohini Fluctus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 321.47 -11.78 0 ]
+	Size	347
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: Dec 23, 2011; Last update: 12/23/11
+# Origin: Chumash (California, USA) ancestor shaman and goddess of magic, education, knowledge, health and healing.
+Location "Momoy" "Sol/Saturn/Titan"
+{
+	LongLat	[ 315.4 11.6 0 ]
+	Size	40
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Firth in Scotland.
+Location "Moray Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 78.6 76.6 0 ]
+	Size	204
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jul 20, 2015; Last update: 10/29/15
+# Origin: Name of three massive peaks, the Mountains of Moria, at the midpoint of the Misty Mountains range from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Moria Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 169.55 15.05 0 ]
+	Size	107
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Dec 3, 2013; Last update: 12/3/13
+# Origin: Lake in Germany.
+Location "Müggel Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 156.5 84.44 0 ]
+	Size	170
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 8, 2017; Last update: 3/8/17
+# Origin: Planet from the Dune series; place where the son of a female supplicant to Alia Atreides was killed.
+Location "Muritan Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 140.8 -68.8 0 ]
+	Size	200
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Muzhwi Dam, lake in Zimbabwe.
+Location "Muzhwi Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 233.7 74.8 0 ]
+	Size	36
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Zambia and Democratic Republic of the Congo.
+Location "Mweru Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 228.2 71.9 0 ]
+	Size	20.6
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jul 20, 2015; Last update: 10/29/15
+# Origin: Greek nymph, a minor deity, nurse of the god Dionysus, who instructed him in the Mysteries.
+Location "Mystis" "Sol/Saturn/Titan"
+{
+	LongLat	[ 165.14 0.07 0 ]
+	Size	20
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Sep 27, 2007; Last update: 6/2/18
+# Origin: Lake in Iceland.
+Location "Mývatn Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 224.72 78.19 0 ]
+	Size	55
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 3, 2013; Last update: 12/3/13
+# Origin: Intermittent lake in Kenya.
+Location "Nakuru Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 266 65.81 0 ]
+	Size	188
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: Mar 8, 2017; Last update: 3/8/17
+# Origin: Planet from the Dune series; where the son of Farok lost his eyes.
+Location "Naraj Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 324.2 -74.2 0 ]
+	Size	115
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Irish goddess of wisdom.
+Location "Nath" "Sol/Saturn/Titan"
+{
+	LongLat	[ 352.3 -30.5 0 ]
+	Size	95
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Northern Ireland, United Kingdom.
+Location "Neagh Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 327.84 81.11 0 ]
+	Size	98
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Uruguay.
+Location "Negra Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 231.1 75.5 0 ]
+	Size	15.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 21, 2010; Last update: 12/21/10
+# Origin: Intermittent lake in Botswana.
+Location "Ngami Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 146.1 66.7 0 ]
+	Size	37.2
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Indian archipelago.
+Location "Nicobar Faculae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 201 2 0 ]
+	Size	575
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Gulf in Costa Rica.
+Location "Nicoya Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 108.8 74.8 0 ]
+	Size	130
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Dec 19, 2012; Last update: 12/19/12
+# Origin: Second queen of Doriath, a fictional realm of Grey Elves; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Nimloth Colles" "Sol/Saturn/Titan"
+{
+	LongLat	[ 208.7 11.86 0 ]
+	Size	90
+	Type	"CO"	# Collis, colles
+}
+
+# Approval date: Sep 14, 2017; Last update: 9/15/17
+# Origin: Planet from the Dune series; planet captured by the Honored Matres.
+Location "Niushe Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 271.9 75.1 0 ]
+	Size	222
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Dec 5, 2011; Last update: 12/5/11
+# Origin: Greek god of the south or southwest wind.
+Location "Notus Undae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 148.9 -10 0 ]
+	Size	530
+	Type	"UN"	# Unda, undae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Hawaiian island.
+Location "Oahu Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 193.3 5 0 ]
+	Size	465
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Sep 14, 2017; Last update: 9/15/17
+# Origin: Puerto Rican goddess of happiness and weather.
+Location "OCHUMARE REGIO" "Sol/Saturn/Titan"
+{
+	LongLat	[ 11.9 10.4 0 ]
+	Size	939
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake on the border of Macedonia and Albania.
+Location "Ohrid Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 138.1 71.8 0 ]
+	Size	17.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Bay in New Zealand.
+Location "Okahu Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 78 73.7 0 ]
+	Size	141
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in El Salvador.
+Location "Olomega Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 237.8 78.7 0 ]
+	Size	15.7
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Aztec god of good cheer and lord of banquets.
+Location "Omacatl Macula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 322.8 17.6 0 ]
+	Size	225
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in New York, USA.
+Location "Oneida Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 228.17 76.14 0 ]
+	Size	51
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/5/21
+# Origin: Japanese mythological island.
+Location "Onogoro Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 48.3 83.28 0 ]
+	Size	15
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Lake on the border between Canada and the United States.
+Location "Ontario Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 177 -72 0 ]
+	Size	235
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 8, 2017; Last update: 3/8/17
+# Origin: Planet from the Dune series; home to a Bene Gesserit Keep, attacked by the Honored Matres.
+Location "Palma Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 329 -72.4 0 ]
+	Size	69
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Fjord in Chile.
+Location "Patos Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 135.2 77.2 0 ]
+	Size	103
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Oct 15, 2010; Last update: 10/15/10
+# Origin: Aymara (Peru, Bolivia) goddess of the moon, education and knowledge.
+Location "Paxsi" "Sol/Saturn/Titan"
+{
+	LongLat	[ 18.8 5 0 ]
+	Size	120
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/19/15
+# Origin: Mythological Chinese mountain island where immortals lived.
+Location "Penglai Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 51.3 72.2 0 ]
+	Size	94
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Lithuanian supreme god, ruler of rain, thunder, and lightning.
+Location "Perkunas Virgae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 198 -27 0 ]
+	Size	980
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Nepal.
+Location "Phewa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 236 72.2 0 ]
+	Size	12
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: In Greek mythology the “wandering rocks”, between which the sea was mercilessly violent. Only Argo was said to have successfully passed the rocks.
+Location "Planctae Insulae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 108.7 77.5 0 ]
+	Size	64
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Apr 5, 2010; Last update: 4/5/10
+# Origin: Slavic god of New Year's happiness.
+Location "Polaznik Macula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 79.6 -41.1 0 ]
+	Size	346.9
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: Mar 2, 2007; Last update: 12/30/08
+# Origin: East Slavic god of matrimonial happiness.
+Location "Polelya Macula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 304 50 0 ]
+	Size	175
+	Type	"MA"	# Macula, maculae
+}
+
+# Approval date: Oct 8, 2014; Last update: 10/9/14
+# Origin: Planet from the Dune series; third planet of Epsilon Alangue, considered by many Zensunni Wanderers as their planet of origin.
+Location "Poritrin Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 336 48 0 ]
+	Size	1900
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in the Republic of Macedonia, Albania, and Greece.
+Location "Prespa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 224.3 73.1 0 ]
+	Size	43.7
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Sound in state of Washington, USA.
+Location "Puget Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 118.9 82.4 0 ]
+	Size	93
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Nov 14, 2008; Last update: 12/1/10
+# Origin: Māori (New Zealand) supernatural being, the father of sharks and lizards. Son of the sea god Tangaroa.
+Location "PUNGA MARE" "Sol/Saturn/Titan"
+{
+	LongLat	[ 20.3 85.1 0 ]
+	Size	380
+	Type	"ME"	# Mare, maria
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Kukunor, Tso Ngonpo; lake in China.
+Location "Qinghai Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 308.5 83.4 0 ]
+	Size	44.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Ecuador.
+Location "Quilotoa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 239.9 80.3 0 ]
+	Size	11.8
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Legendary city in the American Southwest; site of a fabulous treasure sought by Coronado and other explorers.
+Location "QUIVIRA" "Sol/Saturn/Titan"
+{
+	LongLat	[ 345 0 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Dec 21, 2010; Last update: 12/21/10
+# Origin: Intermittent lake (playa) in California, USA.
+Location "Racetrack Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 135.1 66.1 0 ]
+	Size	9.9
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Scotland.
+Location "Rannoch Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 230.7 74.2 0 ]
+	Size	63.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 5, 2011; Last update: 10/11/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
+Location "Rerir Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 147.9 -4.8 0 ]
+	Size	370
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Oct 8, 2014; Last update: 10/9/14
+# Origin: Planet from the Dune series; fourth planet of Eridani A, supreme in machine culture, noted for miniaturization.
+Location "Richese Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 161 41.8 0 ]
+	Size	200
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Chile and Argentina.
+Location "Roca Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 236.5 79.8 0 ]
+	Size	46
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 2, 2007; Last update: 11/17/08
+# Origin: Beautiful Māori goddess, wife of Māui.
+Location "Rohe Fluctus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 322.25 47.3 0 ]
+	Size	103
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Fjord in Norway.
+Location "Rombaken Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 127.1 75.3 0 ]
+	Size	92.5
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: Planet from the Dune series; the planet on which the younger brother of Miles Teg was poisoned.
+Location "Romo Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 159.04 -82.79 0 ]
+	Size	400
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: Planet from the Dune series; the source planet for the Bene Gesserit's original poison drug, or, the "Water of Life", and the origin of the Bene Gesserit order itself.
+Location "Rossak Planitia" "Sol/Saturn/Titan"
+{
+	LongLat	[ 5 -71.04 0 ]
+	Size	512
+	Type	"PL"	# Planitia, planitiae
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/20/15
+# Origin: Island in Atlantic Ocean (15th Century maps) on verge of the unknown, near Antilla and St. Brandan.
+Location "Royllo Insula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 62.8 68.3 0 ]
+	Size	103
+	Type	"IN"	# Insula, insulae
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Tanzania.
+Location "Rukwa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 225.2 74.8 0 ]
+	Size	36
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Burundi.
+Location "Rwegura Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 254.8 71.5 0 ]
+	Size	21.7
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/7/21
+# Origin: Bay in South Africa.
+Location "Saldanha Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 37.5 82.42 0 ]
+	Size	18
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Sep 14, 2017; Last update: 9/15/17
+# Origin: Planet from the Dune series; Salusa Secundus, used as the Imperial Prison Planet.
+Location "Salusa Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 95.8 45.6 0 ]
+	Size	126
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/7/21
+# Origin: Legendary river in Jewish literature.
+Location "Sambation Flumina" "Sol/Saturn/Titan"
+{
+	LongLat	[ 269.88 87.33 0 ]
+	Size	210
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Greek island also known as Thira.
+Location "Santorini Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 214.4 2.4 0 ]
+	Size	140
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: A river in Hindu mythology.
+Location "Saraswati Flumen" "Sol/Saturn/Titan"
+{
+	LongLat	[ 166.49 -74.55 0 ]
+	Size	2.9
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Hari Seldon, the fictional, intellectual hero of Isaac Asimov's Foundation Series, First Minister of the Galactic Empire.
+Location "Seldon Fretum" "Sol/Saturn/Titan"
+{
+	LongLat	[ 43.4 66 0 ]
+	Size	67
+	Type	"FT"	# Fretum, freta
+}
+
+# Approval date: Feb 15, 2008; Last update: 2/15/08
+# Origin: Egyptian goddess of knowledge, writing, education, and reptiles. 
+Location "Selk" "Sol/Saturn/Titan"
+{
+	LongLat	[ 161 7 0 ]
+	Size	80
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Japanese ideal realm of aloofness and serenity, freedom from wordly cares and death.
+Location "SENKYO" "Sol/Saturn/Titan"
+{
+	LongLat	[ 40 -5 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in Armenia.
+Location "Sevan Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 134.4 69.7 0 ]
+	Size	46.9
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 4/20/09
+# Origin: Tibetan mythical land of eternal youth.
+# Additional info: Spelling changed from Shangri-la April 20, 2009 to match the spelling in Hilton's Lost Horizon.
+Location "SHANGRI-LA" "Sol/Saturn/Titan"
+{
+	LongLat	[ 195 -10 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Japanese island.
+Location "Shikoku Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 195.9 -10.4 0 ]
+	Size	285
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Zuni rain god.
+Location "Shiwanni Virgae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 328 -25 0 ]
+	Size	1400
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: Lake in Japan.
+Location "Shoji Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 193.63 -79.74 0 ]
+	Size	5.8
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 6, 2010; Last update: 1/6/10
+# Origin: Planet from the Dune series, home to the useful plant akarso.
+Location "Sikun Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 331.1 -77.9 0 ]
+	Size	175
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Kachin (N. Burma) wise spirit who dwells in the sky and gives wisdom to his worshippers.
+Location "Sinlap" "Sol/Saturn/Titan"
+{
+	LongLat	[ 344 11.3 0 ]
+	Size	80
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Mar 12, 2013; Last update: 3/12/13
+# Origin: Lake in Scotland.
+Location "Sionascaig Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 81.88 -41.52 0 ]
+	Size	143.2
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Inlet in Antarctica.
+Location "Skelton Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 45.1 76.8 0 ]
+	Size	73
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Feb 3, 2012; Last update: 2/3/12
+# Origin: Melanesian (New Ireland Island, Papua New Guinea) god of wisdom.
+Location "Soi" "Sol/Saturn/Titan"
+{
+	LongLat	[ 219.1 24.3 0 ]
+	Size	75
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Spain.
+Location "Sotonera Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 342.51 76.75 0 ]
+	Size	63
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 19, 2012; Last update: 12/19/12
+# Origin: Norwegian island.
+# Additional info: Formerly Sotra Facula.
+Location "Sotra Patera" "Sol/Saturn/Titan"
+{
+	LongLat	[ 320 -14.54 0 ]
+	Size	40
+	Type	"PE"	# Patera, paterae
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in Canada.
+Location "Sparrow Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 295.3 84.3 0 ]
+	Size	81.4
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Japan.
+Location "Suwa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 224.8 74.1 0 ]
+	Size	12
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Ukraine.
+Location "Synevyr Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 306.4 81 0 ]
+	Size	36
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Nov 13, 2012; Last update: 11/13/12
+# Origin: Name of a mountain from Middle-earth, the fictional setting  in fantasy novels by J.R.R. Tolkien.
+Location "Taniquetil Montes" "Sol/Saturn/Titan"
+{
+	LongLat	[ 146.74 -3.67 0 ]
+	Size	130
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in New Zealand.
+Location "Taupo Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 227.4 72.7 0 ]
+	Size	27
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Kazakhstan.
+Location "Tengiz Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 254.4 73.2 0 ]
+	Size	70
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Dutch island.
+Location "Texel Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 177.4 -11.5 0 ]
+	Size	190
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Jul 20, 2015; Last update: 10/29/15
+# Origin: Persian rain god.
+Location "Tishtrya Virgae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 180.25 23.84 0 ]
+	Size	276
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: Jul 20, 2015; Last update: 10/29/15
+# Origin: Aztec rain god.
+Location "Tlaloc Virgae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 152.3 23.73 0 ]
+	Size	600
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: Mar 1, 2017; Last update: 3/1/17
+# Origin: Planet from the Dune series; home world of the Bene Tleilax.
+Location "Tleilax Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 344 -48 0 ]
+	Size	207
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Indonesia.
+Location "Toba Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 251.9 70.9 0 ]
+	Size	23.6
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 5, 2012; Last update: 1/5/12
+# Origin: Aztec paradise where crops never fade.
+Location "TOLLAN TERRA" "Sol/Saturn/Titan"
+{
+	LongLat	[ 37.3 6.4 0 ]
+	Size	800
+	Type	"TA"	# Terra, terrae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Island in the British Virgin Islands.
+Location "Tortola Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 216.9 8.8 0 ]
+	Size	65
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Apr 7, 2011; Last update: 4/7/11
+# Origin: Lake in Japan.
+Location "Towada Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 115.8 71.4 0 ]
+	Size	24
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 5/25/18
+# Origin: Golan Trevize, fictional character in Isaac Asimov's Foundation Series, councilman of the planet Terminus.
+Location "Trevize Fretum" "Sol/Saturn/Titan"
+{
+	LongLat	[ 90.1 74.4 0 ]
+	Size	173
+	Type	"FT"	# Fretum, freta
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Greece.
+Location "Trichonida Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 294.7 81.3 0 ]
+	Size	31.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Fjord in Canada.
+Location "Trold Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 67.3 71.3 0 ]
+	Size	118
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Navajo sacred place.
+Location "TSEGIHI" "Sol/Saturn/Titan"
+{
+	LongLat	[ 350 -40 0 ]
+	Importance	20
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Aug 24, 2017; Last update: 8/24/17
+# Origin: Hopi name for Mount Taylor (New Mexico, US), as a sacred  mountain.
+Location "TSIIPIYA TERRA" "Sol/Saturn/Titan"
+{
+	LongLat	[ 19.88 2.83 0 ]
+	Size	573.24
+	Type	"TA"	# Terra, terrae
+}
+
+# Approval date: Dec 27, 2015; Last update: 12/28/15
+# Origin: Tsongmo, Changu; Lake in India.
+Location "Tsomgo Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 197.59 -86.37 0 ]
+	Size	59
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 5/6/09
+# Origin: Chinese goddess of happiness, joy, and water.
+# Additional info: Boundary extended to the southeast May 6, 2009.
+Location "TUI REGIO" "Sol/Saturn/Titan"
+{
+	LongLat	[ 235.1 -24.5 0 ]
+	Size	1200
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: Dec 14, 2020; Last update: 1/7/21
+# Origin: Bay in Columbia.
+Location "Tumaco Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 44.78 82.55 0 ]
+	Size	31
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Fjord in Greenland.
+Location "Tunu Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 60.2 79.2 0 ]
+	Size	134
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jul 20, 2015; Last update: 5/24/18
+# Origin: Planet from the Dune series; “sanctuary planet” for defeated houses of the Imperium.
+Location "Tupile Labyrinthus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 327.8 -80.5 0 ]
+	Size	84
+	Type	"LB"	# Labyrinthus, labyrinthi
+}
+
+# Approval date: Apr 5, 2010; Last update: 12/1/10
+# Origin: Māori (New Zealand) "Great Rain" god.
+Location "Uanui Virgae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 124.7 45.2 0 ]
+	Size	917
+	Type	"VI"	# Virga, virgae
+}
+
+# Approval date: Mar 12, 2013; Last update: 3/12/13
+# Origin: Lake in Iran.
+Location "Urmia Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 83.45 -39.27 0 ]
+	Size	28.6
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in Mongolia.
+Location "Uvs Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 114.3 69.6 0 ]
+	Size	26.9
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 21, 2010; Last update: 12/21/10
+# Origin: Intermittent lake (salar) in Bolivia.
+Location "Uyuni Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 131.6 66.3 0 ]
+	Size	27
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: Sep 16, 2010; Last update: 9/16/10
+# Origin: Lake in Sweden.
+Location "Vänern Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 136.9 70.4 0 ]
+	Size	43.9
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Turkey.
+Location "Van Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 222.7 74.2 0 ]
+	Size	32.7
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 12/30/08
+# Origin: Slavic god of housekeeping wisdom.
+Location "Veles" "Sol/Saturn/Titan"
+{
+	LongLat	[ 222.7 2 0 ]
+	Size	45
+	Type	"LG"	# Large ringed feature
+}
+
+# Approval date: Jul 20, 2015; Last update: 5/24/18
+# Origin: Intermittent lake in Bosnia-Herzegovina.
+Location "Veliko Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 326.9 -76.8 0 ]
+	Size	90
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: Feb 13, 2013; Last update: 2/13/13
+# Origin: In Norse mythology, a broad river of the ice-cold poisonous Elivagar system.
+Location "Vid Flumina" "Sol/Saturn/Titan"
+{
+	LongLat	[ 117.75 72.9 0 ]
+	Size	158
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Argentina.
+Location "Viedma Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 234.3 72 0 ]
+	Size	42
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Croatian island.
+Location "Vis Facula" "Sol/Saturn/Titan"
+{
+	LongLat	[ 221.6 7 0 ]
+	Size	215
+	Type	"FA"	# Facula, faculae
+}
+
+# Approval date: Sep 27, 2007; Last update: 9/28/07
+# Origin: Lake in New Zealand.
+Location "Waikare Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 234 81.6 0 ]
+	Size	52.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Bay in Japan.
+Location "Wakasa Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 90 80.7 0 ]
+	Size	146
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Jan 19, 2015; Last update: 1/21/15
+# Origin: Bay in Namibia.
+Location "Walvis Sinus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 35.9 58.2 0 ]
+	Size	253
+	Type	"SI"	# Sinus, sinūs
+}
+
+# Approval date: Mar 12, 2020; Last update: 3/13/20
+# Origin: Lake in Ghana.
+Location "Weija Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 32.32 68.77 0 ]
+	Size	12
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Mar 2, 2007; Last update: 3/2/07
+# Origin: Indonesian first woman, known for her great beauty.
+Location "Winia Fluctus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 314 49 0 ]
+	Size	300
+	Type	"FL"	# Fluctus, fluctūs
+}
+
+# Approval date: Feb 26, 2018; Last update: 2/27/18
+# Origin: Lake in Canada.
+Location "Winnipeg Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 206.69 78.05 0 ]
+	Size	60
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 3, 2013; Last update: 12/3/13
+# Origin: Intermittent lake in Australia.
+Location "Woytchugga Lacuna" "Sol/Saturn/Titan"
+{
+	LongLat	[ 251 68.88 0 ]
+	Size	449
+	Type	"LU"	# Lacuna, lacunae
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: An imaginary country in Coleridge's "Kubla Khan."
+Location "XANADU" "Sol/Saturn/Titan"
+{
+	LongLat	[ 260 -15 0 ]
+	Size	3400
+	Type	"AL"	# Albedo Feature
+}
+
+# Approval date: Nov 6, 2015; Last update: 11/6/15
+# Origin: River in the Iliad.
+Location "Xanthus Flumen" "Sol/Saturn/Titan"
+{
+	LongLat	[ 117.24 83.47 0 ]
+	Size	78
+	Type	"FM"	# Flumen, flumina
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Managua; lake in Nicaragua.
+Location "Xolotlán Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 287.1 82.3 0 ]
+	Size	57.4
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jan 5, 2012; Last update: 1/5/12
+# Origin: Australian spirit land filled with game and clean water for good souls.
+Location "YALAING TERRA" "Sol/Saturn/Titan"
+{
+	LongLat	[ 36 -19.5 0 ]
+	Size	980
+	Type	"TA"	# Terra, terrae
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Siberia (Evenkia, Asiatic Russia).
+Location "Yessey Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 249.2 73 0 ]
+	Size	24.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Honduras.
+Location "Yojoa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 305.9 78.1 0 ]
+	Size	58.3
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 6, 2017; Last update: 6/6/17
+# Origin: Lake in Paraguay.
+Location "Ypoa Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 227.8 73.4 0 ]
+	Size	39.2
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Jun 26, 2017; Last update: 6/26/17
+# Origin: Lake in Cuba.
+Location "Zaza Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 253.1 72.4 0 ]
+	Size	29
+	Type	"LC"	# Lacus, lacūs
+}
+
+# Approval date: Dec 5, 2011; Last update: 12/5/11
+# Origin: Greek personification of the gentle west wind.
+Location "Zephyrus Undae" "Sol/Saturn/Titan"
+{
+	LongLat	[ 142.9 -8.5 0 ]
+	Size	130
+	Type	"UN"	# Unda, undae
+}
+
+# Approval date: Aug 7, 2017; Last update: 8/7/17
+# Origin: Lake in Antarctica.
+Location "Zub Lacus" "Sol/Saturn/Titan"
+{
+	LongLat	[ 257.4 71.7 0 ]
+	Size	19.5
+	Type	"LC"	# Lacus, lacūs
+}
+
+
+# 5 locations on Hyperion.
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: The Moon; maker of girl babies.
+Location "Bahloo" "Sol/Saturn/Hyperion"
+{
+	LongLat	[ 164 36 0 ]
+	Size	20
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: G.P. Bond (American) and William Lassell (British); discovered Hyperion on the same night in 1848.
+Location "Bond-Lassell Dorsum" "Sol/Saturn/Hyperion"
+{
+	LongLat	[ 216.5 48 0 ]
+	Size	250
+	Type	"DO"	# Dorsum, dorsa
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Greek sun god; son of Hyperion.
+Location "Helios" "Sol/Saturn/Hyperion"
+{
+	LongLat	[ 228 71 0 ]
+	Size	60
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 12/30/08
+# Origin: East Slavic god of the sun, fertility and love.
+Location "Jarilo" "Sol/Saturn/Hyperion"
+{
+	LongLat	[ 177 61 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Bororo folk hero; the sun.
+Location "Meri" "Sol/Saturn/Hyperion"
+{
+	LongLat	[ 189 3 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+
+# 70 locations on Iapetus.
+
+# Approval date: Aug 16, 2013; Last update: 8/16/13
+# Origin: A Saracen lord, killed by Archbishop Turpin.
+Location "Abisme" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 267.08 37.53 0 ]
+	Size	767.74
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Aceline of Gascony, one of the Twelve Peers, the council of King Charles.  
+Location "Acelin" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 205.1 42.7 0 ]
+	Size	38
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: Marsilion’s nephew, killed by Roland in the first battle.  
+Location "Adelroth" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 176.4 6.6 0 ]
+	Size	57
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 5/15/08
+# Origin: One of 12 peers, killed by Marsilion. 
+# Additional info: Defines 276 degrees longitude on Iapetus. Center longitude changed from 276.6 to 276.0 May 15, 2008.
+Location "Almeric" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 84 53.4 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: One of the Twelve Peers; kills Turgis; killed by Malquiant.  
+Location "Anseïs" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 69.2 -40.7 0 ]
+	Size	48
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: A French baron; ruled over Valence on Rhone.  
+Location "Astor" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 38.8 14.9 0 ]
+	Size	122
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Emir of Babylon; Marsilion enlisted his help against Charlemagne.
+Location "Baligant" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 135.1 16.4 0 ]
+	Size	66
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: French baron; Murdered while serving as Ambassador of Marsilon.
+Location "Basan" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 165.3 33.3 0 ]
+	Size	76
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: Charlemagne’s officer who hung Ganelon’s 30 relatives.  
+Location "Basbrun" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 248.2 -52 0 ]
+	Size	80
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: French baron; murdered near Haltile with his brother Basan while serving as ambassador to Marsilion.  
+Location "Basile" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 172.1 -0.7 0 ]
+	Size	6
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: One of twelve peers; killed Estramarin; killed by Grandoyne.
+Location "Berenger" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 140.3 62.1 0 ]
+	Size	84
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Chief cook for Charlemagne's army; he guarded Ganelon after Ganelon's treachery was discovered.
+Location "Besgun" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 50.2 76 0 ]
+	Size	56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: A French baron; killed by Marsilion.  
+Location "Bevon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 267 70.7 0 ]
+	Size	48
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Queen of Saragossa, wife of Marsilion.  
+Location "Bramimond" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 182 38 0 ]
+	Size	200
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Town in southern France sacked by Roland.  
+Location "Carcassone Montes" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 143.3 0 0 ]
+	Size	740
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Italian-French astronomer who discovered Iapetus in 1671, Rhea in 1672, Tethys and Dione in 1684 (1625-1712).
+Location "CASSINI REGIO" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 267.4 -28.1 0 ]
+	Size	1000
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Emperor of France and Germanic nations; his forces fought the Saracens in Spain.
+Location "Charlemagne" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 101.2 55 0 ]
+	Size	95
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord and emissary to Charles.  
+Location "Clarin" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 288.4 18.3 0 ]
+	Size	84
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord who gave his helmet to Ganelon; killed by Oliver.  
+Location "Climborin" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 243.1 30.4 0 ]
+	Size	49
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Town in Spain taken by Charlemagne.  
+Location "Cordova Mons" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 153.8 0 0 ]
+	Size	85
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord; volunteered to fight at Roncevaux Pass; killed Archbishop Turpin in the first battle.  
+Location "Corsablis" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 245.8 0.9 0 ]
+	Size	73
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: A Saracen king from Lycia; leader in Baligant’s army.  
+Location "Dapamort" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 275.1 36.6 0 ]
+	Size	49
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: One of Twelve Peers, the Gascon of Bordeaux; the most valiant knight, killed by Climborin in the first battle.  
+Location "Engelier" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 95.3 -40.5 0 ]
+	Size	504
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Escremiz of Valterne; volunteered to fight at Roncevaux Pass; killed by Engelier in the first battle.  
+Location "Escremiz" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 186.5 1.6 0 ]
+	Size	0.06
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord and emissary to Charles.  
+Location "Eudropin" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 139.3 0.9 0 ]
+	Size	42
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Brother of King Marsilion; killed by Oliver.  
+Location "Falsaron" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 277.4 33.8 0 ]
+	Size	424
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: French count; stepfather of Roland; brother-in-law of Roland’s uncle Charlemagne; betrays Roland and the French rear guard to Marsilion.  
+Location "Ganelon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 340.2 -44.3 0 ]
+	Size	230
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord and emissary to Charles.  
+Location "Garlon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 119.5 -3.2 0 ]
+	Size	47
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Spanish town whose walls Roland had shattered.  
+Location "Gayne Mons" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 184 0 0 ]
+	Size	65
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Guarded French dead; became leader of Charlemagne's 2nd column.
+Location "Geboin" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 186.6 58.6 0 ]
+	Size	81
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: One of the Twelve Peers; kills Malprimis; killed by Grandoyne.  
+Location "Gerin" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 127 -45.6 0 ]
+	Size	445
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Standard bearer of Charlemagne; brother of Tierri, Charlemagne's defender against Pinabel.
+Location "Godefroy" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 110.9 71.9 0 ]
+	Size	63
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Son of Cappadocian King Capuel; killed Gerin, Gerier, Berenger, Guy St. Antoine, Duke Astorge; killed by Roland.
+Location "Grandoyne" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 145.5 17.7 0 ]
+	Size	65
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Place in Spain near which Basan and Basilie were murdered by Marsilion.  
+Location "Haltile Mons" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 169.6 0 0 ]
+	Size	45
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Joint Commander of Charlemagne's Eighth Division.
+Location "Hamon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 90 10.6 0 ]
+	Size	96
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Frankish baron, one of the Twelve Peers.  
+Location "Ivon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 45 18 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Johun of Outremer; Saracen lord and emissary to Charles.  
+Location "Johun" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 276.6 12.4 0 ]
+	Size	64
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Son of Marsilion, Saracen king of Spain.  
+Location "Jurfaleu" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 357.5 13 0 ]
+	Size	107
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: French commander of one of first divisions against Baligant; killed by Baligant.
+Location "Lorant" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 200.2 65.2 0 ]
+	Size	44
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: A Saracen lord from Brigale; killed by Gerin in the first battle.  
+Location "Malprimis" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 241.8 -15.2 0 ]
+	Size	377
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: A Saracen lord; killed by Oliver.  
+Location "Malun" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 318.7 5.9 0 ]
+	Size	121
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord from Seville; volunteered to fight at Roncevaux Pass.  
+Location "Margaris" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 224.2 27.7 0 ]
+	Size	75
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Saracen king of Spain; Roland wounds him and he died of wound later.
+Location "Marsilion" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 183.9 39.2 0 ]
+	Size	136
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord and emissary to Charles.  
+Location "Matthay" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 172.6 -3.5 0 ]
+	Size	58
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Guarded French dead while Charlemagne pursued Saracen forces.
+Location "Milon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 89.8 67.9 0 ]
+	Size	119
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: King Charles’ wisest counselor.  
+Location "Naimon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 30.7 9.3 0 ]
+	Size	244
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: Shares command of Charlemagne’s sixth division; leader of part of the 5th column.  
+Location "Nevelon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 163 -33.2 0 ]
+	Size	49
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Dane who led 3rd column in Charlemagne's army against Baligant's forces.
+Location "Ogier" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 84.9 42.5 0 ]
+	Size	100
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Roland's friend; mortally wounded by Marganice.
+Location "Oliver" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 159.2 62.5 0 ]
+	Size	113
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: One of twelve peers; guarded French dead while Charlemagne pursued Saracen forces; sixth column leader.
+Location "Othon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 12.2 33.3 0 ]
+	Size	86
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Pinabel of Sorence, a French baron, Ganelon's kinsmen and skilled speaker. Large and powerful, he agrees to fight Thierry to settle the issue of Ganelon's guilt and he lost the judicial combat.  
+Location "Pinabel" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 327 -39 0 ]
+	Size	83
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord and emissary to Charles.  
+Location "Priamon" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 173 1.5 0 ]
+	Size	17
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: A French baron; takes Roland’s place at vanguard of Charlemagne’s forces; leads first column.  
+Location "Rabel" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 193.8 -64.4 0 ]
+	Size	91
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Charlemagne's nephew; led rear guard of French forces; hero in song of Roland.
+Location "Roland" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 334.8 73.3 0 ]
+	Size	144
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Pass where Roland and his forces were ambushed by the Saracens.
+Location "RONCEVAUX TERRA" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 120.5 37 0 ]
+	Size	1284
+	Type	"TA"	# Terra, terrae
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord, one of the Saracen Twelve Peers.  
+Location "Rugis" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 261 -0.1 0 ]
+	Size	19
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: French baron, Duke of Burgundy; one of the Twelve Peers; killed by Valdebron.  
+Location "Samson" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 61.4 6.5 0 ]
+	Size	33
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Town held by Marsilion, eventually taken by the French.  
+Location "SARAGOSSA TERRA" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 180 -45 0 ]
+	Size	2300
+	Type	"TA"	# Terra, terrae
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Margaris comes from here.
+Location "Seville Mons" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 13.7 0 0 ]
+	Size	69
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Castle of Pinabel.
+Location "Sorence  Mons" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 166.3 0 0 ]
+	Size	46
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: French knight; Duke of Argonne; brother of Godefroy, Charlemagne’s standard bearer. At Ganelon's trial, Thierry alone insists on Ganelon's guilt. 
+Location "Thierry" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 352 -55 0 ]
+	Size	110
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Tibbald of Reims; French baron; guarded French dead at Roncevaux.  
+Location "Tibbald" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 2 57 0 ]
+	Size	160
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: A Saracen lord; killed by Gerin and Gerier in the first battle.  
+Location "Timozel" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 147.7 -9.9 0 ]
+	Size	58
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: Spanish town known for blacksmiths’ work; the shield of the Saracen knight Malquiant was made there.  
+Location "Toledo Montes" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 224 0 0 ]
+	Size	1100
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Aug 5, 2008; Last update: 11/17/08
+# Origin: Leader in Baligant’s army; king of Persia; killed by Rabel.  
+Location "Torleu" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 171.6 -0.2 0 ]
+	Size	8
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Spanish town ruled by Count Turgis.  
+Location "Tortelosa Montes" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 295.3 0 0 ]
+	Size	294
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: A Saracen baron; count of Tortelosa; killed by Oliver in the first battle.  
+Location "Turgis" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 331.6 16.9 0 ]
+	Size	580
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 1982; Last update: 10/1/06
+# Origin: Archbishop of Rheims in Song of Roland.
+Location "Turpin" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 358.6 47.7 0 ]
+	Size	87
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Saracen lord, gave his sword to Ganelon.  
+Location "Valdebron" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 255.6 29.6 0 ]
+	Size	49
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 5, 2008; Last update: 8/5/08
+# Origin: Escremiz comes from this Spanish town.  
+Location "Valterne Mons" "Sol/Saturn/Iapetus"
+{
+	LongLat	[ 189.4 0 0 ]
+	Size	50
+	Type	"MO"	# Mons, montes
+}
+
+
+# 25 locations on Phoebe.
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of the Thessalian king Pelias, took part in the Calydonian boar hunt.
+Location "Acastus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 211.5 9.6 0 ]
+	Size	34
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, founder and king of Pherae in Thessaly.
+Location "Admetus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 320.9 11.4 0 ]
+	Size	58
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Hyperasius and Hypso.
+Location "Amphion" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 358.2 -27 0 ]
+	Size	18
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Teleon, bee-master.
+Location "Butes" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 67.5 -49.6 0 ]
+	Size	29
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Boreas, the north wind.
+Location "Calais" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 134.6 -38.7 0 ]
+	Size	31
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Kanethos or Cerion, the only member of the expedition to die in combat.
+Location "Canthus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 17.8 -69.6 0 ]
+	Size	44
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Eurytus, skilled archer who was killed by Apollo for challenging the god to a shooting match.
+Location "Clytius" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 166.9 46 0 ]
+	Size	52
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Neptune, helmsman of the Argo after the death of Tiphys.
+Location "Erginus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 22.9 31.6 0 ]
+	Size	38
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Neptune and Europa.
+Location "Euphemus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 28.9 -31.3 0 ]
+	Size	23
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Ctimenus.
+Location "Eurydamas" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 78.4 -61.5 0 ]
+	Size	19
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Kenethos or Cerion.
+Location "Eurytion" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 352 -30.4 0 ]
+	Size	14
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Mercury and Antianira.
+Location "Eurytus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 182.8 -39.7 0 ]
+	Size	89
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Theiodamas/Theodamas, king of the Dryopes.
+Location "Hylas" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 5.5 7.9 0 ]
+	Size	30
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Apollo and the nymph Cyrene, or of Abas, a prophet.
+Location "Idmon" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 162.2 -67.1 0 ]
+	Size	61
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Eurytus, Jason's host during his consultation with the Oracle at Delphi.
+Location "Iphitus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 66.7 -27.2 0 ]
+	Size	22
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: The leading argonaut, son of the Thessalian king Aeson, delivered the Fleece.
+Location "Jason" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 42.3 16.2 0 ]
+	Size	101
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2000; Last update: 10/1/06
+# Origin: Daughter of Phoebe in Greek mythology.
+Location "LETO REGIO" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 340 60 0 ]
+	Size	95
+	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, prophesying son of Apollo.
+Location "Mopsus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 250.9 6.6 0 ]
+	Size	37
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Neptune and Amymone, or of Klytoneos.
+Location "Nauplius" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 118.5 31.5 0 ]
+	Size	24
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, king of the Locrians, renowned for his courage in battle.
+Location "Oileus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 263.1 -77.1 0 ]
+	Size	56
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Aeacus, father of Achilles.
+Location "Peleus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 167.8 20.2 0 ]
+	Size	44
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Dionysus.
+Location "Phlias" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 0.9 1.6 0 ]
+	Size	14
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Teleon, or of Bias and Pero.
+Location "Talaus" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 34.8 -52.3 0 ]
+	Size	15
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Aeacus, took part in the Calydonian boar hunt.
+Location "Telamon" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 267.4 -48.1 0 ]
+	Size	28
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: 2006; Last update: 10/1/06
+# Origin: Argonaut, son of Boreas, the north wind.
+Location "Zetes" "Sol/Saturn/Phoebe"
+{
+	LongLat	[ 137 -20 0 ]
+	Size	29
+	Type	"AA"	# Crater, craters
+}
