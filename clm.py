@@ -14,7 +14,7 @@ comments = True
 
 # Lists
 
-files = {
+sets = {
     "merc_locs.ssc": ["Mercury"],
     "venus_locs.ssc": ["Venus"],
     "moon_locs.ssc": ["Moon"],
@@ -28,7 +28,7 @@ files = {
     "asteroids_locs.ssc": ["Vesta", "Lutetia", "Ida", "Dactyl", "Mathilde", "Eros", "Gaspra", "Steins", "Itokawa", "Bennu", "Ryugu"]
 }
 
-targets = [
+objects = [
     "Amalthea", "Ariel", "Bennu", "Callisto", "Ceres", "Charon", "Dactyl", "Deimos", "Dione", "Enceladus", "Epimetheus", "Eros",
     "Europa", "Ganymede", "Gaspra", "Hyperion", "Iapetus", "Ida", "Io", "Itokawa", "Janus", "Lutetia", "Mars", "Mathilde",
     "Mercury", "Mimas", "Miranda", "Moon", "Oberon", "Phobos", "Phoebe", "Pluto", "Proteus", "Puck", "Rhea", "Ryugu", "Steins",
@@ -75,15 +75,15 @@ def reader(target):
                 # Target
                 if data["Target"] == "Moon":
                     location += f' "Sol/Earth/Moon"\n'
-                elif data["Target"] in files["marsmoons_locs.ssc"]:
+                elif data["Target"] in sets["marsmoons_locs.ssc"]:
                     location += f' "Sol/Mars/{data["Target"]}"\n'
-                elif data["Target"] in files["jupitermoons_locs.ssc"]:
+                elif data["Target"] in sets["jupitermoons_locs.ssc"]:
                     location += f' "Sol/Jupiter/{data["Target"]}"\n'
-                elif data["Target"] in files["saturnmoons_locs.ssc"]:
+                elif data["Target"] in sets["saturnmoons_locs.ssc"]:
                     location += f' "Sol/Saturn/{data["Target"]}"\n'
-                elif data["Target"] in files["uranusmoons_locs.ssc"]:
+                elif data["Target"] in sets["uranusmoons_locs.ssc"]:
                     location += f' "Sol/Uranus/{data["Target"]}"\n'
-                elif data["Target"] in files["neptunemoons_locs.ssc"]:
+                elif data["Target"] in sets["neptunemoons_locs.ssc"]:
                     location += f' "Sol/Neptune/{data["Target"]}"\n'
                 elif data["Target"] in ["Pluto", "Charon"]:
                     location += f' "Sol/Pluto-Charon/{data["Target"]}"\n'
@@ -127,6 +127,35 @@ def reader(target):
         except KeyError:
             return locations
 
+def writer(target_list, path):
+    with open(path, "w", encoding="UTF-8") as ssc:
+        if len(target_list) == 1:
+            target = target_list[0]
+            locations = reader(target)
+            print(f'{target} was processed')
+            counter = f'# {len(locations)} location{"" if len(locations) == 1 else "s"} on {target}.\n\n'
+            crutch = "\n"
+        else:
+            locations = []
+            n = 0
+            for target in target_list:
+                locs = reader(target)
+                n += len(locs)
+                if description:
+                    locations.append(f'\n\n# {len(locs)} locations on {target}.\n')
+                locations.append("".join(locs))
+                print(f'{target} was processed')
+            target_list_temp = target_list[:-2]
+            target_list_temp.append(f'{target_list[-2]} and {target_list[-1]}')
+            counter = f'# {n} locations on {", ".join(target_list_temp)}.\n\n'
+            crutch = ""
+        if description:
+            ssc.write(counter)
+            ssc.write(f'# SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)\n\n')
+            ssc.write(f'# Date of creation: {today}\n')
+            ssc.write(f'# Last update: {today}\n')
+        ssc.write(crutch + "".join(locations))
+
 
 # Paths detection
 
@@ -161,13 +190,15 @@ except Exception:
 
 # Target detection
 
-print("\n[0] Standard Celestia locations files\n[1] By object in the database")
-choice = input("\nEnter targets list number to show it: ")
+print("\n  Welcome to Celestia Locations Maker!\n  Please choose processing mode:")
+print("\nStandard object sets       Objects separately")
+print("[0] Select...              [1] Select...")
+print("[2] Process all            [3] Process all")
+choice = input("\nEnter the number to start: ")
 
 if choice == "0":
-    files_list = list(files.keys())
     temp = "\n"
-    for index, item in enumerate(files_list):
+    for index, item in enumerate(list(sets.keys())):
         temp += f"[{index}] {item}".ljust(26)
         if (index + 1) % 2 == 0:
             print(temp)
@@ -176,15 +207,14 @@ if choice == "0":
         print(temp)
     
     try:
-        file_name = files_list[int(input("\nPlease enter the target number: "))]
-        target_list = files[file_name]
+        set_list = [list(sets.items())[int(input("\nPlease enter the target number: "))]]
     except Exception:
         print("Input was wrong, please try again.\n")
         sys.exit(2)
-    
+
 elif choice == "1":
     temp = "\n"
-    for index, item in enumerate(targets):
+    for index, item in enumerate(objects):
         temp += f"[{index}] {item}".ljust(16)
         if (index + 1) % 3 == 0:
             print(temp)
@@ -193,22 +223,20 @@ elif choice == "1":
         print(temp)
     
     try:
-        target_list = [targets[int(input("\nPlease enter the target number: "))]]
+        set_list = [objects[int(input("\nPlease enter the target number: "))]]
     except Exception:
         print("Input was wrong, please try again.\n")
         sys.exit(2)
-    
-    print(f'\nDo you want to save the output file as "{target_list[0].lower()}_locs.ssc"?')
-    file_name = input('Press "Enter" if yes, else enter custom file name: ')
-    if file_name == "":
-        file_name = target_list[0].lower() + "_locs.ssc"
-    
+
+elif choice == "2":
+    set_list = list(sets.items())
+
+elif choice == "3":
+    set_list = objects
+
 else:
     print("Input was wrong, please try again.\n")
     sys.exit(2)
-
-save_path = path + "/locations/"
-print(f'\nSave path: {save_path + file_name}')
 
 
 # Custom coordinates and altitudes
@@ -251,30 +279,14 @@ with open(data_path + "/SearchResults", "r", encoding="UTF-8") as SearchResults:
     database = content[6:]
 
     # Output file creation
-    with open(save_path + file_name, "w", encoding="UTF-8") as ssc:
-        if len(target_list) == 1:
-            locations = reader(target_list[0])
-            counter = f'# {len(locations)} location{"" if len(locations) == 1 else "s"} on {target_list[0]}.\n\n'
-            crutch = "\n"
-        else:
-            print("")
-            locations = []
-            n = 0
-            for target in target_list:
-                locs = reader(target)
-                n += len(locs)
-                if description:
-                    locations.append(f'\n\n# {len(locs)} locations on {target}.\n')
-                locations.append("".join(locs))
-                print(f'{target} was done')
-            target_list_temp = target_list[:-2]
-            target_list_temp.append(target_list[-2]+" and "+target_list[-1])
-            counter = f'# {n} locations on {", ".join(target_list_temp)}.\n\n'
-            crutch = ""
-        if description:
-            ssc.write(counter)
-            ssc.write(f'# SSC-file author: CLM tool by Askaniy.\n\n')
-            ssc.write(f'# Date of creation: {today}\n')
-            ssc.write(f'# Last update: {today}\n')
-        ssc.write(crutch + "".join(locations))
-        print(f'\nDone\n')
+    print("")
+    for set_contains in set_list:
+        if type(set_contains) is tuple:
+            obj_list = set_contains[1]
+            save_path = f'{path}/locations/{set_contains[0]}'
+        elif type(set_contains) is str:
+            obj_list = [set_contains]
+            save_path = f'{path}/locations/{set_contains.lower()}_locs.ssc'
+        writer(obj_list, save_path)
+        print(f'Saved: {save_path}\n')
+    print(f'Done\n')
