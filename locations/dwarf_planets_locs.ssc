@@ -1,9 +1,9 @@
-# 203 locations on Ceres, Pluto and Charon.
+# 213 locations on Ceres, Pluto and Charon.
 
 # SSC-file author: CLM tool by Askaniy.
 
-# Date of creation: 11.01.2021
-# Last update: 11.01.2021
+# Date of creation: 18.07.2021
+# Last update: 18.07.2021
 
 
 # 149 locations on Ceres.
@@ -1355,7 +1355,7 @@ Location "Zatik" "Sol/Ceres"
 }
 
 
-# 40 locations on Pluto.
+# 50 locations on Pluto.
 
 # Approval date: Aug 8, 2017; Last update: 9/15/17
 # Origin: Underworld in Inuit myths.
@@ -1393,6 +1393,15 @@ Location "Baret Montes" "Sol/Pluto-Charon/Pluto"
 	Type	"MO"	# Mons, montes
 }
 
+# Approval date: Feb 3, 2021; Last update: 2/3/21
+# Origin: In The Inferno by Dante, Beatrice descends into hell to find Virgil and ask him to guide Dante. She later guides Dante through Paradise in Paradiso.
+Location "Beatrice Fossa" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 129.26 0.19 0 ]
+	Size	382
+	Type	"FO"	# Fossa, fossae
+}
+
 # Approval date: Aug 8, 2017; Last update: 9/15/17
 # Origin: Venetia; British schoolgirl, who suggested in 1930 the name “Pluto” for Tombaugh’s newly discovered planet (1918–2009).
 Location "Burney" "Sol/Pluto-Charon/Pluto"
@@ -1420,6 +1429,24 @@ Location "Djanggawul Fossae" "Sol/Pluto-Charon/Pluto"
 	Type	"FO"	# Fossa, fossae
 }
 
+# Approval date: Feb 3, 2021; Last update: 2/3/21
+# Origin: In ancient Sumerian mythology, Dumuzi was a god of the harvest. He was taken down into the Underworld, but permitted to return to earth for half of each year, resulting in the cycle of the seasons.
+Location "Dumuzi Fossa" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 127.9 30.56 0 ]
+	Size	619
+	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Feb 3, 2021; Last update: 2/9/21
+# Origin: Kenneth; Irish astronomer, the first to propose the existence of a disk of bodies beyond the orbit of Neptune, now known as the Edgeworth-Kuiper Belt (1880-1972).
+Location "Edgeworth" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 109.42 6.86 0 ]
+	Size	149
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: May 30, 2019; Last update: 5/31/19
 # Origin: Juan Sebastián; Spanish explorer of Basque origin, who completed in 1522 the first circumnavigation of the Earth which started in 1519 under the leadership of Magellan (c.1476–1526).
 Location "Elcano Montes" "Sol/Pluto-Charon/Pluto"
@@ -1438,8 +1465,8 @@ Location "Elliot" "Sol/Pluto-Charon/Pluto"
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: Aug 5, 2020; Last update: 8/5/20
-# Origin: Lisa; Led the development of the RALPH instrument, the visual and infrared imager and spectrometer on the New Horizons spacecraft (1966Ã¢ÂÂ2017).
+# Approval date: Aug 5, 2020; Last update: 2/9/21
+# Origin: Lisa; Led the development of the RALPH instrument, the visual and infrared imager and spectrometer on the New Horizons spacecraft (1966-2017).
 Location "Hardaway" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 140.97 46.85 0 ]
@@ -1510,6 +1537,15 @@ Location "Hyecho Palus" "Sol/Pluto-Charon/Pluto"
 	Type	"PA"	# Palus, paludes
 }
 
+# Approval date: Feb 3, 2021; Last update: 2/3/21
+# Origin: Inanna was the Queen of Heaven in ancient Sumerian mythology. She visited the Underworld but was permitted to return in exchange for the life of her husband, Dumuzi.
+Location "Inanna Fossa" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 129.29 33.05 0 ]
+	Size	613
+	Type	"FO"	# Fossa, fossae
+}
+
 # Approval date: Aug 12, 2019; Last update: 8/12/19
 # Origin: Epic hero of the Chochenyo/Ohlone (N. California) mythology, an anthropomorphic being resembling a peregrine falcon, who traveled to the underworld to battle Wiwe (“Body of Stone”), the lord of the underworld.
 Location "Kaknú Fossa" "Sol/Pluto-Charon/Pluto"
@@ -1546,6 +1582,15 @@ Location "LOWELL REGIO" "Sol/Pluto-Charon/Pluto"
 	Type	"RE"	# Regio, regiones
 }
 
+# Approval date: Feb 3, 2021; Last update: 2/3/21
+# Origin: Two Soviet Union planetary rovers that were sent to the surface of the Moon (1970, 1973). Lunokhod 1 was the first remote-controlled, wheeled robot to land on and rove on an extraterrestrial body.
+Location "Lunokhod Planitia" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 109.57 30.75 0 ]
+	Size	557
+	Type	"PL"	# Planitia, planitiae
+}
+
 # Approval date: May 30, 2019; Last update: 5/31/19
 # Origin: Nyanga (Eastern Dem. Rep. Congo/Zaire) epic hero who travelled to the underworld and after returning home became a wise and powerful king.
 Location "Mwindo Fossae" "Sol/Pluto-Charon/Pluto"
@@ -1553,6 +1598,15 @@ Location "Mwindo Fossae" "Sol/Pluto-Charon/Pluto"
 	LongLat	[ 245.78 34.74 0 ]
 	Size	406
 	Type	"FO"	# Fossa, fossae
+}
+
+# Approval date: Feb 3, 2021; Last update: 2/4/21
+# Origin: Jan Hendrik, Dutch astronomer, first described the Oort Cloud, a theoretical cloud of icy planetesimals beyond the Kuiper Belt, and believed to be the source of long- period comets (1900 to 1992).
+Location "Oort" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 92.05 7.86 0 ]
+	Size	123
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: May 30, 2019; Last update: 5/31/19
@@ -1573,6 +1627,15 @@ Location "Pigafetta Montes" "Sol/Pluto-Charon/Pluto"
 	Type	"MO"	# Mons, montes
 }
 
+# Approval date: Feb 3, 2021; Last update: 2/9/21
+# Origin: Early US lunar, planetary, and heliospheric missions including the first to Jupiter and Saturn, 1958-1997.
+Location "PIONEER TERRA" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 192.4 56.58 0 ]
+	Size	598
+	Type	"TA"	# Terra, terrae
+}
+
 # Approval date: May 30, 2019; Last update: 5/31/19
 # Origin: Ahmed Muhiddin, also known as Piri Reis, Ottoman navigator and cartographer (c. 1470–1553). Author of one of the earliest existing world maps in 1513. His “Book of the Sea” (1521), containing 290 maps, was one of the most famous cartographical works of that period.
 Location "Piri Rupes" "Sol/Pluto-Charon/Pluto"
@@ -1589,6 +1652,15 @@ Location "Pulfrich" "Sol/Pluto-Charon/Pluto"
 	LongLat	[ 135.99 77.8 0 ]
 	Size	37.7
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 3, 2021; Last update: 2/9/21
+# Origin: A series of US space probes sent to the Moon during 1961-1965. In 1964, Ranger 7 obtained the first close-up images of an extraterrestrial surface.
+Location "Ranger Planitia" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 127.91 20.89 0 ]
+	Size	370.59
+	Type	"PL"	# Planitia, planitiae
 }
 
 # Approval date: May 30, 2019; Last update: 6/3/19
@@ -1681,6 +1753,15 @@ Location "VENERA TERRA" "Sol/Pluto-Charon/Pluto"
 	Type	"TA"	# Terra, terrae
 }
 
+# Approval date: Feb 3, 2021; Last update: 2/4/21
+# Origin: US Mars orbiter and landed missions that conducted the first successful explorations of the surface of Mars, 1976 to 1982.
+Location "VIKING TERRA" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 150.97 12.34 0 ]
+	Size	1171
+	Type	"TA"	# Terra, terrae
+}
+
 # Approval date: Aug 8, 2017; Last update: 9/15/17
 # Origin: Italian; Dante’s guide through Hell and Purgatory in the Divine Comedy of Dante Alighieri (1265–1321).
 Location "Virgil Fossae" "Sol/Pluto-Charon/Pluto"
@@ -1715,6 +1796,15 @@ Location "Zagar" "Sol/Pluto-Charon/Pluto"
 	LongLat	[ 155.23 -5.74 0 ]
 	Size	93
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 3, 2021; Last update: 2/16/21
+# Origin: Zheng He, Chinese explorer, led voyages of Asia, Africa, and the Middle East (1371 to 1433).
+Location "Zheng He Montes" "Sol/Pluto-Charon/Pluto"
+{
+	LongLat	[ 160.57 19.01 0 ]
+	Size	101
+	Type	"MO"	# Mons, montes
 }
 
 

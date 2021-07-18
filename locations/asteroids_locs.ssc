@@ -1,9 +1,9 @@
-# 346 locations on Vesta, Lutetia, Ida, Dactyl, Mathilde, Eros, Gaspra, Steins, Itokawa, Bennu and Ryugu.
+# 358 locations on Vesta, Lutetia, Ida, Dactyl, Mathilde, Eros, Gaspra, Steins, Itokawa, Bennu and Ryugu.
 
 # SSC-file author: CLM tool by Askaniy.
 
-# Date of creation: 11.01.2021
-# Last update: 11.01.2021
+# Date of creation: 18.07.2021
+# Last update: 18.07.2021
 
 
 # 106 locations on Vesta.
@@ -2821,7 +2821,7 @@ Location "YOSHINOBU REGIO" "Sol/Itokawa"
 }
 
 
-# 24 locations on Bennu.
+# 36 locations on Bennu.
 
 # Approval date: Mar 26, 2020; Last update: 3/30/20
 # Origin: Aello; Greek, one of the harpies (together with Celaeno and Ocypete), half-maiden and half-bird personification of storm winds, that would snatch and carry things away from Earth.
@@ -2839,6 +2839,15 @@ Location "Aetos Saxum" "Sol/Bennu"
 	LongLat	[ 150.36 3.46 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
+}
+
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: Chilean mythological nocturnal bird whose wings shine at night with metallic colors so bright that cast no shadow. It lives in small caves and eats metal ores, weight of which gives no possibility to fly.
+Location "Alicanto" "Sol/Bennu"
+{
+	LongLat	[ 111.93 -0.08 0 ]
+	Size	0.06
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: Jan 31, 2020; Last update: 3/12/20
@@ -2868,6 +2877,15 @@ Location "Boobrie Saxum" "Sol/Bennu"
 	Type	"SA"	# Saxum, saxa
 }
 
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: In myths of Aboriginal Australian people of the Murray River basin, a crane, who tossed an egg from the nest of emu Dinewan into the sky where it became the sun.
+Location "Bralgah" "Sol/Bennu"
+{
+	LongLat	[ 324.99 -44.36 0 ]
+	Size	0.07
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: Mar 26, 2020; Last update: 3/30/20
 # Origin: One of four birds which destructed the first race of people carved out of wood in Kʼicheʼ Maya (Guatemala) creation myth.
 Location "Camulatz Saxum" "Sol/Bennu"
@@ -2893,6 +2911,15 @@ Location "Ciinkwia Saxum" "Sol/Bennu"
 	LongLat	[ 249.47 -4.97 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
+}
+
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: Emu whose egg created the sun in the myths of Aboriginal Australian people of the Murray River basin.
+Location "Dinewan" "Sol/Bennu"
+{
+	LongLat	[ 323.7 -41.4 0 ]
+	Size	0.01
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: Mar 26, 2020; Last update: 3/27/20
@@ -2931,6 +2958,15 @@ Location "Gullinkambi Saxum" "Sol/Bennu"
 	Type	"SA"	# Saxum, saxa
 }
 
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: Maori (New Zealand) mythical bird with enormously long divided tail, which lives in heavens and never visits earth.
+Location "Hokioi" "Sol/Bennu"
+{
+	LongLat	[ 41.78 55.07 0 ]
+	Size	0.03
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: Jan 31, 2020; Last update: 3/12/20
 # Origin: Norse, one of the two ravens (together with Muninn) accompanying the supreme god Odin.
 Location "Huginn Saxum" "Sol/Bennu"
@@ -2940,6 +2976,15 @@ Location "Huginn Saxum" "Sol/Bennu"
 	Type	"SA"	# Saxum, saxa
 }
 
+# Approval date: Dec 18, 2020; Last update: 2/11/21
+# Origin: Pawnee (Central USA) Thunderbird, a huge long-necked bird with a forked, jagged tail. The beating of his wings causes thunder.
+Location "Huhuk" "Sol/Bennu"
+{
+	LongLat	[ 152.3 -1.12 0 ]
+	Size	0.08
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: Mar 26, 2020; Last update: 3/30/20
 # Origin: Giant flying creature looking like bird or bat in myths of Kaonde, a Bantu-speaking people of NW Zambia and the adjacent areas of the Democratic Republic of Congo (Zaire).
 Location "Kongamato Saxum" "Sol/Bennu"
@@ -2947,6 +2992,24 @@ Location "Kongamato Saxum" "Sol/Bennu"
 	LongLat	[ 66.31 5.03 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
+}
+
+# Approval date: Dec 18, 2020; Last update: 3/17/21
+# Origin: Mesopotamian /Sumerian nocturnal wind demon depicted as woman with wings and birds' feet with talons.
+Location "Lilitu" "Sol/Bennu"
+{
+	LongLat	[ 115.36 -26.13 0 ]
+	Size	0.03
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Dec 18, 2020; Last update: 2/11/21
+# Origin: Massive bird that resides beyond the eastern horizon since before time began and causes lunar eclipses in myths of Bagobo (Lumad group at Mindanao Island, S. Philippines).
+Location "Minokawa" "Sol/Bennu"
+{
+	LongLat	[ 269.1 -8.79 0 ]
+	Size	0.18
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: Jan 31, 2020; Last update: 3/12/20
@@ -2985,6 +3048,24 @@ Location "Odile Saxum" "Sol/Bennu"
 	Type	"SA"	# Saxum, saxa
 }
 
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: In Czech and Slovak folklore, glowing or burning bird (firebird) with colorful red, gold and orange feathers.
+Location "Ohnivak" "Sol/Bennu"
+{
+	LongLat	[ 125.67 -4.23 0 ]
+	Size	0.04
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: Winged horse in Greek mythology.
+Location "Pegasus" "Sol/Bennu"
+{
+	LongLat	[ 329.83 23.53 0 ]
+	Size	0.01
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: Feb 11, 2020; Last update: 3/12/20
 # Origin: Māori (Polynesia) monstrous bird who kills and eat humans.
 Location "Pouakai Saxum" "Sol/Bennu"
@@ -3001,6 +3082,15 @@ Location "Roc Saxum" "Sol/Bennu"
 	LongLat	[ 25.36 -23.46 0 ]
 	Size	0.1
 	Type	"SA"	# Saxum, saxa
+}
+
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: In Hindu mythology, a giant bird, vulture, whose wings had been burnt by the blaze of the Sun when he had flown too close to it in racing with his brother.
+Location "Sampati" "Sol/Bennu"
+{
+	LongLat	[ 97.34 -19.02 0 ]
+	Size	0.01
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: Jan 31, 2020; Last update: 3/12/20
@@ -3038,6 +3128,24 @@ Location "TLANUWA REGIO" "Sol/Bennu"
 	LongLat	[ 261.7 -37.86 0 ]
 	Size	0.3
 	Type	"RE"	# Regio, regiones
+}
+
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: Abenaki (Algonquians of NE USA) giant bird, named Windblower, who sits upon a rock at the edge of the sky far in the north and produces winds by his wings.
+Location "Wuchowsen" "Sol/Bennu"
+{
+	LongLat	[ 88.13 11.78 0 ]
+	Size	0.02
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Dec 18, 2020; Last update: 2/12/21
+# Origin: Fon (Benin/Dahomey) mythical bird which reconciled the two gods in their dispute and thus ended a great drought.
+Location "Wututu" "Sol/Bennu"
+{
+	LongLat	[ 84.34 -17.03 0 ]
+	Size	0.01
+	Type	"AA"	# Crater, craters
 }
 
 

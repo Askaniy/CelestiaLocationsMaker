@@ -1,9 +1,9 @@
-# 9033 locations on Moon.
+# 9043 locations on Moon.
 
 # SSC-file author: CLM tool by Askaniy.
 
-# Date of creation: 11.01.2021
-# Last update: 11.01.2021
+# Date of creation: 18.07.2021
+# Last update: 18.07.2021
 
 
 # Approval date: Oct 5, 2018; Last update: 2/5/19
@@ -5456,8 +5456,9 @@ Location "Ball E" "Sol/Earth/Moon"
 	Type	"SF"	# Satellite Feature
 }
 
-# Approval date: Feb 11, 2020; Last update: 2/11/20
+# Approval date: Feb 11, 2020; Last update: 3/10/21
 # Origin: Astronaut-named feature, Apollo 17 site.
+# Additional info: Ballet crater is a 10 m diameter crater located near Lara crater. Please see the Apollo 17 traverse map 43D1S2 for a labeled map of the astronaut-named features.
 Location "Ballet" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.57 20.17 0 ]
@@ -6717,7 +6718,7 @@ Location "Béla" "Sol/Earth/Moon"
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1964; Last update: 10/18/10
+# Approval date: 1964; Last update: 5/4/21
 # Origin: Igor V.; Soviet astronomer (1904-1949).
 Location "Bel'kovich" "Sol/Earth/Moon"
 {
@@ -6726,7 +6727,7 @@ Location "Bel'kovich" "Sol/Earth/Moon"
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 2006; Last update: 10/18/10
+# Approval date: 2006; Last update: 5/4/21
 # Origin: Igor V.; Soviet astronomer (1904-1949).
 Location "Bel'kovich A" "Sol/Earth/Moon"
 {
@@ -6735,7 +6736,7 @@ Location "Bel'kovich A" "Sol/Earth/Moon"
 	Type	"SF"	# Satellite Feature
 }
 
-# Approval date: 2006; Last update: 10/18/10
+# Approval date: 2006; Last update: 5/4/21
 # Origin: Igor V.; Soviet astronomer (1904-1949).
 Location "Bel'kovich B" "Sol/Earth/Moon"
 {
@@ -6744,7 +6745,7 @@ Location "Bel'kovich B" "Sol/Earth/Moon"
 	Type	"SF"	# Satellite Feature
 }
 
-# Approval date: 2006; Last update: 10/18/10
+# Approval date: 2006; Last update: 5/4/21
 # Origin: Igor V.; Soviet astronomer (1904-1949).
 Location "Bel'kovich K" "Sol/Earth/Moon"
 {
@@ -21074,6 +21075,15 @@ Location "Earthlight" "Sol/Earth/Moon"
 	LongLat	[ 3.65 26.06 0 ]
 	Size	0.21
 	Type	"LF"	# Landing site name
+}
+
+# Approval date: Feb 1, 2021; Last update: 2/2/21
+# Origin: Annie Jean; American computer scientist, mathematician, and rocket scientist (1933-2011).
+Location "Easley" "Sol/Earth/Moon"
+{
+	LongLat	[ 87.97 -23.69 0 ]
+	Size	9
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: 1973; Last update: 10/18/10
@@ -43590,6 +43600,15 @@ Location "Littrow P" "Sol/Earth/Moon"
 	Type	"SF"	# Satellite Feature
 }
 
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Chinese mathematician during Wei kingdom (about 225-295).
+Location "Liu Hui" "Sol/Earth/Moon"
+{
+	LongLat	[ -52.61 42.88 0 ]
+	Size	1.5
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1961; Last update: 10/18/10
 # Origin: Nikolay Ivanovich; Russian mathematician (1793-1856).
 Location "Lobachevskiy" "Sol/Earth/Moon"
@@ -50298,12 +50317,30 @@ Location "Mons Hansteen" "Sol/Earth/Moon"
 	Type	"MO"	# Mons, montes
 }
 
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Named from terrestrial Mount Heng, in Hunan, China.
+Location "Mons Heng" "Sol/Earth/Moon"
+{
+	LongLat	[ -52.12 42.56 0 ]
+	Size	10.6
+	Type	"MO"	# Mons, montes
+}
+
 # Approval date: 1976; Last update: 10/18/10
 # Origin: Named from nearby crater.
 Location "Mons Herodotus" "Sol/Earth/Moon"
 {
 	LongLat	[ 307.06 27.5 0 ]
 	Size	6.77
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Named from terrestrial Mount Hua, in Shaanxi, China.
+Location "Mons Hua" "Sol/Earth/Moon"
+{
+	LongLat	[ -52.26 45.71 0 ]
+	Size	65
 	Type	"MO"	# Mons, montes
 }
 
@@ -50322,6 +50359,15 @@ Location "Mons La Hire" "Sol/Earth/Moon"
 {
 	LongLat	[ 334.49 27.66 0 ]
 	Size	21.71
+	Type	"MO"	# Mons, montes
+}
+
+# Approval date: May 19, 2021; Last update: 5/20/21
+# Origin: Pierre André; French entomologist (1762-1833).
+Location "Mons Latreille" "Sol/Earth/Moon"
+{
+	LongLat	[ 61.92 18.47 0 ]
+	Size	6.4
 	Type	"MO"	# Mons, montes
 }
 
@@ -55415,6 +55461,15 @@ Location "Peirescius J" "Sol/Earth/Moon"
 	LongLat	[ 66.75 -45.09 0 ]
 	Size	17.59
 	Type	"SF"	# Satellite Feature
+}
+
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Chinese geographer, cartographer during Jin dynasty (224-271).
+Location "Pei Xiu" "Sol/Earth/Moon"
+{
+	LongLat	[ -52.75 44.06 0 ]
+	Size	2.2
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: 1935; Last update: 10/18/10
@@ -69080,6 +69135,15 @@ Location "Sheepshanks C" "Sol/Earth/Moon"
 	Type	"SF"	# Satellite Feature
 }
 
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Chinese astronomer, mathematician during the Song Dynasty (1031-1095).
+Location "Shen Kuo" "Sol/Earth/Moon"
+{
+	LongLat	[ -49.41 44 0 ]
+	Size	0.9
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1973; Last update: 10/25/10
 # Origin: Astronaut-named feature, Apollo 17 site.
 Location "Sherlock" "Sol/Earth/Moon"
@@ -70261,6 +70325,15 @@ Location "Sömmering R" "Sol/Earth/Moon"
 	Type	"SF"	# Satellite Feature
 }
 
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Chinese scientist and encyclopedist during the late Ming Dynasty (1587–1666).
+Location "Song Yingxing" "Sol/Earth/Moon"
+{
+	LongLat	[ -49.65 42.34 0 ]
+	Size	1.8
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1976; Last update: 10/18/10
 # Origin: Persian female name.
 Location "Soraya" "Sol/Earth/Moon"
@@ -70799,6 +70872,15 @@ Location "Stadius W" "Sol/Earth/Moon"
 	LongLat	[ 343.52 14.12 0 ]
 	Size	4.3
 	Type	"SF"	# Satellite Feature
+}
+
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Chinese constellation name, which means ship sailing in the Milky Way.
+Location "Statio Tianchuan" "Sol/Earth/Moon"
+{
+	LongLat	[ -51.92 43.06 0 ]
+	Size	0.04
+	Type	"LF"	# Landing site name
 }
 
 # Approval date: Feb 4, 2019; Last update: 2/18/19
@@ -80195,6 +80277,15 @@ Location "Xenophon" "Sol/Earth/Moon"
 {
 	LongLat	[ 122.05 -22.79 0 ]
 	Size	25.5
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: May 19, 2021; Last update: 5/19/21
+# Origin: Chinese agronomist, astronomer, mathematician during the Ming dynasty (1562-1633).
+Location "Xu Guangqi" "Sol/Earth/Moon"
+{
+	LongLat	[ -51.93 43.06 0 ]
+	Size	0.4
 	Type	"AA"	# Crater, craters
 }
 

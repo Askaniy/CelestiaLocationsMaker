@@ -1,9 +1,9 @@
-# 534 locations on Mercury.
+# 539 locations on Mercury.
 
 # SSC-file author: CLM tool by Askaniy.
 
-# Date of creation: 11.01.2021
-# Last update: 11.01.2021
+# Date of creation: 18.07.2021
+# Last update: 18.07.2021
 
 
 # Approval date: Jul 9, 2009; Last update: 3/7/11
@@ -130,6 +130,24 @@ Location "Al-Jāhiz" "Sol/Mercury"
 	LongLat	[ 338.24 1.36 0 ]
 	Size	83
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 12, 2021; Last update: 3/2/21
+# Origin: Brazilian; an oceanographic research vessel investigating the role of the South Atlantic in global climate change, as well as studying marine biodiversity.
+Location "Alpha Crucis Rupēs" "Sol/Mercury"
+{
+	LongLat	[ 131.69 -12.48 0 ]
+	Size	511.3
+	Type	"RU"	# Rupes, rupēs
+}
+
+# Approval date: Apr 29, 2021; Last update: 5/5/21
+# Origin: Mexican; oceanographic vessel used for academic and federal research in the Pacific (2000s).
+Location "Altair Rupes" "Sol/Mercury"
+{
+	LongLat	[ 173.51 -70.48 0 ]
+	Size	895.58
+	Type	"RU"	# Rupes, rupēs
 }
 
 # Approval date: Mar 15, 2013; Last update: 3/15/13
@@ -539,8 +557,8 @@ Location "Bernini" "Sol/Mercury"
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: Sep 28, 2020; Last update: 10/7/20
-# Origin: Charles Edward Anderson ÃÂ¢ÃÂÃÂChuckÃÂ¢ÃÂÃÂ: American singer and songwriter (1926-2017).
+# Approval date: Sep 28, 2020; Last update: 3/17/21
+# Origin: Charles Edward Anderson "Chuck": American singer and songwriter (1926-2017).
 Location "Berry" "Sol/Mercury"
 {
 	LongLat	[ 112.73 70.57 0 ]
@@ -997,6 +1015,15 @@ Location "Chiang K'ui" "Sol/Mercury"
 	LongLat	[ 257.2 14.71 0 ]
 	Size	41
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 12, 2021; Last update: 1/25/21
+# Origin: Japanese; a scientific drilling ship built for the Integrated Ocean Drilling Program to conduct deep-sea geological research.
+Location "Chikyu Rupes" "Sol/Mercury"
+{
+	LongLat	[ 100.38 -53.82 0 ]
+	Size	561
+	Type	"RU"	# Rupes, rupēs
 }
 
 # Approval date: 1979; Last update: 10/7/16
@@ -2074,6 +2101,15 @@ Location "Imhotep" "Sol/Mercury"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Jan 12, 2021; Last update: 2/2/21
+# Origin: Australian; research vessel used since 2014 for atmospheric, oceanographic, biological and geoscience research from the tropical north to the Antarctic ice-edge mainly in the Indian and Pacific Oceans.
+Location "Investigator Rupes" "Sol/Mercury"
+{
+	LongLat	[ 136.04 -25.39 0 ]
+	Size	390
+	Type	"RU"	# Rupes, rupēs
+}
+
 # Approval date: Apr 16, 2018; Last update: 4/16/18
 # Origin: Zulu and Xhosa (South Africa) word for snake.
 Location "Inyoka Faculae" "Sol/Mercury"
@@ -2375,8 +2411,8 @@ Location "La Dauphine Rupes" "Sol/Mercury"
 # Origin: Dorothea; American photographer (1895-1965).
 Location "Lange" "Sol/Mercury"
 {
-	LongLat	[ 100.47 6.28 0 ]
-	Size	176.23
+	LongLat	[ 100.41 6.4 0 ]
+	Size	176
 	Type	"AA"	# Crater, craters
 }
 
@@ -2645,8 +2681,8 @@ Location "Martins" "Sol/Mercury"
 # Origin: Iwasa; Japanese painter (1578-1650).
 Location "Matabei" "Sol/Mercury"
 {
-	LongLat	[ 345.95 -39.85 0 ]
-	Size	24
+	LongLat	[ 346.1 -39.87 0 ]
+	Size	23.52
 	Type	"AA"	# Crater, craters
 }
 
@@ -2654,8 +2690,8 @@ Location "Matabei" "Sol/Mercury"
 # Origin: Henri; French painter and sculptor (1869-1954).
 Location "Matisse" "Sol/Mercury"
 {
-	LongLat	[ 269.81 -23.8 0 ]
-	Size	189
+	LongLat	[ 269.95 -23.83 0 ]
+	Size	189.04
 	Type	"AA"	# Crater, craters
 }
 
@@ -2745,7 +2781,7 @@ Location "Milton" "Sol/Mercury"
 Location "Mirni Rupes" "Sol/Mercury"
 {
 	LongLat	[ 320.99 -38.54 0 ]
-	Size	258.02
+	Size	258
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4569,6 +4605,15 @@ Location "Verdi" "Sol/Mercury"
 {
 	LongLat	[ 190.29 64.36 0 ]
 	Size	145
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jun 28, 2021; Last update: 6/29/21
+# Origin: Paolo; Italian Renaissance painter (1528-1588).
+Location "Veronese" "Sol/Mercury"
+{
+	LongLat	[ 304.05 5.3 0 ]
+	Size	45
 	Type	"AA"	# Crater, craters
 }
 

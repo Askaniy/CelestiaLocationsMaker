@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy.
 
-# Date of creation: 11.01.2021
-# Last update: 11.01.2021
+# Date of creation: 18.07.2021
+# Last update: 18.07.2021
 
 
 # 2 locations on Epimetheus.
@@ -1815,8 +1815,8 @@ Location "Argiletum Fossae" "Sol/Saturn/Dione"
 # Origin: Town in Apulia (now Puglia, southern Italy) founded after the Trojan war by Diomedes.
 Location "Arpi Fossae" "Sol/Saturn/Dione"
 {
-	LongLat	[ 241 52 0 ]
-	Size	425
+	LongLat	[ 229.2 47.47 0 ]
+	Size	330
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -2024,8 +2024,8 @@ Location "Eumelus" "Sol/Saturn/Dione"
 # Origin: The river on which Sparta stood.
 Location "Eurotas Chasmata" "Sol/Saturn/Dione"
 {
-	LongLat	[ 58.65 4.94 0 ]
-	Size	1000
+	LongLat	[ 90 18 0 ]
+	Size	1200
 	Type	"CM"	# Chasma, chasmata
 }
 

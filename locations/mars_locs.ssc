@@ -1,9 +1,9 @@
-# 1915 locations on Mars.
+# 1923 locations on Mars.
 
 # SSC-file author: CLM tool by Askaniy.
 
-# Date of creation: 11.01.2021
-# Last update: 11.01.2021
+# Date of creation: 18.07.2021
+# Last update: 18.07.2021
 
 
 # Approval date: 2003; Last update: 10/1/06
@@ -141,7 +141,7 @@ Location "Adams" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1958; Last update: 10/1/06
+# Approval date: 1958; Last update: 2/9/21
 # Origin: Floating island where winds were kept in a cave.
 Location "AEOLIS" "Sol/Mars"
 {
@@ -4648,6 +4648,15 @@ Location "Dromore" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Sep 15, 2020; Last update: 2/9/21
+# Origin: Classical albedo feature name.
+Location "Dryas Mons" "Sol/Mars"
+{
+	LongLat	[ 187.59 -44.39 0 ]
+	Size	267.49
+	Type	"MO"	# Mons, montes
+}
+
 # Approval date: 1985; Last update: 10/1/06
 # Origin: Classical name for modern Doubs River, France.
 Location "Dubis Vallis" "Sol/Mars"
@@ -4991,6 +5000,15 @@ Location "Elorza" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: May 1, 2021; Last update: 5/7/21
+# Origin: Wolfgang; American volcanologist and planetary geologist (1928-2016).
+Location "Elston" "Sol/Mars"
+{
+	LongLat	[ 119.18 -15.39 0 ]
+	Size	75
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1976; Last update: 11/17/10
 # Origin: Town in Nevada, USA.
 Location "Ely" "Sol/Mars"
@@ -5243,11 +5261,11 @@ Location "Eumenides Dorsum" "Sol/Mars"
 	Type	"DO"	# Dorsum, dorsa
 }
 
-# Approval date: 1958; Last update: 10/1/06
+# Approval date: 1958; Last update: 2/9/21
 # Origin: "Lucky journey or lucky return"; i.e., infernal regions beyond Elysium.
 Location "EUNOSTOS" "Sol/Mars"
 {
-	LongLat	[ 240 21.77 0 ]
+	LongLat	[ 140 22 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -8076,6 +8094,15 @@ Location "Kem'" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Sep 15, 2020; Last update: 2/9/21
+# Origin: Alexander; Soviet engineer of Armenian descent, founder of the Soviet scientific school of space transport engineering, designer of the first planetary rovers, including lunar Lunokhod 1 and 2, and martian PrOP-M mini-rover onboard Mars 2 and 3 landers (1921-2003).
+Location "Kemurdzhian" "Sol/Mars"
+{
+	LongLat	[ 188.61 -43.22 0 ]
+	Size	61
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: Feb 16, 2018; Last update: 2/19/18
 # Origin: Town in Democratic Republic of the Congo.
 Location "Kenge" "Sol/Mars"
@@ -8388,6 +8415,15 @@ Location "Koy" "Sol/Mars"
 {
 	LongLat	[ 309.59 21.47 0 ]
 	Size	7.12
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 21, 2021; Last update: 4/22/21
+# Origin: Town in Ukraine.
+Location "Kozova" "Sol/Mars"
+{
+	LongLat	[ 359.04 3.9 0 ]
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -9751,6 +9787,15 @@ Location "MARGARITIFER TERRA" "Sol/Mars"
 	LongLat	[ 335.08 -1.85 0 ]
 	Size	2733.22
 	Type	"TA"	# Terra, terrae
+}
+
+# Approval date: Apr 21, 2021; Last update: 4/22/21
+# Origin: Lynn; evolutionary biologist (1938-2011).
+Location "Margulis" "Sol/Mars"
+{
+	LongLat	[ 8.49 -23.16 0 ]
+	Size	180
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: 1991; Last update: 11/17/10
@@ -11826,12 +11871,12 @@ Location "Oudemans" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: Jun 3, 2020; Last update: 6/30/20
+# Approval date: Jun 3, 2020; Last update: 4/5/21
 # Origin: Tobias, American planetary scientist (1936-2017).
 Location "Owen" "Sol/Mars"
 {
-	LongLat	[ 83.85 -13.46 0 ]
-	Size	82
+	LongLat	[ 83.84 -13.48 0 ]
+	Size	79.33
 	Type	"AA"	# Crater, craters
 }
 
@@ -12149,6 +12194,15 @@ Location "Peixe" "Sol/Mars"
 	LongLat	[ 312.4 20.33 0 ]
 	Size	9.35
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Feb 4, 2021; Last update: 2/4/21
+# Origin: From albedo feature at 48S, 290W.
+Location "Peneus Mensa" "Sol/Mars"
+{
+	LongLat	[ 55.1 -45.46 0 ]
+	Size	30
+	Type	"MN"	# Mensa, mensae
 }
 
 # Approval date: Aug 7, 2015; Last update: 8/7/15
@@ -12901,6 +12955,15 @@ Location "PYRRHAE REGIO" "Sol/Mars"
 	Type	"AL"	# Albedo Feature
 }
 
+# Approval date: Sep 15, 2020; Last update: 2/9/21
+# Origin: Town in Greenland.
+Location "Qaqortoq" "Sol/Mars"
+{
+	LongLat	[ 186.06 -43.43 0 ]
+	Size	20
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: Feb 16, 2018; Last update: 2/19/18
 # Origin: Village in Egypt.
 Location "Qara" "Sol/Mars"
@@ -13259,6 +13322,15 @@ Location "Roddy" "Sol/Mars"
 {
 	LongLat	[ 320.61 -21.65 0 ]
 	Size	85.82
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Apr 21, 2021; Last update: 4/22/21
+# Origin: Elizabeth “Pat”; astronomer (1929-2016).
+Location "Roemer" "Sol/Mars"
+{
+	LongLat	[ 8.09 -27.46 0 ]
+	Size	120
 	Type	"AA"	# Crater, craters
 }
 
