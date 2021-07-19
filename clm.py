@@ -28,23 +28,23 @@ sets = {
     "asteroids_locs.ssc": ["Vesta", "Lutetia", "Ida", "Dactyl", "Mathilde", "Eros", "Gaspra", "Steins", "Itokawa", "Bennu", "Ryugu"]
 }
 
-objects = [
+objects = (
     "Amalthea", "Ariel", "Bennu", "Callisto", "Ceres", "Charon", "Dactyl", "Deimos", "Dione", "Enceladus", "Epimetheus", "Eros",
     "Europa", "Ganymede", "Gaspra", "Hyperion", "Iapetus", "Ida", "Io", "Itokawa", "Janus", "Lutetia", "Mars", "Mathilde",
     "Mercury", "Mimas", "Miranda", "Moon", "Oberon", "Phobos", "Phoebe", "Pluto", "Proteus", "Puck", "Rhea", "Ryugu", "Steins",
     "Tethys", "Thebe", "Titan", "Titania", "Triton", "Umbriel", "Venus", "Vesta"
-]
+)
 
-#columns = ["Feature_ID", "Feature_Name", "Clean_Feature_Name", "Target", "Diameter", "Center_Latitude", "Center_Longitude",
+#columns = ("Feature_ID", "Feature_Name", "Clean_Feature_Name", "Target", "Diameter", "Center_Latitude", "Center_Longitude",
 #    "Northern_Latitude", "Southern_Latitude", "Eastern_Longitude", "Western_Longitude", "Coordinate_System", "Continent", "Ethnicity",
 #    "Feature_Type", "Feature_Type_Code", "Quad", "Approval_Status", "Approval_Date", "Reference", "Origin", "Additional_Info",
 #    "Last_Updated"
-#]
+#)
 
-celestia16supports = [
+celestia16supports = (
     "AA", "AS", "CA", "CH", "CM", "CR", "DO", "ER", "FL", "FO", "FR", "IN", "LF", "LI", "ME", "MN", "MO", "PE", "PL", "PM", "RE", "RI",
     "RT", "RU", "TA", "TE", "TH", "UN", "VA", "XX"
-]
+)
 
 
 # SSC writer
@@ -67,7 +67,7 @@ def reader(target):
                         location += f'# Additional info: {data["Additional_Info"]}\n'
                 
                 # Name
-                if data["Feature_Type_Code"] in ["AL", "ME", "OC", "RE", "TA"]:
+                if data["Feature_Type_Code"] in ("AL", "ME", "OC", "RE", "TA"):
                     location += f'Location "{data["Feature_Name"].upper()}"'
                 else:
                     location += f'Location "{data["Feature_Name"]}"'
@@ -85,7 +85,7 @@ def reader(target):
                     location += f' "Sol/Uranus/{data["Target"]}"\n'
                 elif data["Target"] in sets["neptunemoons_locs.ssc"]:
                     location += f' "Sol/Neptune/{data["Target"]}"\n'
-                elif data["Target"] in ["Pluto", "Charon"]:
+                elif data["Target"] in ("Pluto", "Charon"):
                     location += f' "Sol/Pluto-Charon/{data["Target"]}"\n'
                 elif data["Target"] == "Dactyl":
                     location += f' "Sol/Ida/Dactyl"\n'
@@ -97,10 +97,14 @@ def reader(target):
                 if data["Feature_Name"] in coord_dict:
                     location += f'\tLongLat\t[ {coord_dict[data["Feature_Name"]]} ]\n'
                 else:
-                    if data["Target"] == "Vesta":
-                        location += f'\tLongLat\t[ {round(float(data["Center_Longitude"])-150, 2)} {data["Center_Latitude"]} 0 ]\n'
-                    else:
-                        location += f'\tLongLat\t[ {data["Center_Longitude"]} {data["Center_Latitude"]} 0 ]\n'
+                    long = data["Center_Longitude"]
+                    lat = data["Center_Latitude"]
+                    if data["Target"] in ("Bennu", "Ida", "Itokawa", "Ryugu", "Steins", "Triton", "Venus"): # retrograde rotators
+                        long = long[1:] if long[0] == "-" else "-"+long
+                        lat = lat[1:] if lat[0] == "-" else "-"+lat
+                    elif data["Target"] == "Vesta": # coordinate system by Dawn team, more in README
+                        long = round(float(data["Center_Longitude"])-150, 2)
+                    location += f'\tLongLat\t[ {long} {lat} 0 ]\n'
                 
                 # Size/Importance
                 if float(data["Diameter"]) == 0:

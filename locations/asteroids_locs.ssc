@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 18.07.2021
-# Last update: 18.07.2021
+# Date of creation: 19.07.2021
+# Last update: 19.07.2021
 
 
 # 106 locations on Vesta.
@@ -1310,7 +1310,7 @@ Location "Turicum" "Sol/Lutetia"
 # Additional info: Defines zero degrees longitude on Ida.
 Location "Afon" "Sol/Ida"
 {
-	LongLat	[ 0 -6.5 0 ]
+	LongLat	[ -0 6.5 0 ]
 	Size	0.8
 	Type	"AA"	# Crater, craters
 }
@@ -1319,7 +1319,7 @@ Location "Afon" "Sol/Ida"
 # Origin: Cave in the Muller Range of Papua New Guinea.
 Location "Atea" "Sol/Ida"
 {
-	LongLat	[ 18.9 -5.7 0 ]
+	LongLat	[ -18.9 5.7 0 ]
 	Size	2
 	Type	"AA"	# Crater, craters
 }
@@ -1328,7 +1328,7 @@ Location "Atea" "Sol/Ida"
 # Origin: Flooded cave (known as the Blue Grotto) on the island of Capri in southern Italy.
 Location "Azzurra" "Sol/Ida"
 {
-	LongLat	[ 217.2 30.5 0 ]
+	LongLat	[ -217.2 -30.5 0 ]
 	Size	9.6
 	Type	"AA"	# Crater, craters
 }
@@ -1337,7 +1337,7 @@ Location "Azzurra" "Sol/Ida"
 # Origin: Lava tube in the Republic of Korea.
 Location "Bilemot" "Sol/Ida"
 {
-	LongLat	[ 29.2 -27.8 0 ]
+	LongLat	[ -29.2 27.8 0 ]
 	Size	1.8
 	Type	"AA"	# Crater, craters
 }
@@ -1346,7 +1346,7 @@ Location "Bilemot" "Sol/Ida"
 # Origin: Cave in Puglia region, Italy.
 Location "Castellana" "Sol/Ida"
 {
-	LongLat	[ 335.2 -13.4 0 ]
+	LongLat	[ -335.2 13.4 0 ]
 	Size	5.2
 	Type	"AA"	# Crater, craters
 }
@@ -1355,7 +1355,7 @@ Location "Castellana" "Sol/Ida"
 # Origin: Site where Peking Man was discovered.
 Location "Choukoutien" "Sol/Ida"
 {
-	LongLat	[ 23.6 12.8 0 ]
+	LongLat	[ -23.6 -12.8 0 ]
 	Size	1.1
 	Type	"AA"	# Crater, craters
 }
@@ -1364,7 +1364,7 @@ Location "Choukoutien" "Sol/Ida"
 # Origin: Cave in the Hebrides.
 Location "Fingal" "Sol/Ida"
 {
-	LongLat	[ 39.9 -13.2 0 ]
+	LongLat	[ -39.9 13.2 0 ]
 	Size	1.5
 	Type	"AA"	# Crater, craters
 }
@@ -1373,7 +1373,7 @@ Location "Fingal" "Sol/Ida"
 # Origin: Cave in Arizona.
 Location "Kartchner" "Sol/Ida"
 {
-	LongLat	[ 179 -7 0 ]
+	LongLat	[ -179 7 0 ]
 	Size	0.9
 	Type	"AA"	# Crater, craters
 }
@@ -1382,7 +1382,7 @@ Location "Kartchner" "Sol/Ida"
 # Origin: Lava tube in Hawaii.
 Location "Kazumura" "Sol/Ida"
 {
-	LongLat	[ 41.1 -32 0 ]
+	LongLat	[ -41.1 32 0 ]
 	Size	2.1
 	Type	"AA"	# Crater, craters
 }
@@ -1391,7 +1391,7 @@ Location "Kazumura" "Sol/Ida"
 # Origin: Cave in France noted for its prehistoric paintings.
 Location "Lascaux" "Sol/Ida"
 {
-	LongLat	[ 161.2 0.8 0 ]
+	LongLat	[ -161.2 -0.8 0 ]
 	Size	11.8
 	Type	"AA"	# Crater, craters
 }
@@ -1400,7 +1400,7 @@ Location "Lascaux" "Sol/Ida"
 # Origin: Cave in Carlsbad National Park, New Mexico.
 Location "Lechuguilla" "Sol/Ida"
 {
-	LongLat	[ 357.1 7.9 0 ]
+	LongLat	[ -357.1 -7.9 0 ]
 	Size	1.5
 	Type	"AA"	# Crater, craters
 }
@@ -1409,7 +1409,7 @@ Location "Lechuguilla" "Sol/Ida"
 # Origin: Longest limestone cavern known on Earth.
 Location "Mammoth" "Sol/Ida"
 {
-	LongLat	[ 180.3 -18.3 0 ]
+	LongLat	[ -180.3 18.3 0 ]
 	Size	10.2
 	Type	"AA"	# Crater, craters
 }
@@ -1418,7 +1418,7 @@ Location "Mammoth" "Sol/Ida"
 # Origin: Lava tube in the Republic of Korea.
 Location "Manjang" "Sol/Ida"
 {
-	LongLat	[ 90.5 -28.3 0 ]
+	LongLat	[ -90.5 28.3 0 ]
 	Size	1
 	Type	"AA"	# Crater, craters
 }
@@ -1427,7 +1427,7 @@ Location "Manjang" "Sol/Ida"
 # Origin: Cave in France.
 Location "Orgnac" "Sol/Ida"
 {
-	LongLat	[ 202.7 -6.3 0 ]
+	LongLat	[ -202.7 6.3 0 ]
 	Size	10.6
 	Type	"AA"	# Crater, craters
 }
@@ -1436,7 +1436,7 @@ Location "Orgnac" "Sol/Ida"
 # Origin: Cave with underground river in France.
 Location "Padirac" "Sol/Ida"
 {
-	LongLat	[ 5.2 -4.3 0 ]
+	LongLat	[ -5.2 4.3 0 ]
 	Size	1.9
 	Type	"AA"	# Crater, craters
 }
@@ -1445,7 +1445,7 @@ Location "Padirac" "Sol/Ida"
 # Origin: Johann; Austrian astronomer, discovered Ida (1848-1925).
 Location "PALISA REGIO" "Sol/Ida"
 {
-	LongLat	[ 34 -23 0 ]
+	LongLat	[ -34 23 0 ]
 	Size	23
 	Type	"RE"	# Regio, regiones
 }
@@ -1454,7 +1454,7 @@ Location "PALISA REGIO" "Sol/Ida"
 # Origin: Cave in Florida, USA.
 Location "Peacock" "Sol/Ida"
 {
-	LongLat	[ 52 -2 0 ]
+	LongLat	[ -52 2 0 ]
 	Size	0.2
 	Type	"AA"	# Crater, craters
 }
@@ -1463,7 +1463,7 @@ Location "Peacock" "Sol/Ida"
 # Origin: Place where Palisa (discoverer of Ida) observed.
 Location "POLA REGIO" "Sol/Ida"
 {
-	LongLat	[ 184 -11 0 ]
+	LongLat	[ -184 11 0 ]
 	Size	8
 	Type	"RE"	# Regio, regiones
 }
@@ -1472,7 +1472,7 @@ Location "POLA REGIO" "Sol/Ida"
 # Origin: Large cave in Slovenia.
 Location "Postojna" "Sol/Ida"
 {
-	LongLat	[ 359.9 -42.9 0 ]
+	LongLat	[ -359.9 42.9 0 ]
 	Size	6
 	Type	"AA"	# Crater, craters
 }
@@ -1481,7 +1481,7 @@ Location "Postojna" "Sol/Ida"
 # Origin: Cave in South Africa.
 Location "Sterkfontein" "Sol/Ida"
 {
-	LongLat	[ 54.1 -4.1 0 ]
+	LongLat	[ -54.1 4.1 0 ]
 	Size	4.7
 	Type	"AA"	# Crater, craters
 }
@@ -1490,7 +1490,7 @@ Location "Sterkfontein" "Sol/Ida"
 # Origin: Karst cave in Sulmona, Italy.
 Location "Stiffe" "Sol/Ida"
 {
-	LongLat	[ 126.5 -27.9 0 ]
+	LongLat	[ -126.5 27.9 0 ]
 	Size	1.5
 	Type	"AA"	# Crater, craters
 }
@@ -1499,7 +1499,7 @@ Location "Stiffe" "Sol/Ida"
 # Origin: Tim E.; Galileo imaging team member (d. 1989).
 Location "Townsend Dorsum" "Sol/Ida"
 {
-	LongLat	[ 30 25 0 ]
+	LongLat	[ -30 -25 0 ]
 	Size	40
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -1508,7 +1508,7 @@ Location "Townsend Dorsum" "Sol/Ida"
 # Origin: Lava tube from Undara Volcano, North Queensland, Australia.
 Location "Undara" "Sol/Ida"
 {
-	LongLat	[ 113.8 2 0 ]
+	LongLat	[ -113.8 -2 0 ]
 	Size	8.5
 	Type	"AA"	# Crater, craters
 }
@@ -1517,7 +1517,7 @@ Location "Undara" "Sol/Ida"
 # Origin: Where Palisa discovered Ida.
 Location "VIENNA REGIO" "Sol/Ida"
 {
-	LongLat	[ 2 8 0 ]
+	LongLat	[ -2 -8 0 ]
 	Size	13
 	Type	"RE"	# Regio, regiones
 }
@@ -1526,7 +1526,7 @@ Location "VIENNA REGIO" "Sol/Ida"
 # Origin: Lava tube in Spain.
 Location "Viento" "Sol/Ida"
 {
-	LongLat	[ 343.9 12.2 0 ]
+	LongLat	[ -343.9 -12.2 0 ]
 	Size	1.6
 	Type	"AA"	# Crater, craters
 }
@@ -2451,7 +2451,7 @@ Location "Zohar" "Sol/Gaspra"
 # Origin: Banded gemstone, variety of the mineral chalcedony.
 Location "Agate" "Sol/Steins"
 {
-	LongLat	[ 1.8 57.6 0 ]
+	LongLat	[ -1.8 -57.6 0 ]
 	Size	0.5
 	Type	"AA"	# Crater, craters
 }
@@ -2460,7 +2460,7 @@ Location "Agate" "Sol/Steins"
 # Origin: Gemstone notable for its color change, appearing green in daylight, but red under incandescent light; a variety of chrysoberyl.
 Location "Alexandrite" "Sol/Steins"
 {
-	LongLat	[ 20.7 -7 0 ]
+	LongLat	[ -20.7 7 0 ]
 	Size	0.31
 	Type	"AA"	# Crater, craters
 }
@@ -2469,7 +2469,7 @@ Location "Alexandrite" "Sol/Steins"
 # Origin: Red to violet-red gemstone, a variety of the mineral garnet.
 Location "Almandine" "Sol/Steins"
 {
-	LongLat	[ 53.8 29.5 0 ]
+	LongLat	[ -53.8 -29.5 0 ]
 	Size	0.52
 	Type	"AA"	# Crater, craters
 }
@@ -2478,7 +2478,7 @@ Location "Almandine" "Sol/Steins"
 # Origin: Light bluish-green gemstone, a variety of the mineral orthoclase.
 Location "Amazonite" "Sol/Steins"
 {
-	LongLat	[ 75.6 9.6 0 ]
+	LongLat	[ -75.6 -9.6 0 ]
 	Size	0.47
 	Type	"AA"	# Crater, craters
 }
@@ -2487,7 +2487,7 @@ Location "Amazonite" "Sol/Steins"
 # Origin: Violet gemstone, a variety of the mineral quartz.
 Location "Amethyst" "Sol/Steins"
 {
-	LongLat	[ 343.2 28.9 0 ]
+	LongLat	[ -343.2 -28.9 0 ]
 	Size	0.45
 	Type	"AA"	# Crater, craters
 }
@@ -2496,7 +2496,7 @@ Location "Amethyst" "Sol/Steins"
 # Origin: Blue-green and light blue gemstone, a variety of the mineral beryl.
 Location "Aquamarine" "Sol/Steins"
 {
-	LongLat	[ 120.3 7.2 0 ]
+	LongLat	[ -120.3 -7.2 0 ]
 	Size	0.37
 	Type	"AA"	# Crater, craters
 }
@@ -2505,7 +2505,7 @@ Location "Aquamarine" "Sol/Steins"
 # Origin: Nikolai Stepanovich; Soviet and Ukrainian astronomer, discovered asteroid (2867) Steins (1931-2004).
 Location "CHERNYKH REGIO" "Sol/Steins"
 {
-	LongLat	[ 60 -20 0 ]
+	LongLat	[ -60 20 0 ]
 	Size	7.5
 	Type	"RE"	# Regio, regiones
 }
@@ -2514,7 +2514,7 @@ Location "CHERNYKH REGIO" "Sol/Steins"
 # Origin: Yellow or brownish-green gemstone, the third hardest gemstone after diamond and sapphire.
 Location "Chrysoberyl" "Sol/Steins"
 {
-	LongLat	[ 29.6 -2 0 ]
+	LongLat	[ -29.6 2 0 ]
 	Size	1.55
 	Type	"AA"	# Crater, craters
 }
@@ -2523,7 +2523,7 @@ Location "Chrysoberyl" "Sol/Steins"
 # Origin: Yellow gemstone, a variety of the mineral quartz.
 Location "Citrine" "Sol/Steins"
 {
-	LongLat	[ 340.6 13.7 0 ]
+	LongLat	[ -340.6 -13.7 0 ]
 	Size	0.61
 	Type	"AA"	# Crater, craters
 }
@@ -2532,7 +2532,7 @@ Location "Citrine" "Sol/Steins"
 # Origin: Rare and precious gemstone, the hardest natural substance.
 Location "Diamond" "Sol/Steins"
 {
-	LongLat	[ 13.4 -54.6 0 ]
+	LongLat	[ -13.4 54.6 0 ]
 	Size	2.1
 	Type	"AA"	# Crater, craters
 }
@@ -2541,7 +2541,7 @@ Location "Diamond" "Sol/Steins"
 # Origin: Green gemstone, a variety of the mineral beryl.
 Location "Emerald" "Sol/Steins"
 {
-	LongLat	[ 139.3 -3.9 0 ]
+	LongLat	[ -139.3 3.9 0 ]
 	Size	0.52
 	Type	"AA"	# Crater, craters
 }
@@ -2550,7 +2550,7 @@ Location "Emerald" "Sol/Steins"
 # Origin: Group of related minerals found in a variety of colors and often cut as gemstones.
 Location "Garnet" "Sol/Steins"
 {
-	LongLat	[ 338.3 -8.6 0 ]
+	LongLat	[ -338.3 8.6 0 ]
 	Size	0.39
 	Type	"AA"	# Crater, craters
 }
@@ -2559,7 +2559,7 @@ Location "Garnet" "Sol/Steins"
 # Origin: Semitransparent to translucent gemstone, a variety of the minerals nephrite and jadeite.
 Location "Jade" "Sol/Steins"
 {
-	LongLat	[ 335.3 -18 0 ]
+	LongLat	[ -335.3 18 0 ]
 	Size	0.26
 	Type	"AA"	# Crater, craters
 }
@@ -2568,7 +2568,7 @@ Location "Jade" "Sol/Steins"
 # Origin: Lapis Lazuli; gemstone formed from a rock containing a number of minerals, the quality and value determined by the color and abundance of the blue mineral lazurite.
 Location "Lapis" "Sol/Steins"
 {
-	LongLat	[ 329.7 -31.5 0 ]
+	LongLat	[ -329.7 31.5 0 ]
 	Size	0.44
 	Type	"AA"	# Crater, craters
 }
@@ -2577,7 +2577,7 @@ Location "Lapis" "Sol/Steins"
 # Origin: Translucent to opaque gemstone, usually banded or rich green and often found with azurite.
 Location "Malachite" "Sol/Steins"
 {
-	LongLat	[ 49.9 11.8 0 ]
+	LongLat	[ -49.9 -11.8 0 ]
 	Size	0.47
 	Type	"AA"	# Crater, craters
 }
@@ -2586,7 +2586,7 @@ Location "Malachite" "Sol/Steins"
 # Origin: Volcanic glass used as a gemstone.
 Location "Obsidian" "Sol/Steins"
 {
-	LongLat	[ 43.6 -10.6 0 ]
+	LongLat	[ -43.6 10.6 0 ]
 	Size	0.51
 	Type	"AA"	# Crater, craters
 }
@@ -2595,7 +2595,7 @@ Location "Obsidian" "Sol/Steins"
 # Origin: Gemstone variety of the mineral chalcedony.
 Location "Onyx" "Sol/Steins"
 {
-	LongLat	[ 8.9 10.9 0 ]
+	LongLat	[ -8.9 -10.9 0 ]
 	Size	1
 	Type	"AA"	# Crater, craters
 }
@@ -2604,7 +2604,7 @@ Location "Onyx" "Sol/Steins"
 # Origin: Non-crystalline gemstone noted for its rich play of colors when turned in the light.
 Location "Opal" "Sol/Steins"
 {
-	LongLat	[ 337.8 1.1 0 ]
+	LongLat	[ -337.8 -1.1 0 ]
 	Size	0.4
 	Type	"AA"	# Crater, craters
 }
@@ -2613,7 +2613,7 @@ Location "Opal" "Sol/Steins"
 # Origin: Green gemstone, a variety of the mineral olivine.
 Location "Peridot" "Sol/Steins"
 {
-	LongLat	[ 336 -25.1 0 ]
+	LongLat	[ -336 25.1 0 ]
 	Size	0.27
 	Type	"AA"	# Crater, craters
 }
@@ -2622,7 +2622,7 @@ Location "Peridot" "Sol/Steins"
 # Origin: All colors of gemstones of the mineral corundum (except red, which is the gemstone ruby) are called sapphires.
 Location "Sapphire" "Sol/Steins"
 {
-	LongLat	[ 31.3 -31.3 0 ]
+	LongLat	[ -31.3 31.3 0 ]
 	Size	0.6
 	Type	"AA"	# Crater, craters
 }
@@ -2632,7 +2632,7 @@ Location "Sapphire" "Sol/Steins"
 # Additional info: Defines zero degrees longitude on Steins.
 Location "Topaz" "Sol/Steins"
 {
-	LongLat	[ 0 -7.7 0 ]
+	LongLat	[ -0 7.7 0 ]
 	Size	0.65
 	Type	"AA"	# Crater, craters
 }
@@ -2641,7 +2641,7 @@ Location "Topaz" "Sol/Steins"
 # Origin: Gemstone noted for its beautiful, multi-colored prismatic crystals.
 Location "Tourmaline" "Sol/Steins"
 {
-	LongLat	[ 347.6 -20.9 0 ]
+	LongLat	[ -347.6 20.9 0 ]
 	Size	0.22
 	Type	"AA"	# Crater, craters
 }
@@ -2650,7 +2650,7 @@ Location "Tourmaline" "Sol/Steins"
 # Origin: Opaque blue-to-green mineral of arid climates that has been used as a gemstone for thousands of years.
 Location "Turquoise" "Sol/Steins"
 {
-	LongLat	[ 113.4 -31.6 0 ]
+	LongLat	[ -113.4 31.6 0 ]
 	Size	0.47
 	Type	"AA"	# Crater, craters
 }
@@ -2659,7 +2659,7 @@ Location "Turquoise" "Sol/Steins"
 # Origin: Gemstone that is colorless in its pure form, but also found in yellows, browns, and reds.
 Location "Zircon" "Sol/Steins"
 {
-	LongLat	[ 335 -13.5 0 ]
+	LongLat	[ -335 13.5 0 ]
 	Size	1.77
 	Type	"AA"	# Crater, craters
 }
@@ -2671,7 +2671,7 @@ Location "Zircon" "Sol/Steins"
 # Origin: Place name near the Hayabusa capsule recovery site, Woomera, in Australia.
 Location "ARCOONA REGIO" "Sol/Itokawa"
 {
-	LongLat	[ 202 28 0 ]
+	LongLat	[ -202 -28 0 ]
 	Size	0.16
 	Type	"RE"	# Regio, regiones
 }
@@ -2680,7 +2680,7 @@ Location "ARCOONA REGIO" "Sol/Itokawa"
 # Origin: Catalina Observatory, near Tucson, AZ, USA.
 Location "Catalina" "Sol/Itokawa"
 {
-	LongLat	[ 14 -17 0 ]
+	LongLat	[ -14 17 0 ]
 	Size	0.02
 	Type	"AA"	# Crater, craters
 }
@@ -2689,7 +2689,7 @@ Location "Catalina" "Sol/Itokawa"
 # Origin: Place name in Sagamihara, Japan.
 Location "Fuchinobe" "Sol/Itokawa"
 {
-	LongLat	[ 269 34 0 ]
+	LongLat	[ -269 -34 0 ]
 	Size	0.04
 	Type	"AA"	# Crater, craters
 }
@@ -2698,7 +2698,7 @@ Location "Fuchinobe" "Sol/Itokawa"
 # Origin: Spanish launch facility on Gran Canaria.
 Location "Gando" "Sol/Itokawa"
 {
-	LongLat	[ 205 -76 0 ]
+	LongLat	[ -205 76 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -2707,7 +2707,7 @@ Location "Gando" "Sol/Itokawa"
 # Origin: French launch site in the Sahara Desert, Algeria.
 Location "Hammaguira" "Sol/Itokawa"
 {
-	LongLat	[ 205 -18 0 ]
+	LongLat	[ -205 18 0 ]
 	Size	0.03
 	Type	"AA"	# Crater, craters
 }
@@ -2716,7 +2716,7 @@ Location "Hammaguira" "Sol/Itokawa"
 # Origin: Town in Hokkaido, Japan, where a microgravity test facility is located.
 Location "Kamisunagawa" "Sol/Itokawa"
 {
-	LongLat	[ 45 -28 0 ]
+	LongLat	[ -45 28 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -2725,7 +2725,7 @@ Location "Kamisunagawa" "Sol/Itokawa"
 # Origin: Town in Yokohama, Japan, where a factory of NEC TOSHIBA Space Systems, Ltd. is located.
 Location "Kamoi" "Sol/Itokawa"
 {
-	LongLat	[ 244 6 0 ]
+	LongLat	[ -244 -6 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -2734,7 +2734,7 @@ Location "Kamoi" "Sol/Itokawa"
 # Origin: Place name in Tokyo, where the Institute of Space and Astronautical Science is located.
 Location "Komaba" "Sol/Itokawa"
 {
-	LongLat	[ 102 -10 0 ]
+	LongLat	[ -102 10 0 ]
 	Size	0.03
 	Type	"AA"	# Crater, craters
 }
@@ -2743,7 +2743,7 @@ Location "Komaba" "Sol/Itokawa"
 # Origin: City in Maryland USA, where APL/JHU is located.
 Location "Laurel" "Sol/Itokawa"
 {
-	LongLat	[ 162 1 0 ]
+	LongLat	[ -162 -1 0 ]
 	Size	0.02
 	Type	"AA"	# Crater, craters
 }
@@ -2752,7 +2752,7 @@ Location "Laurel" "Sol/Itokawa"
 # Origin: Lincoln Near Earth Asteroid Research program, discoverer of the asteroid Itokawa.
 Location "LINEAR REGIO" "Sol/Itokawa"
 {
-	LongLat	[ 232 -40 0 ]
+	LongLat	[ -232 40 0 ]
 	Size	0.12
 	Type	"RE"	# Regio, regiones
 }
@@ -2761,7 +2761,7 @@ Location "LINEAR REGIO" "Sol/Itokawa"
 # Origin: Radar site in the Uchinoura Space Center in Japan.
 Location "Miyabaru" "Sol/Itokawa"
 {
-	LongLat	[ 244 -40 0 ]
+	LongLat	[ -244 40 0 ]
 	Size	0.09
 	Type	"AA"	# Crater, craters
 }
@@ -2770,7 +2770,7 @@ Location "Miyabaru" "Sol/Itokawa"
 # Origin: MUSES-C, the name of the Hayabusa spacecraft prior to launch.
 Location "MUSES-C REGIO" "Sol/Itokawa"
 {
-	LongLat	[ 60 -70 0 ]
+	LongLat	[ -60 70 0 ]
 	Size	0.3
 	Type	"RE"	# Regio, regiones
 }
@@ -2779,7 +2779,7 @@ Location "MUSES-C REGIO" "Sol/Itokawa"
 # Origin: Peninsula in Japan where the Uchiunoura Space Center is located.
 Location "OHSUMI REGIO" "Sol/Itokawa"
 {
-	LongLat	[ 207 33 0 ]
+	LongLat	[ -207 -33 0 ]
 	Size	0.14
 	Type	"RE"	# Regio, regiones
 }
@@ -2788,7 +2788,7 @@ Location "OHSUMI REGIO" "Sol/Itokawa"
 # Origin: Town in Japan where the Institute of Space and Astronautical Science is located.
 Location "SAGAMIHARA REGIO" "Sol/Itokawa"
 {
-	LongLat	[ 15 80 0 ]
+	LongLat	[ -15 -80 0 ]
 	Size	0.23
 	Type	"RE"	# Regio, regiones
 }
@@ -2797,7 +2797,7 @@ Location "SAGAMIHARA REGIO" "Sol/Itokawa"
 # Origin: An old oil platform near Kenya that served as a launch pad for Italian spacecraft.
 Location "San Marco" "Sol/Itokawa"
 {
-	LongLat	[ 319 -28 0 ]
+	LongLat	[ -319 28 0 ]
 	Size	0.0
 	Type	"AA"	# Crater, craters
 }
@@ -2806,7 +2806,7 @@ Location "San Marco" "Sol/Itokawa"
 # Origin: Town in Japan, launch site of the Hayabusa spacecraft.
 Location "UCHINOURA REGIO" "Sol/Itokawa"
 {
-	LongLat	[ 90 40 0 ]
+	LongLat	[ -90 -40 0 ]
 	Size	0.07
 	Type	"RE"	# Regio, regiones
 }
@@ -2815,7 +2815,7 @@ Location "UCHINOURA REGIO" "Sol/Itokawa"
 # Origin: Launch site in the Tanegashima Space Center, Japan.
 Location "YOSHINOBU REGIO" "Sol/Itokawa"
 {
-	LongLat	[ 117 -39 0 ]
+	LongLat	[ -117 39 0 ]
 	Size	0.16
 	Type	"RE"	# Regio, regiones
 }
@@ -2827,7 +2827,7 @@ Location "YOSHINOBU REGIO" "Sol/Itokawa"
 # Origin: Aello; Greek, one of the harpies (together with Celaeno and Ocypete), half-maiden and half-bird personification of storm winds, that would snatch and carry things away from Earth.
 Location "Aellopus Saxum" "Sol/Bennu"
 {
-	LongLat	[ 335.67 25.44 0 ]
+	LongLat	[ -335.67 -25.44 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -2836,7 +2836,7 @@ Location "Aellopus Saxum" "Sol/Bennu"
 # Origin: Greek, childhood playmate of the supreme god Zeus who was turned into an eagle by Hera.
 Location "Aetos Saxum" "Sol/Bennu"
 {
-	LongLat	[ 150.36 3.46 0 ]
+	LongLat	[ -150.36 -3.46 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -2845,7 +2845,7 @@ Location "Aetos Saxum" "Sol/Bennu"
 # Origin: Chilean mythological nocturnal bird whose wings shine at night with metallic colors so bright that cast no shadow. It lives in small caves and eats metal ores, weight of which gives no possibility to fly.
 Location "Alicanto" "Sol/Bennu"
 {
-	LongLat	[ 111.93 -0.08 0 ]
+	LongLat	[ -111.93 0.08 0 ]
 	Size	0.06
 	Type	"AA"	# Crater, craters
 }
@@ -2854,7 +2854,7 @@ Location "Alicanto" "Sol/Bennu"
 # Origin: Tagalog (Philippines) deity that is depicted as a bird, the first creature to inhabit the universe.
 Location "Amihan Saxum" "Sol/Bennu"
 {
-	LongLat	[ 256.51 -17.96 0 ]
+	LongLat	[ -256.51 17.96 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -2863,7 +2863,7 @@ Location "Amihan Saxum" "Sol/Bennu"
 # Origin: Ancient Egyptian primordial mound that arose from the primordial waters Nu. The god Atum settled upon it to create the world after his flight over the waters in the form of the Bennu bird, who is a piece of his soul.
 Location "Benben Saxum" "Sol/Bennu"
 {
-	LongLat	[ 127.59 -45.86 0 ]
+	LongLat	[ -127.59 45.86 0 ]
 	Size	0.05
 	Type	"SA"	# Saxum, saxa
 }
@@ -2872,7 +2872,7 @@ Location "Benben Saxum" "Sol/Bennu"
 # Origin: Mythological shapeshifting entity inhabiting the lochs (lakes) of the west coast of Scotland. It commonly adopts the appearance of a gigantic water bird.
 Location "Boobrie Saxum" "Sol/Bennu"
 {
-	LongLat	[ 214.28 48.08 0 ]
+	LongLat	[ -214.28 -48.08 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -2881,7 +2881,7 @@ Location "Boobrie Saxum" "Sol/Bennu"
 # Origin: In myths of Aboriginal Australian people of the Murray River basin, a crane, who tossed an egg from the nest of emu Dinewan into the sky where it became the sun.
 Location "Bralgah" "Sol/Bennu"
 {
-	LongLat	[ 324.99 -44.36 0 ]
+	LongLat	[ -324.99 44.36 0 ]
 	Size	0.07
 	Type	"AA"	# Crater, craters
 }
@@ -2890,7 +2890,7 @@ Location "Bralgah" "Sol/Bennu"
 # Origin: One of four birds which destructed the first race of people carved out of wood in Kʼicheʼ Maya (Guatemala) creation myth.
 Location "Camulatz Saxum" "Sol/Bennu"
 {
-	LongLat	[ 259.65 -10.26 0 ]
+	LongLat	[ -259.65 10.26 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -2899,7 +2899,7 @@ Location "Camulatz Saxum" "Sol/Bennu"
 # Origin: Greek, one of the harpies (together with Aellopus and Ocypete), half-maiden and half-bird personification of darkness and storm winds, that would snatch and carry things away from Earth.
 Location "Celaeno Saxum" "Sol/Bennu"
 {
-	LongLat	[ 335.23 18.42 0 ]
+	LongLat	[ -335.23 -18.42 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -2908,7 +2908,7 @@ Location "Celaeno Saxum" "Sol/Bennu"
 # Origin: Thunder-beings of Algonquian mythology (in particular Oklahoma Miami Nation) that live in the sky and cause thunder and lightning. They look like giant eagles, or as birds with a human head.
 Location "Ciinkwia Saxum" "Sol/Bennu"
 {
-	LongLat	[ 249.47 -4.97 0 ]
+	LongLat	[ -249.47 4.97 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -2917,7 +2917,7 @@ Location "Ciinkwia Saxum" "Sol/Bennu"
 # Origin: Emu whose egg created the sun in the myths of Aboriginal Australian people of the Murray River basin.
 Location "Dinewan" "Sol/Bennu"
 {
-	LongLat	[ 323.7 -41.4 0 ]
+	LongLat	[ -323.7 41.4 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -2926,7 +2926,7 @@ Location "Dinewan" "Sol/Bennu"
 # Origin: Non-flying bird, rounded and gray, a fictional character in the book Alice's Adventure in Wonderland (1865) by English writer Lewis Carroll.
 Location "Dodo Saxum" "Sol/Bennu"
 {
-	LongLat	[ 64.42 -32.68 0 ]
+	LongLat	[ -64.42 32.68 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -2935,7 +2935,7 @@ Location "Dodo Saxum" "Sol/Bennu"
 # Origin: Slavic prophetic bird, symbol of wisdom and knowledge; she is depicted as a large bird with a woman's head.
 Location "Gamayun Saxum" "Sol/Bennu"
 {
-	LongLat	[ 105.45 9.86 0 ]
+	LongLat	[ -105.45 -9.86 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -2944,7 +2944,7 @@ Location "Gamayun Saxum" "Sol/Bennu"
 # Origin: French, dragon-like monster with wings, bird-like neck, and the ability to breathe fire.
 Location "Gargoyle Saxum" "Sol/Bennu"
 {
-	LongLat	[ 92.48 4.59 0 ]
+	LongLat	[ -92.48 -4.59 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -2953,7 +2953,7 @@ Location "Gargoyle Saxum" "Sol/Bennu"
 # Origin: Norse, gold-combed rooster who lives in the heavenly majestic hall Valhalla and wakes gods and heroes.
 Location "Gullinkambi Saxum" "Sol/Bennu"
 {
-	LongLat	[ 17.96 18.53 0 ]
+	LongLat	[ -17.96 -18.53 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -2962,7 +2962,7 @@ Location "Gullinkambi Saxum" "Sol/Bennu"
 # Origin: Maori (New Zealand) mythical bird with enormously long divided tail, which lives in heavens and never visits earth.
 Location "Hokioi" "Sol/Bennu"
 {
-	LongLat	[ 41.78 55.07 0 ]
+	LongLat	[ -41.78 -55.07 0 ]
 	Size	0.03
 	Type	"AA"	# Crater, craters
 }
@@ -2971,7 +2971,7 @@ Location "Hokioi" "Sol/Bennu"
 # Origin: Norse, one of the two ravens (together with Muninn) accompanying the supreme god Odin.
 Location "Huginn Saxum" "Sol/Bennu"
 {
-	LongLat	[ 43.25 -29.77 0 ]
+	LongLat	[ -43.25 29.77 0 ]
 	Size	0.05
 	Type	"SA"	# Saxum, saxa
 }
@@ -2980,7 +2980,7 @@ Location "Huginn Saxum" "Sol/Bennu"
 # Origin: Pawnee (Central USA) Thunderbird, a huge long-necked bird with a forked, jagged tail. The beating of his wings causes thunder.
 Location "Huhuk" "Sol/Bennu"
 {
-	LongLat	[ 152.3 -1.12 0 ]
+	LongLat	[ -152.3 1.12 0 ]
 	Size	0.08
 	Type	"AA"	# Crater, craters
 }
@@ -2989,7 +2989,7 @@ Location "Huhuk" "Sol/Bennu"
 # Origin: Giant flying creature looking like bird or bat in myths of Kaonde, a Bantu-speaking people of NW Zambia and the adjacent areas of the Democratic Republic of Congo (Zaire).
 Location "Kongamato Saxum" "Sol/Bennu"
 {
-	LongLat	[ 66.31 5.03 0 ]
+	LongLat	[ -66.31 -5.03 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -2998,7 +2998,7 @@ Location "Kongamato Saxum" "Sol/Bennu"
 # Origin: Mesopotamian /Sumerian nocturnal wind demon depicted as woman with wings and birds' feet with talons.
 Location "Lilitu" "Sol/Bennu"
 {
-	LongLat	[ 115.36 -26.13 0 ]
+	LongLat	[ -115.36 26.13 0 ]
 	Size	0.03
 	Type	"AA"	# Crater, craters
 }
@@ -3007,7 +3007,7 @@ Location "Lilitu" "Sol/Bennu"
 # Origin: Massive bird that resides beyond the eastern horizon since before time began and causes lunar eclipses in myths of Bagobo (Lumad group at Mindanao Island, S. Philippines).
 Location "Minokawa" "Sol/Bennu"
 {
-	LongLat	[ 269.1 -8.79 0 ]
+	LongLat	[ -269.1 8.79 0 ]
 	Size	0.18
 	Type	"AA"	# Crater, craters
 }
@@ -3016,7 +3016,7 @@ Location "Minokawa" "Sol/Bennu"
 # Origin: Norse, one of the two ravens (together with Huginn) accompanying the supreme god Odin.
 Location "Muninn Saxum" "Sol/Bennu"
 {
-	LongLat	[ 48.68 -29.34 0 ]
+	LongLat	[ -48.68 29.34 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -3025,7 +3025,7 @@ Location "Muninn Saxum" "Sol/Bennu"
 # Origin: Greek, one of the three named harpies, half-maiden and half-bird personification of storm winds, that would snatch and carry things away from Earth.
 Location "Ocypete Saxum" "Sol/Bennu"
 {
-	LongLat	[ 328.25 25.09 0 ]
+	LongLat	[ -328.25 -25.09 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -3034,7 +3034,7 @@ Location "Ocypete Saxum" "Sol/Bennu"
 # Origin: Princess turned into White Swan in the ballet Swan Lake (1877) by Russian composer Pyotr Tchaikovsky. This character, which name derives from French, is opposite to Odile, the Black Swan maiden.
 Location "Odette Saxum" "Sol/Bennu"
 {
-	LongLat	[ 291.08 -44.86 0 ]
+	LongLat	[ -291.08 44.86 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -3043,7 +3043,7 @@ Location "Odette Saxum" "Sol/Bennu"
 # Origin: Black Swan maiden in the ballet Swan Lake (1877) by Russian composer Pyotr Tchaikovsky. This character, which name derives from Old German, is opposite to Odette, the Swan Princess.
 Location "Odile Saxum" "Sol/Bennu"
 {
-	LongLat	[ 294.08 -42.74 0 ]
+	LongLat	[ -294.08 42.74 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -3052,7 +3052,7 @@ Location "Odile Saxum" "Sol/Bennu"
 # Origin: In Czech and Slovak folklore, glowing or burning bird (firebird) with colorful red, gold and orange feathers.
 Location "Ohnivak" "Sol/Bennu"
 {
-	LongLat	[ 125.67 -4.23 0 ]
+	LongLat	[ -125.67 4.23 0 ]
 	Size	0.04
 	Type	"AA"	# Crater, craters
 }
@@ -3061,7 +3061,7 @@ Location "Ohnivak" "Sol/Bennu"
 # Origin: Winged horse in Greek mythology.
 Location "Pegasus" "Sol/Bennu"
 {
-	LongLat	[ 329.83 23.53 0 ]
+	LongLat	[ -329.83 -23.53 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -3070,7 +3070,7 @@ Location "Pegasus" "Sol/Bennu"
 # Origin: Māori (Polynesia) monstrous bird who kills and eat humans.
 Location "Pouakai Saxum" "Sol/Bennu"
 {
-	LongLat	[ 166.75 -40.45 0 ]
+	LongLat	[ -166.75 40.45 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -3079,7 +3079,7 @@ Location "Pouakai Saxum" "Sol/Bennu"
 # Origin: Enormous bird of prey in Arabic mythology of the Middle East.
 Location "Roc Saxum" "Sol/Bennu"
 {
-	LongLat	[ 25.36 -23.46 0 ]
+	LongLat	[ -25.36 23.46 0 ]
 	Size	0.1
 	Type	"SA"	# Saxum, saxa
 }
@@ -3088,7 +3088,7 @@ Location "Roc Saxum" "Sol/Bennu"
 # Origin: In Hindu mythology, a giant bird, vulture, whose wings had been burnt by the blaze of the Sun when he had flown too close to it in racing with his brother.
 Location "Sampati" "Sol/Bennu"
 {
-	LongLat	[ 97.34 -19.02 0 ]
+	LongLat	[ -97.34 19.02 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -3098,7 +3098,7 @@ Location "Sampati" "Sol/Bennu"
 # Additional info: Defines zero degrees longitude on Bennu.
 Location "Simurgh Saxum" "Sol/Bennu"
 {
-	LongLat	[ 4.05 -25.32 0 ]
+	LongLat	[ -4.05 25.32 0 ]
 	Size	0.04
 	Type	"SA"	# Saxum, saxa
 }
@@ -3107,7 +3107,7 @@ Location "Simurgh Saxum" "Sol/Bennu"
 # Origin: Roman vampiric bird of ill omen.
 Location "Strix Saxum" "Sol/Bennu"
 {
-	LongLat	[ 88.26 13.4 0 ]
+	LongLat	[ -88.26 -13.4 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -3116,7 +3116,7 @@ Location "Strix Saxum" "Sol/Bennu"
 # Origin: King of the Eagles in the Middle-earth, the fictional setting in fantasy novels by English author J.R.R. Tolkien, the greatest of all eagles, with a wingspan of 55 m (approximately as this boulder).
 Location "Thorondor Saxum" "Sol/Bennu"
 {
-	LongLat	[ 45.1 -47.94 0 ]
+	LongLat	[ -45.1 47.94 0 ]
 	Size	0.06
 	Type	"SA"	# Saxum, saxa
 }
@@ -3125,7 +3125,7 @@ Location "Thorondor Saxum" "Sol/Bennu"
 # Origin: Cherokee (Southeast USA), giant birds who scattered the Earth with pieces of serpent which turned into standing pillars of rocks.
 Location "TLANUWA REGIO" "Sol/Bennu"
 {
-	LongLat	[ 261.7 -37.86 0 ]
+	LongLat	[ -261.7 37.86 0 ]
 	Size	0.3
 	Type	"RE"	# Regio, regiones
 }
@@ -3134,7 +3134,7 @@ Location "TLANUWA REGIO" "Sol/Bennu"
 # Origin: Abenaki (Algonquians of NE USA) giant bird, named Windblower, who sits upon a rock at the edge of the sky far in the north and produces winds by his wings.
 Location "Wuchowsen" "Sol/Bennu"
 {
-	LongLat	[ 88.13 11.78 0 ]
+	LongLat	[ -88.13 -11.78 0 ]
 	Size	0.02
 	Type	"AA"	# Crater, craters
 }
@@ -3143,7 +3143,7 @@ Location "Wuchowsen" "Sol/Bennu"
 # Origin: Fon (Benin/Dahomey) mythical bird which reconciled the two gods in their dispute and thus ended a great drought.
 Location "Wututu" "Sol/Bennu"
 {
-	LongLat	[ 84.34 -17.03 0 ]
+	LongLat	[ -84.34 17.03 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -3156,7 +3156,7 @@ Location "Wututu" "Sol/Bennu"
 # Additional info: Also known as a Belgian fairy tale.
 Location "Brabo" "Sol/Ryugu"
 {
-	LongLat	[ 229.7 4.5 0 ]
+	LongLat	[ -229.7 -4.5 0 ]
 	Size	0.14
 	Type	"AA"	# Crater, craters
 }
@@ -3166,7 +3166,7 @@ Location "Brabo" "Sol/Ryugu"
 # Additional info: Defines zero degrees longitude on Ryugu.
 Location "Catafo Saxum" "Sol/Ryugu"
 {
-	LongLat	[ 0 -5.5 0 ]
+	LongLat	[ -0 5.5 0 ]
 	Size	0.05
 	Type	"SA"	# Saxum, saxa
 }
@@ -3175,7 +3175,7 @@ Location "Catafo Saxum" "Sol/Ryugu"
 # Origin: Protagonist of a fairy tale Cendrillon by French writer Charles Perrault (1697), also known as Cinderella.
 Location "Cendrillon" "Sol/Ryugu"
 {
-	LongLat	[ 350.5 31.9 0 ]
+	LongLat	[ -350.5 -31.9 0 ]
 	Size	0.22
 	Type	"AA"	# Crater, craters
 }
@@ -3184,7 +3184,7 @@ Location "Cendrillon" "Sol/Ryugu"
 # Origin: Seacoast in Japanese fairy tale where fisherman Urashima Taro rescued a turtle and started his journey to the undersea Ryugu Palace.
 Location "Ejima Saxum" "Sol/Ryugu"
 {
-	LongLat	[ 101.1 -32 0 ]
+	LongLat	[ -101.1 32 0 ]
 	Size	0.07
 	Type	"SA"	# Saxum, saxa
 }
@@ -3193,7 +3193,7 @@ Location "Ejima Saxum" "Sol/Ryugu"
 # Origin: Mythical Mount Horai (Penglai in Chinese), paradise of the immortals; in some versions of the Japanese fairy tale about fisherman Urashima is located in the sea on the shell of tortoise that princess Otohime has turned into.
 Location "Horai Fossa" "Sol/Ryugu"
 {
-	LongLat	[ 296.6 32.1 0 ]
+	LongLat	[ -296.6 -32.1 0 ]
 	Size	0.33
 	Type	"FO"	# Fossa, fossae
 }
@@ -3202,7 +3202,7 @@ Location "Horai Fossa" "Sol/Ryugu"
 # Origin: Japanese ball-like dumplings made from the flour of the kibi (proso millet) grain that the fairy tale hero Momotaro brought on his distant journey because this sweet keeps its softness for a long time.
 Location "Kibidango" "Sol/Ryugu"
 {
-	LongLat	[ 50 -31.2 0 ]
+	LongLat	[ -50 31.2 0 ]
 	Size	0.13
 	Type	"AA"	# Crater, craters
 }
@@ -3211,7 +3211,7 @@ Location "Kibidango" "Sol/Ryugu"
 # Origin: ‘Golden Boy’ in Japanese fairy tale, who grew up in the wild forests of Mount Ashigara and had a superhuman strength.
 Location "Kintaro" "Sol/Ryugu"
 {
-	LongLat	[ 157.8 0.4 0 ]
+	LongLat	[ -157.8 -0.4 0 ]
 	Size	0.17
 	Type	"AA"	# Crater, craters
 }
@@ -3220,7 +3220,7 @@ Location "Kintaro" "Sol/Ryugu"
 # Origin: Small ball-like bun, which ran away from home and rolled on the road, singing his tricky song; protagonist of a Russian fairy tale.
 Location "Kolobok" "Sol/Ryugu"
 {
-	LongLat	[ 333.5 -1.5 0 ]
+	LongLat	[ -333.5 1.5 0 ]
 	Size	0.18
 	Type	"AA"	# Crater, craters
 }
@@ -3229,7 +3229,7 @@ Location "Kolobok" "Sol/Ryugu"
 # Origin: ‘Peach Boy’ in Japanese fairy tale, who came to Earth inside a giant peach and once undertook a journey to fight horned ogres in a distant island.
 Location "Momotaro" "Sol/Ryugu"
 {
-	LongLat	[ 51.9 -12.5 0 ]
+	LongLat	[ -51.9 12.5 0 ]
 	Size	0.19
 	Type	"AA"	# Crater, craters
 }
@@ -3238,7 +3238,7 @@ Location "Momotaro" "Sol/Ryugu"
 # Origin: Otohime Sama; princess in Japanese fairy tale, sea mistress, who welcomed fisherman Urashima Taro in undersea Ryugu Palace and gave him a parting gift, a jewel box whose lid he was told never to open.
 Location "Otohime Saxum" "Sol/Ryugu"
 {
-	LongLat	[ 274.4 -69.8 0 ]
+	LongLat	[ -274.4 69.8 0 ]
 	Size	0.16
 	Type	"SA"	# Saxum, saxa
 }
@@ -3247,7 +3247,7 @@ Location "Otohime Saxum" "Sol/Ryugu"
 # Origin: ‘Dragon god’, sea ruler in Japanese fairy tale, father of princess Otohime, master of the undersea Ryugu Palace where fisherman Urashima Taro was a guest.
 Location "Ryujin Dorsum" "Sol/Ryugu"
 {
-	LongLat	[ 180 0 0 ]
+	LongLat	[ -180 -0 0 ]
 	Size	3.2
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -3256,7 +3256,7 @@ Location "Ryujin Dorsum" "Sol/Ryugu"
 # Origin: Immortal world of Japanese mythology, eternal, timeless land across the sea or undersea kingdom, where the princess Otohime lives in the fairy tale about the fisherman Urashima.
 Location "Tokoyo Fossa" "Sol/Ryugu"
 {
-	LongLat	[ 166.2 -50.5 0 ]
+	LongLat	[ -166.2 50.5 0 ]
 	Size	0.56
 	Type	"FO"	# Fossa, fossae
 }
@@ -3265,7 +3265,7 @@ Location "Tokoyo Fossa" "Sol/Ryugu"
 # Origin: Urashima Taro; fisherman in Japanese fairy tale who rescued a turtle and traveled on its back to the dragon Ryujin’s undersea Ryugu Palace, where he was welcomed by princess Otohime.
 Location "Urashima" "Sol/Ryugu"
 {
-	LongLat	[ 92.9 -8.1 0 ]
+	LongLat	[ -92.9 8.1 0 ]
 	Size	0.29
 	Type	"AA"	# Crater, craters
 }
