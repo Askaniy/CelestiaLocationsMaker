@@ -1,9 +1,9 @@
-# 1923 locations on Mars.
+# 1932 locations on Mars.
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 19.07.2021
-# Last update: 19.07.2021
+# Date of creation: 22.11.2021
+# Last update: 22.11.2021
 
 
 # Approval date: 2003; Last update: 10/1/06
@@ -792,6 +792,15 @@ Location "Arago" "Sol/Mars"
 	LongLat	[ 29.93 10.22 0 ]
 	Size	152.35
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 25, 2021; Last update: 8/25/21
+# Origin: Named for nearby Arago crater; Dominique F.; French astronomer (1786-1853).
+Location "Arago Dorsa" "Sol/Mars"
+{
+	LongLat	[ 29.39 9.74 0 ]
+	Size	27
+	Type	"DO"	# Dorsum, dorsa
 }
 
 # Approval date: 1976; Last update: 10/1/06
@@ -2787,6 +2796,24 @@ Location "Canso" "Sol/Mars"
 	LongLat	[ 299.38 21.36 0 ]
 	Size	26.42
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 25, 2021; Last update: 8/25/21
+# Origin: From nearby albedo feature Cantabras, at 10N, 5W.
+Location "Cantabras Dorsum" "Sol/Mars"
+{
+	LongLat	[ 354.72 9.5 0 ]
+	Size	91
+	Type	"DO"	# Dorsum, dorsa
+}
+
+# Approval date: Aug 25, 2021; Last update: 8/25/21
+# Origin: From nearby albedo feature Cantabras, at 10N, 5W.
+Location "Cantabras Serpens" "Sol/Mars"
+{
+	LongLat	[ 355.25 9.94 0 ]
+	Size	86
+	Type	"SE"	# Serpens, serpentes
 }
 
 # Approval date: 1988; Last update: 10/11/11
@@ -7590,6 +7617,15 @@ Location "Jezero" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Sep 17, 2021; Last update: 9/17/21
+# Origin: Named for nearby crater, Jezero.
+Location "Jezero Mons" "Sol/Mars"
+{
+	LongLat	[ 78.23 18.16 0 ]
+	Size	27
+	Type	"MO"	# Mons, montes
+}
+
 # Approval date: 1976; Last update: 11/17/10
 # Origin: Town in Russia.
 Location "Jezža" "Sol/Mars"
@@ -9158,6 +9194,15 @@ Location "Longa" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Oct 20, 2021; Last update: 10/23/21
+# Origin: Town in Indonesia.
+Location "Longboh" "Sol/Mars"
+{
+	LongLat	[ 95.1 31.32 0 ]
+	Size	2
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1991; Last update: 11/17/10
 # Origin: Town in Ontario, Canada.
 Location "Loon" "Sol/Mars"
@@ -9888,6 +9933,15 @@ Location "Marysville" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Oct 20, 2021; Last update: 10/23/21
+# Origin: Town in Pakistan.
+Location "Mastung" "Sol/Mars"
+{
+	LongLat	[ 95.95 31.4 0 ]
+	Size	2.3
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1997; Last update: 11/17/10
 # Origin: Harold; American astrogeologist (1922-1990).
 Location "Masursky" "Sol/Mars"
@@ -10192,6 +10246,16 @@ Location "Mie" "Sol/Mars"
 {
 	LongLat	[ 139.65 48.16 0 ]
 	Size	100.91
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 13, 2021; Last update: 8/16/21
+# Origin: Town in Tanzania.
+# Additional info: Feature overlaps zero longitude, and is viewable on both MC-11 and MC-12 quad maps.
+Location "Mikumi" "Sol/Mars"
+{
+	LongLat	[ 359.96 2.47 0 ]
+	Size	16.12
 	Type	"AA"	# Crater, craters
 }
 
@@ -12492,6 +12556,24 @@ Location "Pinglo" "Sol/Mars"
 	LongLat	[ 323.24 -2.92 0 ]
 	Size	15.9
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 25, 2021; Last update: 8/25/21
+# Origin: Town in Italy.
+Location "Piscinas" "Sol/Mars"
+{
+	LongLat	[ 358.55 4.48 0 ]
+	Size	13.39
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 25, 2021; Last update: 8/25/21
+# Origin: Named for nearby Piscinas crater.
+Location "Piscinas Serpentes" "Sol/Mars"
+{
+	LongLat	[ 358.84 4.55 0 ]
+	Size	16
+	Type	"SE"	# Serpens, serpentes
 }
 
 # Approval date: Nov 1, 2014; Last update: 11/1/14
@@ -16569,8 +16651,8 @@ Location "Vol'sk" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1973; Last update: 11/17/10
-# Origin: Theodore; Hugarian-American aeronautical engineer (1881-1963).
+# Approval date: 1973; Last update: 8/19/21
+# Origin: Theodore; Hungarian-American aeronautical engineer (1881-1963).
 Location "Von Kármán" "Sol/Mars"
 {
 	LongLat	[ 301.3 -64.27 0 ]

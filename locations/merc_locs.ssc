@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 19.07.2021
-# Last update: 19.07.2021
+# Date of creation: 22.11.2021
+# Last update: 22.11.2021
 
 
 # Approval date: Jul 9, 2009; Last update: 3/7/11
@@ -2411,8 +2411,8 @@ Location "La Dauphine Rupes" "Sol/Mercury"
 # Origin: Dorothea; American photographer (1895-1965).
 Location "Lange" "Sol/Mercury"
 {
-	LongLat	[ 100.41 6.4 0 ]
-	Size	176
+	LongLat	[ 100.47 6.28 0 ]
+	Size	176.23
 	Type	"AA"	# Crater, craters
 }
 
@@ -2681,8 +2681,8 @@ Location "Martins" "Sol/Mercury"
 # Origin: Iwasa; Japanese painter (1578-1650).
 Location "Matabei" "Sol/Mercury"
 {
-	LongLat	[ 346.1 -39.87 0 ]
-	Size	23.52
+	LongLat	[ 345.95 -39.85 0 ]
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -2690,8 +2690,8 @@ Location "Matabei" "Sol/Mercury"
 # Origin: Henri; French painter and sculptor (1869-1954).
 Location "Matisse" "Sol/Mercury"
 {
-	LongLat	[ 269.95 -23.83 0 ]
-	Size	189.04
+	LongLat	[ 269.81 -23.8 0 ]
+	Size	189
 	Type	"AA"	# Crater, craters
 }
 

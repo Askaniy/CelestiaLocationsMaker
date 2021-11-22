@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 19.07.2021
-# Last update: 19.07.2021
+# Date of creation: 22.11.2021
+# Last update: 22.11.2021
 
 
 # 3 locations on Puck.
@@ -12,7 +12,7 @@
 # Origin: Scottish mischievous spirits.
 Location "Bogle" "Sol/Uranus/Puck"
 {
-	LongLat	[ 0 0 0 ]
+	LongLat	[ -0 -0 0 ]
 	Size	45
 	Type	"AA"	# Crater, craters
 }
@@ -21,7 +21,7 @@ Location "Bogle" "Sol/Uranus/Puck"
 # Origin: German roguish or evil spirits.
 Location "Butz" "Sol/Uranus/Puck"
 {
-	LongLat	[ 0 0 0 ]
+	LongLat	[ -0 -0 0 ]
 	Size	20
 	Type	"AA"	# Crater, craters
 }
@@ -30,7 +30,7 @@ Location "Butz" "Sol/Uranus/Puck"
 # Origin: British mischievous spirits.
 Location "Lob" "Sol/Uranus/Puck"
 {
-	LongLat	[ 0 0 0 ]
+	LongLat	[ -0 -0 0 ]
 	Size	20
 	Type	"AA"	# Crater, craters
 }
@@ -42,7 +42,7 @@ Location "Lob" "Sol/Uranus/Puck"
 # Origin: King of Naples in "The Tempest."
 Location "Alonso" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 352.6 -44 0 ]
+	LongLat	[ -352.6 44 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
@@ -51,7 +51,7 @@ Location "Alonso" "Sol/Uranus/Miranda"
 # Origin: Forest, location of "As You Like It."
 Location "Arden Corona" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 73.7 -29.1 0 ]
+	LongLat	[ -73.7 29.1 0 ]
 	Size	318
 	Type	"CR"	# Corona, coronae
 }
@@ -60,7 +60,7 @@ Location "Arden Corona" "Sol/Uranus/Miranda"
 # Origin: Location of earlier action in "The Tempest."
 Location "Argier Rupes" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 322.8 -43.2 0 ]
+	LongLat	[ -322.8 43.2 0 ]
 	Size	141
 	Type	"RU"	# Rupes, rupēs
 }
@@ -69,7 +69,7 @@ Location "Argier Rupes" "Sol/Uranus/Miranda"
 # Origin: Location of castle where Macbeth was defeated.
 Location "DUNSINANE REGIO" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 11.9 -31.5 0 ]
+	LongLat	[ -11.9 31.5 0 ]
 	Size	244
 	Type	"RE"	# Regio, regiones
 }
@@ -78,7 +78,7 @@ Location "DUNSINANE REGIO" "Sol/Uranus/Miranda"
 # Origin: Location of Hamlet's castle.
 Location "Elsinore Corona" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 257.1 -24.8 0 ]
+	LongLat	[ -257.1 24.8 0 ]
 	Size	323
 	Type	"CR"	# Corona, coronae
 }
@@ -87,7 +87,7 @@ Location "Elsinore Corona" "Sol/Uranus/Miranda"
 # Origin: Home of twins and setting for "The Comedy of Errors."
 Location "EPHESUS REGIO" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 250 -15 0 ]
+	LongLat	[ -250 15 0 ]
 	Size	225
 	Type	"RE"	# Regio, regiones
 }
@@ -96,7 +96,7 @@ Location "EPHESUS REGIO" "Sol/Uranus/Miranda"
 # Origin: Son of King of Naples; loves Miranda in "The Tempest."
 Location "Ferdinand" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 202.1 -34.8 0 ]
+	LongLat	[ -202.1 34.8 0 ]
 	Size	17
 	Type	"AA"	# Crater, craters
 }
@@ -105,7 +105,7 @@ Location "Ferdinand" "Sol/Uranus/Miranda"
 # Origin: A lord of Naples in "The Tempest."
 Location "Francisco" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 236 -73.2 0 ]
+	LongLat	[ -236 73.2 0 ]
 	Size	14
 	Type	"AA"	# Crater, craters
 }
@@ -114,7 +114,7 @@ Location "Francisco" "Sol/Uranus/Miranda"
 # Origin: Honest old counselor of Naples in "The Tempest."
 Location "Gonzalo" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 77 -11.4 0 ]
+	LongLat	[ -77 11.4 0 ]
 	Size	11
 	Type	"AA"	# Crater, craters
 }
@@ -123,7 +123,7 @@ Location "Gonzalo" "Sol/Uranus/Miranda"
 # Origin: Location of Macbeth's castle.
 Location "Inverness Corona" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 325.7 -66.9 0 ]
+	LongLat	[ -325.7 66.9 0 ]
 	Size	234
 	Type	"CR"	# Corona, coronae
 }
@@ -132,7 +132,7 @@ Location "Inverness Corona" "Sol/Uranus/Miranda"
 # Origin: Location of part of "Two Gentlemen From Verona."
 Location "MANTUA REGIO" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 180.2 -39.6 0 ]
+	LongLat	[ -180.2 39.6 0 ]
 	Size	399
 	Type	"RE"	# Regio, regiones
 }
@@ -141,7 +141,7 @@ Location "MANTUA REGIO" "Sol/Uranus/Miranda"
 # Origin: Destination in "The Tempest."
 Location "Naples Sulcus" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 260 -32 0 ]
+	LongLat	[ -260 32 0 ]
 	Size	260
 	Type	"SU"	# Sulcus, sulci
 }
@@ -150,7 +150,7 @@ Location "Naples Sulcus" "Sol/Uranus/Miranda"
 # Origin: Rightful Duke of Mila in "The Tempest."
 Location "Prospero" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 329.9 -32.9 0 ]
+	LongLat	[ -329.9 32.9 0 ]
 	Size	21
 	Type	"AA"	# Crater, craters
 }
@@ -159,7 +159,7 @@ Location "Prospero" "Sol/Uranus/Miranda"
 # Origin: Location of "Winter's Tale."
 Location "SICILIA REGIO" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 317.2 -30 0 ]
+	LongLat	[ -317.2 30 0 ]
 	Size	174
 	Type	"RE"	# Regio, regiones
 }
@@ -168,7 +168,7 @@ Location "SICILIA REGIO" "Sol/Uranus/Miranda"
 # Origin: A drunken butler in "The Tempest."
 Location "Stephano" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 234.1 -41.1 0 ]
+	LongLat	[ -234.1 41.1 0 ]
 	Size	16
 	Type	"AA"	# Crater, craters
 }
@@ -177,7 +177,7 @@ Location "Stephano" "Sol/Uranus/Miranda"
 # Origin: Home of twins in the "Comedy of Errors."
 Location "Syracusa Sulcus" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 293 -15 0 ]
+	LongLat	[ -293 15 0 ]
 	Size	40
 	Type	"SU"	# Sulcus, sulci
 }
@@ -186,7 +186,7 @@ Location "Syracusa Sulcus" "Sol/Uranus/Miranda"
 # Origin: A jester in "The Tempest."
 Location "Trinculo" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 163.4 -63.7 0 ]
+	LongLat	[ -163.4 63.7 0 ]
 	Size	11
 	Type	"AA"	# Crater, craters
 }
@@ -195,7 +195,7 @@ Location "Trinculo" "Sol/Uranus/Miranda"
 # Origin: Where Romeo and Juliet lived.
 Location "Verona Rupes" "Sol/Uranus/Miranda"
 {
-	LongLat	[ 347.8 -18.3 0 ]
+	LongLat	[ -347.8 18.3 0 ]
 	Size	116
 	Type	"RU"	# Rupes, rupēs
 }
@@ -207,7 +207,7 @@ Location "Verona Rupes" "Sol/Uranus/Miranda"
 # Origin: Spirit of the iron mines.
 Location "Abans" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 251.3 -15.5 0 ]
+	LongLat	[ -251.3 15.5 0 ]
 	Size	20
 	Type	"AA"	# Crater, craters
 }
@@ -216,7 +216,7 @@ Location "Abans" "Sol/Uranus/Ariel"
 # Origin: Spirit in Spenser's "Fairy Queene."
 Location "Agape" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 336.5 -46.9 0 ]
+	LongLat	[ -336.5 46.9 0 ]
 	Size	34
 	Type	"AA"	# Crater, craters
 }
@@ -225,7 +225,7 @@ Location "Agape" "Sol/Uranus/Ariel"
 # Origin: Eskimo benevolent spirit.
 Location "Ataksak" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 224.3 -53.1 0 ]
+	LongLat	[ -224.3 53.1 0 ]
 	Size	22
 	Type	"AA"	# Crater, craters
 }
@@ -234,7 +234,7 @@ Location "Ataksak" "Sol/Uranus/Ariel"
 # Origin: Good spirit who fills Italian children's stockings with toys on twelfth night.
 Location "Befana" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 31.9 -17 0 ]
+	LongLat	[ -31.9 17 0 ]
 	Size	21
 	Type	"AA"	# Crater, craters
 }
@@ -243,7 +243,7 @@ Location "Befana" "Sol/Uranus/Ariel"
 # Origin: Good spirit in Maeterlinck's "The Bluebird."
 Location "Berylune" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 327.9 -22.5 0 ]
+	LongLat	[ -327.9 22.5 0 ]
 	Size	29
 	Type	"AA"	# Crater, craters
 }
@@ -252,7 +252,7 @@ Location "Berylune" "Sol/Uranus/Ariel"
 # Origin: German good spirits who live in woods.
 Location "Brownie Chasma" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 337.6 -16 0 ]
+	LongLat	[ -337.6 16 0 ]
 	Size	343
 	Type	"CM"	# Chasma, chasmata
 }
@@ -261,7 +261,7 @@ Location "Brownie Chasma" "Sol/Uranus/Ariel"
 # Origin: Spirit of beautiful maiden.
 Location "Deive" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 23 -22.3 0 ]
+	LongLat	[ -23 22.3 0 ]
 	Size	20
 	Type	"AA"	# Crater, craters
 }
@@ -270,7 +270,7 @@ Location "Deive" "Sol/Uranus/Ariel"
 # Origin: Czech ancestral benevolent spirit and household guardian.
 Location "Djadek" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 251.1 -12 0 ]
+	LongLat	[ -251.1 12 0 ]
 	Size	22
 	Type	"AA"	# Crater, craters
 }
@@ -279,7 +279,7 @@ Location "Djadek" "Sol/Uranus/Ariel"
 # Origin: Slavic spirit protector of home.
 Location "Domovoy" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 339.7 -71.5 0 ]
+	LongLat	[ -339.7 71.5 0 ]
 	Size	71
 	Type	"AA"	# Crater, craters
 }
@@ -288,7 +288,7 @@ Location "Domovoy" "Sol/Uranus/Ariel"
 # Origin: Irish king of spirits; provided horses and wine to men.
 Location "Finvara" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 19 -15.8 0 ]
+	LongLat	[ -19 15.8 0 ]
 	Size	31
 	Type	"AA"	# Crater, craters
 }
@@ -297,7 +297,7 @@ Location "Finvara" "Sol/Uranus/Ariel"
 # Origin: Irish god of battle; leads mens' souls to Annwn.
 Location "Gwyn" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 22.5 -77.5 0 ]
+	LongLat	[ -22.5 77.5 0 ]
 	Size	34
 	Type	"AA"	# Crater, craters
 }
@@ -306,7 +306,7 @@ Location "Gwyn" "Sol/Uranus/Ariel"
 # Origin: Replaced Oberon as King of Spirits when Oberon died.
 Location "Huon" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 33.7 -37.8 0 ]
+	LongLat	[ -33.7 37.8 0 ]
 	Size	40
 	Type	"AA"	# Crater, craters
 }
@@ -315,7 +315,7 @@ Location "Huon" "Sol/Uranus/Ariel"
 # Origin: Pueblo (USA) good spirits who bring rain or other blessings.
 Location "Kachina Chasmata" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 246 -33.7 0 ]
+	LongLat	[ -246 33.7 0 ]
 	Size	622
 	Type	"CM"	# Chasma, chasmata
 }
@@ -324,7 +324,7 @@ Location "Kachina Chasmata" "Sol/Uranus/Ariel"
 # Origin: British race of quaint spirit babies.
 Location "Kewpie Chasma" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 326.9 -28.3 0 ]
+	LongLat	[ -326.9 28.3 0 ]
 	Size	467
 	Type	"CM"	# Chasma, chasmata
 }
@@ -333,7 +333,7 @@ Location "Kewpie Chasma" "Sol/Uranus/Ariel"
 # Origin: French wind spirits who cure diseases.
 Location "Korrigan Chasma" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 347.5 -27.6 0 ]
+	LongLat	[ -347.5 27.6 0 ]
 	Size	365
 	Type	"CM"	# Chasma, chasmata
 }
@@ -342,7 +342,7 @@ Location "Korrigan Chasma" "Sol/Uranus/Ariel"
 # Origin: Vital spirits (Gold Coast).
 Location "Kra Chasma" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 354.2 -32.1 0 ]
+	LongLat	[ -354.2 32.1 0 ]
 	Size	142
 	Type	"CM"	# Chasma, chasmata
 }
@@ -351,7 +351,7 @@ Location "Kra Chasma" "Sol/Uranus/Ariel"
 # Origin: Inca good spirit.
 Location "Laica" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 44.4 -21.3 0 ]
+	LongLat	[ -44.4 21.3 0 ]
 	Size	30
 	Type	"AA"	# Crater, craters
 }
@@ -360,7 +360,7 @@ Location "Laica" "Sol/Uranus/Ariel"
 # Origin: Spirits or dwarfs.
 Location "Leprechaun Vallis" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 10.2 -10.4 0 ]
+	LongLat	[ -10.2 10.4 0 ]
 	Size	328
 	Type	"VA"	# Vallis, valles
 }
@@ -369,7 +369,7 @@ Location "Leprechaun Vallis" "Sol/Uranus/Ariel"
 # Origin: Queen of Spirits, dethroned Titania.
 Location "Mab" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 352.2 -38.8 0 ]
+	LongLat	[ -352.2 38.8 0 ]
 	Size	34
 	Type	"AA"	# Crater, craters
 }
@@ -378,7 +378,7 @@ Location "Mab" "Sol/Uranus/Ariel"
 # Origin: Spirit heroine of medieval French story.
 Location "Melusine" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 8.9 -52.9 0 ]
+	LongLat	[ -8.9 52.9 0 ]
 	Size	50
 	Type	"AA"	# Crater, craters
 }
@@ -387,7 +387,7 @@ Location "Melusine" "Sol/Uranus/Ariel"
 # Origin: Irish Queen of Fairies.
 Location "Oonagh" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 244.4 -21.9 0 ]
+	LongLat	[ -244.4 21.9 0 ]
 	Size	39
 	Type	"AA"	# Crater, craters
 }
@@ -396,7 +396,7 @@ Location "Oonagh" "Sol/Uranus/Ariel"
 # Origin: British spirits that live in rocks.
 Location "Pixie Chasma" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 5.1 -20.4 0 ]
+	LongLat	[ -5.1 20.4 0 ]
 	Size	278
 	Type	"CM"	# Chasma, chasmata
 }
@@ -405,7 +405,7 @@ Location "Pixie Chasma" "Sol/Uranus/Ariel"
 # Origin: Spirit in Hudson's "Green Mansions."
 Location "Rima" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 260.8 -18.3 0 ]
+	LongLat	[ -260.8 18.3 0 ]
 	Size	41
 	Type	"AA"	# Crater, craters
 }
@@ -414,7 +414,7 @@ Location "Rima" "Sol/Uranus/Ariel"
 # Origin: Earth spirits.
 Location "Sprite Vallis" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 340 -14.9 0 ]
+	LongLat	[ -340 14.9 0 ]
 	Size	305
 	Type	"VA"	# Vallis, valles
 }
@@ -423,7 +423,7 @@ Location "Sprite Vallis" "Sol/Uranus/Ariel"
 # Origin: British air spirits who influence the temperaments man.
 Location "Sylph Chasma" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 353 -48.6 0 ]
+	LongLat	[ -353 48.6 0 ]
 	Size	349
 	Type	"CM"	# Chasma, chasmata
 }
@@ -432,7 +432,7 @@ Location "Sylph Chasma" "Sol/Uranus/Ariel"
 # Origin: Spirit that brings day.
 Location "Yangoor" "Sol/Uranus/Ariel"
 {
-	LongLat	[ 279.7 -68.7 0 ]
+	LongLat	[ -279.7 68.7 0 ]
 	Size	78
 	Type	"AA"	# Crater, craters
 }
@@ -444,7 +444,7 @@ Location "Yangoor" "Sol/Uranus/Ariel"
 # Origin: Dwarf who guarded Niebelung gold, also had a mantle of invisibility.
 Location "Alberich" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 42.2 -33.6 0 ]
+	LongLat	[ -42.2 33.6 0 ]
 	Size	52
 	Type	"AA"	# Crater, craters
 }
@@ -453,7 +453,7 @@ Location "Alberich" "Sol/Uranus/Umbriel"
 # Origin: Troll who helped build a church in Kallundburg, Zealand.
 Location "Fin" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 44.3 -37.4 0 ]
+	LongLat	[ -44.3 37.4 0 ]
 	Size	43
 	Type	"AA"	# Crater, craters
 }
@@ -462,7 +462,7 @@ Location "Fin" "Sol/Uranus/Umbriel"
 # Origin: King of gnomes.
 Location "Gob" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 27.8 -12.7 0 ]
+	LongLat	[ -27.8 12.7 0 ]
 	Size	88
 	Type	"AA"	# Crater, craters
 }
@@ -471,7 +471,7 @@ Location "Gob" "Sol/Uranus/Umbriel"
 # Origin: Polynesian chief evil spirit.
 Location "Kanaloa" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 345.7 -10.8 0 ]
+	LongLat	[ -345.7 10.8 0 ]
 	Size	86
 	Type	"AA"	# Crater, craters
 }
@@ -480,7 +480,7 @@ Location "Kanaloa" "Sol/Uranus/Umbriel"
 # Origin: Aboriginal spirit who travels at night.
 Location "Malingee" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 13.9 -22.9 0 ]
+	LongLat	[ -13.9 22.9 0 ]
 	Size	164
 	Type	"AA"	# Crater, craters
 }
@@ -489,7 +489,7 @@ Location "Malingee" "Sol/Uranus/Umbriel"
 # Origin: Macouas and Banayis evil spirit.
 Location "Minepa" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 8.2 -42.7 0 ]
+	LongLat	[ -8.2 42.7 0 ]
 	Size	58
 	Type	"AA"	# Crater, craters
 }
@@ -498,7 +498,7 @@ Location "Minepa" "Sol/Uranus/Umbriel"
 # Origin: Persian evil spirit who disguised malevolence by charm; disturbed natural elements and heavenly bodies.
 Location "Peri" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 4.3 -9.2 0 ]
+	LongLat	[ -4.3 9.2 0 ]
 	Size	61
 	Type	"AA"	# Crater, craters
 }
@@ -507,7 +507,7 @@ Location "Peri" "Sol/Uranus/Umbriel"
 # Origin: Chief devil.
 Location "Setibos" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 346.3 -30.8 0 ]
+	LongLat	[ -346.3 30.8 0 ]
 	Size	50
 	Type	"AA"	# Crater, craters
 }
@@ -516,7 +516,7 @@ Location "Setibos" "Sol/Uranus/Umbriel"
 # Origin: Troll who stole three wives of a man living in Englerup.
 Location "Skynd" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 331.7 -1.8 0 ]
+	LongLat	[ -331.7 1.8 0 ]
 	Size	72
 	Type	"AA"	# Crater, craters
 }
@@ -525,7 +525,7 @@ Location "Skynd" "Sol/Uranus/Umbriel"
 # Origin: Volga Finn evil spirit.
 Location "Vuver" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 311.6 -4.7 0 ]
+	LongLat	[ -311.6 4.7 0 ]
 	Size	98
 	Type	"AA"	# Crater, craters
 }
@@ -534,7 +534,7 @@ Location "Vuver" "Sol/Uranus/Umbriel"
 # Origin: Baramba (West Africa) devil spirit.
 Location "Wokolo" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 1.8 -30 0 ]
+	LongLat	[ -1.8 30 0 ]
 	Size	208
 	Type	"AA"	# Crater, craters
 }
@@ -543,7 +543,7 @@ Location "Wokolo" "Sol/Uranus/Umbriel"
 # Origin: Australian dark spirit.
 Location "Wunda" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 273.6 -7.9 0 ]
+	LongLat	[ -273.6 7.9 0 ]
 	Size	131
 	Type	"AA"	# Crater, craters
 }
@@ -552,7 +552,7 @@ Location "Wunda" "Sol/Uranus/Umbriel"
 # Origin: Slavic evil spirit.
 Location "Zlyden" "Sol/Uranus/Umbriel"
 {
-	LongLat	[ 326.2 -23.3 0 ]
+	LongLat	[ -326.2 23.3 0 ]
 	Size	44
 	Type	"AA"	# Crater, craters
 }
@@ -564,7 +564,7 @@ Location "Zlyden" "Sol/Uranus/Umbriel"
 # Origin: Wife of Antipholus of Ephesus in "The Comedy of Errors."
 Location "Adriana" "Sol/Uranus/Titania"
 {
-	LongLat	[ 3.9 -20.1 0 ]
+	LongLat	[ -3.9 20.1 0 ]
 	Size	50
 	Type	"AA"	# Crater, craters
 }
@@ -574,7 +574,7 @@ Location "Adriana" "Sol/Uranus/Titania"
 # Additional info: Origin was changed from "Location in 'As You Like It'." on 02/17/2017, to correct an error.
 Location "Belmont Chasma" "Sol/Uranus/Titania"
 {
-	LongLat	[ 32.6 -8.5 0 ]
+	LongLat	[ -32.6 8.5 0 ]
 	Size	258
 	Type	"CM"	# Chasma, chasmata
 }
@@ -583,7 +583,7 @@ Location "Belmont Chasma" "Sol/Uranus/Titania"
 # Origin: Sister of the French queen in "Henry VI, part 3."
 Location "Bona" "Sol/Uranus/Titania"
 {
-	LongLat	[ 351.2 -55.8 0 ]
+	LongLat	[ -351.2 55.8 0 ]
 	Size	51
 	Type	"AA"	# Crater, craters
 }
@@ -592,7 +592,7 @@ Location "Bona" "Sol/Uranus/Titania"
 # Origin: Wife of Julius Caesar.
 Location "Calphurnia" "Sol/Uranus/Titania"
 {
-	LongLat	[ 291.4 -42.4 0 ]
+	LongLat	[ -291.4 42.4 0 ]
 	Size	100
 	Type	"AA"	# Crater, craters
 }
@@ -601,7 +601,7 @@ Location "Calphurnia" "Sol/Uranus/Titania"
 # Origin: Mother of King John.
 Location "Elinor" "Sol/Uranus/Titania"
 {
-	LongLat	[ 333.6 -44.8 0 ]
+	LongLat	[ -333.6 44.8 0 ]
 	Size	74
 	Type	"AA"	# Crater, craters
 }
@@ -610,7 +610,7 @@ Location "Elinor" "Sol/Uranus/Titania"
 # Origin: Mother of Hamlet.
 Location "Gertrude" "Sol/Uranus/Titania"
 {
-	LongLat	[ 287.1 -15.8 0 ]
+	LongLat	[ -287.1 15.8 0 ]
 	Size	326
 	Type	"AA"	# Crater, craters
 }
@@ -619,7 +619,7 @@ Location "Gertrude" "Sol/Uranus/Titania"
 # Origin: Cymbelline's daughter.
 Location "Imogen" "Sol/Uranus/Titania"
 {
-	LongLat	[ 321.2 -23.8 0 ]
+	LongLat	[ -321.2 23.8 0 ]
 	Size	28
 	Type	"AA"	# Crater, craters
 }
@@ -628,7 +628,7 @@ Location "Imogen" "Sol/Uranus/Titania"
 # Origin: Attendant to Cleopatra in "Anthony and Cleopatra."
 Location "Iras" "Sol/Uranus/Titania"
 {
-	LongLat	[ 338.8 -19.2 0 ]
+	LongLat	[ -338.8 19.2 0 ]
 	Size	33
 	Type	"AA"	# Crater, craters
 }
@@ -637,7 +637,7 @@ Location "Iras" "Sol/Uranus/Titania"
 # Origin: Shylock's daughter in "The Merchant of Venice."
 Location "Jessica" "Sol/Uranus/Titania"
 {
-	LongLat	[ 285.9 -55.3 0 ]
+	LongLat	[ -285.9 55.3 0 ]
 	Size	64
 	Type	"AA"	# Crater, craters
 }
@@ -646,7 +646,7 @@ Location "Jessica" "Sol/Uranus/Titania"
 # Origin: Henry VIII's first queen.
 Location "Katherine" "Sol/Uranus/Titania"
 {
-	LongLat	[ 331.9 -51.2 0 ]
+	LongLat	[ -331.9 51.2 0 ]
 	Size	75
 	Type	"AA"	# Crater, craters
 }
@@ -655,7 +655,7 @@ Location "Katherine" "Sol/Uranus/Titania"
 # Origin: Waiting woman to Julia in "Two Gentlemen of Verona."
 Location "Lucetta" "Sol/Uranus/Titania"
 {
-	LongLat	[ 277.1 -14.7 0 ]
+	LongLat	[ -277.1 14.7 0 ]
 	Size	58
 	Type	"AA"	# Crater, craters
 }
@@ -664,7 +664,7 @@ Location "Lucetta" "Sol/Uranus/Titania"
 # Origin: Daughter to Pericles in "Pericles, Prince of Tyre."
 Location "Marina" "Sol/Uranus/Titania"
 {
-	LongLat	[ 316 -15.5 0 ]
+	LongLat	[ -316 15.5 0 ]
 	Size	40
 	Type	"AA"	# Crater, craters
 }
@@ -673,7 +673,7 @@ Location "Marina" "Sol/Uranus/Titania"
 # Origin: Location in "Much Ado About Nothing."
 Location "Messina Chasmata" "Sol/Uranus/Titania"
 {
-	LongLat	[ 335 -33.3 0 ]
+	LongLat	[ -335 33.3 0 ]
 	Size	1492
 	Type	"CM"	# Chasma, chasmata
 }
@@ -682,7 +682,7 @@ Location "Messina Chasmata" "Sol/Uranus/Titania"
 # Origin: Shepardess in "The Winter's Tale."
 Location "Mopsa" "Sol/Uranus/Titania"
 {
-	LongLat	[ 302.2 -11.9 0 ]
+	LongLat	[ -302.2 11.9 0 ]
 	Size	101
 	Type	"AA"	# Crater, craters
 }
@@ -691,7 +691,7 @@ Location "Mopsa" "Sol/Uranus/Titania"
 # Origin: Alcibiades' mistress in "Timon of Athens."
 Location "Phrynia" "Sol/Uranus/Titania"
 {
-	LongLat	[ 309.2 -24.3 0 ]
+	LongLat	[ -309.2 24.3 0 ]
 	Size	35
 	Type	"AA"	# Crater, craters
 }
@@ -700,7 +700,7 @@ Location "Phrynia" "Sol/Uranus/Titania"
 # Origin: Location in "All's Well That Ends Well."
 Location "Rousillon Rupes" "Sol/Uranus/Titania"
 {
-	LongLat	[ 26.5 -14.7 0 ]
+	LongLat	[ -26.5 14.7 0 ]
 	Size	402
 	Type	"RU"	# Rupes, rupēs
 }
@@ -709,7 +709,7 @@ Location "Rousillon Rupes" "Sol/Uranus/Titania"
 # Origin: Attendant to Hero and Beatrice in "Much Ado About Nothing."
 Location "Ursula" "Sol/Uranus/Titania"
 {
-	LongLat	[ 45.2 -12.4 0 ]
+	LongLat	[ -45.2 12.4 0 ]
 	Size	135
 	Type	"AA"	# Crater, craters
 }
@@ -718,7 +718,7 @@ Location "Ursula" "Sol/Uranus/Titania"
 # Origin: Friend to Vergilia in "Coriolanus."
 Location "Valeria" "Sol/Uranus/Titania"
 {
-	LongLat	[ 4.2 -34.5 0 ]
+	LongLat	[ -4.2 34.5 0 ]
 	Size	59
 	Type	"AA"	# Crater, craters
 }
@@ -731,7 +731,7 @@ Location "Valeria" "Sol/Uranus/Titania"
 # Additional info: Latitude and longitude values updated on 5/12/2020.
 Location "Antony" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 65.4 -27.5 0 ]
+	LongLat	[ -65.4 27.5 0 ]
 	Size	47
 	Type	"AA"	# Crater, craters
 }
@@ -740,7 +740,7 @@ Location "Antony" "Sol/Uranus/Oberon"
 # Origin: Shakespearean hero in "Julius Caesar."
 Location "Caesar" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 61.1 -26.6 0 ]
+	LongLat	[ -61.1 26.6 0 ]
 	Size	76
 	Type	"AA"	# Crater, craters
 }
@@ -749,7 +749,7 @@ Location "Caesar" "Sol/Uranus/Oberon"
 # Origin: Shakespearean hero.
 Location "Coriolanus" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 345.2 -11.4 0 ]
+	LongLat	[ -345.2 11.4 0 ]
 	Size	120
 	Type	"AA"	# Crater, craters
 }
@@ -758,7 +758,7 @@ Location "Coriolanus" "Sol/Uranus/Oberon"
 # Origin: Shakespearean character in "Merry Wives of Windsor."
 Location "Falstaff" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 19 -22.1 0 ]
+	LongLat	[ -19 22.1 0 ]
 	Size	124
 	Type	"AA"	# Crater, craters
 }
@@ -767,7 +767,7 @@ Location "Falstaff" "Sol/Uranus/Oberon"
 # Origin: Shakespearean hero.
 Location "Hamlet" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 44.4 -46.1 0 ]
+	LongLat	[ -44.4 46.1 0 ]
 	Size	206
 	Type	"AA"	# Crater, craters
 }
@@ -776,7 +776,7 @@ Location "Hamlet" "Sol/Uranus/Oberon"
 # Origin: Shakespearean hero in "King Lear."
 Location "Lear" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 31.5 -5.4 0 ]
+	LongLat	[ -31.5 5.4 0 ]
 	Size	126
 	Type	"AA"	# Crater, craters
 }
@@ -786,7 +786,7 @@ Location "Lear" "Sol/Uranus/Oberon"
 # Additional info: Spelling changed from MacBeth March 25, 2013.
 Location "Macbeth" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 112.5 -58.4 0 ]
+	LongLat	[ -112.5 58.4 0 ]
 	Size	203
 	Type	"AA"	# Crater, craters
 }
@@ -795,7 +795,7 @@ Location "Macbeth" "Sol/Uranus/Oberon"
 # Origin: Spirit place, forest home of Oberon in "Midsummer Night's Dream."
 Location "Mommur Chasma" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 323.5 -16.3 0 ]
+	LongLat	[ -323.5 16.3 0 ]
 	Size	537
 	Type	"CM"	# Chasma, chasmata
 }
@@ -804,7 +804,7 @@ Location "Mommur Chasma" "Sol/Uranus/Oberon"
 # Origin: Shakespearean character.
 Location "Othello" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 42.9 -66 0 ]
+	LongLat	[ -42.9 66 0 ]
 	Size	114
 	Type	"AA"	# Crater, craters
 }
@@ -813,7 +813,7 @@ Location "Othello" "Sol/Uranus/Oberon"
 # Origin: Shakespearean character in "Romeo and Juliet."
 Location "Romeo" "Sol/Uranus/Oberon"
 {
-	LongLat	[ 89.4 -28.7 0 ]
+	LongLat	[ -89.4 28.7 0 ]
 	Size	159
 	Type	"AA"	# Crater, craters
 }

@@ -1,9 +1,9 @@
-# 9043 locations on Moon.
+# 9048 locations on Moon.
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 19.07.2021
-# Last update: 19.07.2021
+# Date of creation: 22.11.2021
+# Last update: 22.11.2021
 
 
 # Approval date: Oct 5, 2018; Last update: 2/5/19
@@ -32138,6 +32138,15 @@ Location "Henry P" "Sol/Earth/Moon"
 	Type	"SF"	# Satellite Feature
 }
 
+# Approval date: Sep 1, 2021; Last update: 9/1/21
+# Origin: Matthew; American polar explorer (1866-1955).
+Location "Henson" "Sol/Earth/Moon"
+{
+	LongLat	[ -130.63 -88.57 0 ]
+	Size	43
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1970; Last update: 10/18/10
 # Origin: Louis George; American astronomer (1910-1970).
 Location "Henyey" "Sol/Earth/Moon"
@@ -47261,6 +47270,15 @@ Location "Marth K" "Sol/Earth/Moon"
 	LongLat	[ 331.23 -29.96 0 ]
 	Size	3.02
 	Type	"SF"	# Satellite Feature
+}
+
+# Approval date: Sep 30, 2021; Last update: 9/30/21
+# Origin: Ursula; American planetary geologist (1921-2018).
+Location "Marvin" "Sol/Earth/Moon"
+{
+	LongLat	[ -87.78 -89.13 0 ]
+	Size	4.6
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: 1976; Last update: 10/18/10
@@ -63821,6 +63839,15 @@ Location "Rima Krieger" "Sol/Earth/Moon"
 	Type	"RI"	# Rima, rimae
 }
 
+# Approval date: Sep 28, 2021; Last update: 10/6/21
+# Origin: Jacques D'Allonville, Chevalier de Louville; French astronomer, mathematician (1671-1732).
+Location "Rima Louville" "Sol/Earth/Moon"
+{
+	LongLat	[ -51.54 47.61 0 ]
+	Size	86
+	Type	"RI"	# Rima, rimae
+}
+
 # Approval date: 1985; Last update: 10/18/10
 # Origin: Named from nearby crater.
 Location "Rima Mairan" "Sol/Earth/Moon"
@@ -70667,6 +70694,15 @@ Location "Spot" "Sol/Earth/Moon"
 	Type	"LF"	# Landing site name
 }
 
+# Approval date: Sep 30, 2021; Last update: 9/30/21
+# Origin: Paul D.; American planetary geologist (1952-2018).
+Location "Spudis" "Sol/Earth/Moon"
+{
+	LongLat	[ -84.61 -89.51 0 ]
+	Size	13
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1973; Last update: 11/16/10
 # Origin: Astronaut-named feature, Apollo 15 site.
 Location "Spur" "Sol/Earth/Moon"
@@ -71836,6 +71872,15 @@ Location "Störmer Y" "Sol/Earth/Moon"
 	LongLat	[ 144.26 60.17 0 ]
 	Size	26.38
 	Type	"SF"	# Satellite Feature
+}
+
+# Approval date: Nov 5, 2021; Last update: 11/5/21
+# Origin: Anna Isabel Jonas; American geologist (1881-1974).
+Location "Stose" "Sol/Earth/Moon"
+{
+	LongLat	[ 32.13 -86.38 0 ]
+	Size	16.7
+	Type	"AA"	# Crater, craters
 }
 
 # Approval date: 1935; Last update: 10/18/10
