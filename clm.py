@@ -35,6 +35,10 @@ objects = (
     "Tethys", "Thebe", "Titan", "Titania", "Triton", "Umbriel", "Venus", "Vesta"
 )
 
+retrograde_rotators = (
+    "Ariel", "Bennu", "Ida", "Itokawa", "Miranda", "Oberon", "Puck", "Ryugu", "Steins", "Titania", "Triton", "Umbriel", "Venus"
+)
+
 #columns = ("Feature_ID", "Feature_Name", "Clean_Feature_Name", "Target", "Diameter", "Center_Latitude", "Center_Longitude",
 #    "Northern_Latitude", "Southern_Latitude", "Eastern_Longitude", "Western_Longitude", "Coordinate_System", "Continent", "Ethnicity",
 #    "Feature_Type", "Feature_Type_Code", "Quad", "Approval_Status", "Approval_Date", "Reference", "Origin", "Additional_Info",
@@ -99,10 +103,10 @@ def reader(target):
                 else:
                     long = data["Center_Longitude"]
                     lat = data["Center_Latitude"]
-                    if data["Target"] in ("Bennu", "Ida", "Itokawa", "Ryugu", "Steins", "Triton", "Venus"): # retrograde rotators
+                    if data["Target"] in retrograde_rotators:
                         long = long[1:] if long[0] == "-" else "-"+long
                         lat = lat[1:] if lat[0] == "-" else "-"+lat
-                    elif data["Target"] == "Vesta": # coordinate system by Dawn team, more in README
+                    elif data["Target"] == "Vesta": # coordinate system by the Dawn team, see ReadMe
                         long = round(float(data["Center_Longitude"])-150, 2)
                     location += f'\tLongLat\t[ {long} {lat} 0 ]\n'
                 
