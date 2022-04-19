@@ -17,6 +17,8 @@ Run [clm.py](clm.py), select output type and target (if you selected single file
 - The IAU in the location database uses the [Vesta coordinate system](https://en.wikipedia.org/wiki/4_Vesta#Coordinate_systems) with an offset of 150° relative to the *Dawn* team system. Since Celestia Origin uses the model based on the second coordinate system, this shift is hardcoded.
 
 ## How to update the database file?
+**Please note: the website has been updated and the manual is temporarily out of date.**
+
 1. Go to [Planetary Names: Advanced Nomenclature Search](https://planetarynames.wr.usgs.gov/AdvancedSearch);
 2. Check all the boxes in `Columns to include`;
 3. Choose `Output Format` as `TSV`;
