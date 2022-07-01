@@ -2,13 +2,13 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 22.11.2021
-# Last update: 22.11.2021
+# Date of creation: 01.07.2022
+# Last update: 01.07.2022
 
 
 # 1 locations on Proteus.
 
-# Approval date: 1994; Last update: 10/1/06
+# Approval date: 1994; Last update: Oct 01, 2006
 # Origin: Island where Proteus reigned.
 Location "Pharos" "Sol/Neptune/Proteus"
 {
@@ -20,551 +20,557 @@ Location "Pharos" "Sol/Neptune/Proteus"
 
 # 61 locations on Triton.
 
-# Approval date: 1991; Last update: 10/1/06
-# Origin: Egyptian sacred island in Nile, "paradise."
+# Approval date: 1991; Last update: Oct 01, 2006
+# Origin: Egyptian sacred island in Nile, “;paradise.“;
 Location "Abatos Planum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -58 21.5 0 ]
+	LongLat	[ -58.00 21.50 0 ]
 	Size	400
 	Type	"PM"	# Planum, plana
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Tortoise upholding the world (India).
 Location "Akupara Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -63 27.5 0 ]
+	LongLat	[ -63.00 27.50 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Quecha (Ecuador) water boa.
 Location "Amarum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -24.5 -26 0 ]
+	LongLat	[ -24.50 -26.00 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Norse fish shaped dwarf.
 Location "Andvari" "Sol/Neptune/Triton"
 {
-	LongLat	[ -34 -20.5 0 ]
+	LongLat	[ -34.00 -20.50 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Egyptian dragon of darkness.
 Location "Apep Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -301.5 -20 0 ]
+	LongLat	[ -301.50 -20.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 5/2/12
+# Approval date: 1991; Last update: May 02, 2012
 # Origin: Nama Bushman word for rain.
+# Additional info: None
 Location "Awib Dorsa" "Sol/Neptune/Triton"
 {
-	LongLat	[ -80 7 0 ]
+	LongLat	[ -80.00 7.00 0 ]
 	Size	100
 	Type	"DO"	# Dorsum, dorsa
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Frog symbolizing the sun on the horizon (India).
 Location "Bheki Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -308 -16 0 ]
+	LongLat	[ -308.00 -16.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Yoruba; river named for obedient son of god.
 Location "Bia Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -3 38 0 ]
+	LongLat	[ -3.00 38.00 0 ]
 	Size	200
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Celtic mythological river.
 Location "Boynne Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -350 13 0 ]
+	LongLat	[ -350.00 13.00 0 ]
 	Size	500
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Island location of temple of Mukasa (Uganda).
 Location "BUBEMBE REGIO" "Sol/Neptune/Triton"
 {
-	LongLat	[ -335 -18 0 ]
+	LongLat	[ -335.00 -18.00 0 ]
 	Size	700
 	Type	"RE"	# Regio, regiones
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Mayan deity.
 Location "Cay" "Sol/Neptune/Triton"
 {
-	LongLat	[ -44 12 0 ]
+	LongLat	[ -44.00 12.00 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Legendary island described by Marco Polo.
 Location "Cipango Planum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -34 -11.5 0 ]
+	LongLat	[ -34.00 -11.50 0 ]
 	Size	300
 	Type	"PM"	# Planum, plana
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Babylonian fertility god represented as a fish.
 Location "Dagon Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -345 -29 0 ]
+	LongLat	[ -345.00 -29.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Angolan sacred lake.
 Location "Dilolo Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -24.5 -26 0 ]
+	LongLat	[ -24.50 -26.00 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
 
-# Approval date: 1991; Last update: 12/30/08
+# Approval date: 1991; Last update: Dec 30, 2008
 # Origin: Nanay mistress of fishing, Sea of Okhotsk.
 Location "Doro Macula" "Sol/Neptune/Triton"
 {
-	LongLat	[ -31.7 27.5 0 ]
+	LongLat	[ -31.70 27.50 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
 
-# Approval date: 1991; Last update: 10/1/06
-# Origin: Tortuous sea; literally, "Serpent Bay" (Norse).
+# Approval date: 1991; Last update: Oct 01, 2006
+# Origin: Tortuous sea; literally, “;Serpent Bay“; (Norse).
 Location "Gandvik Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -5.5 -28 0 ]
+	LongLat	[ -5.50 -28.00 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Egyptian frog goddess.
 Location "Hekt Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -342 -26 0 ]
+	LongLat	[ -342.00 -26.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Zulu water-sprite.
 Location "Hili" "Sol/Neptune/Triton"
 {
-	LongLat	[ -35 57 0 ]
+	LongLat	[ -35.00 57.00 0 ]
 	Size	25
 	Type	"PU"	# Plume, plumes
 }
 
-# Approval date: 1991; Last update: 5/15/10
+# Approval date: 1991; Last update: May 15, 2010
 # Origin: Japanese deity born in shape of a jellyfish.
 Location "Hirugo Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -345 -14.5 0 ]
+	LongLat	[ -345.00 -14.50 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Chinese sacred river.
 Location "Ho Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -305 -2 0 ]
+	LongLat	[ -305.00 -2.00 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 5/2/12
+# Approval date: 1991; Last update: May 02, 2012
 # Origin: Lozi (Zambia) water snake linked with destruction.
+# Additional info: None
 Location "Ilomba" "Sol/Neptune/Triton"
 {
-	LongLat	[ -57 14.5 0 ]
+	LongLat	[ -57.00 14.50 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Hindu river goddess.
 Location "Jumna Fossae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -44 13.5 0 ]
+	LongLat	[ -44.00 13.50 0 ]
 	Size	300
 	Type	"FO"	# Fossa, fossae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Sacred lake of Zoroastrianism.
 Location "Kasu Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -14 -39 0 ]
+	LongLat	[ -14.00 -39.00 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: The god Prajapati as a tortoise (India).
 Location "Kasyapa Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -358 -7.5 0 ]
+	LongLat	[ -358.00 -7.50 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Mabuiag (Melanisia) island of the dead.
 Location "Kibu Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -43 -10.5 0 ]
+	LongLat	[ -43.00 -10.50 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Slavic spirit of swamps, household spirit.
 Location "Kikimora Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -78 31 0 ]
+	LongLat	[ -78.00 31.00 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Norse river through which dead must pass.
 Location "Kormet Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -335.5 -23 0 ]
+	LongLat	[ -335.50 -23.00 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Norse giant sea monster.
 Location "Kraken Catena" "Sol/Neptune/Triton"
 {
-	LongLat	[ -35.5 -14 0 ]
+	LongLat	[ -35.50 -14.00 0 ]
 	Size	150
 	Type	"CA"	# Catena, catenae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Babylonian destructive fish-man spirit.
 Location "Kulilu Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -4 -41 0 ]
+	LongLat	[ -4.00 -41.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Vishnu in the form of a tortoise.
 Location "Kurma" "Sol/Neptune/Triton"
 {
-	LongLat	[ -61 16.5 0 ]
+	LongLat	[ -61.00 16.50 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Norse sacred river.
 Location "Leipter Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -9 -7 0 ]
+	LongLat	[ -9.00 -7.00 0 ]
 	Size	200
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Hebrew sea monster upholding earth.
 Location "Leviathan Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -28.5 -17 0 ]
+	LongLat	[ -28.50 -17.00 0 ]
 	Size	100
 	Type	"PE"	# Patera, paterae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Chinese sacred river.
 Location "Lo Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -321 -3.8 0 ]
+	LongLat	[ -321.00 -3.80 0 ]
 	Size	150
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Fish that holds up the universe (Persian).
 Location "Mah Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -6 -38 0 ]
+	LongLat	[ -6.00 -38.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Tonga sea spirit.
 Location "Mahilani" "Sol/Neptune/Triton"
 {
-	LongLat	[ -359.5 50.5 0 ]
+	LongLat	[ -359.50 50.50 0 ]
 	Size	25
 	Type	"PU"	# Plume, plumes
 }
 
-# Approval date: 1991; Last update: 5/2/12
-# Origin: Ila (Zambia) "the flooder."
+# Approval date: 1991; Last update: May 02, 2012
+# Origin: Ila (Zambia) “;the flooder.“;
+# Additional info: None
 Location "Mangwe Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -343 7 0 ]
+	LongLat	[ -343.00 7.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 3/22/13
+# Approval date: 1991; Last update: Mar 22, 2013
 # Origin: Chaga (Tanzania) mythical large fish.
+# Additional info: None
 Location "Mazomba" "Sol/Neptune/Triton"
 {
-	LongLat	[ -63.5 18.5 0 ]
+	LongLat	[ -63.50 18.50 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
-# Origin: French fictional island, meaning "nowhere."
+# Approval date: 1991; Last update: Oct 01, 2006
+# Origin: French fictional island, meaning “;nowhere.“;
 Location "Medamothi Planum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -69 -3.5 0 ]
+	LongLat	[ -69.00 -3.50 0 ]
 	Size	300
 	Type	"PM"	# Planum, plana
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Chinese symbol of duality in nature.
 Location "MONAD REGIO" "Sol/Neptune/Triton"
 {
-	LongLat	[ -37 -20 0 ]
+	LongLat	[ -37.00 -20.00 0 ]
 	Size	100
 	Type	"RE"	# Regio, regiones
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Japanese mythic fish; maker of earthquakes.
 Location "Namazu Macula" "Sol/Neptune/Triton"
 {
-	LongLat	[ -14 25.5 0 ]
+	LongLat	[ -14.00 25.50 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
 
-# Approval date: 1991; Last update: 12/30/08
+# Approval date: 1991; Last update: Dec 30, 2008
 # Origin: Mouth of this river is Ostiak entrance to underworld.
 Location "Ob Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -328 6 0 ]
+	LongLat	[ -328.00 6.00 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Norse river through which dead pass.
 Location "Ormet Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -337 -17 0 ]
+	LongLat	[ -337.00 -17.00 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Finnish fortune-telling fish god.
 Location "Ravgga" "Sol/Neptune/Triton"
 {
-	LongLat	[ -71.5 3 0 ]
+	LongLat	[ -71.50 3.00 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Breton bay of souls.
 Location "Raz Fossae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -21.5 -8 0 ]
+	LongLat	[ -21.50 -8.00 0 ]
 	Size	300
 	Type	"FO"	# Fossa, fossae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Egyptian fish who wept fertilizing tears.
 Location "Rem Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -349.5 -13 0 ]
+	LongLat	[ -349.50 -13.00 0 ]
 	Size	150
 	Type	"MA"	# Macula, maculae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: French isle of winds.
 Location "Ruach Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -24 -28 0 ]
+	LongLat	[ -24.00 -28.00 0 ]
 	Size	200
 	Type	"PL"	# Planitia, planitiae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Japanese undersea dragon palace.
 Location "Ryugu Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -27 5 0 ]
+	LongLat	[ -27.00 5.00 0 ]
 	Size	100
 	Type	"PL"	# Planitia, planitiae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Egypian water monster; personification of evil.
 Location "Set Catena" "Sol/Neptune/Triton"
 {
-	LongLat	[ -33.5 -22 0 ]
+	LongLat	[ -33.50 -22.00 0 ]
 	Size	200
 	Type	"CA"	# Catena, catenae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Pueblo (USA) hole or lake of emergence from underworld.
 Location "Sipapu Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -36 4 0 ]
+	LongLat	[ -36.00 4.00 0 ]
 	Size	100
 	Type	"PL"	# Planitia, planitiae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Norse river of daggers and spears.
 Location "Slidr Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -350 -23.5 0 ]
+	LongLat	[ -350.00 -23.50 0 ]
 	Size	200
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 12/1/10
+# Approval date: 1991; Last update: Dec 01, 2010
 # Origin: Māori fishing and sea god.
+# Additional info: None
 Location "Tangaroa" "Sol/Neptune/Triton"
 {
-	LongLat	[ -65.5 25 0 ]
+	LongLat	[ -65.50 25.00 0 ]
 	Size	100
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 5/2/12
+# Approval date: 1991; Last update: May 02, 2012
 # Origin: Yoruba; river named for willful son of god.
+# Additional info: None
 Location "Tano Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -337 -33.5 0 ]
+	LongLat	[ -337.00 -33.50 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Underground realm across Black River (Finnish).
 Location "Tuonela Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -14.5 -34 0 ]
+	LongLat	[ -14.50 -34.00 0 ]
 	Size	300
 	Type	"PL"	# Planitia, planitiae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Zulu reed from which humanity sprang.
 Location "UHLANGA REGIO" "Sol/Neptune/Triton"
 {
-	LongLat	[ -357 37 0 ]
+	LongLat	[ -357.00 37.00 0 ]
 	Size	1000
 	Type	"RE"	# Regio, regiones
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Hawaiian shark god.
 Location "Ukupanio Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -23 -35 0 ]
+	LongLat	[ -23.00 -35.00 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Greatest of Elivagar rivers, a stream of ice.
 Location "Vimur Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -59 11 0 ]
+	LongLat	[ -59.00 11.00 0 ]
 	Size	400
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Amour of Merlin (Welsh).
 Location "Viviane Macula" "Sol/Neptune/Triton"
 {
-	LongLat	[ -36.5 31 0 ]
+	LongLat	[ -36.50 31.00 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Slavic water spirit.
 Location "Vodyanoy" "Sol/Neptune/Triton"
 {
-	LongLat	[ -28.5 17 0 ]
+	LongLat	[ -28.50 17.00 0 ]
 	Size	100
 	Type	"AA"	# Crater, craters
 }
 
-# Approval date: 1991; Last update: 10/1/06
-# Origin: Japanese heavenly river; literally, "peace."
+# Approval date: 1991; Last update: Oct 01, 2006
+# Origin: Japanese heavenly river; literally, “;peace.“;
 Location "Yasu Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -347 -2 0 ]
+	LongLat	[ -347.00 -2.00 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
 
-# Approval date: 1991; Last update: 12/30/08
+# Approval date: 1991; Last update: Dec 30, 2008
 # Origin: Siberian mythical holy river.
 Location "Yenisey Fossa" "Sol/Neptune/Triton"
 {
-	LongLat	[ -56.2 -3 0 ]
+	LongLat	[ -56.20 -3.00 0 ]
 	Size	300
 	Type	"FO"	# Fossa, fossae
 }
 
-# Approval date: 1991; Last update: 10/1/06
+# Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Niger water spirits.
 Location "Zin Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -68 24.5 0 ]
+	LongLat	[ -68.00 24.50 0 ]
 	Size	300
 	Type	"MA"	# Macula, maculae
 }

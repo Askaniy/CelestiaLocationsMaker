@@ -1,5 +1,6 @@
 import os
 import sys
+import csv
 import inspect
 from datetime import date
 today = date.today().strftime("%d.%m.%Y")
@@ -39,10 +40,11 @@ retrograde_rotators = (
     "Ariel", "Bennu", "Ida", "Itokawa", "Miranda", "Oberon", "Puck", "Ryugu", "Steins", "Titania", "Triton", "Umbriel", "Venus"
 )
 
-#columns = ("Feature_ID", "Feature_Name", "Clean_Feature_Name", "Target", "Diameter", "Center_Latitude", "Center_Longitude",
-#    "Northern_Latitude", "Southern_Latitude", "Eastern_Longitude", "Western_Longitude", "Coordinate_System", "Continent", "Ethnicity",
-#    "Feature_Type", "Feature_Type_Code", "Quad", "Approval_Status", "Approval_Date", "Reference", "Origin", "Additional_Info",
-#    "Last_Updated"
+#columns = (
+#   'Feature ID', 'Feature Name', 'Clean Feature Name', 'Target', 'Diameter', 'Center Latitude', 'Center Longitude',
+#   'Northernmost Latitude', 'Southernmost Latitude', 'Easternmost Longitude', 'Westernmost Longitude', 'Coordinate System',
+#   'Continent Ethnicity', 'Feature Type', 'Feature Type Code', 'Quad', 'Approval Status', 'Approval Date', 'Reference', 'Origin',
+#   'Additional Info', 'Last Updated'
 #)
 
 celestia16supports = (
@@ -54,86 +56,86 @@ celestia16supports = (
 # SSC writer
 
 def reader(target):
+    global zero_size_counter
     locations = []
     for line in database:
-        data = dict(zip(columns, line[:-1].split("\t")))
-        try:
-            if target == data["Target"] and data["Approval_Status"] == "Approved":
-                location = "\n"
+        data = dict(zip(columns, line))
+        if target == data["Target"] and data["Approval Status"] == "Approved":
+            location = "\n"
 
-                # Comments
-                if comments:
-                    if data["Approval_Date"] != "" and data["Last_Updated"] != "":
-                        location += f'# Approval date: {data["Approval_Date"]}; Last update: {data["Last_Updated"]}\n'
-                    if data["Origin"] != "":
-                        location += f'# Origin: {data["Origin"]}\n'
-                    if data["Additional_Info"] != "":
-                        location += f'# Additional info: {data["Additional_Info"]}\n'
-                
-                # Name
-                if data["Feature_Type_Code"] in ("AL", "ME", "OC", "RE", "TA"):
-                    location += f'Location "{data["Feature_Name"].upper()}"'
+            # Comments
+            if comments:
+                if data["Approval Date"] != "" and data["Last Updated"] != "":
+                    location += f'# Approval date: {data["Approval Date"]}; Last update: {data["Last Updated"]}\n'
+                if data["Origin"] != "":
+                    location += f'# Origin: {data["Origin"]}\n'
+                if data["Additional Info"] != "":
+                    location += f'# Additional info: {data["Additional Info"]}\n'
+            
+            # Name
+            if data["Feature Type Code"] in ("AL", "ME", "OC", "RE", "TA"):
+                location += f'Location "{data["Feature Name"].upper()}"'
+            else:
+                location += f'Location "{data["Feature Name"]}"'
+            
+            # Target
+            if data["Target"] == "Moon":
+                location += f' "Sol/Earth/Moon"\n'
+            elif data["Target"] in sets["marsmoons_locs.ssc"]:
+                location += f' "Sol/Mars/{data["Target"]}"\n'
+            elif data["Target"] in sets["jupitermoons_locs.ssc"]:
+                location += f' "Sol/Jupiter/{data["Target"]}"\n'
+            elif data["Target"] in sets["saturnmoons_locs.ssc"]:
+                location += f' "Sol/Saturn/{data["Target"]}"\n'
+            elif data["Target"] in sets["uranusmoons_locs.ssc"]:
+                location += f' "Sol/Uranus/{data["Target"]}"\n'
+            elif data["Target"] in sets["neptunemoons_locs.ssc"]:
+                location += f' "Sol/Neptune/{data["Target"]}"\n'
+            elif data["Target"] in ("Pluto", "Charon"):
+                location += f' "Sol/Pluto-Charon/{data["Target"]}"\n'
+            elif data["Target"] == "Dactyl":
+                location += f' "Sol/Ida/Dactyl"\n'
+            else:
+                location += f' "Sol/{data["Target"]}"\n'
+            
+            # LongLat
+            location += '{\n'
+            if data["Feature Name"] in coord_dict:
+                location += f'\tLongLat\t[ {coord_dict[data["Feature Name"]]} ]\n'
+            else:
+                long = data["Center Longitude"]
+                lat = data["Center Latitude"]
+                if data["Target"] in retrograde_rotators:
+                    long = long[1:] if long[0] == "-" else "-"+long
+                    lat = lat[1:] if lat[0] == "-" else "-"+lat
+                elif data["Target"] == "Vesta": # coordinate system by the Dawn team, see ReadMe
+                    long = round(float(data["Center Longitude"])-150, 2)
+                location += f'\tLongLat\t[ {long} {lat} 0 ]\n'
+            
+            # Size/Importance
+            if float(data["Diameter"]) == 0:
+                zero_size_counter += 1
+                if data["Feature Type Code"] == "AL":
+                    location += f'\tImportance\t20\n'
+                elif data["Feature Name"] in size_dict:
+                    location += f'\tSize\t{size_dict[data["Feature Name"]]}\n'
                 else:
-                    location += f'Location "{data["Feature_Name"]}"'
-                
-                # Target
-                if data["Target"] == "Moon":
-                    location += f' "Sol/Earth/Moon"\n'
-                elif data["Target"] in sets["marsmoons_locs.ssc"]:
-                    location += f' "Sol/Mars/{data["Target"]}"\n'
-                elif data["Target"] in sets["jupitermoons_locs.ssc"]:
-                    location += f' "Sol/Jupiter/{data["Target"]}"\n'
-                elif data["Target"] in sets["saturnmoons_locs.ssc"]:
-                    location += f' "Sol/Saturn/{data["Target"]}"\n'
-                elif data["Target"] in sets["uranusmoons_locs.ssc"]:
-                    location += f' "Sol/Uranus/{data["Target"]}"\n'
-                elif data["Target"] in sets["neptunemoons_locs.ssc"]:
-                    location += f' "Sol/Neptune/{data["Target"]}"\n'
-                elif data["Target"] in ("Pluto", "Charon"):
-                    location += f' "Sol/Pluto-Charon/{data["Target"]}"\n'
-                elif data["Target"] == "Dactyl":
-                    location += f' "Sol/Ida/Dactyl"\n'
-                else:
-                    location += f' "Sol/{data["Target"]}"\n'
-                
-                # LongLat
-                location += '{\n'
-                if data["Feature_Name"] in coord_dict:
-                    location += f'\tLongLat\t[ {coord_dict[data["Feature_Name"]]} ]\n'
-                else:
-                    long = data["Center_Longitude"]
-                    lat = data["Center_Latitude"]
-                    if data["Target"] in retrograde_rotators:
-                        long = long[1:] if long[0] == "-" else "-"+long
-                        lat = lat[1:] if lat[0] == "-" else "-"+lat
-                    elif data["Target"] == "Vesta": # coordinate system by the Dawn team, see ReadMe
-                        long = round(float(data["Center_Longitude"])-150, 2)
-                    location += f'\tLongLat\t[ {long} {lat} 0 ]\n'
-                
-                # Size/Importance
-                if float(data["Diameter"]) == 0:
-                    if data["Feature_Type_Code"] == "AL":
-                        location += f'\tImportance\t20\n'
-                    elif data["Feature_Name"] in size_dict:
-                        location += f'\tSize\t{size_dict[data["Feature_Name"]]}\n'
-                    else:
-                        location += f'\tSize\t10\n'
-                else:
-                    location += f'\tSize\t{data["Diameter"]}\n'
-                
-                # Type
-                if celestia16 and data["Feature_Type_Code"] not in celestia16supports:
-                    location += f'\tType\t"XX"'
-                else:
-                    location += f'\tType\t"{data["Feature_Type_Code"]}"'
-                if comments:
-                    location += f'\t# {data["Feature_Type"]}'
-                
-                location += '\n}\n'
-                locations.append(location)
-
-        except KeyError:
-            return locations
+                    location += f'\tSize\t10\n'
+            else:
+                location += f'\tSize\t{data["Diameter"]}\n'
+            
+            # Type
+            if celestia16 and data["Feature Type Code"] not in celestia16supports:
+                location += f'\tType\t"XX"'
+            else:
+                location += f'\tType\t"{data["Feature Type Code"]}"'
+            if comments:
+                location += f'\t# {data["Feature Type"]}'
+            
+            location += '\n}\n'
+            locations.append(location)
+        
+    return locations
 
 def writer(target_list, path):
     with open(path, "w", encoding="UTF-8") as ssc:
@@ -183,8 +185,8 @@ except Exception:
     path = input('\nPlease enter the folder where "clm.py" is located: ')
 
 data_path = path + "/data"
-if not os.path.isfile(data_path + "/SearchResults"):
-    print('\n"SearchResults" not found, please try again.\n')
+if not os.path.isfile(data_path + "/searchresults.csv"):
+    print('\n"searchresults.csv" not found, please try again.\n')
     sys.exit(1)
 
 save_path = path + "/locations"
@@ -279,12 +281,11 @@ except Exception:
 
 # Database reader and export
 
-with open(data_path + "/SearchResults", "r", encoding="UTF-8") as SearchResults:
-
-    # Skip indent and define columns
-    content = SearchResults.readlines()
-    columns = list(map(str.strip, content[5][:-1].split("\t")))
-    database = content[6:]
+zero_size_counter = 0
+with open(data_path + "/searchresults.csv", "r", encoding="UTF-8") as SearchResults:
+    content = list(csv.reader(SearchResults))
+    columns = content[0]
+    database = content[1:]
 
     # Output file creation
     print("")
@@ -298,3 +299,4 @@ with open(data_path + "/SearchResults", "r", encoding="UTF-8") as SearchResults:
         writer(obj_list, save_path)
         print(f'Saved: {save_path}\n')
     print(f'Done\n')
+    #print("Zero sized locations: ", zero_size_counter)
