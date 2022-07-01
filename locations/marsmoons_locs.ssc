@@ -10,7 +10,6 @@
 
 # Approval date: Nov 29, 2006; Last update: Mar 01, 2007
 # Origin: Character in Lilliput who informed Flimnap that his wife had visited Gulliver privately in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Clustril" "Sol/Mars/Phobos"
 {
 	LongLat	[ 269.00 60.00 0 ]
@@ -20,7 +19,6 @@ Location "Clustril" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Nov 29, 2006
 # Origin: Heinrich L.; German/Danish astronomer (1822-1875).
-# Additional info: 
 Location "D'Arrest" "Sol/Mars/Phobos"
 {
 	LongLat	[ 181.00 -39.00 0 ]
@@ -30,7 +28,6 @@ Location "D'Arrest" "Sol/Mars/Phobos"
 
 # Approval date: Nov 29, 2006; Last update: Mar 01, 2007
 # Origin: Character in Lilliput who informed Flimnap that his wife had visited Gulliver privately in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Drunlo" "Sol/Mars/Phobos"
 {
 	LongLat	[ 268.00 36.50 0 ]
@@ -40,7 +37,6 @@ Location "Drunlo" "Sol/Mars/Phobos"
 
 # Approval date: Nov 29, 2006; Last update: Mar 01, 2007
 # Origin: Treasurer of Lilliput in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Flimnap" "Sol/Mars/Phobos"
 {
 	LongLat	[ 10.00 60.00 0 ]
@@ -50,7 +46,6 @@ Location "Flimnap" "Sol/Mars/Phobos"
 
 # Approval date: Nov 29, 2006; Last update: Nov 17, 2008
 # Origin: Name given to Gulliver by the farmer's daughter in the giants’ country Brobdingnag in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Grildrig" "Sol/Mars/Phobos"
 {
 	LongLat	[ 165.00 81.00 0 ]
@@ -60,7 +55,6 @@ Location "Grildrig" "Sol/Mars/Phobos"
 
 # Approval date: Nov 29, 2006; Last update: Mar 01, 2007
 # Origin: Lemuel Gulliver, surgeon, captain, and voyager in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Gulliver" "Sol/Mars/Phobos"
 {
 	LongLat	[ 197.00 62.00 0 ]
@@ -70,7 +64,6 @@ Location "Gulliver" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Nov 29, 2006
 # Origin: Asaph; American astronomer, discoverer of Phobos and Deimos (1829-1907).
-# Additional info: 
 Location "Hall" "Sol/Mars/Phobos"
 {
 	LongLat	[ 150.00 -80.00 0 ]
@@ -80,7 +73,6 @@ Location "Hall" "Sol/Mars/Phobos"
 
 # Approval date: 1987; Last update: Nov 29, 2006
 # Origin: Johannes; German astronomer (1571-1630).
-# Additional info: 
 Location "Kepler Dorsum" "Sol/Mars/Phobos"
 {
 	LongLat	[ 4.00 -45.00 0 ]
@@ -90,7 +82,6 @@ Location "Kepler Dorsum" "Sol/Mars/Phobos"
 
 # Approval date: Jul 28, 2011; Last update: Aug 01, 2011
 # Origin: Fictional city in Jonathan Swift's Gulliver's Travels, ruled by a tyrannical king from the flying island Laputa.
-# Additional info: 
 Location "Lagado Planitia" "Sol/Mars/Phobos"
 {
 	LongLat	[ 129.00 19.00 0 ]
@@ -100,7 +91,6 @@ Location "Lagado Planitia" "Sol/Mars/Phobos"
 
 # Approval date: Jul 28, 2011; Last update: Jul 28, 2011
 # Origin: Fictional flying island in Jonathan Swift's Gulliver's Travels.
-# Additional info: 
 Location "LAPUTA REGIO" "Sol/Mars/Phobos"
 {
 	LongLat	[ 95.00 0.00 0 ]
@@ -110,7 +100,6 @@ Location "LAPUTA REGIO" "Sol/Mars/Phobos"
 
 # Approval date: Nov 29, 2006; Last update: Mar 01, 2007
 # Origin: General in Lilliput who prepared articles of impeachment against Gulliver in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Limtoc" "Sol/Mars/Phobos"
 {
 	LongLat	[ 306.00 -11.00 0 ]
@@ -120,7 +109,6 @@ Location "Limtoc" "Sol/Mars/Phobos"
 
 # Approval date: Jul 28, 2011; Last update: Jul 28, 2011
 # Origin: Ernst J., Estonian astronomer (1893-1985).
-# Additional info: 
 Location "Öpik" "Sol/Mars/Phobos"
 {
 	LongLat	[ 63.00 -7.00 0 ]
@@ -130,7 +118,6 @@ Location "Öpik" "Sol/Mars/Phobos"
 
 # Approval date: Nov 29, 2006; Last update: Mar 01, 2007
 # Origin: Secretary for Private Affairs in Lilliput; Gulliver's friend in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Reldresal" "Sol/Mars/Phobos"
 {
 	LongLat	[ 321.00 41.00 0 ]
@@ -140,7 +127,6 @@ Location "Reldresal" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Nov 29, 2006
 # Origin: Edouard; French astronomer (1820-1883).
-# Additional info: 
 Location "Roche" "Sol/Mars/Phobos"
 {
 	LongLat	[ 177.00 53.00 0 ]
@@ -150,7 +136,6 @@ Location "Roche" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Nov 29, 2006
 # Origin: Bevan P.; American astronomer (1904-1950).
-# Additional info: 
 Location "Sharpless" "Sol/Mars/Phobos"
 {
 	LongLat	[ 206.00 -27.50 0 ]
@@ -160,7 +145,6 @@ Location "Sharpless" "Sol/Mars/Phobos"
 
 # Approval date: Jul 28, 2011; Last update: Jul 28, 2011
 # Origin: Iosif S., Soviet astronomer (1916-1985).
-# Additional info: 
 Location "Shklovsky" "Sol/Mars/Phobos"
 {
 	LongLat	[ 112.00 24.00 0 ]
@@ -170,7 +154,6 @@ Location "Shklovsky" "Sol/Mars/Phobos"
 
 # Approval date: Nov 29, 2006; Last update: Nov 17, 2008
 # Origin: Skyresh Bolgolam, High Admiral of the Lilliput council who opposed Gulliver’s plea for freedom and accused him of being a traitor in Jonathan Swift's novel “;Gulliver's Travels.“;
-# Additional info: 
 Location "Skyresh" "Sol/Mars/Phobos"
 {
 	LongLat	[ 40.00 52.50 0 ]
@@ -180,7 +163,6 @@ Location "Skyresh" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Nov 29, 2006
 # Origin: Angeline; wife of American astronomer A. Hall (1830-1892).
-# Additional info: 
 Location "Stickney" "Sol/Mars/Phobos"
 {
 	LongLat	[ 311.00 1.00 0 ]
@@ -190,7 +172,6 @@ Location "Stickney" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Nov 29, 2006
 # Origin: David; American astronomer (1855-1939).
-# Additional info: 
 Location "Todd" "Sol/Mars/Phobos"
 {
 	LongLat	[ 207.00 -9.00 0 ]
@@ -200,7 +181,6 @@ Location "Todd" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Nov 29, 2006
 # Origin: Oliver C.; American astronomer (1845-1912).
-# Additional info: 
 Location "Wendell" "Sol/Mars/Phobos"
 {
 	LongLat	[ 228.00 -1.00 0 ]
@@ -213,7 +193,6 @@ Location "Wendell" "Sol/Mars/Phobos"
 
 # Approval date: 1973; Last update: Jul 22, 2008
 # Origin: Jonathan; British writer (1667-1745).
-# Additional info: 
 Location "Swift" "Sol/Mars/Deimos"
 {
 	LongLat	[ 1.80 12.50 0 ]
@@ -223,7 +202,6 @@ Location "Swift" "Sol/Mars/Deimos"
 
 # Approval date: 1973; Last update: Jul 22, 2008
 # Origin: Francios-Marie Arouet; French writer (1694-1778).
-# Additional info: 
 Location "Voltaire" "Sol/Mars/Deimos"
 {
 	LongLat	[ 356.50 22.00 0 ]

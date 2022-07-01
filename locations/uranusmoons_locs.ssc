@@ -10,7 +10,6 @@
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Scottish mischievous spirits.
-# Additional info: 
 Location "Bogle" "Sol/Uranus/Puck"
 {
 	LongLat	[ -0.00 -0.00 0 ]
@@ -20,7 +19,6 @@ Location "Bogle" "Sol/Uranus/Puck"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: German roguish or evil spirits.
-# Additional info: 
 Location "Butz" "Sol/Uranus/Puck"
 {
 	LongLat	[ -0.00 -0.00 0 ]
@@ -30,7 +28,6 @@ Location "Butz" "Sol/Uranus/Puck"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: British mischievous spirits.
-# Additional info: 
 Location "Lob" "Sol/Uranus/Puck"
 {
 	LongLat	[ -0.00 -0.00 0 ]
@@ -43,7 +40,6 @@ Location "Lob" "Sol/Uranus/Puck"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: King of Naples in “;The Tempest.“;
-# Additional info: 
 Location "Alonso" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -352.60 44.00 0 ]
@@ -53,7 +49,6 @@ Location "Alonso" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Forest, location of “;As You Like It.“;
-# Additional info: 
 Location "Arden Corona" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -73.70 29.10 0 ]
@@ -63,7 +58,6 @@ Location "Arden Corona" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Location of earlier action in “;The Tempest.“;
-# Additional info: 
 Location "Argier Rupes" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -322.80 43.20 0 ]
@@ -73,7 +67,6 @@ Location "Argier Rupes" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: May 15, 2010
 # Origin: Location of castle where Macbeth was defeated.
-# Additional info: 
 Location "DUNSINANE REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -11.90 31.50 0 ]
@@ -83,7 +76,6 @@ Location "DUNSINANE REGIO" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Location of Hamlet's castle.
-# Additional info: 
 Location "Elsinore Corona" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -257.10 24.80 0 ]
@@ -93,7 +85,6 @@ Location "Elsinore Corona" "Sol/Uranus/Miranda"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Home of twins and setting for “;The Comedy of Errors.“;
-# Additional info: 
 Location "EPHESUS REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -250.00 15.00 0 ]
@@ -103,7 +94,6 @@ Location "EPHESUS REGIO" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Son of King of Naples; loves Miranda in “;The Tempest.“;
-# Additional info: 
 Location "Ferdinand" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -202.10 34.80 0 ]
@@ -113,7 +103,6 @@ Location "Ferdinand" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: A lord of Naples in “;The Tempest.“;
-# Additional info: 
 Location "Francisco" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -236.00 73.20 0 ]
@@ -123,7 +112,6 @@ Location "Francisco" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: May 15, 2010
 # Origin: Honest old counselor of Naples in “;The Tempest.“;
-# Additional info: 
 Location "Gonzalo" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -77.00 11.40 0 ]
@@ -133,7 +121,6 @@ Location "Gonzalo" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: May 15, 2010
 # Origin: Location of Macbeth's castle.
-# Additional info: 
 Location "Inverness Corona" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -325.70 66.90 0 ]
@@ -143,7 +130,6 @@ Location "Inverness Corona" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Location of part of “;Two Gentlemen From Verona.“;
-# Additional info: 
 Location "MANTUA REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -180.20 39.60 0 ]
@@ -153,7 +139,6 @@ Location "MANTUA REGIO" "Sol/Uranus/Miranda"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Destination in “;The Tempest.“;
-# Additional info: 
 Location "Naples Sulcus" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -260.00 32.00 0 ]
@@ -163,7 +148,6 @@ Location "Naples Sulcus" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Rightful Duke of Mila in “;The Tempest.“;
-# Additional info: 
 Location "Prospero" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -329.90 32.90 0 ]
@@ -173,7 +157,6 @@ Location "Prospero" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Location of “;Winter's Tale.“;
-# Additional info: 
 Location "SICILIA REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -317.20 30.00 0 ]
@@ -183,7 +166,6 @@ Location "SICILIA REGIO" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: A drunken butler in “;The Tempest.“;
-# Additional info: 
 Location "Stephano" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -234.10 41.10 0 ]
@@ -193,7 +175,6 @@ Location "Stephano" "Sol/Uranus/Miranda"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Home of twins in the “;Comedy of Errors.“;
-# Additional info: 
 Location "Syracusa Sulcus" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -293.00 15.00 0 ]
@@ -203,7 +184,6 @@ Location "Syracusa Sulcus" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: A jester in “;The Tempest.“;
-# Additional info: 
 Location "Trinculo" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -163.40 63.70 0 ]
@@ -213,7 +193,6 @@ Location "Trinculo" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Where Romeo and Juliet lived.
-# Additional info: 
 Location "Verona Rupes" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -347.80 18.30 0 ]
@@ -226,7 +205,6 @@ Location "Verona Rupes" "Sol/Uranus/Miranda"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirit of the iron mines.
-# Additional info: 
 Location "Abans" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -251.30 15.50 0 ]
@@ -236,7 +214,6 @@ Location "Abans" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirit in Spenser's “;Fairy Queene.“;
-# Additional info: 
 Location "Agape" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -336.50 46.90 0 ]
@@ -246,7 +223,6 @@ Location "Agape" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Eskimo benevolent spirit.
-# Additional info: 
 Location "Ataksak" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -224.30 53.10 0 ]
@@ -256,7 +232,6 @@ Location "Ataksak" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Good spirit who fills Italian children's stockings with toys on twelfth night.
-# Additional info: 
 Location "Befana" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -31.90 17.00 0 ]
@@ -266,7 +241,6 @@ Location "Befana" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Good spirit in Maeterlinck's “;The Bluebird.“;
-# Additional info: 
 Location "Berylune" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -327.90 22.50 0 ]
@@ -276,7 +250,6 @@ Location "Berylune" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: German good spirits who live in woods.
-# Additional info: 
 Location "Brownie Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -337.60 16.00 0 ]
@@ -286,7 +259,6 @@ Location "Brownie Chasma" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirit of beautiful maiden.
-# Additional info: 
 Location "Deive" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -23.00 22.30 0 ]
@@ -296,7 +268,6 @@ Location "Deive" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Czech ancestral benevolent spirit and household guardian.
-# Additional info: 
 Location "Djadek" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -251.10 12.00 0 ]
@@ -306,7 +277,6 @@ Location "Djadek" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Slavic spirit protector of home.
-# Additional info: 
 Location "Domovoy" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -339.70 71.50 0 ]
@@ -316,7 +286,6 @@ Location "Domovoy" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Irish king of spirits; provided horses and wine to men.
-# Additional info: 
 Location "Finvara" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -19.00 15.80 0 ]
@@ -326,7 +295,6 @@ Location "Finvara" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: May 15, 2010
 # Origin: Irish god of battle; leads mens' souls to Annwn.
-# Additional info: 
 Location "Gwyn" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -22.50 77.50 0 ]
@@ -336,7 +304,6 @@ Location "Gwyn" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Replaced Oberon as King of Spirits when Oberon died.
-# Additional info: 
 Location "Huon" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -33.70 37.80 0 ]
@@ -346,7 +313,6 @@ Location "Huon" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Pueblo (USA) good spirits who bring rain or other blessings.
-# Additional info: 
 Location "Kachina Chasmata" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -246.00 33.70 0 ]
@@ -356,7 +322,6 @@ Location "Kachina Chasmata" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: British race of quaint spirit babies.
-# Additional info: 
 Location "Kewpie Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -326.90 28.30 0 ]
@@ -366,7 +331,6 @@ Location "Kewpie Chasma" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: French wind spirits who cure diseases.
-# Additional info: 
 Location "Korrigan Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -347.50 27.60 0 ]
@@ -376,7 +340,6 @@ Location "Korrigan Chasma" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Vital spirits (Gold Coast).
-# Additional info: 
 Location "Kra Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -354.20 32.10 0 ]
@@ -386,7 +349,6 @@ Location "Kra Chasma" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Inca good spirit.
-# Additional info: 
 Location "Laica" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -44.40 21.30 0 ]
@@ -396,7 +358,6 @@ Location "Laica" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirits or dwarfs.
-# Additional info: 
 Location "Leprechaun Vallis" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -10.20 10.40 0 ]
@@ -406,7 +367,6 @@ Location "Leprechaun Vallis" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Queen of Spirits, dethroned Titania.
-# Additional info: 
 Location "Mab" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -352.20 38.80 0 ]
@@ -416,7 +376,6 @@ Location "Mab" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirit heroine of medieval French story.
-# Additional info: 
 Location "Melusine" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -8.90 52.90 0 ]
@@ -426,7 +385,6 @@ Location "Melusine" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Irish Queen of Fairies.
-# Additional info: 
 Location "Oonagh" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -244.40 21.90 0 ]
@@ -436,7 +394,6 @@ Location "Oonagh" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: British spirits that live in rocks.
-# Additional info: 
 Location "Pixie Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -5.10 20.40 0 ]
@@ -446,7 +403,6 @@ Location "Pixie Chasma" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirit in Hudson's “;Green Mansions.“;
-# Additional info: 
 Location "Rima" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -260.80 18.30 0 ]
@@ -456,7 +412,6 @@ Location "Rima" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Earth spirits.
-# Additional info: 
 Location "Sprite Vallis" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -340.00 14.90 0 ]
@@ -466,7 +421,6 @@ Location "Sprite Vallis" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: British air spirits who influence the temperaments man.
-# Additional info: 
 Location "Sylph Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -353.00 48.60 0 ]
@@ -476,7 +430,6 @@ Location "Sylph Chasma" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirit that brings day.
-# Additional info: 
 Location "Yangoor" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -279.70 68.70 0 ]
@@ -489,7 +442,6 @@ Location "Yangoor" "Sol/Uranus/Ariel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Dwarf who guarded Niebelung gold, also had a mantle of invisibility.
-# Additional info: 
 Location "Alberich" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -42.20 33.60 0 ]
@@ -499,7 +451,6 @@ Location "Alberich" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Troll who helped build a church in Kallundburg, Zealand.
-# Additional info: 
 Location "Fin" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -44.30 37.40 0 ]
@@ -509,7 +460,6 @@ Location "Fin" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: King of gnomes.
-# Additional info: 
 Location "Gob" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -27.80 12.70 0 ]
@@ -519,7 +469,6 @@ Location "Gob" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Polynesian chief evil spirit.
-# Additional info: 
 Location "Kanaloa" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -345.70 10.80 0 ]
@@ -529,7 +478,6 @@ Location "Kanaloa" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Aboriginal spirit who travels at night.
-# Additional info: 
 Location "Malingee" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -13.90 22.90 0 ]
@@ -539,7 +487,6 @@ Location "Malingee" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Macouas and Banayis evil spirit.
-# Additional info: 
 Location "Minepa" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -8.20 42.70 0 ]
@@ -549,7 +496,6 @@ Location "Minepa" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Persian evil spirit who disguised malevolence by charm; disturbed natural elements and heavenly bodies.
-# Additional info: 
 Location "Peri" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -4.30 9.20 0 ]
@@ -559,7 +505,6 @@ Location "Peri" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Chief devil.
-# Additional info: 
 Location "Setibos" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -346.30 30.80 0 ]
@@ -569,7 +514,6 @@ Location "Setibos" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Troll who stole three wives of a man living in Englerup.
-# Additional info: 
 Location "Skynd" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -331.70 1.80 0 ]
@@ -579,7 +523,6 @@ Location "Skynd" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Volga Finn evil spirit.
-# Additional info: 
 Location "Vuver" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -311.60 4.70 0 ]
@@ -589,7 +532,6 @@ Location "Vuver" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Baramba (West Africa) devil spirit.
-# Additional info: 
 Location "Wokolo" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -1.80 30.00 0 ]
@@ -599,7 +541,6 @@ Location "Wokolo" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Australian dark spirit.
-# Additional info: 
 Location "Wunda" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -273.60 7.90 0 ]
@@ -609,7 +550,6 @@ Location "Wunda" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Slavic evil spirit.
-# Additional info: 
 Location "Zlyden" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -326.20 23.30 0 ]
@@ -622,7 +562,6 @@ Location "Zlyden" "Sol/Uranus/Umbriel"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Wife of Antipholus of Ephesus in “;The Comedy of Errors.“;
-# Additional info: 
 Location "Adriana" "Sol/Uranus/Titania"
 {
 	LongLat	[ -3.90 20.10 0 ]
@@ -642,7 +581,6 @@ Location "Belmont Chasma" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Sister of the French queen in “;Henry VI, part 3.“;
-# Additional info: 
 Location "Bona" "Sol/Uranus/Titania"
 {
 	LongLat	[ -351.20 55.80 0 ]
@@ -652,7 +590,6 @@ Location "Bona" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Wife of Julius Caesar.
-# Additional info: 
 Location "Calphurnia" "Sol/Uranus/Titania"
 {
 	LongLat	[ -291.40 42.40 0 ]
@@ -662,7 +599,6 @@ Location "Calphurnia" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Mother of King John.
-# Additional info: 
 Location "Elinor" "Sol/Uranus/Titania"
 {
 	LongLat	[ -333.60 44.80 0 ]
@@ -672,7 +608,6 @@ Location "Elinor" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Mother of Hamlet.
-# Additional info: 
 Location "Gertrude" "Sol/Uranus/Titania"
 {
 	LongLat	[ -287.10 15.80 0 ]
@@ -682,7 +617,6 @@ Location "Gertrude" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Cymbelline's daughter.
-# Additional info: 
 Location "Imogen" "Sol/Uranus/Titania"
 {
 	LongLat	[ -321.20 23.80 0 ]
@@ -692,7 +626,6 @@ Location "Imogen" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Attendant to Cleopatra in “;Anthony and Cleopatra.“;
-# Additional info: 
 Location "Iras" "Sol/Uranus/Titania"
 {
 	LongLat	[ -338.80 19.20 0 ]
@@ -702,7 +635,6 @@ Location "Iras" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shylock's daughter in “;The Merchant of Venice.“;
-# Additional info: 
 Location "Jessica" "Sol/Uranus/Titania"
 {
 	LongLat	[ -285.90 55.30 0 ]
@@ -712,7 +644,6 @@ Location "Jessica" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Henry VIII's first queen.
-# Additional info: 
 Location "Katherine" "Sol/Uranus/Titania"
 {
 	LongLat	[ -331.90 51.20 0 ]
@@ -722,7 +653,6 @@ Location "Katherine" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Waiting woman to Julia in “;Two Gentlemen of Verona.“;
-# Additional info: 
 Location "Lucetta" "Sol/Uranus/Titania"
 {
 	LongLat	[ -277.10 14.70 0 ]
@@ -732,7 +662,6 @@ Location "Lucetta" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Daughter to Pericles in “;Pericles, Prince of Tyre.“;
-# Additional info: 
 Location "Marina" "Sol/Uranus/Titania"
 {
 	LongLat	[ -316.00 15.50 0 ]
@@ -742,7 +671,6 @@ Location "Marina" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Location in “;Much Ado About Nothing.“;
-# Additional info: 
 Location "Messina Chasmata" "Sol/Uranus/Titania"
 {
 	LongLat	[ -335.00 33.30 0 ]
@@ -752,7 +680,6 @@ Location "Messina Chasmata" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shepardess in “;The Winter's Tale.“;
-# Additional info: 
 Location "Mopsa" "Sol/Uranus/Titania"
 {
 	LongLat	[ -302.20 11.90 0 ]
@@ -762,7 +689,6 @@ Location "Mopsa" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Alcibiades' mistress in “;Timon of Athens.“;
-# Additional info: 
 Location "Phrynia" "Sol/Uranus/Titania"
 {
 	LongLat	[ -309.20 24.30 0 ]
@@ -772,7 +698,6 @@ Location "Phrynia" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Location in “;All's Well That Ends Well.“;
-# Additional info: 
 Location "Rousillon Rupes" "Sol/Uranus/Titania"
 {
 	LongLat	[ -26.50 14.70 0 ]
@@ -782,7 +707,6 @@ Location "Rousillon Rupes" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Attendant to Hero and Beatrice in “;Much Ado About Nothing.“;
-# Additional info: 
 Location "Ursula" "Sol/Uranus/Titania"
 {
 	LongLat	[ -45.20 12.40 0 ]
@@ -792,7 +716,6 @@ Location "Ursula" "Sol/Uranus/Titania"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Friend to Vergilia in “;Coriolanus.“;
-# Additional info: 
 Location "Valeria" "Sol/Uranus/Titania"
 {
 	LongLat	[ -4.20 34.50 0 ]
@@ -815,7 +738,6 @@ Location "Antony" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shakespearean hero in “;Julius Caesar.“;
-# Additional info: 
 Location "Caesar" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -61.10 26.60 0 ]
@@ -825,7 +747,6 @@ Location "Caesar" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shakespearean hero.
-# Additional info: 
 Location "Coriolanus" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -345.20 11.40 0 ]
@@ -835,7 +756,6 @@ Location "Coriolanus" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shakespearean character in “;Merry Wives of Windsor.“;
-# Additional info: 
 Location "Falstaff" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -19.00 22.10 0 ]
@@ -845,7 +765,6 @@ Location "Falstaff" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shakespearean hero.
-# Additional info: 
 Location "Hamlet" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -44.40 46.10 0 ]
@@ -855,7 +774,6 @@ Location "Hamlet" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shakespearean hero in “;King Lear.“;
-# Additional info: 
 Location "Lear" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -31.50 5.40 0 ]
@@ -875,7 +793,6 @@ Location "Macbeth" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Spirit place, forest home of Oberon in “;Midsummer Night's Dream.“;
-# Additional info: 
 Location "Mommur Chasma" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -323.50 16.30 0 ]
@@ -885,7 +802,6 @@ Location "Mommur Chasma" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shakespearean character.
-# Additional info: 
 Location "Othello" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -42.90 66.00 0 ]
@@ -895,7 +811,6 @@ Location "Othello" "Sol/Uranus/Oberon"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Shakespearean character in “;Romeo and Juliet.“;
-# Additional info: 
 Location "Romeo" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -89.40 28.70 0 ]

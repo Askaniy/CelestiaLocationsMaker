@@ -8,7 +8,6 @@
 
 # Approval date: Jul 09, 2009; Last update: Mar 07, 2011
 # Origin: Zainul; Bangladeshi painter and printmaker (1914-1976).
-# Additional info: 
 Location "Abedin" "Sol/Mercury"
 {
 	LongLat	[ 349.34 61.73 0 ]
@@ -108,7 +107,6 @@ Location "Akutagawa" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Mar 07, 2011
 # Origin: Arab poet (c. 640-710).
-# Additional info: 
 Location "Al-Akhtal" "Sol/Mercury"
 {
 	LongLat	[ 260.29 59.38 0 ]
@@ -268,7 +266,6 @@ Location "Anguissola" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Eugene M.; Greco-French astronomer, defined classical nomenclature for albedo features of Mars (1870-1944).
-# Additional info: 
 Location "Antoniadi Dorsum" "Sol/Mercury"
 {
 	LongLat	[ 330.35 27.20 0 ]
@@ -328,7 +325,6 @@ Location "Arecibo Catena" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Mar 07, 2011
 # Origin: Greek philosopher and musical theorist (fl. 4th century B.C.).
-# Additional info: 
 Location "Aristoxenus" "Sol/Mercury"
 {
 	LongLat	[ 342.54 83.93 0 ]
@@ -368,7 +364,6 @@ Location "Atget" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-2, Victoria region.
-# Additional info: 
 Location "AURORA" "Sol/Mercury"
 {
 	LongLat	[ 270.00 45.00 0 ]
@@ -378,7 +373,6 @@ Location "AURORA" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-15, Bach region.
-# Additional info: 
 Location "AUSTRALIA" "Sol/Mercury"
 {
 	LongLat	[ 0.00 -72.50 0 ]
@@ -388,7 +382,6 @@ Location "AUSTRALIA" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: J. S.; German composer (1685-1750).
-# Additional info: 
 Location "Bach" "Sol/Mercury"
 {
 	LongLat	[ 256.99 -69.86 0 ]
@@ -548,7 +541,6 @@ Location "Belgica Rupes" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Mar 07, 2011
 # Origin: Vissarion Grigoryevich; Russian literary critic and journalist (1811-1848).
-# Additional info: 
 Location "Belinskij" "Sol/Mercury"
 {
 	LongLat	[ 256.08 -77.09 0 ]
@@ -608,7 +600,6 @@ Location "Berlioz" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Gian Lorenzo; Italian sculptor and architect (1598-1680).
-# Additional info: 
 Location "Bernini" "Sol/Mercury"
 {
 	LongLat	[ 219.03 -80.32 0 ]
@@ -648,7 +639,6 @@ Location "Bitin Facula" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Mar 07, 2011
 # Origin: Bjornstjerne; Norwegian poet and dramatist (1832-1910).
-# Additional info: 
 Location "Bjornson" "Sol/Mercury"
 {
 	LongLat	[ 246.01 73.11 0 ]
@@ -668,7 +658,6 @@ Location "Blossom Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Giovanni; Italian poet and novelist (1313-1375).
-# Additional info: 
 Location "Boccaccio" "Sol/Mercury"
 {
 	LongLat	[ 336.99 -80.99 0 ]
@@ -688,7 +677,6 @@ Location "Boethius" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-1, Borealis region.
-# Additional info: 
 Location "BOREA" "Sol/Mercury"
 {
 	LongLat	[ 0.00 75.00 0 ]
@@ -718,7 +706,6 @@ Location "Borobudur Fossae" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Mar 07, 2011
 # Origin: Sandro; Italian painter (1445-1510).
-# Additional info: 
 Location "Botticelli" "Sol/Mercury"
 {
 	LongLat	[ 247.65 63.63 0 ]
@@ -788,7 +775,6 @@ Location "Bruegel" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Filippo; Florentine architect (1377-1446).
-# Additional info: 
 Location "Brunelleschi" "Sol/Mercury"
 {
 	LongLat	[ 337.49 -8.94 0 ]
@@ -838,7 +824,6 @@ Location "Burns" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: G. G.; English poet (1788-1824).
-# Additional info: 
 Location "Byron" "Sol/Mercury"
 {
 	LongLat	[ 327.00 -8.44 0 ]
@@ -848,7 +833,6 @@ Location "Byron" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-3, Shakespeare region.
-# Additional info: 
 Location "CADUCEATA" "Sol/Mercury"
 {
 	LongLat	[ 225.00 45.00 0 ]
@@ -978,7 +962,6 @@ Location "Caravaggio" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Giosue; Italian poet (1835-1907).
-# Additional info: 
 Location "Carducci" "Sol/Mercury"
 {
 	LongLat	[ 269.61 -36.54 0 ]
@@ -1058,7 +1041,6 @@ Location "Catullus" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Miguel de; Spanish novelist, playwright and poet (1547-1616).
-# Additional info: 
 Location "Cervantes" "Sol/Mercury"
 {
 	LongLat	[ 235.74 -76.09 0 ]
@@ -1088,7 +1070,6 @@ Location "Chaikovskij" "Sol/Mercury"
 
 # Approval date: Jun 07, 2022; Last update: Jun 08, 2022
 # Origin: British; survey ship used to undertake the first global marine research expedition, the Challenger Expedition (1872-1876), which laid the foundation for the science of oceanography.
-# Additional info: 
 Location "Challenger Rupes" "Sol/Mercury"
 {
 	LongLat	[ 250.08 -12.58 0 ]
@@ -1348,7 +1329,6 @@ Location "Derzhavin" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Mar 07, 2011
 # Origin: Josquin; French composer (c. 1440-1521).
-# Additional info: 
 Location "Despréz" "Sol/Mercury"
 {
 	LongLat	[ 258.75 81.08 0 ]
@@ -1358,7 +1338,6 @@ Location "Despréz" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Charles; English novelist (1812-1870).
-# Additional info: 
 Location "Dickens" "Sol/Mercury"
 {
 	LongLat	[ 204.04 -73.26 0 ]
@@ -1838,7 +1817,6 @@ Location "Giotto" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Norwegian; Amundsen's ship through Northwest passage, 1903-06.
-# Additional info: 
 Location "Gjöa Rupes" "Sol/Mercury"
 {
 	LongLat	[ 201.50 -66.89 0 ]
@@ -1868,7 +1846,6 @@ Location "Gluck" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Mar 07, 2011
 # Origin: Johann Wolfgang von; German poet and dramatist (1749-1832).
-# Additional info: 
 Location "Goethe" "Sol/Mercury"
 {
 	LongLat	[ 308.97 81.10 0 ]
@@ -2098,7 +2075,6 @@ Location "Heine" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "HELIOCAMINUS" "Sol/Mercury"
 {
 	LongLat	[ 190.00 40.00 0 ]
@@ -2148,7 +2124,6 @@ Location "Hesiod" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "HESPERIS" "Sol/Mercury"
 {
 	LongLat	[ 5.00 -45.00 0 ]
@@ -2318,7 +2293,6 @@ Location "Ibsen" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Greek architect (5th century B.C.).
-# Additional info: 
 Location "Ictinus" "Sol/Mercury"
 {
 	LongLat	[ 185.76 -79.56 0 ]
@@ -2488,7 +2462,6 @@ Location "Karsh" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: John; English poet (1795-1821).
-# Additional info: 
 Location "Keats" "Sol/Mercury"
 {
 	LongLat	[ 203.35 -70.31 0 ]
@@ -2728,7 +2701,6 @@ Location "Lennon" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: G.; Italian poet, scholar, and philosopher (1798-1837).
-# Additional info: 
 Location "Leopardi" "Sol/Mercury"
 {
 	LongLat	[ 175.16 -72.76 0 ]
@@ -2818,7 +2790,6 @@ Location "Liszt" "Sol/Mercury"
 
 # Approval date: Apr 29, 2022; Last update: May 02, 2022
 # Origin: Audrey Geraldine, also called Gamba Adisa or Rey Domini, American poet and writer of Caribbean heritage (1934-1992).
-# Additional info: 
 Location "Lorde" "Sol/Mercury"
 {
 	LongLat	[ 310.43 -69.12 0 ]
@@ -2918,7 +2889,6 @@ Location "Mahler" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Mar 07, 2011
 # Origin: Jules Hardouin; French architect (c. 1646-1708).
-# Additional info: 
 Location "Mansart" "Sol/Mercury"
 {
 	LongLat	[ 236.64 72.72 0 ]
@@ -2958,7 +2928,6 @@ Location "Mark Twain" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Jose Julian Marti y Perez; Cuban poet and essayist (1853-1895).
-# Additional info: 
 Location "Martí" "Sol/Mercury"
 {
 	LongLat	[ 191.74 -75.96 0 ]
@@ -3248,7 +3217,6 @@ Location "Nabokov" "Sol/Mercury"
 
 # Approval date: Jan 12, 2022; Last update: Apr 28, 2022
 # Origin: Carolina; Scottish songwriter (1766-1845).
-# Additional info: 
 Location "Nairne" "Sol/Mercury"
 {
 	LongLat	[ 358.41 -70.34 0 ]
@@ -3538,7 +3506,6 @@ Location "Pasch" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "PENTAS" "Sol/Mercury"
 {
 	LongLat	[ 50.00 5.00 0 ]
@@ -3588,7 +3555,6 @@ Location "Petronius" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-8, Tolstoj region.
-# Additional info: 
 Location "PHAETHONTIAS" "Sol/Mercury"
 {
 	LongLat	[ 193.00 0.00 0 ]
@@ -3708,7 +3674,6 @@ Location "Popova" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: French; Charcot's ship to explore Antarctica, 1908-10.
-# Additional info: 
 Location "Pourquoi-Pas Rupes" "Sol/Mercury"
 {
 	LongLat	[ 203.83 -58.54 0 ]
@@ -3768,7 +3733,6 @@ Location "Puccini" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Mar 07, 2011
 # Origin: Henry; English composer (c. 1659-1695).
-# Additional info: 
 Location "Purcell" "Sol/Mercury"
 {
 	LongLat	[ 207.79 80.43 0 ]
@@ -4088,7 +4052,6 @@ Location "Ruysch" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Persian poet (c. 1213-1291/1292).
-# Additional info: 
 Location "Sadī" "Sol/Mercury"
 {
 	LongLat	[ 308.74 -79.24 0 ]
@@ -4228,7 +4191,6 @@ Location "Schubert" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Greek sculptor and architect (fl. 4th century B.C.).
-# Additional info: 
 Location "Scopas" "Sol/Mercury"
 {
 	LongLat	[ 174.71 -81.26 0 ]
@@ -4388,7 +4350,6 @@ Location "Sobkou Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO ADMETEI" "Sol/Mercury"
 {
 	LongLat	[ 270.00 55.00 0 ]
@@ -4398,7 +4359,6 @@ Location "SOLITUDO ADMETEI" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO ALARUM" "Sol/Mercury"
 {
 	LongLat	[ 70.00 -15.00 0 ]
@@ -4408,7 +4368,6 @@ Location "SOLITUDO ALARUM" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO APHRODITES" "Sol/Mercury"
 {
 	LongLat	[ 70.00 25.00 0 ]
@@ -4428,7 +4387,6 @@ Location "SOLITUDO ARGIPHONTAE" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO ATLANTIS" "Sol/Mercury"
 {
 	LongLat	[ 150.00 -35.00 0 ]
@@ -4448,7 +4406,6 @@ Location "SOLITUDO CRIOPHORI" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO HELII" "Sol/Mercury"
 {
 	LongLat	[ 180.00 -10.00 0 ]
@@ -4458,7 +4415,6 @@ Location "SOLITUDO HELII" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-11, Discovery region.
-# Additional info: 
 Location "SOLITUDO HERMAE TRISMEGISTI" "Sol/Mercury"
 {
 	LongLat	[ 315.00 -45.00 0 ]
@@ -4468,7 +4424,6 @@ Location "SOLITUDO HERMAE TRISMEGISTI" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO HORARUM" "Sol/Mercury"
 {
 	LongLat	[ 245.00 25.00 0 ]
@@ -4478,7 +4433,6 @@ Location "SOLITUDO HORARUM" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO IOVIS" "Sol/Mercury"
 {
 	LongLat	[ 0.00 0.00 0 ]
@@ -4488,7 +4442,6 @@ Location "SOLITUDO IOVIS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-7, Beethoven region.
-# Additional info: 
 Location "SOLITUDO LYCAONIS" "Sol/Mercury"
 {
 	LongLat	[ 253.00 0.00 0 ]
@@ -4498,7 +4451,6 @@ Location "SOLITUDO LYCAONIS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO MAIAE" "Sol/Mercury"
 {
 	LongLat	[ 205.00 -15.00 0 ]
@@ -4508,7 +4460,6 @@ Location "SOLITUDO MAIAE" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO MARTIS" "Sol/Mercury"
 {
 	LongLat	[ 260.00 -35.00 0 ]
@@ -4518,7 +4469,6 @@ Location "SOLITUDO MARTIS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO NEPTUNI" "Sol/Mercury"
 {
 	LongLat	[ 210.00 30.00 0 ]
@@ -4538,7 +4488,6 @@ Location "SOLITUDO PERSEPHONES" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
-# Additional info: 
 Location "SOLITUDO PHOENICIS" "Sol/Mercury"
 {
 	LongLat	[ 135.00 25.00 0 ]
@@ -4548,7 +4497,6 @@ Location "SOLITUDO PHOENICIS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-12, Michelangelo region.
-# Additional info: 
 Location "SOLITUDO PROMETHEI" "Sol/Mercury"
 {
 	LongLat	[ 217.50 -45.00 0 ]
@@ -4718,7 +4666,6 @@ Location "Suisei Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Louis; American architect (1856-1924).
-# Additional info: 
 Location "Sullivan" "Sol/Mercury"
 {
 	LongLat	[ 273.12 -16.19 0 ]
@@ -4748,7 +4695,6 @@ Location "Surikov" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Mar 07, 2011
 # Origin: Júlíana; Icelandic painter and textile artist (1889-1966).
-# Additional info: 
 Location "Sveinsdóttir" "Sol/Mercury"
 {
 	LongLat	[ 100.32 -2.83 0 ]
@@ -4918,7 +4864,6 @@ Location "Travers" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo name for H-6, Kuiper region.
-# Additional info: 
 Location "TRICRENA" "Sol/Mercury"
 {
 	LongLat	[ 324.00 0.00 0 ]
@@ -4968,7 +4913,6 @@ Location "Tsurayuki" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Mar 07, 2011
 # Origin: Chinese painter (10th century).
-# Additional info: 
 Location "Tung Yüan" "Sol/Mercury"
 {
 	LongLat	[ 297.17 75.02 0 ]

@@ -53,7 +53,6 @@ Location "Pan" "Sol/Jupiter/Amalthea"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Husband of Thebe in Greek myths.
-# Additional info: 
 Location "Zethus" "Sol/Jupiter/Thebe"
 {
 	LongLat	[ 185.00 10.00 0 ]
@@ -66,7 +65,6 @@ Location "Zethus" "Sol/Jupiter/Thebe"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Chickasaw fire and sun god.
-# Additional info: 
 Location "Ababinili Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 217.83 12.78 0 ]
@@ -76,7 +74,6 @@ Location "Ababinili Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Japanese fire god.
-# Additional info: 
 Location "Acala Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 25.40 9.03 0 ]
@@ -86,7 +83,6 @@ Location "Acala Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Hindu god of fire.
-# Additional info: 
 Location "Agni Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 26.91 -40.78 0 ]
@@ -96,7 +92,6 @@ Location "Agni Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Mayan thunder god.
-# Additional info: 
 Location "Ah Peku Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 253.02 10.36 0 ]
@@ -106,7 +101,6 @@ Location "Ah Peku Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Irish creator of fire.
-# Additional info: 
 Location "Aidne Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 182.89 -1.76 0 ]
@@ -116,7 +110,6 @@ Location "Aidne Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Australian sky god whose voice is thunder.
-# Additional info: 
 Location "Altjirra Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 251.18 -34.40 0 ]
@@ -126,7 +119,6 @@ Location "Altjirra Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Japanese sun goddess.
-# Additional info: 
 Location "Amaterasu Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 53.45 38.21 0 ]
@@ -136,7 +128,6 @@ Location "Amaterasu Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Georgian god of fire.
-# Additional info: 
 Location "Amirani" "Sol/Jupiter/Io"
 {
 	LongLat	[ 244.82 25.02 0 ]
@@ -146,7 +137,6 @@ Location "Amirani" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Dakota name meaning the sun.
-# Additional info: 
 Location "Angpetu Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 351.15 -21.18 0 ]
@@ -156,7 +146,6 @@ Location "Angpetu Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; name for Epaphus, son of Io and Zeus.
-# Additional info: 
 Location "Apis Tholus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 12.30 -11.92 0 ]
@@ -166,7 +155,6 @@ Location "Apis Tholus" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Armenian thunder god.
-# Additional info: 
 Location "Aramazd Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 23.39 -73.57 0 ]
@@ -176,7 +164,6 @@ Location "Aramazd Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Where Io was captured by Zeus.
-# Additional info: 
 Location "Argos Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 42.19 -47.90 0 ]
@@ -186,7 +173,6 @@ Location "Argos Planum" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Hittite sun goddess.
-# Additional info: 
 Location "Arinna Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 210.81 31.63 0 ]
@@ -196,7 +182,6 @@ Location "Arinna Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Hindu god of the rising sun.
-# Additional info: 
 Location "Arusha Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 258.51 -38.99 0 ]
@@ -206,7 +191,6 @@ Location "Arusha Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Persian spirit of fire.
-# Additional info: 
 Location "Asha Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 134.42 -8.84 0 ]
@@ -216,7 +200,6 @@ Location "Asha Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Iranian personification of fire.
-# Additional info: 
 Location "Ātar Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 81.35 30.87 0 ]
@@ -226,7 +209,6 @@ Location "Ātar Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Egyptian sun god.
-# Additional info: 
 Location "Aten Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 50.03 -48.45 0 ]
@@ -236,7 +218,6 @@ Location "Aten Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Sumerian; sun god.
-# Additional info: 
 Location "Babbar Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 88.41 -39.81 0 ]
@@ -246,7 +227,6 @@ Location "Babbar Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Io passed through this area of ancient Iran in her wanderings.
-# Additional info: 
 Location "BACTRIA REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 236.47 -48.25 0 ]
@@ -256,7 +236,6 @@ Location "BACTRIA REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Norse god of light.
-# Additional info: 
 Location "Balder Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 203.84 11.46 0 ]
@@ -266,7 +245,6 @@ Location "Balder Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic fire and sun god.
-# Additional info: 
 Location "Belenus Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 202.27 2.93 0 ]
@@ -276,7 +254,6 @@ Location "Belenus Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Chibcha sky god.
-# Additional info: 
 Location "Bochica Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 341.12 -61.50 0 ]
@@ -286,7 +263,6 @@ Location "Bochica Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Cave where Io bore Epaphus.
-# Additional info: 
 Location "Boösaule Montes" "Sol/Jupiter/Io"
 {
 	LongLat	[ 90.89 -3.75 0 ]
@@ -296,7 +272,6 @@ Location "Boösaule Montes" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: “;Ford of the Cow“;; Io wandered through here while trying to escape from the gadfly.
-# Additional info: 
 Location "BOSPHORUS REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 239.43 -2.30 0 ]
@@ -306,7 +281,6 @@ Location "BOSPHORUS REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: May 15, 2010
 # Origin: Hot sulfur spring, the water of which sinful women were permitted to use in “;The Inferno.“;
-# Additional info: 
 Location "BULICAME REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 170.06 34.79 0 ]
@@ -316,7 +290,6 @@ Location "BULICAME REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Aztec thunder, tornado, and war god.
-# Additional info: 
 Location "Camaxtli Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 223.20 15.28 0 ]
@@ -326,7 +299,6 @@ Location "Camaxtli Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: The great blasphemer in Dante's “;The Inferno.“;
-# Additional info: 
 Location "Capaneus Mensa" "Sol/Jupiter/Io"
 {
 	LongLat	[ 238.60 -16.82 0 ]
@@ -336,7 +308,6 @@ Location "Capaneus Mensa" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Bolivian legendary hero who received fire from an owl.
-# Additional info: 
 Location "Carancho Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 42.72 1.52 0 ]
@@ -346,7 +317,6 @@ Location "Carancho Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Inca god of thunder and lightning.
-# Additional info: 
 Location "Cataquil Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 343.34 -24.21 0 ]
@@ -356,7 +326,6 @@ Location "Cataquil Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Etruscan sun god.
-# Additional info: 
 Location "Catha Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 258.42 -53.72 0 ]
@@ -366,7 +335,6 @@ Location "Catha Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Io passed by these mountains while trying to escape from the gadfly.
-# Additional info: 
 Location "Caucasus Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 121.52 -31.95 0 ]
@@ -376,7 +344,6 @@ Location "Caucasus Mons" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Mayan thunder and rain god.
-# Additional info: 
 Location "Chaac Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 202.56 11.96 0 ]
@@ -386,7 +353,6 @@ Location "Chaac Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Io passed through here in her wanderings.
-# Additional info: 
 Location "CHALYBES REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 275.33 56.88 0 ]
@@ -396,7 +362,6 @@ Location "CHALYBES REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Dec 30, 2008
 # Origin: Slavic sun god.
-# Additional info: 
 Location "Chors Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 110.09 68.42 0 ]
@@ -406,7 +371,6 @@ Location "Chors Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Io passed through this part of Asia Minor in her wanderings.
-# Additional info: 
 Location "COLCHIS REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 151.58 2.47 0 ]
@@ -416,7 +380,6 @@ Location "COLCHIS REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Celtic smith god.
-# Additional info: 
 Location "Creidne Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 17.45 -53.31 0 ]
@@ -426,7 +389,6 @@ Location "Creidne Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Where Io passed by in her wanderings.
-# Additional info: 
 Location "Crimea Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 116.65 -75.40 0 ]
@@ -436,7 +398,6 @@ Location "Crimea Mons" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Australian snake demon whose growl is thunder.
-# Additional info: 
 Location "Cuchi Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 215.35 -0.83 0 ]
@@ -446,7 +407,6 @@ Location "Cuchi Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Celtic smith god.
-# Additional info: 
 Location "Culann Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 199.89 -19.88 0 ]
@@ -456,7 +416,6 @@ Location "Culann Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek hero, smith; father of Icarus.
-# Additional info: 
 Location "Daedalus Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 85.69 19.50 0 ]
@@ -466,7 +425,6 @@ Location "Daedalus Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Where Io passed by in her wanderings.
-# Additional info: 
 Location "Danube Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 101.99 -22.58 0 ]
@@ -476,7 +434,6 @@ Location "Danube Planum" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Dec 30, 2008
 # Origin: Slavonic sun god.
-# Additional info: 
 Location "Dazhbog Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 58.48 55.13 0 ]
@@ -486,7 +443,6 @@ Location "Dazhbog Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Sumerian sun god; means “;shining“;.
-# Additional info: 
 Location "Dingir Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 18.61 -4.12 0 ]
@@ -496,7 +452,6 @@ Location "Dingir Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Greek; where Io went after the death of Argus.
-# Additional info: 
 Location "Dodona Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 11.77 -59.07 0 ]
@@ -506,7 +461,6 @@ Location "Dodona Planum" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Teutonic god of thunder.
-# Additional info: 
 Location "Donar Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 173.01 20.29 0 ]
@@ -516,7 +470,6 @@ Location "Donar Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Region in ancient Greece.
-# Additional info: 
 Location "Dorian Montes" "Sol/Jupiter/Io"
 {
 	LongLat	[ 163.31 -25.10 0 ]
@@ -526,7 +479,6 @@ Location "Dorian Montes" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Nabataean sun god.
-# Additional info: 
 Location "Dusura Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 240.97 37.53 0 ]
@@ -536,7 +488,6 @@ Location "Dusura Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Mother of Iynx.
-# Additional info: 
 Location "Echo Mensa" "Sol/Jupiter/Io"
 {
 	LongLat	[ 5.47 -79.92 0 ]
@@ -546,7 +497,6 @@ Location "Echo Mensa" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Io ended her wanderings here.
-# Additional info: 
 Location "Egypt Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 103.03 -41.56 0 ]
@@ -556,7 +506,6 @@ Location "Egypt Mons" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Basque sun goddess.
-# Additional info: 
 Location "Ekhi Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 271.51 -28.36 0 ]
@@ -566,7 +515,6 @@ Location "Ekhi Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Sulca (New Britain) man who brought fire.
-# Additional info: 
 Location "Emakong Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 240.15 -3.37 0 ]
@@ -576,7 +524,6 @@ Location "Emakong Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: “;Child of touch,“; son of Io and Zeus.
-# Additional info: 
 Location "Epaphus Mensa" "Sol/Jupiter/Io"
 {
 	LongLat	[ 120.05 -53.05 0 ]
@@ -586,7 +533,6 @@ Location "Epaphus Mensa" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Hittite sun god.
-# Additional info: 
 Location "Estan Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 272.41 21.53 0 ]
@@ -596,7 +542,6 @@ Location "Estan Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Where Io passed by in her wanderings.
-# Additional info: 
 Location "Ethiopia Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 335.55 -45.48 0 ]
@@ -606,7 +551,6 @@ Location "Ethiopia Planum" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Nov 17, 2008
 # Origin: Where Io passed by in her wanderings.
-# Additional info: 
 Location "Euboea Fluctūs" "Sol/Jupiter/Io"
 {
 	LongLat	[ 8.90 -44.87 0 ]
@@ -616,7 +560,6 @@ Location "Euboea Fluctūs" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Where Io passed by in her wanderings.
-# Additional info: 
 Location "Euboea Montes" "Sol/Jupiter/Io"
 {
 	LongLat	[ 24.22 -47.94 0 ]
@@ -626,7 +569,6 @@ Location "Euboea Montes" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Io passed by here in her wanderings.
-# Additional info: 
 Location "Euxine Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 233.56 26.32 0 ]
@@ -636,7 +578,6 @@ Location "Euxine Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse thunder god.
-# Additional info: 
 Location "Fjorgynn Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 1.20 10.92 0 ]
@@ -646,7 +587,6 @@ Location "Fjorgynn Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Chinese fire and sun god.
-# Additional info: 
 Location "Fo Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 168.75 41.78 0 ]
@@ -656,7 +596,6 @@ Location "Fo Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Ainu fire goddess.
-# Additional info: 
 Location "Fuchi Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 32.40 28.41 0 ]
@@ -666,7 +605,6 @@ Location "Fuchi Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Lithuanian fire and household goddess.
-# Additional info: 
 Location "Gabija Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 157.47 -51.90 0 ]
@@ -676,7 +614,6 @@ Location "Gabija Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Mongol fire god.
-# Additional info: 
 Location "Galai Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 71.90 -10.80 0 ]
@@ -686,7 +623,6 @@ Location "Galai Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Sumerian fire god.
-# Additional info: 
 Location "Gibil Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 65.41 -14.91 0 ]
@@ -696,7 +632,6 @@ Location "Gibil Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Babylonian fire god.
-# Additional info: 
 Location "Girru Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 120.00 22.83 0 ]
@@ -706,7 +641,6 @@ Location "Girru Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Babylonian sun god.
-# Additional info: 
 Location "Gish Bar Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 271.05 18.50 0 ]
@@ -716,7 +650,6 @@ Location "Gish Bar Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Babylonian sun god.
-# Additional info: 
 Location "Gish Bar Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 269.70 16.18 0 ]
@@ -726,7 +659,6 @@ Location "Gish Bar Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Gaulish sun god.
-# Additional info: 
 Location "Grannos Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 214.66 11.17 0 ]
@@ -736,7 +668,6 @@ Location "Grannos Patera" "Sol/Jupiter/Io"
 
 # Approval date: Jul 03, 2007; Last update: Jul 03, 2007
 # Origin: Celtic solar goddess.
-# Additional info: 
 Location "Grian Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 348.15 -11.30 0 ]
@@ -746,7 +677,6 @@ Location "Grian Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Where Io passed by in her wanderings.
-# Additional info: 
 Location "Haemus Montes" "Sol/Jupiter/Io"
 {
 	LongLat	[ 313.39 -70.12 0 ]
@@ -756,7 +686,6 @@ Location "Haemus Montes" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Sioux thunder god.
-# Additional info: 
 Location "Haokah Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 173.37 -20.85 0 ]
@@ -766,7 +695,6 @@ Location "Haokah Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Yaroro (Slavic) god who, in form of a boy, gave fire to mankind.
-# Additional info: 
 Location "Hatchawa Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 328.03 -59.51 0 ]
@@ -776,7 +704,6 @@ Location "Hatchawa Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Bushman devil who represents fire.
-# Additional info: 
 Location "Heiseb Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 115.51 29.95 0 ]
@@ -786,7 +713,6 @@ Location "Heiseb Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Iroquois god of thunder.
-# Additional info: 
 Location "Heno Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 48.36 -57.09 0 ]
@@ -796,7 +722,6 @@ Location "Heno Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek smith god.
-# Additional info: 
 Location "Hephaestus Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 70.22 1.85 0 ]
@@ -806,7 +731,6 @@ Location "Hephaestus Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Freed Io from Argus.
-# Additional info: 
 Location "Hermes Mensa" "Sol/Jupiter/Io"
 {
 	LongLat	[ 113.66 -43.65 0 ]
@@ -816,7 +740,6 @@ Location "Hermes Mensa" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Sister of Hawaiian volcano goddess Pele.
-# Additional info: 
 Location "Hi'iaka Montes" "Sol/Jupiter/Io"
 {
 	LongLat	[ 278.04 -4.68 0 ]
@@ -826,7 +749,6 @@ Location "Hi'iaka Montes" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Sister of Pele.
-# Additional info: 
 Location "Hi'iaka Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 280.52 -3.55 0 ]
@@ -836,7 +758,6 @@ Location "Hi'iaka Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Japanese sun god.
-# Additional info: 
 Location "Hiruko Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 31.13 -65.09 0 ]
@@ -846,7 +767,6 @@ Location "Hiruko Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Egyptian falcon-headed solar god.
-# Additional info: 
 Location "Horus Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 22.63 -9.91 0 ]
@@ -856,7 +776,6 @@ Location "Horus Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1982; Last update: Oct 01, 2006
 # Origin: Chinese god of fire.
-# Additional info: 
 Location "Huo Shen Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 29.70 -16.69 0 ]
@@ -866,7 +785,6 @@ Location "Huo Shen Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Where Io passed by in her wanderings.
-# Additional info: 
 Location "Hybristes Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 341.63 -54.39 0 ]
@@ -876,7 +794,6 @@ Location "Hybristes Planum" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Io passed by here in her wanderings.
-# Additional info: 
 Location "ILLYRIKON REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 182.23 -70.88 0 ]
@@ -886,7 +803,6 @@ Location "ILLYRIKON REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Finnish blacksmith with supernatural creative powers.
-# Additional info: 
 Location "Ilmarinen Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 358.80 -14.41 0 ]
@@ -896,7 +812,6 @@ Location "Ilmarinen Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; river god, father of Io.
-# Additional info: 
 Location "Inachus Tholus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 12.35 -16.21 0 ]
@@ -906,7 +821,6 @@ Location "Inachus Tholus" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Inca sun god.
-# Additional info: 
 Location "Inti Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 12.50 -68.37 0 ]
@@ -916,7 +830,6 @@ Location "Inti Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Io crossed this sea in her wanderings.
-# Additional info: 
 Location "Ionian Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 123.76 9.04 0 ]
@@ -926,7 +839,6 @@ Location "Ionian Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Town where Io was worshipped as moon goddess (present-day Antioch).
-# Additional info: 
 Location "Iopolis Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 27.29 -35.29 0 ]
@@ -936,7 +848,6 @@ Location "Iopolis Planum" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Assyrian fire god.
-# Additional info: 
 Location "Isum Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 151.47 29.86 0 ]
@@ -946,7 +857,6 @@ Location "Isum Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Mayan sun, sky, wind and rain god.
-# Additional info: 
 Location "Itzamna Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 260.82 -15.81 0 ]
@@ -956,7 +866,6 @@ Location "Itzamna Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Cast a spell on Zeus so he fell in love with Io.
-# Additional info: 
 Location "Iynx Mensa" "Sol/Jupiter/Io"
 {
 	LongLat	[ 56.00 -62.28 0 ]
@@ -966,7 +875,6 @@ Location "Iynx Mensa" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Italian sun god.
-# Additional info: 
 Location "Janus Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 320.98 -4.56 0 ]
@@ -976,7 +884,6 @@ Location "Janus Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Japanese god of rolling thunder.
-# Additional info: 
 Location "Kami-Nari Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 124.91 -8.82 0 ]
@@ -986,7 +893,6 @@ Location "Kami-Nari Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Hawaiian thunder god.
-# Additional info: 
 Location "Kanehekili" "Sol/Jupiter/Io"
 {
 	LongLat	[ 326.64 -17.46 0 ]
@@ -996,7 +902,6 @@ Location "Kanehekili" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Hawaiian thunder god.
-# Additional info: 
 Location "Kanehekili Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 326.63 -17.18 0 ]
@@ -1006,7 +911,6 @@ Location "Kanehekili Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Hawaiian god of sunlight.
-# Additional info: 
 Location "Kane Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 348.25 -48.42 0 ]
@@ -1016,7 +920,6 @@ Location "Kane Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: May 15, 2010
 # Origin: Semangan (Malay Peninsula) thunder god.
-# Additional info: 
 Location "Karei Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 346.83 0.20 0 ]
@@ -1026,7 +929,6 @@ Location "Karei Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Persian blacksmith.
-# Additional info: 
 Location "Kava Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 18.59 -16.82 0 ]
@@ -1036,7 +938,6 @@ Location "Kava Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Bushman sun in form of man often referred to as the hunter.
-# Additional info: 
 Location "Khalla Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 56.73 6.18 0 ]
@@ -1046,7 +947,6 @@ Location "Khalla Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1982; Last update: Oct 01, 2006
 # Origin: Yaroro toad who lives in underworld giving mankind fire.
-# Additional info: 
 Location "Kibero Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 54.89 -11.83 0 ]
@@ -1056,7 +956,6 @@ Location "Kibero Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Mayan sun god.
-# Additional info: 
 Location "Kinich Ahau Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 49.75 49.35 0 ]
@@ -1066,7 +965,6 @@ Location "Kinich Ahau Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Dec 30, 2008
 # Origin: Ossetian celestial smith.
-# Additional info: 
 Location "Kurdalagon Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 141.77 -50.57 0 ]
@@ -1076,7 +974,6 @@ Location "Kurdalagon Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Bornean hero who invented fire.
-# Additional info: 
 Location "Laki-oi Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 301.64 -40.00 0 ]
@@ -1086,7 +983,6 @@ Location "Laki-oi Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Chinese thunder god.
-# Additional info: 
 Location "Lei-Kung Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 153.56 40.13 0 ]
@@ -1096,7 +992,6 @@ Location "Lei-Kung Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Chinese goddess of thunder.
-# Additional info: 
 Location "Lei-zi Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 315.07 13.48 0 ]
@@ -1106,7 +1001,6 @@ Location "Lei-zi Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; meadows of Lyrcea.
-# Additional info: 
 Location "LERNA REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 67.92 -61.80 0 ]
@@ -1116,7 +1010,6 @@ Location "LERNA REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Celtic sun god.
-# Additional info: 
 Location "Llew Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 117.66 12.16 0 ]
@@ -1126,7 +1019,6 @@ Location "Llew Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse blacksmith, trickster god.
-# Additional info: 
 Location "Loki" "Sol/Jupiter/Io"
 {
 	LongLat	[ 57.42 18.41 0 ]
@@ -1136,7 +1028,6 @@ Location "Loki" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse blacksmith, trickster god.
-# Additional info: 
 Location "Loki Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 51.21 13.01 0 ]
@@ -1146,7 +1037,6 @@ Location "Loki Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Stove fire associated with Chinese god of the hearth fire.
-# Additional info: 
 Location "Lu Huo Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 6.90 -38.56 0 ]
@@ -1156,7 +1046,6 @@ Location "Lu Huo Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Plain where Io was born.
-# Additional info: 
 Location "Lyrcea Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 90.57 -41.99 0 ]
@@ -1166,7 +1055,6 @@ Location "Lyrcea Planum" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Hopi (USA) god of fire and death.
-# Additional info: 
 Location "Maasaw Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 20.89 -40.28 0 ]
@@ -1176,7 +1064,6 @@ Location "Maasaw Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Hawaiian demigoddess whose fingers held fire.
-# Additional info: 
 Location "Mafuike Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 100.58 -13.58 0 ]
@@ -1186,7 +1073,6 @@ Location "Mafuike Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Babylonian, Caananite sun god.
-# Additional info: 
 Location "Malik Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 230.34 -34.15 0 ]
@@ -1196,7 +1082,6 @@ Location "Malik Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Chagaba (Chibcha, Colombia) word for sun.
-# Additional info: 
 Location "Mama Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 4.67 -11.29 0 ]
@@ -1206,7 +1091,6 @@ Location "Mama Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Hawaiian sun god.
-# Additional info: 
 Location "Manua Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 38.18 35.91 0 ]
@@ -1216,7 +1100,6 @@ Location "Manua Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Sumero-Akkadian fire god.
-# Additional info: 
 Location "Marduk" "Sol/Jupiter/Io"
 {
 	LongLat	[ 150.10 -29.64 0 ]
@@ -1226,7 +1109,6 @@ Location "Marduk" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Sumero-Akkadian fire god.
-# Additional info: 
 Location "Marduk Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 148.67 -26.80 0 ]
@@ -1236,7 +1118,6 @@ Location "Marduk Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Nicaraguan smith god.
-# Additional info: 
 Location "Masaya Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 15.42 -22.62 0 ]
@@ -1246,7 +1127,6 @@ Location "Masaya Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Japanese fire god.
-# Additional info: 
 Location "Masubi" "Sol/Jupiter/Io"
 {
 	LongLat	[ 302.70 -50.29 0 ]
@@ -1256,7 +1136,6 @@ Location "Masubi" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Japanese fire god.
-# Additional info: 
 Location "Masubi Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 302.23 -50.89 0 ]
@@ -1266,7 +1145,6 @@ Location "Masubi Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Hawaiian demigod who sought fire from Mafuike.
-# Additional info: 
 Location "Maui" "Sol/Jupiter/Io"
 {
 	LongLat	[ 237.72 19.69 0 ]
@@ -1276,7 +1154,6 @@ Location "Maui" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Hawaiian demigod who sought fire from Mafuike.
-# Additional info: 
 Location "Maui Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 235.77 16.61 0 ]
@@ -1286,7 +1163,6 @@ Location "Maui Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Babylonian sun god.
-# Additional info: 
 Location "Mazda Paterae" "Sol/Jupiter/Io"
 {
 	LongLat	[ 46.99 -8.20 0 ]
@@ -1296,7 +1172,6 @@ Location "Mazda Paterae" "Sol/Jupiter/Io"
 
 # Approval date: 1982; Last update: Oct 01, 2006
 # Origin: Pygmy word representing fire itself.
-# Additional info: 
 Location "Mbali Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 355.04 -31.43 0 ]
@@ -1306,7 +1181,6 @@ Location "Mbali Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Io passed through this part of Iran in her wanderings.
-# Additional info: 
 Location "MEDIA REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 300.10 10.62 0 ]
@@ -1316,7 +1190,6 @@ Location "MEDIA REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Mandan (USA) name for the sun.
-# Additional info: 
 Location "Menahka Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 15.16 -31.34 0 ]
@@ -1326,7 +1199,6 @@ Location "Menahka Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Egyptian god of the rising sun.
-# Additional info: 
 Location "Mentu Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 220.61 7.01 0 ]
@@ -1336,7 +1208,6 @@ Location "Mentu Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Algonquin lord of eastern light, thunder, and wind.
-# Additional info: 
 Location "Michabo Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 192.44 1.13 0 ]
@@ -1346,7 +1217,6 @@ Location "Michabo Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Armenian fire god.
-# Additional info: 
 Location "Mihr Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 54.58 -16.46 0 ]
@@ -1356,7 +1226,6 @@ Location "Mihr Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Persian god of light.
-# Additional info: 
 Location "Mithra Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 93.52 -59.04 0 ]
@@ -1366,7 +1235,6 @@ Location "Mithra Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Brazilian god who destroyed the world with fire and flood.
-# Additional info: 
 Location "Monan Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 255.80 15.54 0 ]
@@ -1376,7 +1244,6 @@ Location "Monan Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Brazilian god who destroyed the world with fire and flood.
-# Additional info: 
 Location "Monan Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 255.19 19.82 0 ]
@@ -1386,7 +1253,6 @@ Location "Monan Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Name for Mt. Etna, site of Vulcan's forge in Dante's “;The Inferno.“; Thunderbolts from here killed Capaneus, the great blasphemer.
-# Additional info: 
 Location "Mongibello Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 292.95 22.67 0 ]
@@ -1396,7 +1262,6 @@ Location "Mongibello Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: African thunder god.
-# Additional info: 
 Location "Mulungu Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 142.12 17.29 0 ]
@@ -1406,7 +1271,6 @@ Location "Mulungu Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; in some legends, Io was transformed there.
-# Additional info: 
 Location "MYCENAE REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 195.05 -36.60 0 ]
@@ -1416,7 +1280,6 @@ Location "MYCENAE REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Australian “;lightening man“; who made lightening and thunder by striking clouds with stone axes attached to his elbows and knees.
-# Additional info: 
 Location "Namarrkun Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 184.48 10.06 0 ]
@@ -1426,7 +1289,6 @@ Location "Namarrkun Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Greek; where Io was turned into a cow by Zeus and given to Hera.
-# Additional info: 
 Location "Nemea Planum" "Sol/Jupiter/Io"
 {
 	LongLat	[ 94.18 -72.33 0 ]
@@ -1436,7 +1298,6 @@ Location "Nemea Planum" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Where Zeus restored Io to her human form.
-# Additional info: 
 Location "Nile Montes" "Sol/Jupiter/Io"
 {
 	LongLat	[ 109.54 53.65 0 ]
@@ -1446,7 +1307,6 @@ Location "Nile Montes" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Inca fire god.
-# Additional info: 
 Location "Nina Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 197.37 -38.15 0 ]
@@ -1456,7 +1316,6 @@ Location "Nina Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Babylonian god of the spring sun.
-# Additional info: 
 Location "Ninurta Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 44.81 -16.79 0 ]
@@ -1466,7 +1325,6 @@ Location "Ninurta Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Assyrian fire god.
-# Additional info: 
 Location "Nusku Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 356.39 -64.96 0 ]
@@ -1476,7 +1334,6 @@ Location "Nusku Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Zambezi sun god.
-# Additional info: 
 Location "Nyambe Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 16.84 0.32 0 ]
@@ -1486,7 +1343,6 @@ Location "Nyambe Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Mongolian fire and marriage goddess.
-# Additional info: 
 Location "Ot Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 144.24 4.28 0 ]
@@ -1496,7 +1352,6 @@ Location "Ot Mons" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Mongolian fire and marriage goddess.
-# Additional info: 
 Location "Ot Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 142.62 -1.14 0 ]
@@ -1506,7 +1361,6 @@ Location "Ot Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Nov 17, 2008
 # Origin: Saami-Lapp sun god.
-# Additional info: 
 Location "Päive Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 1.45 -45.69 0 ]
@@ -1516,7 +1370,6 @@ Location "Päive Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Father of Iynx.
-# Additional info: 
 Location "Pan Mensa" "Sol/Jupiter/Io"
 {
 	LongLat	[ 329.14 -51.80 0 ]
@@ -1526,7 +1379,6 @@ Location "Pan Mensa" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Hopi (USA) name for the sun.
-# Additional info: 
 Location "Pautiwa Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 14.41 -34.20 0 ]
@@ -1536,7 +1388,6 @@ Location "Pautiwa Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Hawaiian goddess of the volcano.
-# Additional info: 
 Location "Pele" "Sol/Jupiter/Io"
 {
 	LongLat	[ 104.72 -18.71 0 ]
@@ -1546,7 +1397,6 @@ Location "Pele" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Araucanian thunder, fire, and volcano god.
-# Additional info: 
 Location "Pillan Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 114.59 -8.02 0 ]
@@ -1556,7 +1406,6 @@ Location "Pillan Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Araucanian thunder, fire, and volcano god.
-# Additional info: 
 Location "Pillan Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 116.71 -12.30 0 ]
@@ -1566,7 +1415,6 @@ Location "Pillan Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Dec 30, 2008
 # Origin: Tungu spirit who keeps the fire.
-# Additional info: 
 Location "Podja Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 55.25 -18.50 0 ]
@@ -1576,7 +1424,6 @@ Location "Podja Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Greek fire god.
-# Additional info: 
 Location "Prometheus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 206.06 -1.52 0 ]
@@ -1586,7 +1433,6 @@ Location "Prometheus" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Greek fire god.
-# Additional info: 
 Location "Prometheus Mensa" "Sol/Jupiter/Io"
 {
 	LongLat	[ 207.83 -2.49 0 ]
@@ -1596,7 +1442,6 @@ Location "Prometheus Mensa" "Sol/Jupiter/Io"
 
 # Approval date: Jul 03, 2007; Last update: Jul 03, 2007
 # Origin: Greek fire god.
-# Additional info: 
 Location "Prometheus Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 207.59 -0.64 0 ]
@@ -1606,7 +1451,6 @@ Location "Prometheus Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Dec 30, 2008
 # Origin: Mordvinian (Russia) thunder god.
-# Additional info: 
 Location "Purgine Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 62.74 -2.37 0 ]
@@ -1616,7 +1460,6 @@ Location "Purgine Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Slavonic god of thunder.
-# Additional info: 
 Location "Pyerun Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 108.94 -55.65 0 ]
@@ -1626,7 +1469,6 @@ Location "Pyerun Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: West Slavic maker of thunder and lightning.
-# Additional info: 
 Location "Radegast Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 200.01 -27.81 0 ]
@@ -1636,7 +1478,6 @@ Location "Radegast Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Egyptian sun god.
-# Additional info: 
 Location "Ra Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 35.18 -8.59 0 ]
@@ -1646,7 +1487,6 @@ Location "Ra Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Czech fire deity.
-# Additional info: 
 Location "Rarog Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 55.70 -41.63 0 ]
@@ -1676,7 +1516,6 @@ Location "Rata Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Japanese thunder god.
-# Additional info: 
 Location "Reiden Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 124.53 -13.30 0 ]
@@ -1686,7 +1525,6 @@ Location "Reiden Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Phoenician god of lightning, sun, and thunder.
-# Additional info: 
 Location "Reshef Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 201.95 27.70 0 ]
@@ -1696,7 +1534,6 @@ Location "Reshef Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Aramaic sun god.
-# Additional info: 
 Location "Reshet Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 54.38 0.79 0 ]
@@ -1706,7 +1543,6 @@ Location "Reshet Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: May 15, 2010
 # Origin: Polynesian god who causes earthquakes and volcanoes.
-# Additional info: 
 Location "Ruaumoko Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 220.26 14.72 0 ]
@@ -1716,7 +1552,6 @@ Location "Ruaumoko Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: African sun god associated Mt. Kilimanjaro.
-# Additional info: 
 Location "Ruwa Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 358.35 0.20 0 ]
@@ -1726,7 +1561,6 @@ Location "Ruwa Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Hindu sun god.
-# Additional info: 
 Location "Savitr Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 236.81 48.51 0 ]
@@ -1736,7 +1570,6 @@ Location "Savitr Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Nov 17, 2008
 # Origin: Phoenician chariot rider of the Sun.
-# Additional info: 
 Location "Sêd Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 56.28 -2.94 0 ]
@@ -1746,7 +1579,6 @@ Location "Sêd Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: May 15, 2010
 # Origin: Japanese; deity of Mt. Fujiyama.
-# Additional info: 
 Location "Sengen Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 56.21 -32.86 0 ]
@@ -1756,7 +1588,6 @@ Location "Sengen Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Etruscan celestial smith.
-# Additional info: 
 Location "Sethlaus Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 166.13 -52.29 0 ]
@@ -1766,7 +1597,6 @@ Location "Sethlaus Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Egyptian thunder god.
-# Additional info: 
 Location "Seth Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 225.87 -10.76 0 ]
@@ -1776,7 +1606,6 @@ Location "Seth Mons" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Egyptian thunder god.
-# Additional info: 
 Location "Seth Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 227.97 -5.31 0 ]
@@ -1786,7 +1615,6 @@ Location "Seth Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Pawnee (USA) sun god of the East; gives light and heat.
-# Additional info: 
 Location "Shakuru Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 94.10 24.00 0 ]
@@ -1796,7 +1624,6 @@ Location "Shakuru Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Assyro-Babylonian sun god.
-# Additional info: 
 Location "Shamash Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 207.47 -35.49 0 ]
@@ -1806,7 +1633,6 @@ Location "Shamash Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Arabian sun goddess.
-# Additional info: 
 Location "Shamshu Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 288.59 -12.04 0 ]
@@ -1816,7 +1642,6 @@ Location "Shamshu Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Arabian sun goddess.
-# Additional info: 
 Location "Shamshu Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 296.83 -9.95 0 ]
@@ -1826,7 +1651,6 @@ Location "Shamshu Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Yoruba thunder god.
-# Additional info: 
 Location "Shango Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 259.49 32.46 0 ]
@@ -1836,7 +1660,6 @@ Location "Shango Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1982; Last update: Dec 30, 2008
 # Origin: Caucasian patron of fire.
-# Additional info: 
 Location "Shoshu Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 35.29 -20.38 0 ]
@@ -1846,7 +1669,6 @@ Location "Shoshu Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse sun hero.
-# Additional info: 
 Location "Sigurd Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 261.95 -5.77 0 ]
@@ -1856,7 +1678,6 @@ Location "Sigurd Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Greek; where Io dies of grief in some legends.
-# Additional info: 
 Location "Silpium Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 87.65 -52.62 0 ]
@@ -1866,7 +1687,6 @@ Location "Silpium Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Nanai (Siberia) sun god.
-# Additional info: 
 Location "Siun Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 359.68 -49.75 0 ]
@@ -1876,7 +1696,6 @@ Location "Siun Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Io passed by here in her wanderings.
-# Additional info: 
 Location "Skythia Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 262.19 26.33 0 ]
@@ -1886,7 +1705,6 @@ Location "Skythia Mons" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Haitian voodoo thunder spirit.
-# Additional info: 
 Location "Sobo Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 209.24 14.03 0 ]
@@ -1896,7 +1714,6 @@ Location "Sobo Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: One of the Greek Cyclops who created thunderbolts for Zeus.
-# Additional info: 
 Location "Steropes Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 221.08 15.50 0 ]
@@ -1906,7 +1723,6 @@ Location "Steropes Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Chinese hero who discovered fire.
-# Additional info: 
 Location "Sui Jen Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 357.44 -19.14 0 ]
@@ -1916,7 +1732,6 @@ Location "Sui Jen Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Icelandic volcano god.
-# Additional info: 
 Location "Surt" "Sol/Jupiter/Io"
 {
 	LongLat	[ 22.79 45.37 0 ]
@@ -1926,7 +1741,6 @@ Location "Surt" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Hindu sun god.
-# Additional info: 
 Location "Surya Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 208.64 21.53 0 ]
@@ -1936,7 +1750,6 @@ Location "Surya Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Japanese storm and thunder god.
-# Additional info: 
 Location "Susanoo Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 140.25 22.46 0 ]
@@ -1946,7 +1759,6 @@ Location "Susanoo Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Russian smith god.
-# Additional info: 
 Location "Svarog Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 94.35 -48.51 0 ]
@@ -1966,7 +1778,6 @@ Location "Talos Paterae" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Apr 09, 2009
 # Origin: Celtic thunder god.
-# Additional info: 
 Location "Taranis Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 332.03 -71.12 0 ]
@@ -1976,7 +1787,6 @@ Location "Taranis Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Io passed through here in her wanderings.
-# Additional info: 
 Location "TARSUS REGIO" "Sol/Jupiter/Io"
 {
 	LongLat	[ 306.60 -36.69 0 ]
@@ -2006,7 +1816,6 @@ Location "Tawhaki Vallis" "Sol/Jupiter/Io"
 
 # Approval date: 1982; Last update: Oct 01, 2006
 # Origin: Monguor word for fire or hearth.
-# Additional info: 
 Location "Taw Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 1.63 -33.65 0 ]
@@ -2016,7 +1825,6 @@ Location "Taw Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Egyptian king whom Io married.
-# Additional info: 
 Location "Telegonus Mensae" "Sol/Jupiter/Io"
 {
 	LongLat	[ 244.63 -52.37 0 ]
@@ -2026,7 +1834,6 @@ Location "Telegonus Mensae" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Chibcha storm god, a terrifying fire spirit who flew through the air changing men into animals.
-# Additional info: 
 Location "Thomagata Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 194.03 25.65 0 ]
@@ -2036,7 +1843,6 @@ Location "Thomagata Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Norse god of thunder.
-# Additional info: 
 Location "Thor" "Sol/Jupiter/Io"
 {
 	LongLat	[ 226.88 39.20 0 ]
@@ -2046,7 +1852,6 @@ Location "Thor" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Chinese Mother-Lightening.
-# Additional info: 
 Location "Tien Mu Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 225.66 12.31 0 ]
@@ -2056,7 +1861,6 @@ Location "Tien Mu Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Lapp thunder god.
-# Additional info: 
 Location "Tiermes Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 9.85 22.29 0 ]
@@ -2066,7 +1870,6 @@ Location "Tiermes Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Central American god who gave fire to man.
-# Additional info: 
 Location "Tohil Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 198.43 -28.42 0 ]
@@ -2076,7 +1879,6 @@ Location "Tohil Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Central American god who gave fire to man.
-# Additional info: 
 Location "Tohil Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 201.91 -26.25 0 ]
@@ -2086,7 +1888,6 @@ Location "Tohil Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Dec 30, 2008
 # Origin: Mordvinian (Russia) goddess of fire.
-# Additional info: 
 Location "Tol-Ava Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 37.96 1.75 0 ]
@@ -2096,7 +1897,6 @@ Location "Tol-Ava Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Nov 17, 2008
 # Origin: Hottentot (southern Africa) supreme being, associated with thunder.
-# Additional info: 
 Location "Tsũi Goab Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 196.55 -1.27 0 ]
@@ -2106,7 +1906,6 @@ Location "Tsũi Goab Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Nov 17, 2008
 # Origin: Hottentot (southern Africa) supreme being, associated with thunder.
-# Additional info: 
 Location "Tsũi Goab Tholus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 197.05 -0.18 0 ]
@@ -2116,7 +1915,6 @@ Location "Tsũi Goab Tholus" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Chinese fire god.
-# Additional info: 
 Location "Tung Yo Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 3.49 -17.32 0 ]
@@ -2126,7 +1924,6 @@ Location "Tung Yo Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Chinese fire god.
-# Additional info: 
 Location "Tung Yo Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 359.05 -18.00 0 ]
@@ -2136,7 +1933,6 @@ Location "Tung Yo Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Thunder god of the Tupi-Guarani Indians of Brazil.
-# Additional info: 
 Location "Tupan Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 218.85 -18.68 0 ]
@@ -2146,7 +1942,6 @@ Location "Tupan Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Indian sun god and smith who forged the thunderbolt of the thunder god Indra.
-# Additional info: 
 Location "Tvashtar Mensae" "Sol/Jupiter/Io"
 {
 	LongLat	[ 240.06 61.60 0 ]
@@ -2156,7 +1951,6 @@ Location "Tvashtar Mensae" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Indian sun god and smith who forged the thunderbolt of the thunder god Indra.
-# Additional info: 
 Location "Tvashtar Paterae" "Sol/Jupiter/Io"
 {
 	LongLat	[ 236.47 62.76 0 ]
@@ -2166,7 +1960,6 @@ Location "Tvashtar Paterae" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Finnish thunder god.
-# Additional info: 
 Location "Ukko Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 341.52 30.82 0 ]
@@ -2176,7 +1969,6 @@ Location "Ukko Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Dec 30, 2008
 # Origin: Siberian progenitor god who struck first fire.
-# Additional info: 
 Location "Ülgen Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 72.78 -40.74 0 ]
@@ -2186,7 +1978,6 @@ Location "Ülgen Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Sumerian sun god.
-# Additional info: 
 Location "Uta Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ 343.86 -33.12 0 ]
@@ -2196,7 +1987,6 @@ Location "Uta Fluctus" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Sumerian sun god.
-# Additional info: 
 Location "Uta Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 337.48 -35.86 0 ]
@@ -2206,7 +1996,6 @@ Location "Uta Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Armenian fire god.
-# Additional info: 
 Location "Vahagn Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 9.27 -24.19 0 ]
@@ -2216,7 +2005,6 @@ Location "Vahagn Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Qechua sun god.
-# Additional info: 
 Location "Viracocha Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 79.93 -61.75 0 ]
@@ -2226,7 +2014,6 @@ Location "Viracocha Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Hindu god of the morning sun.
-# Additional info: 
 Location "Vivasvant Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 66.48 75.59 0 ]
@@ -2236,7 +2023,6 @@ Location "Vivasvant Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1979; Last update: Apr 09, 2009
 # Origin: Germanic supreme smith of the gods.
-# Additional info: 
 Location "Volund" "Sol/Jupiter/Io"
 {
 	LongLat	[ 188.25 29.33 0 ]
@@ -2246,7 +2032,6 @@ Location "Volund" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Potawatomi (north central U.S.) sun god.
-# Additional info: 
 Location "Wabasso Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 193.35 -22.89 0 ]
@@ -2256,7 +2041,6 @@ Location "Wabasso Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Anglo-Saxon legendary smith.
-# Additional info: 
 Location "Wayland Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 134.17 -32.55 0 ]
@@ -2266,7 +2050,6 @@ Location "Wayland Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Hebrew sun god at Gaza.
-# Additional info: 
 Location "Yaw Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 227.66 9.62 0 ]
@@ -2276,7 +2059,6 @@ Location "Yaw Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Iranian sun god.
-# Additional info: 
 Location "Zal Montes" "Sol/Jupiter/Io"
 {
 	LongLat	[ 282.82 38.43 0 ]
@@ -2286,7 +2068,6 @@ Location "Zal Montes" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Iranian sun god.
-# Additional info: 
 Location "Zal Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 285.54 40.14 0 ]
@@ -2296,7 +2077,6 @@ Location "Zal Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Babylonian sun, corn, and war god.
-# Additional info: 
 Location "Zamama" "Sol/Jupiter/Io"
 {
 	LongLat	[ 187.71 18.70 0 ]
@@ -2309,7 +2089,6 @@ Location "Zamama" "Sol/Jupiter/Io"
 
 # Approval date: May 27, 2022; Last update: Jun 01, 2022
 # Origin: Granddaughter of Europa and sibling of Phaedra and Katreus.
-# Additional info: 
 Location "Acacallis Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 225.56 -5.27 0 ]
@@ -2319,7 +2098,6 @@ Location "Acacallis Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; son of Phoenix, nephew of Europa.
-# Additional info: 
 Location "Adonis Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 237.40 -61.00 0 ]
@@ -2329,7 +2107,6 @@ Location "Adonis Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Daughter of Harmonia and Cadmus.
-# Additional info: 
 Location "Agave Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 86.90 12.80 0 ]
@@ -2339,7 +2116,6 @@ Location "Agave Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Europa's father.
-# Additional info: 
 Location "Agenor Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 146.50 -43.80 0 ]
@@ -2349,7 +2125,6 @@ Location "Agenor Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Celtic goddess of love and fertility.
-# Additional info: 
 Location "Áine" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 182.50 -43.00 0 ]
@@ -2359,7 +2134,6 @@ Location "Áine" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Son of Phoenix, nephew of Europa.
-# Additional info: 
 Location "Alphesiboea Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 184.10 -25.10 0 ]
@@ -2369,7 +2143,6 @@ Location "Alphesiboea Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Celtic god of agriculture.
-# Additional info: 
 Location "Amaethon" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 182.53 13.82 0 ]
@@ -2379,7 +2152,6 @@ Location "Amaethon" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Legendary Irish druid and poet.
-# Additional info: 
 Location "Amergin" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 129.40 -14.70 0 ]
@@ -2389,7 +2161,6 @@ Location "Amergin" "Sol/Jupiter/Europa"
 
 # Approval date: May 27, 2022; Last update: Jun 01, 2022
 # Origin: The nephew of Europa, in Greek mythology.
-# Additional info: 
 Location "Ancaeus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 182.46 57.82 0 ]
@@ -2399,7 +2170,6 @@ Location "Ancaeus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Son of Minos in Greek mythology.
-# Additional info: 
 Location "Androgeos Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 80.70 11.70 0 ]
@@ -2409,7 +2179,6 @@ Location "Androgeos Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Beautiful Celtic god of love.
-# Additional info: 
 Location "Angus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 284.90 -12.60 0 ]
@@ -2419,7 +2188,6 @@ Location "Angus" "Sol/Jupiter/Europa"
 
 # Approval date: May 11, 2007; Last update: May 11, 2007
 # Origin: Traditional name of the Welsh Otherworld where sparkling wine is the normal beverage, and age and sickness are unknown.
-# Additional info: 
 Location "ANNWN REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 40.00 20.00 0 ]
@@ -2429,7 +2197,6 @@ Location "ANNWN REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: May 27, 2022; Last update: Jun 01, 2022
 # Origin: Daughter of Idmon of Colophon in Greek mythology, who challenged the goddess Athena in a weaving contest.
-# Additional info: 
 Location "Arachne Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 219.96 -8.82 0 ]
@@ -2439,7 +2206,6 @@ Location "Arachne Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Mar 08, 2007
 # Origin: In Celtic mythology, one of the islands of Earthly paradise seen during Bran's voyage.
-# Additional info: 
 Location "ARGADNEL REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 151.50 -14.60 0 ]
@@ -2449,7 +2215,6 @@ Location "ARGADNEL REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; another name for Telephassa.
-# Additional info: 
 Location "Argiope Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 164.40 -1.70 0 ]
@@ -2459,7 +2224,6 @@ Location "Argiope Linea" "Sol/Jupiter/Europa"
 
 # Approval date: Aug 23, 2007; Last update: Nov 17, 2008
 # Origin: Island where Manannán had a palace.
-# Additional info: 
 Location "Arran Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 279.50 13.40 0 ]
@@ -2469,7 +2233,6 @@ Location "Arran Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Europa's husband after Zeus.
-# Additional info: 
 Location "Asterius Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 89.20 14.90 0 ]
@@ -2479,7 +2242,6 @@ Location "Asterius Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Sister of Europa.
-# Additional info: 
 Location "Astypalaea Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 147.90 -75.80 0 ]
@@ -2489,7 +2251,6 @@ Location "Astypalaea Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Daughter of Harmonia and Cadmus in Greek mythology.
-# Additional info: 
 Location "Autonoë Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 194.90 18.20 0 ]
@@ -2499,7 +2260,6 @@ Location "Autonoë Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic storm deity, ill-fated son of Tegid the Bald.
-# Additional info: 
 Location "Avagddu" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 190.50 1.40 0 ]
@@ -2509,7 +2269,6 @@ Location "Avagddu" "Sol/Jupiter/Europa"
 
 # Approval date: May 11, 2007; Last update: Nov 17, 2008
 # Origin: In Celtic mythology, pass to which the Tuatha Dé Dannan retreated before the battle with the Fir Bolgs.
-# Additional info: 
 Location "BALGATAN REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 330.00 -50.00 0 ]
@@ -2519,7 +2278,6 @@ Location "BALGATAN REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic god of the night whose evil eye caused the death of those on whom it glanced.
-# Additional info: 
 Location "Balor" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 262.20 -52.80 0 ]
@@ -2549,7 +2307,6 @@ Location "Belenos Mensa" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Agenor's twin brother.
-# Additional info: 
 Location "Belus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 128.60 9.30 0 ]
@@ -2559,7 +2316,6 @@ Location "Belus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Place where Cadmus led cow before it stopped at site of Thebes.
-# Additional info: 
 Location "Boeotia Macula" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 193.20 -53.60 0 ]
@@ -2579,7 +2335,6 @@ Location "Borvo Mensa" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Beautiful son of Elatha in Celtic mythology.
-# Additional info: 
 Location "Bress" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 261.34 37.64 0 ]
@@ -2589,7 +2344,6 @@ Location "Bress" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic goddess of healing, smiths, fertility and poetry.
-# Additional info: 
 Location "Brigid" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 278.70 10.80 0 ]
@@ -2599,7 +2353,6 @@ Location "Brigid" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in England.
-# Additional info: 
 Location "Butterdon Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 359.90 -44.70 0 ]
@@ -2609,7 +2362,6 @@ Location "Butterdon Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; brother of Europa.
-# Additional info: 
 Location "Cadmus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 168.30 38.70 0 ]
@@ -2619,7 +2371,6 @@ Location "Cadmus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Stone circle in the Outer Hebrides, Scotland.
-# Additional info: 
 Location "Callanish" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 25.50 -16.70 0 ]
@@ -2629,7 +2380,6 @@ Location "Callanish" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Gaelic war god.
-# Additional info: 
 Location "Camulus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 278.90 -26.50 0 ]
@@ -2639,7 +2389,6 @@ Location "Camulus" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Greek; spring where Cadmus, brother of Europa, killed the dragon.
-# Additional info: 
 Location "Castalia Macula" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 134.30 -1.60 0 ]
@@ -2649,7 +2398,6 @@ Location "Castalia Macula" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Survivor of the men Cadmus sowed with dragon's teeth, a founder of Thebes.
-# Additional info: 
 Location "Chthonius Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 55.80 -1.40 0 ]
@@ -2659,7 +2407,6 @@ Location "Chthonius Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Land named for Cilix on his search for Europa.
-# Additional info: 
 Location "Cilicia Flexus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 188.30 -59.50 0 ]
@@ -2679,7 +2426,6 @@ Location "Cilix" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic goddess of beauty who was lured asleep by music, then swept away by a great wave.
-# Additional info: 
 Location "Cliodhna" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 283.60 -2.50 0 ]
@@ -2689,7 +2435,6 @@ Location "Cliodhna" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Rugged part of western Ireland named for Conmac, son of the Queen of Connacht.
-# Additional info: 
 Location "Conamara Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 87.30 9.70 0 ]
@@ -2699,7 +2444,6 @@ Location "Conamara Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in Ireland.
-# Additional info: 
 Location "Corick Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 341.70 17.80 0 ]
@@ -2709,7 +2453,6 @@ Location "Corick Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Cormac Mac Art, High King of Ulster in Irish myths.
-# Additional info: 
 Location "Cormac" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 271.90 -36.90 0 ]
@@ -2719,7 +2462,6 @@ Location "Cormac" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Islands where Rhadamanthys reigned.
-# Additional info: 
 Location "Cyclades Macula" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 168.70 -62.50 0 ]
@@ -2729,7 +2471,6 @@ Location "Cyclades Macula" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: One of the chief deities of the Tuatha de Danann in Irish mythology.
-# Additional info: 
 Location "Dagda" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 191.26 37.35 0 ]
@@ -2739,7 +2480,6 @@ Location "Dagda" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: The most beautiful woman in Irish myths.
-# Additional info: 
 Location "Deirdre" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 152.70 -65.40 0 ]
@@ -2749,7 +2489,6 @@ Location "Deirdre" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Where the cow led Cadmus before it stopped at the site of Thebes.
-# Additional info: 
 Location "Delphi Flexus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 185.90 -68.20 0 ]
@@ -2759,7 +2498,6 @@ Location "Delphi Flexus" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Handsome Irish mythological warrior, husband of Gráinne.
-# Additional info: 
 Location "Diarmuid" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 258.00 -61.30 0 ]
@@ -2769,7 +2507,6 @@ Location "Diarmuid" "Sol/Jupiter/Europa"
 
 # Approval date: Jan 04, 2022; Last update: May 02, 2022
 # Origin: In Celtic mythology, the location where Maon slew Covac.
-# Additional info: 
 Location "Dinrigh Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 227.84 -46.48 0 ]
@@ -2779,7 +2516,6 @@ Location "Dinrigh Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in England.
-# Additional info: 
 Location "Drizzlecomb Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 248.30 7.70 0 ]
@@ -2789,7 +2525,6 @@ Location "Drizzlecomb Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in Ireland.
-# Additional info: 
 Location "Drumskinny Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 199.00 48.30 0 ]
@@ -2799,7 +2534,6 @@ Location "Drumskinny Linea" "Sol/Jupiter/Europa"
 
 # Approval date: May 11, 2007; Last update: May 11, 2007
 # Origin: In Welsh mythology, the southwestern kingdom of Wales just east of Annwn, containing a mysterious realm.
-# Additional info: 
 Location "DYFED REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 110.00 10.00 0 ]
@@ -2809,7 +2543,6 @@ Location "DYFED REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic sea god.
-# Additional info: 
 Location "Dylan" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 275.60 -55.30 0 ]
@@ -2819,7 +2552,6 @@ Location "Dylan" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Survivor of the men Cadmus sowed with the dragon's teeth; a founder of Thebes.
-# Additional info: 
 Location "Echion Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 174.80 -11.60 0 ]
@@ -2839,7 +2571,6 @@ Location "Eightercua Fossa" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Handsome Celtic king, father of sun god Bres.
-# Additional info: 
 Location "Elathan" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 280.20 -31.90 0 ]
@@ -2849,7 +2580,6 @@ Location "Elathan" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: King of the Fir Bolgs in Celtic mythology.
-# Additional info: 
 Location "Eochaid" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 126.67 -50.48 0 ]
@@ -2859,7 +2589,6 @@ Location "Eochaid" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: In Greek mythology, son of Europa and Poseidon who could walk on water.
-# Additional info: 
 Location "Euphemus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 314.30 -11.40 0 ]
@@ -2869,7 +2598,6 @@ Location "Euphemus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: May 11, 2007; Last update: May 11, 2007
 # Origin: In Celtic mythology, island where Midir had a stronghold.
-# Additional info: 
 Location "FALGA REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 150.00 30.00 0 ]
@@ -2879,7 +2607,6 @@ Location "FALGA REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Son of Minos in Greek mythology.
-# Additional info: 
 Location "Glaukos Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 129.10 57.80 0 ]
@@ -2889,7 +2616,6 @@ Location "Glaukos Linea" "Sol/Jupiter/Europa"
 
 # Approval date: Jan 04, 2022; Last update: May 02, 2022
 # Origin: In Celtic mythology, one of the four cities of the Tuatha Dé Danann (Dana) people.
-# Additional info: 
 Location "Goirias Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 179.25 10.77 0 ]
@@ -2899,7 +2625,6 @@ Location "Goirias Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Place on Crete where Zeus brought Europa.
-# Additional info: 
 Location "Gortyna Flexus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 215.40 -42.10 0 ]
@@ -2909,7 +2634,6 @@ Location "Gortyna Flexus" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: One of the Children of Don, a smith and brewer.
-# Additional info: 
 Location "Govannan" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 57.20 -37.30 0 ]
@@ -2919,7 +2643,6 @@ Location "Govannan" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Daughter of Cormac Mac Art, the mythical High King of Ulster, and wife of Diarmuid.
-# Additional info: 
 Location "Gráinne" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 260.60 -59.70 0 ]
@@ -2939,7 +2662,6 @@ Location "Grannus Mensa" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Son of Branwen in Celtic mythology.
-# Additional info: 
 Location "Gwern" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 15.46 9.14 0 ]
@@ -2949,7 +2671,6 @@ Location "Gwern" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic poet, one of the children of the mother goddess Don.
-# Additional info: 
 Location "Gwydion" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 278.40 -60.50 0 ]
@@ -2959,7 +2680,6 @@ Location "Gwydion" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Wife of Cadmus.
-# Additional info: 
 Location "Harmonia Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 188.30 28.00 0 ]
@@ -2969,7 +2689,6 @@ Location "Harmonia Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Survivor of the men Cadmus sowed with dragon's teeth, a founder of Thebes.
-# Additional info: 
 Location "Hyperenor Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 35.60 -12.10 0 ]
@@ -2979,7 +2698,6 @@ Location "Hyperenor Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Daughter of Harmonia and Cadmus.
-# Additional info: 
 Location "Ino Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 185.40 -1.70 0 ]
@@ -2989,7 +2707,6 @@ Location "Ino Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Son of Minos in Greek mythology.
-# Additional info: 
 Location "Katreus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 146.70 -38.80 0 ]
@@ -2999,7 +2716,6 @@ Location "Katreus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in England.
-# Additional info: 
 Location "Kennet Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 48.00 -41.00 0 ]
@@ -3029,7 +2745,6 @@ Location "Kermario Fossae" "Sol/Jupiter/Europa"
 
 # Approval date: Jan 04, 2022; Last update: May 02, 2022
 # Origin: In Celtic mythology, the city to which Maeldūn voyaged to avenge his father, Ailill Edge-of-Battle.
-# Additional info: 
 Location "Leix Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 223.80 -39.39 0 ]
@@ -3039,7 +2754,6 @@ Location "Leix Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Agenor's mother.
-# Additional info: 
 Location "Libya Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 179.00 -54.00 0 ]
@@ -3049,7 +2763,6 @@ Location "Libya Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic sea god.
-# Additional info: 
 Location "Llyr" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 138.20 -1.80 0 ]
@@ -3059,7 +2772,6 @@ Location "Llyr" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Celtic god of carpentry.
-# Additional info: 
 Location "Luchtar" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 102.43 -40.20 0 ]
@@ -3069,7 +2781,6 @@ Location "Luchtar" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: May 15, 2010
 # Origin: Irish omnicompetent god.
-# Additional info: 
 Location "Lug" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 315.69 27.99 0 ]
@@ -3079,7 +2790,6 @@ Location "Lug" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Celtic hero.
-# Additional info: 
 Location "Mael Dúin" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 162.10 -16.80 0 ]
@@ -3089,7 +2799,6 @@ Location "Mael Dúin" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Mythological Irish queen of Connacht province.
-# Additional info: 
 Location "Maeve" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 281.10 58.80 0 ]
@@ -3099,7 +2808,6 @@ Location "Maeve" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Nov 17, 2008
 # Origin: Irish sea and fertility god.
-# Additional info: 
 Location "Manannán" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 120.30 3.10 0 ]
@@ -3109,7 +2817,6 @@ Location "Manannán" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Celtic god of wealth and treasure.
-# Additional info: 
 Location "Math" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 176.30 -25.60 0 ]
@@ -3129,7 +2836,6 @@ Location "Maughanasilly Fossa" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in Brittany, France.
-# Additional info: 
 Location "Mehen Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 123.30 56.00 0 ]
@@ -3149,7 +2855,6 @@ Location "Ménec Fossae" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in England.
-# Additional info: 
 Location "Merrivale Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 60.50 -41.00 0 ]
@@ -3159,7 +2864,6 @@ Location "Merrivale Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Gaelic fate and underworld deity.
-# Additional info: 
 Location "Midir" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 21.25 3.65 0 ]
@@ -3169,7 +2873,6 @@ Location "Midir" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; son of Europa and Zeus.
-# Additional info: 
 Location "Minos Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 164.80 47.20 0 ]
@@ -3179,7 +2882,6 @@ Location "Minos Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Celtic; ugly son of Tegid.
-# Additional info: 
 Location "Morvran" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 207.40 -4.90 0 ]
@@ -3199,7 +2901,6 @@ Location "Moyle Cavus" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Location of battles between the Fomorians and the Tautha de Danann.
-# Additional info: 
 Location "MOYTURA REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 65.70 -50.00 0 ]
@@ -3209,7 +2910,6 @@ Location "MOYTURA REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Nov 17, 2008
 # Origin: One of the four great cities of the Tuatha Dé Danann (the people of the goddess Danu, the wizards) in Irish Celtic myths.
-# Additional info: 
 Location "Murias Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 276.20 22.40 0 ]
@@ -3219,7 +2919,6 @@ Location "Murias Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: Aug 23, 2007; Last update: Aug 23, 2007
 # Origin: Chief court of Pwyll; he first saw his future wife Rhiannon at a nearby mound.
-# Additional info: 
 Location "Narberth Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 87.00 -26.00 0 ]
@@ -3229,7 +2928,6 @@ Location "Narberth Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Golden-haired daughter of the Celtic sea and fertility god Manannán.
-# Additional info: 
 Location "Niamh" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 143.10 21.10 0 ]
@@ -3239,7 +2937,6 @@ Location "Niamh" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Celtic god of eloquence and literature, a son of Dagda.
-# Additional info: 
 Location "Ogma" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 72.14 87.45 0 ]
@@ -3249,7 +2946,6 @@ Location "Ogma" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Mythical Irish warrior, son of Fionn Mac Cumhail and Sadb.
-# Additional info: 
 Location "Oisín" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 146.60 -52.30 0 ]
@@ -3259,7 +2955,6 @@ Location "Oisín" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Phoenician name for Athene.
-# Additional info: 
 Location "Onga Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 148.70 -38.70 0 ]
@@ -3269,7 +2964,6 @@ Location "Onga Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: King who sold Cadmus the cow with a white full moon on each flank.
-# Additional info: 
 Location "Pelagon Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 186.40 35.50 0 ]
@@ -3279,7 +2973,6 @@ Location "Pelagon Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; survivor of the men Cadmus sowed with the dragon's teeth; a founder of Thebes.
-# Additional info: 
 Location "Pelorus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 171.70 -19.80 0 ]
@@ -3289,7 +2982,6 @@ Location "Pelorus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; brother of Europa.
-# Additional info: 
 Location "Phineus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 40.10 -29.80 0 ]
@@ -3299,7 +2991,6 @@ Location "Phineus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Where the cow lead Cadmus before it stopped at the site of Thebes.
-# Additional info: 
 Location "Phocis Flexus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 161.60 -44.50 0 ]
@@ -3309,7 +3000,6 @@ Location "Phocis Flexus" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Brother of Europa.
-# Additional info: 
 Location "Phoenix Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 171.20 16.60 0 ]
@@ -3319,7 +3009,6 @@ Location "Phoenix Linea" "Sol/Jupiter/Europa"
 
 # Approval date: May 11, 2007; Last update: May 11, 2007
 # Origin: In Celtic mythology, ancient kingdom of mid-Wales.
-# Additional info: 
 Location "POWYS REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 215.00 0.00 0 ]
@@ -3329,7 +3018,6 @@ Location "POWYS REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Son of Pwyll, Celtic god of the underworld.
-# Additional info: 
 Location "Pryderi" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 200.90 -66.10 0 ]
@@ -3339,7 +3027,6 @@ Location "Pryderi" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Celtic god of the underworld.
-# Additional info: 
 Location "Pwyll" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 88.60 -25.20 0 ]
@@ -3349,7 +3036,6 @@ Location "Pwyll" "Sol/Jupiter/Europa"
 
 # Approval date: Jan 04, 2022; Last update: May 02, 2022
 # Origin: Celtic Myths and Legends, by T. W. Rolleston: Dover Publications, 2012.
-# Additional info: 
 Location "Rathcroghan Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 178.08 -10.08 0 ]
@@ -3359,7 +3045,6 @@ Location "Rathcroghan Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: Aug 23, 2007; Last update: Nov 17, 2008
 # Origin: Seat of Mongan, a son of the sea god Manannán.
-# Additional info: 
 Location "Rathmore Chaos" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 285.00 25.40 0 ]
@@ -3369,7 +3054,6 @@ Location "Rathmore Chaos" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Son of Europa and Zeus.
-# Additional info: 
 Location "Rhadamanthys Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 159.50 19.30 0 ]
@@ -3379,7 +3063,6 @@ Location "Rhadamanthys Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Celtic heroine.
-# Additional info: 
 Location "Rhiannon" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 165.10 -80.90 0 ]
@@ -3389,7 +3072,6 @@ Location "Rhiannon" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; son of Europa and Zeus.
-# Additional info: 
 Location "Sarpedon Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 267.10 -49.50 0 ]
@@ -3399,7 +3081,6 @@ Location "Sarpedon Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in England.
-# Additional info: 
 Location "Sharpitor Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 188.30 65.40 0 ]
@@ -3409,7 +3090,6 @@ Location "Sharpitor Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Another name for Tyre; where Europa was born.
-# Additional info: 
 Location "Sidon Flexus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 176.60 -66.40 0 ]
@@ -3419,7 +3099,6 @@ Location "Sidon Flexus" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: In Greek mythology, warriors who sprouted from the dragon's teeth sewn by Athene, ancestors of the Thebans.
-# Additional info: 
 Location "Sparti Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 114.50 59.30 0 ]
@@ -3429,7 +3108,6 @@ Location "Sparti Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in England.
-# Additional info: 
 Location "Staldon Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 332.60 -0.80 0 ]
@@ -3439,7 +3117,6 @@ Location "Staldon Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Celtic, son of Bran; magician.
-# Additional info: 
 Location "Taliesin" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 222.00 -22.80 0 ]
@@ -3449,7 +3126,6 @@ Location "Taliesin" "Sol/Jupiter/Europa"
 
 # Approval date: May 11, 2007; Last update: May 11, 2007
 # Origin: In Celtic mythology, the main royal residence of the High Kings.
-# Additional info: 
 Location "TARA REGIO" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 285.00 -10.00 0 ]
@@ -3459,7 +3135,6 @@ Location "TARA REGIO" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Father of Asterius.
-# Additional info: 
 Location "Tectamus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 160.80 26.90 0 ]
@@ -3469,7 +3144,6 @@ Location "Tectamus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Celtic hero who lived in Bula Lake.
-# Additional info: 
 Location "Tegid" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 195.60 0.80 0 ]
@@ -3479,7 +3153,6 @@ Location "Tegid" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Europa's mother.
-# Additional info: 
 Location "Telephassa Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 182.80 -0.80 0 ]
@@ -3489,7 +3162,6 @@ Location "Telephassa Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; brother of Europa.
-# Additional info: 
 Location "Thasus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 176.00 -66.10 0 ]
@@ -3499,7 +3171,6 @@ Location "Thasus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; place where Cadmus stopped in his search for Europa.
-# Additional info: 
 Location "Thera Macula" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 178.80 -46.70 0 ]
@@ -3509,7 +3180,6 @@ Location "Thera Macula" "Sol/Jupiter/Europa"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Place in northern Greece where Cadmus stopped in his search for Europa.
-# Additional info: 
 Location "Thrace Macula" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 187.90 -45.90 0 ]
@@ -3519,7 +3189,6 @@ Location "Thrace Macula" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Peninsula between Black and Marmara Seas, where Phineus sought Europa.
-# Additional info: 
 Location "Thynia Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 205.50 -59.20 0 ]
@@ -3529,7 +3198,6 @@ Location "Thynia Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Stone row in Ireland.
-# Additional info: 
 Location "Tormsdale Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 102.00 47.70 0 ]
@@ -3539,7 +3207,6 @@ Location "Tormsdale Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Irish dawn goddess.
-# Additional info: 
 Location "Tuag" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 187.64 59.92 0 ]
@@ -3549,7 +3216,6 @@ Location "Tuag" "Sol/Jupiter/Europa"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Greek; the seashore from which Zeus abducted Europa. Changed from Tyre Macula.
-# Additional info: 
 Location "Tyre" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 213.40 33.60 0 ]
@@ -3559,7 +3225,6 @@ Location "Tyre" "Sol/Jupiter/Europa"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: The harpist for Dagda, the father of all gods in Celtic myths.
-# Additional info: 
 Location "Uaithne" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 269.30 -48.50 0 ]
@@ -3569,7 +3234,6 @@ Location "Uaithne" "Sol/Jupiter/Europa"
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: In Greek mythology, survivors of the men Cadmus sowed with dragon's teeth.
-# Additional info: 
 Location "Udaeus Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 120.60 48.60 0 ]
@@ -3579,7 +3243,6 @@ Location "Udaeus Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Stone row in England.
-# Additional info: 
 Location "Yelland Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 164.00 -16.70 0 ]
@@ -4632,7 +4295,6 @@ Location "Lakhamu Fossa" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Dragon monster, or divine natural force produced by Apsu and Tiamat.
-# Additional info: 
 Location "Lakhmu Fossae" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 232.00 50.40 0 ]
@@ -5072,7 +4734,6 @@ Location "Nippur Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Egyptian; chaos; primordial ocean; held germ of all things.
-# Additional info: 
 Location "Nun Sulci" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 43.60 49.50 0 ]
@@ -5542,7 +5203,6 @@ Location "Zaqar" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Oct 01, 2006
 # Origin: Dragon of chaos slain by Marduk.
-# Additional info: 
 Location "Zu Fossae" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 209.50 38.50 0 ]
@@ -5555,7 +5215,6 @@ Location "Zu Fossae" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; son of Karl and Erna.
-# Additional info: 
 Location "Adal" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 280.30 75.50 0 ]
@@ -5565,7 +5224,6 @@ Location "Adal" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Eskimo; place in ocean depths where souls are imprisoned after death.
-# Additional info: 
 Location "Adlinda" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 324.40 -48.50 0 ]
@@ -5575,7 +5233,6 @@ Location "Adlinda" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse sea god.
-# Additional info: 
 Location "Aegir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 256.20 -45.80 0 ]
@@ -5585,7 +5242,6 @@ Location "Aegir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Eskimo spirit of the seal caves.
-# Additional info: 
 Location "Agloolik" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 277.60 -47.70 0 ]
@@ -5595,7 +5251,6 @@ Location "Agloolik" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Finno-Ugric god of twins.
-# Additional info: 
 Location "Ägröi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 349.10 43.20 0 ]
@@ -5605,7 +5260,6 @@ Location "Ägröi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Finnish god of water; sends fish to the fisherman.
-# Additional info: 
 Location "Ahti" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 257.60 41.40 0 ]
@@ -5615,7 +5269,6 @@ Location "Ahti" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Saami god of holidays.
-# Additional info: 
 Location "Ajleke" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 258.60 22.70 0 ]
@@ -5625,7 +5278,6 @@ Location "Ajleke" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Alaskan name of the sun.
-# Additional info: 
 Location "Akycha" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 41.30 72.60 0 ]
@@ -5635,7 +5287,6 @@ Location "Akycha" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Alfr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 137.30 -9.90 0 ]
@@ -5645,7 +5296,6 @@ Location "Alfr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; strongest of men.
-# Additional info: 
 Location "Áli" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 304.10 59.00 0 ]
@@ -5655,7 +5305,6 @@ Location "Áli" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Ánarr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 359.50 44.00 0 ]
@@ -5665,7 +5314,6 @@ Location "Ánarr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Callisto's child by Zeus.
-# Additional info: 
 Location "Arcas" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 292.50 -85.60 0 ]
@@ -5675,7 +5323,6 @@ Location "Arcas" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; the home of the gods.
-# Additional info: 
 Location "Asgard" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 220.10 32.20 0 ]
@@ -5685,7 +5332,6 @@ Location "Asgard" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; first man, created from a log drifted ashore on a beach.
-# Additional info: 
 Location "Askr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 35.90 51.80 0 ]
@@ -5695,7 +5341,6 @@ Location "Askr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Ottar's ancestor.
-# Additional info: 
 Location "Audr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 279.40 -30.90 0 ]
@@ -5705,7 +5350,6 @@ Location "Audr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Austri" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 295.50 -80.90 0 ]
@@ -5715,7 +5359,6 @@ Location "Austri" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Estonian spirit of death.
-# Additional info: 
 Location "Aziren" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 181.80 35.40 0 ]
@@ -5725,7 +5368,6 @@ Location "Aziren" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Ottar's ancestor.
-# Additional info: 
 Location "Balkr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 348.30 28.90 0 ]
@@ -5735,7 +5377,6 @@ Location "Balkr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Ottar's ancestor.
-# Additional info: 
 Location "Barri" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 289.50 -31.50 0 ]
@@ -5745,7 +5386,6 @@ Location "Barri" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Bavörr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 340.00 49.10 0 ]
@@ -5755,7 +5395,6 @@ Location "Bavörr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Celtic; father of Caswallawn.
-# Additional info: 
 Location "Beli" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 279.80 62.60 0 ]
@@ -5765,7 +5404,6 @@ Location "Beli" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Another name for Odinn.
-# Additional info: 
 Location "Biflindi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 285.90 -53.60 0 ]
@@ -5775,7 +5413,6 @@ Location "Biflindi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Skaldic; god of poetry.
-# Additional info: 
 Location "Bragi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 299.30 75.50 0 ]
@@ -5785,7 +5422,6 @@ Location "Bragi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Ottar's ancestor.
-# Additional info: 
 Location "Brami" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 341.00 28.80 0 ]
@@ -5795,7 +5431,6 @@ Location "Brami" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Celtic; omnipotent god who watched over people.
-# Additional info: 
 Location "Bran" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 154.40 -24.20 0 ]
@@ -5805,7 +5440,6 @@ Location "Bran" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Dec 30, 2008
 # Origin: Tungu heaven god.
-# Additional info: 
 Location "Buga" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 36.10 22.30 0 ]
@@ -5815,7 +5449,6 @@ Location "Buga" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Buri" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 314.50 -37.50 0 ]
@@ -5825,7 +5458,6 @@ Location "Buri" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse giant; his sons raised up heaven's vault and shaped the Earth.
-# Additional info: 
 Location "Burr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 225.50 42.70 0 ]
@@ -5835,7 +5467,6 @@ Location "Burr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Ottar's ancestor.
-# Additional info: 
 Location "Dag" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 286.70 58.50 0 ]
@@ -5845,7 +5476,6 @@ Location "Dag" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; king against whom Konr marched.
-# Additional info: 
 Location "Danr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 283.10 62.50 0 ]
@@ -5855,7 +5485,6 @@ Location "Danr" "Sol/Jupiter/Callisto"
 
 # Approval date: 2006; Last update: Dec 30, 2008
 # Origin: Yukagir (NE Siberia) mythological hero, the first man.
-# Additional info: 
 Location "Debegey" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 193.80 10.20 0 ]
@@ -5865,7 +5494,6 @@ Location "Debegey" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; Callisto's sister.
-# Additional info: 
 Location "Dia" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 309.50 73.00 0 ]
@@ -5875,7 +5503,6 @@ Location "Dia" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Dec 30, 2008
 # Origin: Ketian shaman who created the earth.
-# Additional info: 
 Location "Doh" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 218.60 30.60 0 ]
@@ -5885,7 +5512,6 @@ Location "Doh" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; son of Dia by Apollo.
-# Additional info: 
 Location "Dryops" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 325.20 80.00 0 ]
@@ -5895,7 +5521,6 @@ Location "Dryops" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Durinn" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 270.90 67.00 0 ]
@@ -5905,7 +5530,6 @@ Location "Durinn" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; shepherd for the giants.
-# Additional info: 
 Location "Egdir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 324.10 33.90 0 ]
@@ -5915,7 +5539,6 @@ Location "Egdir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Karelian deity of the harvest of beans.
-# Additional info: 
 Location "Egres" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 183.40 42.50 0 ]
@@ -5925,7 +5548,6 @@ Location "Egres" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse river.
-# Additional info: 
 Location "Eikin Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 344.50 -8.90 0 ]
@@ -5935,7 +5557,6 @@ Location "Eikin Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Dec 30, 2008
 # Origin: Russian first man who became a devil.
-# Additional info: 
 Location "Erlik" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 358.70 66.80 0 ]
@@ -5945,7 +5566,6 @@ Location "Erlik" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse farmer.
-# Additional info: 
 Location "Fadir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 347.40 56.60 0 ]
@@ -5955,7 +5575,6 @@ Location "Fadir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Fili" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 10.30 64.20 0 ]
@@ -5965,7 +5584,6 @@ Location "Fili" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse river.
-# Additional info: 
 Location "Fimbulthul Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 295.20 8.20 0 ]
@@ -5975,7 +5593,6 @@ Location "Fimbulthul Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Finnr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 355.70 15.50 0 ]
@@ -5985,7 +5602,6 @@ Location "Finnr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: May 15, 2010
 # Origin: Norse; wolf's name meaning “;insatiable.“;
-# Additional info: 
 Location "Freki" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 8.30 79.80 0 ]
@@ -5995,7 +5611,6 @@ Location "Freki" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Hledis' father.
-# Additional info: 
 Location "Frodi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 220.10 68.40 0 ]
@@ -6005,7 +5620,6 @@ Location "Frodi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; maid to Frigg, queen of the gods.
-# Additional info: 
 Location "Fulla" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 251.90 74.00 0 ]
@@ -6015,7 +5629,6 @@ Location "Fulla" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; son of Thrael and Thyr.
-# Additional info: 
 Location "Fulnir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 324.70 60.10 0 ]
@@ -6025,7 +5638,6 @@ Location "Fulnir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Gandalfr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 296.40 -80.50 0 ]
@@ -6035,7 +5647,6 @@ Location "Gandalfr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse river.
-# Additional info: 
 Location "Geirvimul Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 12.80 48.90 0 ]
@@ -6045,7 +5656,6 @@ Location "Geirvimul Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; wolf's name meaning “;greedy.“;
-# Additional info: 
 Location "Geri" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 6.20 66.70 0 ]
@@ -6055,7 +5665,6 @@ Location "Geri" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Ottar's ancestor.
-# Additional info: 
 Location "Ginandi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 307.90 -85.30 0 ]
@@ -6065,7 +5674,6 @@ Location "Ginandi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse river.
-# Additional info: 
 Location "Gipul Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 305.80 68.50 0 ]
@@ -6075,7 +5683,6 @@ Location "Gipul Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; steed ridden by Aesir.
-# Additional info: 
 Location "Gisl" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 325.40 57.20 0 ]
@@ -6085,7 +5692,6 @@ Location "Gisl" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Gloi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 115.00 49.00 0 ]
@@ -6095,7 +5701,6 @@ Location "Gloi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; servant to the gods.
-# Additional info: 
 Location "Göll" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 40.30 57.30 0 ]
@@ -6105,7 +5710,6 @@ Location "Göll" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse river.
-# Additional info: 
 Location "Gomul Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 312.90 35.50 0 ]
@@ -6115,7 +5719,6 @@ Location "Gomul Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; a Valkyrie.
-# Additional info: 
 Location "Göndul" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 245.90 60.00 0 ]
@@ -6125,7 +5728,6 @@ Location "Göndul" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; a name for Odin.
-# Additional info: 
 Location "Grimr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 145.40 41.50 0 ]
@@ -6135,7 +5737,6 @@ Location "Grimr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; a Valkyrie.
-# Additional info: 
 Location "Gunnr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 255.30 64.60 0 ]
@@ -6145,7 +5746,6 @@ Location "Gunnr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Apr 09, 2009
 # Origin: Norse river.
-# Additional info: 
 Location "Gunntro Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 16.90 -19.50 0 ]
@@ -6155,7 +5755,6 @@ Location "Gunntro Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; another name for the sea-god, Legir.
-# Additional info: 
 Location "Gymir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 311.20 63.70 0 ]
@@ -6165,7 +5764,6 @@ Location "Gymir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; a hawk.
-# Additional info: 
 Location "Hábrok" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 228.10 76.20 0 ]
@@ -6175,7 +5773,6 @@ Location "Hábrok" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse giant.
-# Additional info: 
 Location "Haki" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 44.90 25.00 0 ]
@@ -6185,7 +5782,6 @@ Location "Haki" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; a name for Odin.
-# Additional info: 
 Location "Hár" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 2.00 -3.50 0 ]
@@ -6195,7 +5791,6 @@ Location "Hár" "Sol/Jupiter/Callisto"
 
 # Approval date: 2000; Last update: Nov 17, 2008
 # Origin: Teutonic god of light, guardian of the great bridge Bifröst.
-# Additional info: 
 Location "Heimdall" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 3.00 -63.50 0 ]
@@ -6205,7 +5800,6 @@ Location "Heimdall" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Hepti" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 336.60 64.50 0 ]
@@ -6215,7 +5809,6 @@ Location "Hepti" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Karelian deity of hunting.
-# Additional info: 
 Location "Hijsi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 188.50 63.10 0 ]
@@ -6225,7 +5818,6 @@ Location "Hijsi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; Baldr's blind brother who shot Baldr unknowingly.
-# Additional info: 
 Location "Hödr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 270.80 69.10 0 ]
@@ -6235,7 +5827,6 @@ Location "Hödr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; god who gave souls to first humans.
-# Additional info: 
 Location "Hoenir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 99.10 -33.70 0 ]
@@ -6245,7 +5836,6 @@ Location "Hoenir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; Ottar's ancestor.
-# Additional info: 
 Location "Högni" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 355.20 -11.80 0 ]
@@ -6255,7 +5845,6 @@ Location "Högni" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Nov 17, 2008
 # Origin: Son of Karl and Snor in Rigdismal.
-# Additional info: 
 Location "Höldr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 251.80 43.90 0 ]
@@ -6265,7 +5854,6 @@ Location "Höldr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Alaskan name of the Moon.
-# Additional info: 
 Location "Igaluk" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 44.00 5.60 0 ]
@@ -6275,7 +5863,6 @@ Location "Igaluk" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: A celestial divinity of air.
-# Additional info: 
 Location "Ilma" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 192.80 -29.90 0 ]
@@ -6285,7 +5872,6 @@ Location "Ilma" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Ottar's ancestor.
-# Additional info: 
 Location "Ivarr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 38.60 -5.80 0 ]
@@ -6295,7 +5881,6 @@ Location "Ivarr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Another name for Odinn.
-# Additional info: 
 Location "Jalkr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 277.30 -38.60 0 ]
@@ -6305,7 +5890,6 @@ Location "Jalkr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Estonian sky god.
-# Additional info: 
 Location "Jumal" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 242.00 58.90 0 ]
@@ -6315,7 +5899,6 @@ Location "Jumal" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Finno-Ugric heaven god.
-# Additional info: 
 Location "Jumo" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 348.20 65.70 0 ]
@@ -6325,7 +5908,6 @@ Location "Jumo" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Ottar's ancestor.
-# Additional info: 
 Location "Kári" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 243.70 48.20 0 ]
@@ -6335,7 +5917,6 @@ Location "Kári" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Rigr's son with Amma.
-# Additional info: 
 Location "Karl" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 29.40 56.40 0 ]
@@ -6345,7 +5926,6 @@ Location "Karl" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Eskimo evil spirit who resembles a hairless dog.
-# Additional info: 
 Location "Keelut" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 269.10 -76.80 0 ]
@@ -6355,7 +5935,6 @@ Location "Keelut" "Sol/Jupiter/Callisto"
 
 # Approval date: 2006; Last update: Oct 01, 2006
 # Origin: Icelandic frost or storm giant.
-# Additional info: 
 Location "Kol Facula" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 77.30 4.50 0 ]
@@ -6365,7 +5944,6 @@ Location "Kol Facula" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Komi wood spirit.
-# Additional info: 
 Location "Kul'" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 238.10 62.90 0 ]
@@ -6375,7 +5953,6 @@ Location "Kul'" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Finno-Ugric evil spirit.
-# Additional info: 
 Location "Lempo" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 40.10 -25.20 0 ]
@@ -6385,7 +5962,6 @@ Location "Lempo" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Finnish god of grass, roots of trees.
-# Additional info: 
 Location "Ljekio" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 197.70 49.10 0 ]
@@ -6395,7 +5971,6 @@ Location "Ljekio" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; god who gave first humans goodly color.
-# Additional info: 
 Location "Lodurr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 89.90 -50.80 0 ]
@@ -6405,7 +5980,6 @@ Location "Lodurr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse goddess of marriage.
-# Additional info: 
 Location "Lofn" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 337.70 -56.50 0 ]
@@ -6415,7 +5989,6 @@ Location "Lofn" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Loni" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 145.70 -3.60 0 ]
@@ -6425,7 +5998,6 @@ Location "Loni" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Mongolian; Mongol evil snake; tried to kill all living things.
-# Additional info: 
 Location "Losy" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 36.70 65.30 0 ]
@@ -6435,7 +6007,6 @@ Location "Losy" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Callisto's father.
-# Additional info: 
 Location "Lycaon" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 354.10 -45.40 0 ]
@@ -6445,7 +6016,6 @@ Location "Lycaon" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Saami sky god.
-# Additional info: 
 Location "Maderatcha" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 264.70 30.70 0 ]
@@ -6455,7 +6025,6 @@ Location "Maderatcha" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greek; another nymph of Artemis seduced by Zeus.
-# Additional info: 
 Location "Mera" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 284.80 64.10 0 ]
@@ -6465,7 +6034,6 @@ Location "Mera" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse giant.
-# Additional info: 
 Location "Mimir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 306.80 32.60 0 ]
@@ -6475,7 +6043,6 @@ Location "Mimir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Alaskan old man who perished while hunting on ice.
-# Additional info: 
 Location "Mitsina" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 256.30 57.50 0 ]
@@ -6485,7 +6052,6 @@ Location "Mitsina" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; son of Thor and Sif.
-# Additional info: 
 Location "Modi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 240.70 66.40 0 ]
@@ -6495,7 +6061,6 @@ Location "Modi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Finnish water god.
-# Additional info: 
 Location "Nakki" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 290.30 -56.40 0 ]
@@ -6505,7 +6070,6 @@ Location "Nakki" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Dec 30, 2008
 # Origin: Altaic hero who built ark to save his family from the flood.
-# Additional info: 
 Location "Nama" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 29.00 57.00 0 ]
@@ -6515,7 +6079,6 @@ Location "Nama" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Nár" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 314.00 -1.50 0 ]
@@ -6525,7 +6088,6 @@ Location "Nár" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Alaskan name of Sedna.
-# Additional info: 
 Location "Nerrivik" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 303.60 -16.90 0 ]
@@ -6535,7 +6097,6 @@ Location "Nerrivik" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Nidi" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 265.10 66.40 0 ]
@@ -6545,7 +6106,6 @@ Location "Nidi" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Karelian patron of squirrel hunting.
-# Additional info: 
 Location "Nirkes" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 195.70 31.40 0 ]
@@ -6555,7 +6115,6 @@ Location "Nirkes" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Nordic gods called the Vanir; pacific, benevolent, guardians of man.
-# Additional info: 
 Location "Njord" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 227.40 16.70 0 ]
@@ -6565,7 +6124,6 @@ Location "Njord" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Nori" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 16.40 45.20 0 ]
@@ -6575,7 +6133,6 @@ Location "Nori" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Mordvinian mistress of the field.
-# Additional info: 
 Location "Norov-Ava" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 247.20 54.60 0 ]
@@ -6585,7 +6142,6 @@ Location "Norov-Ava" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Irish chieftan god.
-# Additional info: 
 Location "Nuada" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 87.50 62.30 0 ]
@@ -6595,7 +6151,6 @@ Location "Nuada" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Dec 30, 2008
 # Origin: Mansi creator god.
-# Additional info: 
 Location "Numi-Torum" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 267.10 -50.10 0 ]
@@ -6605,7 +6160,6 @@ Location "Numi-Torum" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Brother of Callisto.
-# Additional info: 
 Location "Nyctimus" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 356.10 -62.80 0 ]
@@ -6615,7 +6169,6 @@ Location "Nyctimus" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Eskimo god of lakes.
-# Additional info: 
 Location "Oluksak" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 296.50 -47.80 0 ]
@@ -6625,7 +6178,6 @@ Location "Oluksak" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Komi wood spirit.
-# Additional info: 
 Location "Omol'" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 243.10 42.30 0 ]
@@ -6635,7 +6187,6 @@ Location "Omol'" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Brother of Callisto.
-# Additional info: 
 Location "Orestheus" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 312.30 -46.70 0 ]
@@ -6645,7 +6196,6 @@ Location "Orestheus" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; a name for Odin.
-# Additional info: 
 Location "Oski" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 91.00 57.50 0 ]
@@ -6655,7 +6205,6 @@ Location "Oski" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Innsteinn's son and Freyja's favorite.
-# Additional info: 
 Location "Ottar" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 256.10 61.50 0 ]
@@ -6665,7 +6214,6 @@ Location "Ottar" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Finno-Ugric god of barley.
-# Additional info: 
 Location "Pekko" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 354.60 18.30 0 ]
@@ -6675,7 +6223,6 @@ Location "Pekko" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Ottar's ancestor.
-# Additional info: 
 Location "Randver" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 306.10 -71.90 0 ]
@@ -6685,7 +6232,6 @@ Location "Randver" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Servant of the gods.
-# Additional info: 
 Location "Reginleif" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 263.50 -66.00 0 ]
@@ -6695,7 +6241,6 @@ Location "Reginleif" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Reginn" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 269.90 39.80 0 ]
@@ -6705,7 +6250,6 @@ Location "Reginn" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Ottar's ancestor.
-# Additional info: 
 Location "Reifnir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 305.70 -50.80 0 ]
@@ -6715,7 +6259,6 @@ Location "Reifnir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; another name for the god Heimdall.
-# Additional info: 
 Location "Rigr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 115.40 70.80 0 ]
@@ -6725,7 +6268,6 @@ Location "Rigr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Dec 30, 2008
 # Origin: Karelian deity of the harvest of rye.
-# Additional info: 
 Location "Rongoteus" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 253.90 53.60 0 ]
@@ -6735,7 +6277,6 @@ Location "Rongoteus" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Deity of the underground world.
-# Additional info: 
 Location "Rota" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 251.60 27.20 0 ]
@@ -6755,7 +6296,6 @@ Location "Saga" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Finno-Ugric goddess of childbirth.
-# Additional info: 
 Location "Sarakka" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 306.50 -3.30 0 ]
@@ -6765,7 +6305,6 @@ Location "Sarakka" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Eskimo; the sun.
-# Additional info: 
 Location "Seqinek" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 334.60 55.50 0 ]
@@ -6775,7 +6314,6 @@ Location "Seqinek" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Finno-Ugric heaven god.
-# Additional info: 
 Location "Sholmo" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 343.80 53.70 0 ]
@@ -6785,7 +6323,6 @@ Location "Sholmo" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse river.
-# Additional info: 
 Location "Sid Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 256.10 49.20 0 ]
@@ -6795,7 +6332,6 @@ Location "Sid Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Loki's wife.
-# Additional info: 
 Location "Sigyn" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 331.00 35.90 0 ]
@@ -6805,7 +6341,6 @@ Location "Sigyn" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Servant of the gods.
-# Additional info: 
 Location "Skeggold" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 328.10 -49.70 0 ]
@@ -6815,7 +6350,6 @@ Location "Skeggold" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse wolf.
-# Additional info: 
 Location "Sköll" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 44.40 55.60 0 ]
@@ -6825,7 +6359,6 @@ Location "Sköll" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; maiden living near Yggdrasill who governed the fate of humans.
-# Additional info: 
 Location "Skuld" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 322.10 10.00 0 ]
@@ -6835,7 +6368,6 @@ Location "Skuld" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Sudri" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 224.40 55.90 0 ]
@@ -6845,7 +6377,6 @@ Location "Sudri" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Dec 30, 2008
 # Origin: Russian (Buriat) world mountain.
-# Additional info: 
 Location "Sumbur" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 34.80 67.10 0 ]
@@ -6855,7 +6386,6 @@ Location "Sumbur" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse river.
-# Additional info: 
 Location "Svol Catena" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 322.80 10.60 0 ]
@@ -6865,7 +6395,6 @@ Location "Svol Catena" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Finnish deity of the wood who sends game to the hunter.
-# Additional info: 
 Location "Tapio" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 251.40 30.10 0 ]
@@ -6875,7 +6404,6 @@ Location "Tapio" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Thekkr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 298.00 -80.30 0 ]
@@ -6885,7 +6413,6 @@ Location "Thekkr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Ottar's ancestor.
-# Additional info: 
 Location "Thorir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 293.30 -31.90 0 ]
@@ -6895,7 +6422,6 @@ Location "Thorir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Ottar's ancestor.
-# Additional info: 
 Location "Tindr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 4.50 -2.30 0 ]
@@ -6905,7 +6431,6 @@ Location "Tindr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Finnish god of housekeeping.
-# Additional info: 
 Location "Tontu" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 259.70 27.60 0 ]
@@ -6915,7 +6440,6 @@ Location "Tontu" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Greenland legendary hero.
-# Additional info: 
 Location "Tornarsuk" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 232.40 28.80 0 ]
@@ -6925,7 +6449,6 @@ Location "Tornarsuk" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Estonian epic hero; struggled with a giant.
-# Additional info: 
 Location "Tyll" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 193.50 44.80 0 ]
@@ -6935,7 +6458,6 @@ Location "Tyll" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Great god of Germanic peoples.
-# Additional info: 
 Location "Tyn" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 127.50 71.10 0 ]
@@ -6945,7 +6467,6 @@ Location "Tyn" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Oct 01, 2006
 # Origin: Lapp protector goddess.
-# Additional info: 
 Location "Uksakka" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 317.80 -49.50 0 ]
@@ -6955,7 +6476,6 @@ Location "Uksakka" "Sol/Jupiter/Callisto"
 
 # Approval date: 2000; Last update: Oct 01, 2006
 # Origin: Teutonic home of giants.
-# Additional info: 
 Location "Utgard" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 226.00 45.00 0 ]
@@ -6965,7 +6485,6 @@ Location "Utgard" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Nov 17, 2008
 # Origin: Norse; a name for Odin, god of wisdom.
-# Additional info: 
 Location "Valfödr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 113.00 -1.30 0 ]
@@ -6975,7 +6494,6 @@ Location "Valfödr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Odin's hall, where he received the souls of slain warriors.
-# Additional info: 
 Location "Valhalla" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 304.00 14.70 0 ]
@@ -6985,7 +6503,6 @@ Location "Valhalla" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; Ottar's ancestor.
-# Additional info: 
 Location "Vali" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 34.70 9.70 0 ]
@@ -6995,7 +6512,6 @@ Location "Vali" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Estonian, a wicked giant.
-# Additional info: 
 Location "Vanapagan" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 201.50 39.50 0 ]
@@ -7005,7 +6521,6 @@ Location "Vanapagan" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Saami god of fertility.
-# Additional info: 
 Location "Veralden" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 264.50 33.30 0 ]
@@ -7015,7 +6530,6 @@ Location "Veralden" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Vestri" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 307.50 45.30 0 ]
@@ -7025,7 +6539,6 @@ Location "Vestri" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Norse god.
-# Additional info: 
 Location "Vidarr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 166.60 12.10 0 ]
@@ -7045,7 +6558,6 @@ Location "Vili" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse dwarf.
-# Additional info: 
 Location "Vitr" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 10.60 -22.10 0 ]
@@ -7055,7 +6567,6 @@ Location "Vitr" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Estonian spirit of water.
-# Additional info: 
 Location "Vu-Murt" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 189.70 21.50 0 ]
@@ -7065,7 +6576,6 @@ Location "Vu-Murt" "Sol/Jupiter/Callisto"
 
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Estonian spirit of water.
-# Additional info: 
 Location "Vutash" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 257.70 31.60 0 ]
@@ -7075,7 +6585,6 @@ Location "Vutash" "Sol/Jupiter/Callisto"
 
 # Approval date: 1979; Last update: Oct 01, 2006
 # Origin: Norse; giant from whom Earth was created.
-# Additional info: 
 Location "Ymir" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 260.30 51.50 0 ]
@@ -7085,7 +6594,6 @@ Location "Ymir" "Sol/Jupiter/Callisto"
 
 # Approval date: 1997; Last update: Dec 30, 2008
 # Origin: Yakutian heaven god.
-# Additional info: 
 Location "Yuryung" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 274.30 -54.70 0 ]
