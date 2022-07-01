@@ -1563,6 +1563,7 @@ Location "Burney" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 27, 2022; Last update: Jun 07, 2022
 # Origin: Second fully operational US Space Shuttle, first launched on April 4, 1983. It was lost during its tenth launch on January 28, 1986.
+# Additional info: 
 Location "Challenger Colles" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 195.10 23.05 0 ]
@@ -1582,6 +1583,7 @@ Location "Coleman Mons" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 27, 2022; Last update: Jun 07, 2022
 # Origin: First fully operational US space shuttle, launched first on April 12, 1981, and lost during re-entry on February 1, 2003.
+# Additional info: 
 Location "Columbia Colles" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 196.36 28.53 0 ]
@@ -1591,6 +1593,7 @@ Location "Columbia Colles" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 27, 2022; Last update: Jun 07, 2022
 # Origin: Angioletta; Italian planetary scientist (1946-2011).
+# Additional info: 
 Location "Coradini" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 191.43 42.88 0 ]
@@ -1780,6 +1783,7 @@ Location "Kiladze" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 27, 2022; Last update: Jun 07, 2022
 # Origin: Charles T.; American astronomer and discoverer of 2060 Chiron (1940-2011).
+# Additional info: 
 Location "Kowal" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 217.87 49.48 0 ]
@@ -1789,6 +1793,7 @@ Location "Kowal" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 27, 2022; Last update: Jun 03, 2022
 # Origin: Lemminkäinen is a hero of the Finnish national epic The Kalevala. He travels to the Underworld to capture the black swan.
+# Additional info: 
 Location "Lemminkäinen Vallis" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 238.73 87.42 0 ]
@@ -1908,6 +1913,7 @@ Location "Ride Rupes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 27, 2022; Last update: Jun 07, 2022
 # Origin: Rosetta mission, the first mission to orbit and land a spacecraft on a comet.
+# Additional info: 
 Location "Rosetta Planitia" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 157.22 -22.31 0 ]
@@ -1997,6 +2003,7 @@ Location "Uncama Fossa" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 27, 2022; Last update: Jun 07, 2022
 # Origin: Väinämöinen is a central character of the Finnish national epic The Kalevala. He traveled to the Underworld to seek knowledge of the dead.
+# Additional info: 
 Location "Väinämöinen Vallis" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 70.81 80.70 0 ]

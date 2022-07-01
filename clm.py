@@ -65,11 +65,11 @@ def reader(target):
 
             # Comments
             if comments:
-                if data["Approval Date"] != "" and data["Last Updated"] != "":
+                if data["Approval Date"] != None and data["Last Updated"] != None:
                     location += f'# Approval date: {data["Approval Date"]}; Last update: {data["Last Updated"]}\n'
-                if data["Origin"] != "":
+                if data["Origin"] != None:
                     location += f'# Origin: {data["Origin"]}\n'
-                if data["Additional Info"] != "":
+                if data["Additional Info"] != None:
                     location += f'# Additional info: {data["Additional Info"]}\n'
             
             # Name
