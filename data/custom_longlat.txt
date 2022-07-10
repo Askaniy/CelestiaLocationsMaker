@@ -9,9 +9,9 @@ Lynceus	-272 14 -7
 Phoibe	-349 55 4
 
 # Puck
-Bogle
-Butz
-Lob
+Bogle	115 12 0
+Butz	25 41 0
+Lob	63 29 0
 
 # Proteus
 Pharos	-5 -20 4
