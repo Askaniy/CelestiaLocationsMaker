@@ -2,15 +2,9 @@ import os
 import sys
 import csv
 import inspect
+from math import ceil
 from datetime import date
 today = date.today().strftime("%d.%m.%Y")
-
-
-# Customizable flags
-
-celestia16 = False
-description = True
-comments = True
 
 
 # Lists
@@ -22,19 +16,18 @@ sets = {
     "mars_locs.ssc": ["Mars"],
     "marsmoons_locs.ssc": ["Phobos", "Deimos"],
     "jupitermoons_locs.ssc": ["Amalthea", "Thebe", "Io", "Europa", "Ganymede", "Callisto"],
-    "saturnmoons_locs.ssc": ["Epimetheus", "Janus", "Mimas", "Enceladus", "Tethys", "Dione", "Rhea", "Titan", "Hyperion", "Iapetus", "Phoebe"],
+    "saturnmoons_locs.ssc": [
+        "Epimetheus", "Janus", "Mimas", "Enceladus", "Tethys", "Dione", "Rhea", "Titan", "Hyperion", "Iapetus", "Phoebe"
+    ],
     "uranusmoons_locs.ssc": ["Puck", "Miranda", "Ariel", "Umbriel", "Titania", "Oberon"],
     "neptunemoons_locs.ssc": ["Proteus", "Triton"],
     "dwarf_planets_locs.ssc": ["Ceres", "Pluto", "Charon"],
-    "asteroids_locs.ssc": ["Vesta", "Lutetia", "Ida", "Dactyl", "Mathilde", "Eros", "Gaspra", "Steins", "Itokawa", "Bennu", "Ryugu"]
+    "asteroids_locs.ssc": [
+        "Vesta", "Lutetia", "Ida", "Dactyl", "Mathilde", "Eros", "Gaspra", "Steins", "Itokawa", "Bennu", "Ryugu"
+    ]
 }
 
-objects = (
-    "Amalthea", "Ariel", "Bennu", "Callisto", "Ceres", "Charon", "Dactyl", "Deimos", "Dione", "Enceladus", "Epimetheus", "Eros",
-    "Europa", "Ganymede", "Gaspra", "Hyperion", "Iapetus", "Ida", "Io", "Itokawa", "Janus", "Lutetia", "Mars", "Mathilde",
-    "Mercury", "Mimas", "Miranda", "Moon", "Oberon", "Phobos", "Phoebe", "Pluto", "Proteus", "Puck", "Rhea", "Ryugu", "Steins",
-    "Tethys", "Thebe", "Titan", "Titania", "Triton", "Umbriel", "Venus", "Vesta"
-)
+objects = tuple(sorted(sum(sets.values(), [])))
 
 retrograde_rotators = (
     "Ariel", "Bennu", "Ida", "Itokawa", "Miranda", "Oberon", "Puck", "Ryugu", "Steins", "Titania", "Triton", "Umbriel", "Venus"
@@ -43,13 +36,13 @@ retrograde_rotators = (
 #columns = (
 #   'Feature ID', 'Feature Name', 'Clean Feature Name', 'Target', 'Diameter', 'Center Latitude', 'Center Longitude',
 #   'Northernmost Latitude', 'Southernmost Latitude', 'Easternmost Longitude', 'Westernmost Longitude', 'Coordinate System',
-#   'Continent Ethnicity', 'Feature Type', 'Feature Type Code', 'Quad', 'Approval Status', 'Approval Date', 'Reference', 'Origin',
-#   'Additional Info', 'Last Updated'
+#   'Continent Ethnicity', 'Feature Type', 'Feature Type Code', 'Quad', 'Approval Status', 'Approval Date', 'Reference',
+#   'Origin', 'Additional Info', 'Last Updated'
 #)
 
 celestia16supports = (
-    "AA", "AS", "CA", "CH", "CM", "CR", "DO", "ER", "FL", "FO", "FR", "IN", "LF", "LI", "ME", "MN", "MO", "PE", "PL", "PM", "RE", "RI",
-    "RT", "RU", "TA", "TE", "TH", "UN", "VA", "XX"
+    "AA", "AS", "CA", "CH", "CM", "CR", "DO", "ER", "FL", "FO", "FR", "IN", "LF", "LI", "ME", "MN", "MO", "PE", "PL", "PM",
+    "RE", "RI", "RT", "RU", "TA", "TE", "TH", "UN", "VA", "XX"
 )
 
 
@@ -198,51 +191,74 @@ except Exception:
     sys.exit(1)
 
 
-# Target detection
 
-print("\n  Welcome to Celestia Locations Maker!\n  Please choose processing mode:")
-print("\nStandard object sets       Objects separately")
-print("[0] Select...              [1] Select...")
-print("[2] Process all            [3] Process all")
-choice = input("\nEnter the number to start: ")
+print("\n                     Welcome to Celestia Locations Maker!")
+print("              First come settings, then the selection of targets.\n")
 
-if choice == "0":
-    temp = "\n"
-    for index, item in enumerate(list(sets.keys())):
-        temp += f"[{index}] {item}".ljust(26)
-        if (index + 1) % 2 == 0:
-            print(temp)
-            temp = ""
-    if temp != "":
-        print(temp)
-    
-    try:
-        set_list = [list(sets.items())[int(input("\nPlease enter the target number: "))]]
-    except Exception:
-        print("Input was wrong, please try again.\n")
-        sys.exit(2)
 
-elif choice == "1":
-    temp = "\n"
-    for index, item in enumerate(objects):
-        temp += f"[{index}] {item}".ljust(16)
-        if (index + 1) % 3 == 0:
-            print(temp)
-            temp = ""
-    if temp != "":
-        print(temp)
-    
-    try:
-        set_list = [objects[int(input("\nPlease enter the target number: "))]]
-    except Exception:
-        print("Input was wrong, please try again.\n")
-        sys.exit(2)
+# Setting flags
+
+yes_list = ("y", "t", "1")
+no_list = ("n", "f", "0")
+
+# by default
+celestia16 = False
+description = True
+comments = True
+
+if input("(1/3) Do you want to constrain location types according to Celestia 1.6? [y/n] (n): ").strip().lower() in yes_list:
+    celestia16 = True
+if input("(2/3) Do you want to add a file description to the first lines of SSC? [y/n] (y): ").strip().lower() in no_list:
+    description = False
+if input("(3/3) Do you want to add comments to SSC about each location? [y/n] (y): ").strip().lower() in no_list:
+    comments = False
+
+
+# Target selection
+
+print("\n[1] Create SSC for each object    [3] Create SSCs according to standard object sets")
+print("[2] Select object...              [4] Select set...")
+
+choice = input("\nPlease choose processing mode: ")
+
+if choice == "1":
+    set_list = objects
 
 elif choice == "2":
-    set_list = list(sets.items())
+    table = "\n"
+    worklist = objects
+    col_len = ceil(len(worklist) / 3)
+    columns = [worklist[0:col_len], worklist[col_len:2*col_len], worklist[2*col_len:]]
+    for i in range(col_len):
+        table += f'[{i+1          }] {columns[0][i]}'.ljust(20)
+        table += f'[{i+1 + col_len}] {columns[1][i]}'.ljust(20)
+        table += f'[{i+1+2*col_len}] {columns[2][i]}\n' if i < len(columns[2]) else "\n"
+    print(table)
+    
+    try:
+        set_list = [worklist[int(input("Please enter the target number: ")) - 1]]
+    except Exception:
+        print("Input was wrong, please try again.\n")
+        sys.exit(2)
 
 elif choice == "3":
-    set_list = objects
+    set_list = list(sets.items())
+
+elif choice == "4":
+    table = "\n"
+    worklist = list(sets.keys())
+    col_len = ceil(len(worklist) / 2)
+    columns = [worklist[0:col_len], worklist[col_len:]]
+    for i in range(col_len):
+        table += f'[{i+1        }] {columns[0][i]}'.ljust(30)
+        table += f'[{i+1+col_len}] {columns[1][i]}\n' if i < len(columns[1]) else "\n"
+    print(table)
+    
+    try:
+        set_list = [list(sets.items())[int(input("Please enter the target number: ")) - 1]]
+    except Exception:
+        print("Input was wrong, please try again.\n")
+        sys.exit(2)
 
 else:
     print("Input was wrong, please try again.\n")
@@ -298,5 +314,5 @@ with open(data_path + "/searchresults.csv", "r", encoding="UTF-8") as SearchResu
             save_path = f'{path}/locations/{set_contains.lower()}_locs.ssc'
         writer(obj_list, save_path)
         print(f'Saved: {save_path}\n')
-    print(f'Done\n')
+    print(f'Done!\n')
     #print("Zero sized locations: ", zero_size_counter)
