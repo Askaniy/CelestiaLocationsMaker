@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 01.07.2022
-# Last update: 01.07.2022
+# Date of creation: 04.01.2023
+# Last update: 04.01.2023
 
 
 # 20 locations on Phobos.
@@ -12,7 +12,7 @@
 # Origin: Character in Lilliput who informed Flimnap that his wife had visited Gulliver privately in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Clustril" "Sol/Mars/Phobos"
 {
-	LongLat	[ 269.00 60.00 0 ]
+	LongLat	[ 91.00 60.00 0 ]
 	Size	3.40
 	Type	"AA"	# Crater, craters
 }
@@ -21,7 +21,7 @@ Location "Clustril" "Sol/Mars/Phobos"
 # Origin: Heinrich L.; German/Danish astronomer (1822-1875).
 Location "D'Arrest" "Sol/Mars/Phobos"
 {
-	LongLat	[ 181.00 -39.00 0 ]
+	LongLat	[ 179.00 -39.00 0 ]
 	Size	2.10
 	Type	"AA"	# Crater, craters
 }
@@ -30,7 +30,7 @@ Location "D'Arrest" "Sol/Mars/Phobos"
 # Origin: Character in Lilliput who informed Flimnap that his wife had visited Gulliver privately in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Drunlo" "Sol/Mars/Phobos"
 {
-	LongLat	[ 268.00 36.50 0 ]
+	LongLat	[ 92.00 36.50 0 ]
 	Size	4.20
 	Type	"AA"	# Crater, craters
 }
@@ -39,7 +39,7 @@ Location "Drunlo" "Sol/Mars/Phobos"
 # Origin: Treasurer of Lilliput in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Flimnap" "Sol/Mars/Phobos"
 {
-	LongLat	[ 10.00 60.00 0 ]
+	LongLat	[ 350.00 60.00 0 ]
 	Size	1.50
 	Type	"AA"	# Crater, craters
 }
@@ -48,7 +48,7 @@ Location "Flimnap" "Sol/Mars/Phobos"
 # Origin: Name given to Gulliver by the farmer's daughter in the giants’ country Brobdingnag in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Grildrig" "Sol/Mars/Phobos"
 {
-	LongLat	[ 165.00 81.00 0 ]
+	LongLat	[ 195.00 81.00 0 ]
 	Size	2.60
 	Type	"AA"	# Crater, craters
 }
@@ -57,7 +57,7 @@ Location "Grildrig" "Sol/Mars/Phobos"
 # Origin: Lemuel Gulliver, surgeon, captain, and voyager in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Gulliver" "Sol/Mars/Phobos"
 {
-	LongLat	[ 197.00 62.00 0 ]
+	LongLat	[ 163.00 62.00 0 ]
 	Size	5.50
 	Type	"AA"	# Crater, craters
 }
@@ -66,7 +66,7 @@ Location "Gulliver" "Sol/Mars/Phobos"
 # Origin: Asaph; American astronomer, discoverer of Phobos and Deimos (1829-1907).
 Location "Hall" "Sol/Mars/Phobos"
 {
-	LongLat	[ 150.00 -80.00 0 ]
+	LongLat	[ 210.00 -80.00 0 ]
 	Size	5.40
 	Type	"AA"	# Crater, craters
 }
@@ -75,7 +75,7 @@ Location "Hall" "Sol/Mars/Phobos"
 # Origin: Johannes; German astronomer (1571-1630).
 Location "Kepler Dorsum" "Sol/Mars/Phobos"
 {
-	LongLat	[ 4.00 -45.00 0 ]
+	LongLat	[ 356.00 -45.00 0 ]
 	Size	15.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -84,7 +84,7 @@ Location "Kepler Dorsum" "Sol/Mars/Phobos"
 # Origin: Fictional city in Jonathan Swift's Gulliver's Travels, ruled by a tyrannical king from the flying island Laputa.
 Location "Lagado Planitia" "Sol/Mars/Phobos"
 {
-	LongLat	[ 129.00 19.00 0 ]
+	LongLat	[ 231.00 19.00 0 ]
 	Size	4.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -93,7 +93,7 @@ Location "Lagado Planitia" "Sol/Mars/Phobos"
 # Origin: Fictional flying island in Jonathan Swift's Gulliver's Travels.
 Location "LAPUTA REGIO" "Sol/Mars/Phobos"
 {
-	LongLat	[ 95.00 0.00 0 ]
+	LongLat	[ 265.00 0.00 0 ]
 	Size	14.00
 	Type	"RE"	# Regio, regiones
 }
@@ -102,7 +102,7 @@ Location "LAPUTA REGIO" "Sol/Mars/Phobos"
 # Origin: General in Lilliput who prepared articles of impeachment against Gulliver in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Limtoc" "Sol/Mars/Phobos"
 {
-	LongLat	[ 306.00 -11.00 0 ]
+	LongLat	[ 54.00 -11.00 0 ]
 	Size	2.00
 	Type	"AA"	# Crater, craters
 }
@@ -111,7 +111,7 @@ Location "Limtoc" "Sol/Mars/Phobos"
 # Origin: Ernst J., Estonian astronomer (1893-1985).
 Location "Öpik" "Sol/Mars/Phobos"
 {
-	LongLat	[ 63.00 -7.00 0 ]
+	LongLat	[ 297.00 -7.00 0 ]
 	Size	2.00
 	Type	"AA"	# Crater, craters
 }
@@ -120,7 +120,7 @@ Location "Öpik" "Sol/Mars/Phobos"
 # Origin: Secretary for Private Affairs in Lilliput; Gulliver's friend in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Reldresal" "Sol/Mars/Phobos"
 {
-	LongLat	[ 321.00 41.00 0 ]
+	LongLat	[ 39.00 41.00 0 ]
 	Size	2.90
 	Type	"AA"	# Crater, craters
 }
@@ -129,7 +129,7 @@ Location "Reldresal" "Sol/Mars/Phobos"
 # Origin: Edouard; French astronomer (1820-1883).
 Location "Roche" "Sol/Mars/Phobos"
 {
-	LongLat	[ 177.00 53.00 0 ]
+	LongLat	[ 183.00 53.00 0 ]
 	Size	2.30
 	Type	"AA"	# Crater, craters
 }
@@ -138,7 +138,7 @@ Location "Roche" "Sol/Mars/Phobos"
 # Origin: Bevan P.; American astronomer (1904-1950).
 Location "Sharpless" "Sol/Mars/Phobos"
 {
-	LongLat	[ 206.00 -27.50 0 ]
+	LongLat	[ 154.00 -27.50 0 ]
 	Size	1.80
 	Type	"AA"	# Crater, craters
 }
@@ -147,7 +147,7 @@ Location "Sharpless" "Sol/Mars/Phobos"
 # Origin: Iosif S., Soviet astronomer (1916-1985).
 Location "Shklovsky" "Sol/Mars/Phobos"
 {
-	LongLat	[ 112.00 24.00 0 ]
+	LongLat	[ 248.00 24.00 0 ]
 	Size	2.00
 	Type	"AA"	# Crater, craters
 }
@@ -156,7 +156,7 @@ Location "Shklovsky" "Sol/Mars/Phobos"
 # Origin: Skyresh Bolgolam, High Admiral of the Lilliput council who opposed Gulliver’s plea for freedom and accused him of being a traitor in Jonathan Swift's novel “;Gulliver's Travels.“;
 Location "Skyresh" "Sol/Mars/Phobos"
 {
-	LongLat	[ 40.00 52.50 0 ]
+	LongLat	[ 320.00 52.50 0 ]
 	Size	1.50
 	Type	"AA"	# Crater, craters
 }
@@ -165,7 +165,7 @@ Location "Skyresh" "Sol/Mars/Phobos"
 # Origin: Angeline; wife of American astronomer A. Hall (1830-1892).
 Location "Stickney" "Sol/Mars/Phobos"
 {
-	LongLat	[ 311.00 1.00 0 ]
+	LongLat	[ 49.00 1.00 0 ]
 	Size	9.00
 	Type	"AA"	# Crater, craters
 }
@@ -174,7 +174,7 @@ Location "Stickney" "Sol/Mars/Phobos"
 # Origin: David; American astronomer (1855-1939).
 Location "Todd" "Sol/Mars/Phobos"
 {
-	LongLat	[ 207.00 -9.00 0 ]
+	LongLat	[ 153.00 -9.00 0 ]
 	Size	2.60
 	Type	"AA"	# Crater, craters
 }
@@ -183,7 +183,7 @@ Location "Todd" "Sol/Mars/Phobos"
 # Origin: Oliver C.; American astronomer (1845-1912).
 Location "Wendell" "Sol/Mars/Phobos"
 {
-	LongLat	[ 228.00 -1.00 0 ]
+	LongLat	[ 132.00 -1.00 0 ]
 	Size	1.70
 	Type	"AA"	# Crater, craters
 }
@@ -195,7 +195,7 @@ Location "Wendell" "Sol/Mars/Phobos"
 # Origin: Jonathan; British writer (1667-1745).
 Location "Swift" "Sol/Mars/Deimos"
 {
-	LongLat	[ 1.80 12.50 0 ]
+	LongLat	[ 358.20 12.50 0 ]
 	Size	1.00
 	Type	"AA"	# Crater, craters
 }
@@ -204,7 +204,7 @@ Location "Swift" "Sol/Mars/Deimos"
 # Origin: Francios-Marie Arouet; French writer (1694-1778).
 Location "Voltaire" "Sol/Mars/Deimos"
 {
-	LongLat	[ 356.50 22.00 0 ]
+	LongLat	[ 3.50 22.00 0 ]
 	Size	1.90
 	Type	"AA"	# Crater, craters
 }

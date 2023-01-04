@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 01.07.2022
-# Last update: 01.07.2022
+# Date of creation: 04.01.2023
+# Last update: 04.01.2023
 
 
 # 106 locations on Vesta.
@@ -1700,7 +1700,7 @@ Location "Celmis" "Sol/Ida/Dactyl"
 # Origin: German coal basin.
 Location "Aachen" "Sol/Mathilde"
 {
-	LongLat	[ 299.10 9.20 0 ]
+	LongLat	[ 60.90 9.20 0 ]
 	Size	4.80
 	Type	"AA"	# Crater, craters
 }
@@ -1709,7 +1709,7 @@ Location "Aachen" "Sol/Mathilde"
 # Origin: Mongolian coal basin.
 Location "Baganur" "Sol/Mathilde"
 {
-	LongLat	[ 168.40 14.60 0 ]
+	LongLat	[ 191.60 14.60 0 ]
 	Size	16.40
 	Type	"AA"	# Crater, craters
 }
@@ -1718,7 +1718,7 @@ Location "Baganur" "Sol/Mathilde"
 # Origin: Coal mine in Kentucky, USA.
 Location "Benham" "Sol/Mathilde"
 {
-	LongLat	[ 112.80 19.00 0 ]
+	LongLat	[ 247.20 19.00 0 ]
 	Size	2.20
 	Type	"AA"	# Crater, craters
 }
@@ -1727,7 +1727,7 @@ Location "Benham" "Sol/Mathilde"
 # Origin: Scottish coal basin.
 Location "Clackmannan" "Sol/Mathilde"
 {
-	LongLat	[ 99.20 18.90 0 ]
+	LongLat	[ 260.80 18.90 0 ]
 	Size	2.80
 	Type	"AA"	# Crater, craters
 }
@@ -1736,7 +1736,7 @@ Location "Clackmannan" "Sol/Mathilde"
 # Origin: Largest Indian coal basin.
 Location "Damodar" "Sol/Mathilde"
 {
-	LongLat	[ 96.20 73.00 0 ]
+	LongLat	[ 263.80 73.00 0 ]
 	Size	28.70
 	Type	"AA"	# Crater, craters
 }
@@ -1745,7 +1745,7 @@ Location "Damodar" "Sol/Mathilde"
 # Origin: Nigerian coal field.
 Location "Enugu" "Sol/Mathilde"
 {
-	LongLat	[ 208.40 -15.30 0 ]
+	LongLat	[ 151.60 -15.30 0 ]
 	Size	5.90
 	Type	"AA"	# Crater, craters
 }
@@ -1754,7 +1754,7 @@ Location "Enugu" "Sol/Mathilde"
 # Origin: Largest Japanese coal field.
 Location "Ishikari" "Sol/Mathilde"
 {
-	LongLat	[ 173.10 -66.20 0 ]
+	LongLat	[ 186.90 -66.20 0 ]
 	Size	29.30
 	Type	"AA"	# Crater, craters
 }
@@ -1763,7 +1763,7 @@ Location "Ishikari" "Sol/Mathilde"
 # Origin: Largest Moroccan coal basin.
 Location "Jerada" "Sol/Mathilde"
 {
-	LongLat	[ 182.70 42.10 0 ]
+	LongLat	[ 177.30 42.10 0 ]
 	Size	2.50
 	Type	"AA"	# Crater, craters
 }
@@ -1772,7 +1772,7 @@ Location "Jerada" "Sol/Mathilde"
 # Origin: Chinese coal basin.
 Location "Jixi" "Sol/Mathilde"
 {
-	LongLat	[ 103.50 -12.30 0 ]
+	LongLat	[ 256.50 -12.30 0 ]
 	Size	19.90
 	Type	"AA"	# Crater, craters
 }
@@ -1781,7 +1781,7 @@ Location "Jixi" "Sol/Mathilde"
 # Origin: Coal field on Borneo, Indonesia.
 Location "Kalimantan" "Sol/Mathilde"
 {
-	LongLat	[ 236.30 -7.70 0 ]
+	LongLat	[ 123.70 -7.70 0 ]
 	Size	2.70
 	Type	"AA"	# Crater, craters
 }
@@ -1790,7 +1790,7 @@ Location "Kalimantan" "Sol/Mathilde"
 # Origin: South African coal basin.
 Location "Karoo" "Sol/Mathilde"
 {
-	LongLat	[ 261.60 33.50 0 ]
+	LongLat	[ 98.40 33.50 0 ]
 	Size	33.40
 	Type	"AA"	# Crater, craters
 }
@@ -1799,7 +1799,7 @@ Location "Karoo" "Sol/Mathilde"
 # Origin: Russian coal basin.
 Location "Kuznetsk" "Sol/Mathilde"
 {
-	LongLat	[ 271.10 -45.90 0 ]
+	LongLat	[ 88.90 -45.90 0 ]
 	Size	28.50
 	Type	"AA"	# Crater, craters
 }
@@ -1808,7 +1808,7 @@ Location "Kuznetsk" "Sol/Mathilde"
 # Origin: Largest French coal basin.
 Location "Lorraine" "Sol/Mathilde"
 {
-	LongLat	[ 217.50 48.10 0 ]
+	LongLat	[ 142.50 48.10 0 ]
 	Size	4.10
 	Type	"AA"	# Crater, craters
 }
@@ -1817,7 +1817,7 @@ Location "Lorraine" "Sol/Mathilde"
 # Origin: Polish coal basin.
 Location "Lublin" "Sol/Mathilde"
 {
-	LongLat	[ 203.20 55.30 0 ]
+	LongLat	[ 156.80 55.30 0 ]
 	Size	6.50
 	Type	"AA"	# Crater, craters
 }
@@ -1826,7 +1826,7 @@ Location "Lublin" "Sol/Mathilde"
 # Origin: Bulgarian coal field.
 Location "Maritsa" "Sol/Mathilde"
 {
-	LongLat	[ 208.50 44.60 0 ]
+	LongLat	[ 151.50 44.60 0 ]
 	Size	2.40
 	Type	"AA"	# Crater, craters
 }
@@ -1835,7 +1835,7 @@ Location "Maritsa" "Sol/Mathilde"
 # Origin: Coal field in Alaska, USA.
 Location "Matanuska" "Sol/Mathilde"
 {
-	LongLat	[ 142.70 27.30 0 ]
+	LongLat	[ 217.30 27.30 0 ]
 	Size	2.90
 	Type	"AA"	# Crater, craters
 }
@@ -1844,7 +1844,7 @@ Location "Matanuska" "Sol/Mathilde"
 # Origin: Australian coal basin.
 Location "Mulgildie" "Sol/Mathilde"
 {
-	LongLat	[ 183.90 57.70 0 ]
+	LongLat	[ 176.10 57.70 0 ]
 	Size	2.50
 	Type	"AA"	# Crater, craters
 }
@@ -1853,7 +1853,7 @@ Location "Mulgildie" "Sol/Mathilde"
 # Origin: Mexican coal fields.
 Location "Oaxaca" "Sol/Mathilde"
 {
-	LongLat	[ 173.70 38.70 0 ]
+	LongLat	[ 186.30 38.70 0 ]
 	Size	5.20
 	Type	"AA"	# Crater, craters
 }
@@ -1862,7 +1862,7 @@ Location "Oaxaca" "Sol/Mathilde"
 # Origin: Largest New Zealand coal field.
 Location "Otago" "Sol/Mathilde"
 {
-	LongLat	[ 195.50 23.70 0 ]
+	LongLat	[ 164.50 23.70 0 ]
 	Size	7.90
 	Type	"AA"	# Crater, craters
 }
@@ -1871,7 +1871,7 @@ Location "Otago" "Sol/Mathilde"
 # Origin: Pakistani coal field.
 Location "Quetta" "Sol/Mathilde"
 {
-	LongLat	[ 194.50 45.60 0 ]
+	LongLat	[ 165.50 45.60 0 ]
 	Size	3.20
 	Type	"AA"	# Crater, craters
 }
@@ -1880,7 +1880,7 @@ Location "Quetta" "Sol/Mathilde"
 # Origin: Canadian coal field.
 Location "Similkameen" "Sol/Mathilde"
 {
-	LongLat	[ 255.30 -13.50 0 ]
+	LongLat	[ 104.70 -13.50 0 ]
 	Size	3.40
 	Type	"AA"	# Crater, craters
 }
@@ -1889,7 +1889,7 @@ Location "Similkameen" "Sol/Mathilde"
 # Origin: Spanish coal field.
 Location "Teruel" "Sol/Mathilde"
 {
-	LongLat	[ 217.30 -28.10 0 ]
+	LongLat	[ 142.70 -28.10 0 ]
 	Size	7.60
 	Type	"AA"	# Crater, craters
 }
@@ -1898,7 +1898,7 @@ Location "Teruel" "Sol/Mathilde"
 # Origin: Principal state in Venezuela in which coal is mined.
 Location "Zulia" "Sol/Mathilde"
 {
-	LongLat	[ 329.10 -39.50 0 ]
+	LongLat	[ 30.90 -39.50 0 ]
 	Size	12.30
 	Type	"AA"	# Crater, craters
 }
@@ -1910,7 +1910,7 @@ Location "Zulia" "Sol/Mathilde"
 # Origin: Peter; French philosopher, lover of Heloise (1079-1142).
 Location "Abelard" "Sol/Eros"
 {
-	LongLat	[ 347.80 -3.50 0 ]
+	LongLat	[ 12.20 -3.50 0 ]
 	Size	1.10
 	Type	"AA"	# Crater, craters
 }
@@ -1919,7 +1919,7 @@ Location "Abelard" "Sol/Eros"
 # Origin: Ethiopian slave, beloved of Egyptian officer Radames in Verdi's opera “;Aida“; (Italy, 1870).
 Location "Aida" "Sol/Eros"
 {
-	LongLat	[ 229.50 7.90 0 ]
+	LongLat	[ 130.50 7.90 0 ]
 	Size	1.60
 	Type	"AA"	# Crater, craters
 }
@@ -1928,7 +1928,7 @@ Location "Aida" "Sol/Eros"
 # Origin: Lover of Tinatin in Shota Rustavely's novel “;Knight in tiger-skin“; (Georgia, 12th century).
 Location "Avtandil" "Sol/Eros"
 {
-	LongLat	[ 126.90 -22.50 0 ]
+	LongLat	[ 233.10 -22.50 0 ]
 	Size	1.20
 	Type	"AA"	# Crater, craters
 }
@@ -1937,7 +1937,7 @@ Location "Avtandil" "Sol/Eros"
 # Origin: Romantic heroine of Flaubert's novel “;Madame Bovary“; (France, 19th century).
 Location "Bovary" "Sol/Eros"
 {
-	LongLat	[ 332.70 -61.00 0 ]
+	LongLat	[ 27.30 -61.00 0 ]
 	Size	0.80
 	Type	"AA"	# Crater, craters
 }
@@ -1946,7 +1946,7 @@ Location "Bovary" "Sol/Eros"
 # Origin: Giovanni; Italian adventurer, lover and author (1725-1798).
 Location "Casanova" "Sol/Eros"
 {
-	LongLat	[ 124.00 46.60 0 ]
+	LongLat	[ 236.00 46.60 0 ]
 	Size	0.90
 	Type	"AA"	# Crater, craters
 }
@@ -1955,7 +1955,7 @@ Location "Casanova" "Sol/Eros"
 # Origin: Tragic lover of Heathcliff in Emily Brontë's novel “;Wuthering Heights“; (England, 1847).
 Location "Catherine" "Sol/Eros"
 {
-	LongLat	[ 188.90 9.10 0 ]
+	LongLat	[ 171.10 9.10 0 ]
 	Size	1.10
 	Type	"AA"	# Crater, craters
 }
@@ -1964,7 +1964,7 @@ Location "Catherine" "Sol/Eros"
 # Origin: Auguste Honore Pierre; French astronomer, independent discoverer of Eros (1864-1910).
 Location "CHARLOIS REGIO" "Sol/Eros"
 {
-	LongLat	[ 30.00 -16.00 0 ]
+	LongLat	[ 330.00 -16.00 0 ]
 	Size	10
 	Type	"RE"	# Regio, regiones
 }
@@ -1973,7 +1973,7 @@ Location "CHARLOIS REGIO" "Sol/Eros"
 # Origin: Roman god of love, equivalent of Eros.
 Location "Cupid" "Sol/Eros"
 {
-	LongLat	[ 129.80 8.10 0 ]
+	LongLat	[ 230.20 8.10 0 ]
 	Size	1.80
 	Type	"AA"	# Crater, craters
 }
@@ -1982,7 +1982,7 @@ Location "Cupid" "Sol/Eros"
 # Origin: Lover, character of medieval European legend retold in Moliere's “;Don Juan“; (France, 1665).
 Location "Don Juan" "Sol/Eros"
 {
-	LongLat	[ 3.30 29.50 0 ]
+	LongLat	[ 356.70 29.50 0 ]
 	Size	1.10
 	Type	"AA"	# Crater, craters
 }
@@ -1991,7 +1991,7 @@ Location "Don Juan" "Sol/Eros"
 # Origin: Knight-errant, imagined Dulcinea as his lady-love in Cervantes' “;Don Quixote“; (Spain, 1605).
 Location "Don Quixote" "Sol/Eros"
 {
-	LongLat	[ 109.20 -57.70 0 ]
+	LongLat	[ 250.80 -57.70 0 ]
 	Size	0.90
 	Type	"AA"	# Crater, craters
 }
@@ -2000,7 +2000,7 @@ Location "Don Quixote" "Sol/Eros"
 # Origin: Imaginary lady-love of the knight Don Quixote in Cervantes' “;Don Quixote“; (Spain, 1605).
 Location "Dulcinea" "Sol/Eros"
 {
-	LongLat	[ 87.10 -76.10 0 ]
+	LongLat	[ 272.90 -76.10 0 ]
 	Size	1.40
 	Type	"AA"	# Crater, craters
 }
@@ -2009,7 +2009,7 @@ Location "Dulcinea" "Sol/Eros"
 # Origin: In Greek mythology, wife of singer Orpheus, who fails to bring her from Hades.
 Location "Eurydice" "Sol/Eros"
 {
-	LongLat	[ 190.00 13.50 0 ]
+	LongLat	[ 170.00 13.50 0 ]
 	Size	2.20
 	Type	"AA"	# Crater, craters
 }
@@ -2018,7 +2018,7 @@ Location "Eurydice" "Sol/Eros"
 # Origin: William S.; South African astronomer, detected Eros' elongated shape (1905-1979).
 Location "Finsen Dorsum" "Sol/Eros"
 {
-	LongLat	[ 10.00 -48.00 0 ]
+	LongLat	[ 350.00 -48.00 0 ]
 	Size	10
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -2027,7 +2027,7 @@ Location "Finsen Dorsum" "Sol/Eros"
 # Origin: Lover of Genji in “;The Tale of Genji“; by Murasaki Sikibu, first modern novel (Japan, c.1000).
 Location "Fujitsubo" "Sol/Eros"
 {
-	LongLat	[ 297.30 -3.70 0 ]
+	LongLat	[ 62.70 -3.70 0 ]
 	Size	1.70
 	Type	"AA"	# Crater, craters
 }
@@ -2036,7 +2036,7 @@ Location "Fujitsubo" "Sol/Eros"
 # Origin: Woman in Greek mythology, brought to life from statue by Pygmalion, legendary king of Cyprus.
 Location "Galatea" "Sol/Eros"
 {
-	LongLat	[ 176.90 -10.20 0 ]
+	LongLat	[ 183.10 -10.20 0 ]
 	Size	1.40
 	Type	"AA"	# Crater, craters
 }
@@ -2045,7 +2045,7 @@ Location "Galatea" "Sol/Eros"
 # Origin: Marina; companion of astronomer Galileo Galilei (Italy, 17th century).
 Location "Gamba" "Sol/Eros"
 {
-	LongLat	[ 305.90 -20.60 0 ]
+	LongLat	[ 54.10 -20.60 0 ]
 	Size	1.30
 	Type	"AA"	# Crater, craters
 }
@@ -2054,7 +2054,7 @@ Location "Gamba" "Sol/Eros"
 # Origin: Prince, lover of Fujitsubo in “;The Tale of Genji“; by Murasaki Sikibu (Japan, c.1000).
 Location "Genji" "Sol/Eros"
 {
-	LongLat	[ 271.40 -19.50 0 ]
+	LongLat	[ 88.60 -19.50 0 ]
 	Size	1.50
 	Type	"AA"	# Crater, craters
 }
@@ -2063,7 +2063,7 @@ Location "Genji" "Sol/Eros"
 # Origin: Tragic lover of Catherine in Emily Brontë's novel “;Wuthering Heights“; (England, 1847).
 Location "Heathcliff" "Sol/Eros"
 {
-	LongLat	[ 192.10 7.40 0 ]
+	LongLat	[ 167.90 7.40 0 ]
 	Size	1.10
 	Type	"AA"	# Crater, craters
 }
@@ -2072,7 +2072,7 @@ Location "Heathcliff" "Sol/Eros"
 # Origin: Attendant of Eros; personification of the longing of love in Greek mythology.
 Location "Himeros" "Sol/Eros"
 {
-	LongLat	[ 77.70 21.20 0 ]
+	LongLat	[ 282.30 21.20 0 ]
 	Size	10.00
 	Type	"AA"	# Crater, craters
 }
@@ -2081,7 +2081,7 @@ Location "Himeros" "Sol/Eros"
 # Origin: Arthur Robert; English astronomer, first used Eros for solar parallax (1873-1945).
 Location "Hinks Dorsum" "Sol/Eros"
 {
-	LongLat	[ 42.00 42.00 0 ]
+	LongLat	[ 318.00 42.00 0 ]
 	Size	10
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -2090,7 +2090,7 @@ Location "Hinks Dorsum" "Sol/Eros"
 # Origin: Love child of Poseidon and Hiona in Greek mythology; also island (Chios) in the Aegean Sea.
 Location "Hios" "Sol/Eros"
 {
-	LongLat	[ 229.10 -9.40 0 ]
+	LongLat	[ 130.90 -9.40 0 ]
 	Size	1.30
 	Type	"AA"	# Crater, craters
 }
@@ -2099,7 +2099,7 @@ Location "Hios" "Sol/Eros"
 # Origin: Shah; Mogul emperor, built Taj Mahal in Agra, India for wife Mumtaz Mahal (1592-1666).
 Location "Jahan" "Sol/Eros"
 {
-	LongLat	[ 66.50 74.20 0 ]
+	LongLat	[ 293.50 74.20 0 ]
 	Size	2.10
 	Type	"AA"	# Crater, craters
 }
@@ -2108,7 +2108,7 @@ Location "Jahan" "Sol/Eros"
 # Origin: Lithuanian blacksmith, lover of sea goddess Jurate; taken by her to the sea floor.
 Location "Kastytis" "Sol/Eros"
 {
-	LongLat	[ 198.70 6.80 0 ]
+	LongLat	[ 161.30 6.80 0 ]
 	Size	1.70
 	Type	"AA"	# Crater, craters
 }
@@ -2117,7 +2117,7 @@ Location "Kastytis" "Sol/Eros"
 # Origin: Lover of Hero, swam to her across Hellespont every night and drowned; in despair, Hero drowned herself.
 Location "Leander" "Sol/Eros"
 {
-	LongLat	[ 149.70 25.60 0 ]
+	LongLat	[ 210.30 25.60 0 ]
 	Size	1.40
 	Type	"AA"	# Crater, craters
 }
@@ -2126,7 +2126,7 @@ Location "Leander" "Sol/Eros"
 # Origin: Majnoon's lover in “;Leylie and Majnoon“; poems by Jami and Navoi (Khorasan, 1480s).
 Location "Leylie" "Sol/Eros"
 {
-	LongLat	[ 336.50 -3.00 0 ]
+	LongLat	[ 23.50 -3.00 0 ]
 	Size	1.90
 	Type	"AA"	# Crater, craters
 }
@@ -2135,7 +2135,7 @@ Location "Leylie" "Sol/Eros"
 # Origin: Young girl from V. Nabokov's novel “;Lolita“; (USA, 1955).
 Location "Lolita" "Sol/Eros"
 {
-	LongLat	[ 162.30 -35.20 0 ]
+	LongLat	[ 197.70 -35.20 0 ]
 	Size	1.80
 	Type	"AA"	# Crater, craters
 }
@@ -2144,7 +2144,7 @@ Location "Lolita" "Sol/Eros"
 # Origin: Mumtaz; Mogul empress; favorite wife of Shah Jahan, who built Taj Mahal (1592-1631).
 Location "Mahal" "Sol/Eros"
 {
-	LongLat	[ 190.00 79.40 0 ]
+	LongLat	[ 170.00 79.40 0 ]
 	Size	1.20
 	Type	"AA"	# Crater, craters
 }
@@ -2153,7 +2153,7 @@ Location "Mahal" "Sol/Eros"
 # Origin: Leylie's lover in “;Leylie and Majnoon“; poems by Jami and Navoi (Khorasan, 1480s).
 Location "Majnoon" "Sol/Eros"
 {
-	LongLat	[ 331.20 3.80 0 ]
+	LongLat	[ 28.80 3.80 0 ]
 	Size	2.10
 	Type	"AA"	# Crater, craters
 }
@@ -2162,7 +2162,7 @@ Location "Majnoon" "Sol/Eros"
 # Origin: Wife of Prince Golaud and lover of his half-brother, Pelléas, in Maeterlinck drama (Belgium, 1892).
 Location "Mélisande" "Sol/Eros"
 {
-	LongLat	[ 174.40 67.10 0 ]
+	LongLat	[ 185.60 67.10 0 ]
 	Size	1.00
 	Type	"AA"	# Crater, craters
 }
@@ -2171,7 +2171,7 @@ Location "Mélisande" "Sol/Eros"
 # Origin: Young man from Greek mythology who fell in love with his own reflection in water.
 Location "Narcissus" "Sol/Eros"
 {
-	LongLat	[ 352.90 18.20 0 ]
+	LongLat	[ 7.10 18.20 0 ]
 	Size	2.90
 	Type	"AA"	# Crater, craters
 }
@@ -2180,7 +2180,7 @@ Location "Narcissus" "Sol/Eros"
 # Origin: Singer and musician in Greek mythology; fails to bring his love Eurydice from Hades.
 Location "Orpheus" "Sol/Eros"
 {
-	LongLat	[ 183.30 25.60 0 ]
+	LongLat	[ 176.70 25.60 0 ]
 	Size	1.10
 	Type	"AA"	# Crater, craters
 }
@@ -2189,7 +2189,7 @@ Location "Orpheus" "Sol/Eros"
 # Origin: Lover of Tai-yü in novel by Ts'ao Chan (China, 18th century; also “;Dream of the Red Chamber“;, 1929).
 Location "Pao-yü" "Sol/Eros"
 {
-	LongLat	[ 254.40 -73.20 0 ]
+	LongLat	[ 105.60 -73.20 0 ]
 	Size	0.80
 	Type	"AA"	# Crater, craters
 }
@@ -2198,7 +2198,7 @@ Location "Pao-yü" "Sol/Eros"
 # Origin: Beloved of Mélisande in Maeterlinck drama and later musical works by Faure, Debussy and Schoenberg.
 Location "Pelléas" "Sol/Eros"
 {
-	LongLat	[ 138.70 63.10 0 ]
+	LongLat	[ 221.30 63.10 0 ]
 	Size	1.20
 	Type	"AA"	# Crater, craters
 }
@@ -2207,7 +2207,7 @@ Location "Pelléas" "Sol/Eros"
 # Origin: Beloved of Eros; personification of human soul in Greek mythology.
 Location "Psyche" "Sol/Eros"
 {
-	LongLat	[ 265.40 31.60 0 ]
+	LongLat	[ 94.60 31.60 0 ]
 	Size	4.80
 	Type	"AA"	# Crater, craters
 }
@@ -2216,7 +2216,7 @@ Location "Psyche" "Sol/Eros"
 # Origin: King of Cyprus; carved statue of woman brought to life as Galatea, whom he married.
 Location "Pygmalion" "Sol/Eros"
 {
-	LongLat	[ 168.90 -1.80 0 ]
+	LongLat	[ 191.10 -1.80 0 ]
 	Size	1.70
 	Type	"AA"	# Crater, craters
 }
@@ -2225,7 +2225,7 @@ Location "Pygmalion" "Sol/Eros"
 # Origin: Egyptian officer, beloved of Ethiopian slave Aida in Verdi's opera “;Aida“; (Italy, 1870).
 Location "Radames" "Sol/Eros"
 {
-	LongLat	[ 244.90 -5.20 0 ]
+	LongLat	[ 115.10 -5.20 0 ]
 	Size	1.60
 	Type	"AA"	# Crater, craters
 }
@@ -2234,7 +2234,7 @@ Location "Radames" "Sol/Eros"
 # Origin: Moon goddess in Greek mythology, lover of Endymion.
 Location "Selene" "Sol/Eros"
 {
-	LongLat	[ 347.50 -14.20 0 ]
+	LongLat	[ 12.50 -14.20 0 ]
 	Size	3.60
 	Type	"AA"	# Crater, craters
 }
@@ -2243,7 +2243,7 @@ Location "Selene" "Sol/Eros"
 # Origin: Beloved by Pao-yü in novel by Ts'ao Chan (China, 18th century; also “;Dream of the Red Chamber“;, 1929).
 Location "Tai-yü" "Sol/Eros"
 {
-	LongLat	[ 233.90 -47.00 0 ]
+	LongLat	[ 126.10 -47.00 0 ]
 	Size	1.40
 	Type	"AA"	# Crater, craters
 }
@@ -2253,7 +2253,7 @@ Location "Tai-yü" "Sol/Eros"
 # Additional info: None
 Location "Tutanekai" "Sol/Eros"
 {
-	LongLat	[ 356.70 56.40 0 ]
+	LongLat	[ 3.30 56.40 0 ]
 	Size	2.10
 	Type	"AA"	# Crater, craters
 }
@@ -2262,7 +2262,7 @@ Location "Tutanekai" "Sol/Eros"
 # Origin: St. Valentine's day (principally Roman) for all lovers.
 Location "Valentine" "Sol/Eros"
 {
-	LongLat	[ 151.60 14.60 0 ]
+	LongLat	[ 208.40 14.60 0 ]
 	Size	2.20
 	Type	"AA"	# Crater, craters
 }
@@ -2271,7 +2271,7 @@ Location "Valentine" "Sol/Eros"
 # Origin: Carl Gustav; German astronomer, first discoverer of Eros (1866-1946).
 Location "WITT REGIO" "Sol/Eros"
 {
-	LongLat	[ 12.00 18.00 0 ]
+	LongLat	[ 348.00 18.00 0 ]
 	Size	10
 	Type	"RE"	# Regio, regiones
 }
@@ -2283,7 +2283,7 @@ Location "WITT REGIO" "Sol/Eros"
 # Origin: Spa in France.
 Location "Aix" "Sol/Gaspra"
 {
-	LongLat	[ 199.70 47.90 0 ]
+	LongLat	[ 160.30 47.90 0 ]
 	Size	0.60
 	Type	"AA"	# Crater, craters
 }
@@ -2292,7 +2292,7 @@ Location "Aix" "Sol/Gaspra"
 # Origin: Spa in Crimea, Ukraine.
 Location "Alupka" "Sol/Gaspra"
 {
-	LongLat	[ 295.00 65.00 0 ]
+	LongLat	[ 65.00 65.00 0 ]
 	Size	0.30
 	Type	"AA"	# Crater, craters
 }
@@ -2301,7 +2301,7 @@ Location "Alupka" "Sol/Gaspra"
 # Origin: Spa in Germany.
 Location "Baden-Baden" "Sol/Gaspra"
 {
-	LongLat	[ 305.00 46.00 0 ]
+	LongLat	[ 55.00 46.00 0 ]
 	Size	0.30
 	Type	"AA"	# Crater, craters
 }
@@ -2310,7 +2310,7 @@ Location "Baden-Baden" "Sol/Gaspra"
 # Origin: Spa in Austria.
 Location "Badgastein" "Sol/Gaspra"
 {
-	LongLat	[ 357.00 25.00 0 ]
+	LongLat	[ 3.00 25.00 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2319,7 +2319,7 @@ Location "Badgastein" "Sol/Gaspra"
 # Origin: Spa in France.
 Location "Bagnoles" "Sol/Gaspra"
 {
-	LongLat	[ 238.00 55.00 0 ]
+	LongLat	[ 122.00 55.00 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2328,7 +2328,7 @@ Location "Bagnoles" "Sol/Gaspra"
 # Origin: Spa in England.
 Location "Bath" "Sol/Gaspra"
 {
-	LongLat	[ 350.30 13.40 0 ]
+	LongLat	[ 9.70 13.40 0 ]
 	Size	0.90
 	Type	"AA"	# Crater, craters
 }
@@ -2337,7 +2337,7 @@ Location "Bath" "Sol/Gaspra"
 # Origin: Spa on Kyushu, Japan.
 Location "Beppu" "Sol/Gaspra"
 {
-	LongLat	[ 301.60 3.90 0 ]
+	LongLat	[ 58.40 3.90 0 ]
 	Size	0.60
 	Type	"AA"	# Crater, craters
 }
@@ -2346,7 +2346,7 @@ Location "Beppu" "Sol/Gaspra"
 # Origin: Spa in New York, USA.
 Location "Brookton" "Sol/Gaspra"
 {
-	LongLat	[ 256.70 27.70 0 ]
+	LongLat	[ 103.30 27.70 0 ]
 	Size	0.30
 	Type	"AA"	# Crater, craters
 }
@@ -2355,7 +2355,7 @@ Location "Brookton" "Sol/Gaspra"
 # Origin: Resort in California, USA.
 Location "Calistoga" "Sol/Gaspra"
 {
-	LongLat	[ 358.00 30.00 0 ]
+	LongLat	[ 2.00 30.00 0 ]
 	Size	1.20
 	Type	"AA"	# Crater, craters
 }
@@ -2364,7 +2364,7 @@ Location "Calistoga" "Sol/Gaspra"
 # Origin: Spa in Czech Republic.
 Location "Carlsbad" "Sol/Gaspra"
 {
-	LongLat	[ 271.20 29.70 0 ]
+	LongLat	[ 88.80 29.70 0 ]
 	Size	0.50
 	Type	"AA"	# Crater, craters
 }
@@ -2374,7 +2374,7 @@ Location "Carlsbad" "Sol/Gaspra"
 # Additional info: Defines zero degrees longitude on Gaspra.
 Location "Charax" "Sol/Gaspra"
 {
-	LongLat	[ 360.00 8.60 0 ]
+	LongLat	[ 0.00 8.60 0 ]
 	Size	0.90
 	Type	"AA"	# Crater, craters
 }
@@ -2383,7 +2383,7 @@ Location "Charax" "Sol/Gaspra"
 # Origin: James; Galileo Project planner.
 Location "DUNNE REGIO" "Sol/Gaspra"
 {
-	LongLat	[ 345.00 15.00 0 ]
+	LongLat	[ 15.00 15.00 0 ]
 	Size	5
 	Type	"RE"	# Regio, regiones
 }
@@ -2392,7 +2392,7 @@ Location "DUNNE REGIO" "Sol/Gaspra"
 # Origin: Spa in Egypt.
 Location "Helwan" "Sol/Gaspra"
 {
-	LongLat	[ 241.10 22.40 0 ]
+	LongLat	[ 118.90 22.40 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2401,7 +2401,7 @@ Location "Helwan" "Sol/Gaspra"
 # Origin: Spa in Mexico.
 Location "Ixtapan" "Sol/Gaspra"
 {
-	LongLat	[ 273.10 11.90 0 ]
+	LongLat	[ 86.90 11.90 0 ]
 	Size	0.70
 	Type	"AA"	# Crater, craters
 }
@@ -2410,7 +2410,7 @@ Location "Ixtapan" "Sol/Gaspra"
 # Origin: Spa in Crimea, Ukraine.
 Location "Katsiveli" "Sol/Gaspra"
 {
-	LongLat	[ 295.00 55.00 0 ]
+	LongLat	[ 65.00 55.00 0 ]
 	Size	0.30
 	Type	"AA"	# Crater, craters
 }
@@ -2419,7 +2419,7 @@ Location "Katsiveli" "Sol/Gaspra"
 # Origin: Health resort in Poland.
 Location "Krynica" "Sol/Gaspra"
 {
-	LongLat	[ 325.00 49.00 0 ]
+	LongLat	[ 35.00 49.00 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2428,7 +2428,7 @@ Location "Krynica" "Sol/Gaspra"
 # Origin: Spa in Ireland.
 Location "Lisdoonvarna" "Sol/Gaspra"
 {
-	LongLat	[ 1.90 16.50 0 ]
+	LongLat	[ 358.10 16.50 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2437,7 +2437,7 @@ Location "Lisdoonvarna" "Sol/Gaspra"
 # Origin: Spa in Greece.
 Location "Loutraki" "Sol/Gaspra"
 {
-	LongLat	[ 220.00 42.00 0 ]
+	LongLat	[ 140.00 42.00 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2446,7 +2446,7 @@ Location "Loutraki" "Sol/Gaspra"
 # Origin: Spa in Norway.
 Location "Mandal" "Sol/Gaspra"
 {
-	LongLat	[ 313.50 23.50 0 ]
+	LongLat	[ 46.50 23.50 0 ]
 	Size	0.10
 	Type	"AA"	# Crater, craters
 }
@@ -2455,7 +2455,7 @@ Location "Mandal" "Sol/Gaspra"
 # Origin: Spa in India.
 Location "Manikaran" "Sol/Gaspra"
 {
-	LongLat	[ 205.00 62.00 0 ]
+	LongLat	[ 155.00 62.00 0 ]
 	Size	0.50
 	Type	"AA"	# Crater, craters
 }
@@ -2464,7 +2464,7 @@ Location "Manikaran" "Sol/Gaspra"
 # Origin: Spa in Czech Republic.
 Location "Marienbad" "Sol/Gaspra"
 {
-	LongLat	[ 278.20 35.40 0 ]
+	LongLat	[ 81.80 35.40 0 ]
 	Size	0.60
 	Type	"AA"	# Crater, craters
 }
@@ -2473,7 +2473,7 @@ Location "Marienbad" "Sol/Gaspra"
 # Origin: Spa in Crimea, Ukraine.
 Location "Miskhor" "Sol/Gaspra"
 {
-	LongLat	[ 294.10 15.00 0 ]
+	LongLat	[ 65.90 15.00 0 ]
 	Size	0.50
 	Type	"AA"	# Crater, craters
 }
@@ -2482,7 +2482,7 @@ Location "Miskhor" "Sol/Gaspra"
 # Origin: Spa in Australia.
 Location "Moree" "Sol/Gaspra"
 {
-	LongLat	[ 195.60 15.10 0 ]
+	LongLat	[ 164.40 15.10 0 ]
 	Size	0.70
 	Type	"AA"	# Crater, craters
 }
@@ -2491,7 +2491,7 @@ Location "Moree" "Sol/Gaspra"
 # Origin: Grigorij N.; Russian astronomer; discoverer of Gaspra (1885-1946).
 Location "NEUJMIN REGIO" "Sol/Gaspra"
 {
-	LongLat	[ 280.00 2.00 0 ]
+	LongLat	[ 80.00 2.00 0 ]
 	Size	5
 	Type	"RE"	# Regio, regiones
 }
@@ -2500,7 +2500,7 @@ Location "NEUJMIN REGIO" "Sol/Gaspra"
 # Origin: Spa in Sweden.
 Location "Ramlösa" "Sol/Gaspra"
 {
-	LongLat	[ 355.10 15.00 0 ]
+	LongLat	[ 4.90 15.00 0 ]
 	Size	0.70
 	Type	"AA"	# Crater, craters
 }
@@ -2509,7 +2509,7 @@ Location "Ramlösa" "Sol/Gaspra"
 # Origin: Spa in Argentina.
 Location "Rio Hondo" "Sol/Gaspra"
 {
-	LongLat	[ 339.30 31.70 0 ]
+	LongLat	[ 20.70 31.70 0 ]
 	Size	0.60
 	Type	"AA"	# Crater, craters
 }
@@ -2518,7 +2518,7 @@ Location "Rio Hondo" "Sol/Gaspra"
 # Origin: Spa in New Zealand.
 Location "Rotorua" "Sol/Gaspra"
 {
-	LongLat	[ 329.30 18.80 0 ]
+	LongLat	[ 30.70 18.80 0 ]
 	Size	0.50
 	Type	"AA"	# Crater, craters
 }
@@ -2527,7 +2527,7 @@ Location "Rotorua" "Sol/Gaspra"
 # Origin: Spa in New York, USA.
 Location "Saratoga" "Sol/Gaspra"
 {
-	LongLat	[ 90.00 50.00 0 ]
+	LongLat	[ 270.00 50.00 0 ]
 	Size	2.80
 	Type	"AA"	# Crater, craters
 }
@@ -2536,7 +2536,7 @@ Location "Saratoga" "Sol/Gaspra"
 # Origin: Health resort in Belgium.
 Location "Spa" "Sol/Gaspra"
 {
-	LongLat	[ 208.00 51.50 0 ]
+	LongLat	[ 152.00 51.50 0 ]
 	Size	1.60
 	Type	"AA"	# Crater, craters
 }
@@ -2545,7 +2545,7 @@ Location "Spa" "Sol/Gaspra"
 # Origin: Spa in China.
 Location "Tang-Shan" "Sol/Gaspra"
 {
-	LongLat	[ 104.00 59.00 0 ]
+	LongLat	[ 256.00 59.00 0 ]
 	Size	2.10
 	Type	"AA"	# Crater, craters
 }
@@ -2554,7 +2554,7 @@ Location "Tang-Shan" "Sol/Gaspra"
 # Origin: Health resort in Turkey.
 Location "Yalova" "Sol/Gaspra"
 {
-	LongLat	[ 350.00 29.00 0 ]
+	LongLat	[ 10.00 29.00 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2563,7 +2563,7 @@ Location "Yalova" "Sol/Gaspra"
 # Origin: Spa in Crimea, Ukraine.
 Location "Yalta" "Sol/Gaspra"
 {
-	LongLat	[ 98.70 57.60 0 ]
+	LongLat	[ 261.30 57.60 0 ]
 	Size	1.40
 	Type	"AA"	# Crater, craters
 }
@@ -2572,7 +2572,7 @@ Location "Yalta" "Sol/Gaspra"
 # Origin: Clayne; Galileo Project manager.
 Location "YEATES REGIO" "Sol/Gaspra"
 {
-	LongLat	[ 285.00 65.00 0 ]
+	LongLat	[ 75.00 65.00 0 ]
 	Size	5
 	Type	"RE"	# Regio, regiones
 }
@@ -2581,7 +2581,7 @@ Location "YEATES REGIO" "Sol/Gaspra"
 # Origin: Spa in Israel.
 Location "Zohar" "Sol/Gaspra"
 {
-	LongLat	[ 242.00 23.00 0 ]
+	LongLat	[ 118.00 23.00 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }

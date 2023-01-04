@@ -1,10 +1,19 @@
-# 1979 locations on Mars.
+# 1991 locations on Mars.
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 01.07.2022
-# Last update: 01.07.2022
+# Date of creation: 04.01.2023
+# Last update: 04.01.2023
 
+
+# Approval date: Dec 16, 2022; Last update: Dec 16, 2022
+# Origin: Village in Rajasthan, India.
+Location "Aarna" "Sol/Mars"
+{
+	LongLat	[ 338.43 14.70 0 ]
+	Size	43.00
+	Type	"AA"	# Crater, craters
+}
 
 # Approval date: 2003; Last update: Oct 01, 2006
 # Origin: Named for classical albedo feature at 72N, 70W.
@@ -48,6 +57,15 @@ Location "Aban" "Sol/Mars"
 {
 	LongLat	[ 111.10 15.91 0 ]
 	Size	4.28
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Dec 16, 2022; Last update: Dec 16, 2022
+# Origin: Village in Rajasthan, India.
+Location "Abu" "Sol/Mars"
+{
+	LongLat	[ 337.22 15.50 0 ]
+	Size	17.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -465,7 +483,7 @@ Location "Alofi" "Sol/Mars"
 Location "Alpheus Colles" "Sol/Mars"
 {
 	LongLat	[ 61.53 -39.38 0 ]
-	Size	633.02
+	Size	633.03
 	Type	"CO"	# Collis, colles
 }
 
@@ -733,7 +751,7 @@ Location "Apia" "Sol/Mars"
 Location "Apollinaris Mons" "Sol/Mars"
 {
 	LongLat	[ 174.79 -9.17 0 ]
-	Size	275.39
+	Size	275.40
 	Type	"MO"	# Mons, montes
 }
 
@@ -1228,7 +1246,7 @@ Location "Aspen" "Sol/Mars"
 Location "Aspledon Undae" "Sol/Mars"
 {
 	LongLat	[ 309.65 73.06 0 ]
-	Size	215.21
+	Size	215.20
 	Type	"UN"	# Unda, undae
 }
 
@@ -1377,7 +1395,7 @@ Location "Ausonia Cavus" "Sol/Mars"
 Location "Ausonia Mensa" "Sol/Mars"
 {
 	LongLat	[ 97.72 -30.02 0 ]
-	Size	102.52
+	Size	102.51
 	Type	"MN"	# Mensa, mensae
 }
 
@@ -1799,7 +1817,7 @@ Location "Banh" "Sol/Mars"
 Location "Baphyras Catena" "Sol/Mars"
 {
 	LongLat	[ 275.84 38.83 0 ]
-	Size	95.53
+	Size	95.52
 	Type	"CA"	# Catena, catenae
 }
 
@@ -3680,7 +3698,7 @@ Location "Claritas Fossae" "Sol/Mars"
 Location "Claritas Rupes" "Sol/Mars"
 {
 	LongLat	[ 254.74 -25.04 0 ]
-	Size	952.88
+	Size	952.87
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4555,7 +4573,7 @@ Location "Deuteronilus Mensae" "Sol/Mars"
 Location "de Vaucouleurs" "Sol/Mars"
 {
 	LongLat	[ 171.00 -13.31 0 ]
-	Size	302.26
+	Size	302.27
 	Type	"AA"	# Crater, craters
 }
 
@@ -5182,6 +5200,15 @@ Location "Elston" "Sol/Mars"
 {
 	LongLat	[ 119.18 -15.39 0 ]
 	Size	75.00
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 22, 2022; Last update: Aug 22, 2022
+# Origin: Town in Estonia.
+Location "Elva" "Sol/Mars"
+{
+	LongLat	[ 1.11 5.08 0 ]
+	Size	21.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -7178,7 +7205,7 @@ Location "Hunten" "Sol/Mars"
 Location "Huo Hsing Vallis" "Sol/Mars"
 {
 	LongLat	[ 66.61 30.19 0 ]
-	Size	332.31
+	Size	332.30
 	Type	"VA"	# Vallis, valles
 }
 
@@ -8089,6 +8116,15 @@ Location "Kagul" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Aug 22, 2022; Last update: Aug 22, 2022
+# Origin: Town in Japan.
+Location "Kai" "Sol/Mars"
+{
+	LongLat	[ 2.85 4.35 0 ]
+	Size	20.00
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1976; Last update: Nov 17, 2010
 # Origin: Town in Iraq.
 Location "Kāid" "Sol/Mars"
@@ -8901,6 +8937,24 @@ Location "Kushva" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Dec 16, 2022; Last update: Dec 16, 2022
+# Origin: Village in Rajasthan, India.
+Location "Kyara" "Sol/Mars"
+{
+	LongLat	[ 339.08 14.65 0 ]
+	Size	30.00
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 22, 2022; Last update: Aug 22, 2022
+# Origin: Town in Tanzania.
+Location "Kyela" "Sol/Mars"
+{
+	LongLat	[ 4.70 3.08 0 ]
+	Size	30.00
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1988; Last update: Oct 01, 2006
 # Origin: Classical albedo feature name.
 Location "Labeatis Catenae" "Sol/Mars"
@@ -9293,6 +9347,15 @@ Location "Li Fan" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Aug 22, 2022; Last update: Oct 18, 2022
+# Origin: Town in Greece.
+Location "Límni" "Sol/Mars"
+{
+	LongLat	[ 3.08 4.69 0 ]
+	Size	10.00
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1976; Last update: Nov 17, 2010
 # Origin: Town in China (Chekiang).
 Location "Linpu" "Sol/Mars"
@@ -9426,7 +9489,7 @@ Location "Lockyer" "Sol/Mars"
 Location "Locras Valles" "Sol/Mars"
 {
 	LongLat	[ 48.26 8.84 0 ]
-	Size	351.31
+	Size	351.32
 	Type	"VA"	# Vallis, valles
 }
 
@@ -11617,7 +11680,7 @@ Location "NILOSYRTIS" "Sol/Mars"
 Location "Nilosyrtis Mensae" "Sol/Mars"
 {
 	LongLat	[ 68.47 34.77 0 ]
-	Size	676.02
+	Size	676.03
 	Type	"MN"	# Mensa, mensae
 }
 
@@ -11885,7 +11948,7 @@ Location "Oceanidum Fossa" "Sol/Mars"
 Location "Oceanidum Mons" "Sol/Mars"
 {
 	LongLat	[ 318.77 -54.93 0 ]
-	Size	33.40
+	Size	33.39
 	Type	"MO"	# Mons, montes
 }
 
@@ -12404,6 +12467,15 @@ Location "Oxia Colles" "Sol/Mars"
 	LongLat	[ 333.73 21.24 0 ]
 	Size	595.24
 	Type	"CO"	# Collis, colles
+}
+
+# Approval date: Dec 30, 2022; Last update: Dec 30, 2022
+# Origin: Named for classical albedo feature name at 25N, 24W.
+Location "Oxia Dorsum" "Sol/Mars"
+{
+	LongLat	[ 336.39 18.11 0 ]
+	Size	161.00
+	Type	"DO"	# Dorsum, dorsa
 }
 
 # Approval date: 1958; Last update: Oct 01, 2006
@@ -13174,6 +13246,15 @@ Location "Podor" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Aug 17, 2022; Last update: Aug 17, 2022
+# Origin: Frederik George; American science fiction writer (1919-2013).
+Location "Pohl" "Sol/Mars"
+{
+	LongLat	[ 323.01 34.04 0 ]
+	Size	111.00
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1997; Last update: Nov 17, 2010
 # Origin: James B.; American physicist (1938-1994).
 Location "Pollack" "Sol/Mars"
@@ -13722,7 +13803,7 @@ Location "Rauna" "Sol/Mars"
 Location "Ravius Valles" "Sol/Mars"
 {
 	LongLat	[ 249.83 46.12 0 ]
-	Size	388.19
+	Size	388.18
 	Type	"VA"	# Vallis, valles
 }
 
@@ -14399,7 +14480,7 @@ Location "SCANDIA" "Sol/Mars"
 Location "Scandia Cavi" "Sol/Mars"
 {
 	LongLat	[ 209.65 77.55 0 ]
-	Size	663.79
+	Size	663.80
 	Type	"CB"	# Cavus, cavi
 }
 
@@ -15467,7 +15548,7 @@ Location "Taejin" "Sol/Mars"
 Location "Tagus Valles" "Sol/Mars"
 {
 	LongLat	[ 114.54 -6.68 0 ]
-	Size	144.59
+	Size	144.58
 	Type	"VA"	# Vallis, valles
 }
 
@@ -15583,6 +15664,15 @@ Location "Tana Vallis" "Sol/Mars"
 	Type	"VA"	# Vallis, valles
 }
 
+# Approval date: Nov 09, 2022; Last update: Nov 09, 2022
+# Origin: Village in India.
+Location "Tangtse" "Sol/Mars"
+{
+	LongLat	[ 178.46 -26.85 0 ]
+	Size	21.00
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1991; Last update: Oct 01, 2006
 # Origin: Albedo feature name.
 Location "Tantalus Fluctus" "Sol/Mars"
@@ -15625,6 +15715,15 @@ Location "Tarata" "Sol/Mars"
 {
 	LongLat	[ 318.78 -3.78 0 ]
 	Size	12.27
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Aug 22, 2022; Last update: Aug 22, 2022
+# Origin: Town in Tanzania.
+Location "Tarime" "Sol/Mars"
+{
+	LongLat	[ 8.40 1.66 0 ]
+	Size	18.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -15962,7 +16061,7 @@ Location "Tharsis Montes" "Sol/Mars"
 Location "Tharsis Tholus" "Sol/Mars"
 {
 	LongLat	[ 269.31 13.25 0 ]
-	Size	149.31
+	Size	149.30
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -16896,7 +16995,7 @@ Location "Uranius Dorsum" "Sol/Mars"
 Location "Uranius Fossae" "Sol/Mars"
 {
 	LongLat	[ 269.87 25.29 0 ]
-	Size	394.12
+	Size	394.11
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -16991,7 +17090,7 @@ Location "Utopia Rupēs" "Sol/Mars"
 Location "Uzboi Vallis" "Sol/Mars"
 {
 	LongLat	[ 323.02 -29.46 0 ]
-	Size	353.52
+	Size	353.53
 	Type	"VA"	# Vallis, valles
 }
 
@@ -17047,6 +17146,15 @@ Location "Valverde" "Sol/Mars"
 {
 	LongLat	[ 304.24 20.10 0 ]
 	Size	34.92
+	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Dec 16, 2022; Last update: Dec 16, 2022
+# Origin: Indian mathematician and astronomer (505-587).
+Location "Varahamihira" "Sol/Mars"
+{
+	LongLat	[ 337.86 15.34 0 ]
+	Size	61.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -17665,7 +17773,7 @@ Location "Wukan" "Sol/Mars"
 Location "Wukari" "Sol/Mars"
 {
 	LongLat	[ 257.20 -31.81 0 ]
-	Size	38.22
+	Size	38.21
 	Type	"AA"	# Crater, craters
 }
 

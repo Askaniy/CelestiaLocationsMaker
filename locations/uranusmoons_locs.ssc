@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 01.07.2022
-# Last update: 01.07.2022
+# Date of creation: 04.01.2023
+# Last update: 04.01.2023
 
 
 # 3 locations on Puck.
@@ -12,7 +12,7 @@
 # Origin: Scottish mischievous spirits.
 Location "Bogle" "Sol/Uranus/Puck"
 {
-	LongLat	[ -0.00 -0.00 0 ]
+	LongLat	[ 115 12 0 ]
 	Size	45
 	Type	"AA"	# Crater, craters
 }
@@ -21,7 +21,7 @@ Location "Bogle" "Sol/Uranus/Puck"
 # Origin: German roguish or evil spirits.
 Location "Butz" "Sol/Uranus/Puck"
 {
-	LongLat	[ -0.00 -0.00 0 ]
+	LongLat	[ 25 41 0 ]
 	Size	20
 	Type	"AA"	# Crater, craters
 }
@@ -30,7 +30,7 @@ Location "Butz" "Sol/Uranus/Puck"
 # Origin: British mischievous spirits.
 Location "Lob" "Sol/Uranus/Puck"
 {
-	LongLat	[ -0.00 -0.00 0 ]
+	LongLat	[ 63 29 0 ]
 	Size	20
 	Type	"AA"	# Crater, craters
 }

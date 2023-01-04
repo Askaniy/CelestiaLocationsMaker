@@ -4,13 +4,14 @@ A Python script that creates location files for Celestia in SSC format from [Gaz
 
 ## How to use it?
 
-You need Python 3.6 or higher (due to f-strings) and probably Windows (not tested on other platforms). The script doesn't require installing additional libraries or an Internet connection because the [database](data/searchresults.csv) is preloaded.
+You need Python 3.6 or higher (due to f-strings). Tested on Windows 10/11 and Linux. The script doesn't require installing additional libraries or an Internet connection because the [database](data/searchresults.csv) is preloaded.
 
-Run [clm.py](clm.py), select output type and target (if you selected single file mode). Done. In case of problems, the tool will notify you.
+Run [clm.py](clm.py), select output format (and target object for single file mode). Done. In case of problems, the tool will notify you.
 
 ## What do I need to know?
 
-- The tool is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). To create SSC for Celestia 1.6, set the `celestia16` flag in [clm.py](clm.py) to `True`.
+- CLM is still has a beta status: it may contain inaccuracies for some bodies. Help is welcome.
+- It is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). To create SSC for Celestia 1.6, set the `celestia16` flag in [clm.py](clm.py) to `True`.
 - By default, the script adds a file description and creation info by Celestia Origin standard to the first lines of SSC. To disable this feature, set the `description` flag to `False`.
 - By default, the script adds comments about the location type, dates of creation and last update, as well as information about the origin of the name for each location. To disable this feature, set the `comments` flag to `False`.
 - Names of `albedo features (AL)`, `mare/maria (ME)`, `oceanus/oceani (OC)`, `regio/regiones (RE)` and `terra/terrae (TA)` are written in capital letters.
@@ -28,4 +29,4 @@ Run [clm.py](clm.py), select output type and target (if you selected single file
 5. Scroll, choose the `CSV` link;
 6. Save the file to the `data` folder.
 
-The last update was on July 1, 2022.
+The last update was on January 1, 2023.
