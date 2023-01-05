@@ -45,6 +45,10 @@ celestia16supports = (
     "RE", "RI", "RT", "RU", "TA", "TE", "TH", "UN", "VA", "XX"
 )
 
+none_list = ("", None, "None")
+yes_list = ("y", "t", "1")
+no_list = ("n", "f", "0")
+
 
 # SSC writer
 
@@ -58,11 +62,11 @@ def reader(target):
 
             # Comments
             if comments:
-                if data["Approval Date"] not in ["", None] and data["Last Updated"] not in ["", None]:
+                if data["Approval Date"] not in none_list and data["Last Updated"] not in none_list:
                     location += f'# Approval date: {data["Approval Date"]}; Last update: {data["Last Updated"]}\n'
-                if data["Origin"] not in ["", None]:
+                if data["Origin"] not in none_list:
                     location += f'# Origin: {data["Origin"]}\n'
-                if data["Additional Info"] not in ["", None]:
+                if data["Additional Info"] not in none_list:
                     location += f'# Additional info: {data["Additional Info"]}\n'
             
             # Name
@@ -94,7 +98,7 @@ def reader(target):
             # LongLat
             location += '{\n'
             if data["Feature Name"] in coord_dict:
-                location += f'\tLongLat\t[ {coord_dict[data["Feature Name"]]} ]\n'
+                location += f'    LongLat [ {coord_dict[data["Feature Name"]]} ]\n'
             else:
                 long = data["Center Longitude"]
                 lat = data["Center Latitude"]
@@ -103,27 +107,27 @@ def reader(target):
                     lat = lat[1:] if lat[0] == "-" else "-"+lat
                 elif data["Target"] == "Vesta": # coordinate system by the Dawn team, see ReadMe
                     long = round(float(data["Center Longitude"])-150, 2)
-                location += f'\tLongLat\t[ {long} {lat} 0 ]\n'
+                location += f'    LongLat [ {long} {lat} 0 ]\n'
             
             # Size/Importance
             if float(data["Diameter"]) == 0:
                 zero_size_counter += 1
                 if data["Feature Type Code"] == "AL":
-                    location += f'\tImportance\t20\n'
+                    location += f'    Importance  20\n'
                 elif data["Feature Name"] in size_dict:
-                    location += f'\tSize\t{size_dict[data["Feature Name"]]}\n'
+                    location += f'    Size    {size_dict[data["Feature Name"]]}\n'
                 else:
-                    location += f'\tSize\t10\n'
+                    location += f'    Size    10\n'
             else:
-                location += f'\tSize\t{data["Diameter"]}\n'
+                location += f'    Size    {data["Diameter"]}\n'
             
             # Type
             if celestia16 and data["Feature Type Code"] not in celestia16supports:
-                location += f'\tType\t"XX"'
+                location += f'    Type    "XX"'
             else:
-                location += f'\tType\t"{data["Feature Type Code"]}"'
+                location += f'    Type    "{data["Feature Type Code"]}"'
             if comments:
-                location += f'\t# {data["Feature Type"]}'
+                location += f'    # {data["Feature Type"]}'
             
             location += '\n}\n'
             locations.append(location)
@@ -197,9 +201,6 @@ print("              First come settings, then the selection of targets.\n")
 
 
 # Setting flags
-
-yes_list = ("y", "t", "1")
-no_list = ("n", "f", "0")
 
 # by default
 celestia16 = False
