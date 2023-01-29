@@ -2,15 +2,14 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # 149 locations on Ceres.
 
 # Approval date: Dec 04, 2015; Last update: Dec 04, 2015
 # Origin: Gaul god of the apple tree.
-# Additional info: None
 Location "Abellio" "Sol/Ceres"
 {
 	LongLat	[ 293.09 33.20 0 ]
@@ -20,7 +19,6 @@ Location "Abellio" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 04, 2016
 # Origin: Nigerian god of agriculture.
-# Additional info: None
 Location "Achita" "Sol/Ceres"
 {
 	LongLat	[ 65.96 25.82 0 ]
@@ -30,7 +28,6 @@ Location "Achita" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 04, 2016
 # Origin: Sumi tribe (Nagaland, NE India) traditional post-harvest festival, signifies the celebration of the seasons harvest’s thanksgiving.
-# Additional info: None
 Location "Ahuna Mons" "Sol/Ceres"
 {
 	LongLat	[ 316.20 -10.48 0 ]
@@ -40,7 +37,6 @@ Location "Ahuna Mons" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 04, 2016
 # Origin: Roman goddess of crops and of the harvest.
-# Additional info: None
 Location "Annona" "Sol/Ceres"
 {
 	LongLat	[ 8.43 -48.14 0 ]
@@ -50,7 +46,6 @@ Location "Annona" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 04, 2016
 # Origin: Arawakan (Guyana) spirit of the tobacco seeds.
-# Additional info: None
 Location "Anura" "Sol/Ceres"
 {
 	LongLat	[ 11.79 -13.92 0 ]
@@ -60,7 +55,6 @@ Location "Anura" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Greek god of agriculture.
-# Additional info: None
 Location "Aristaeus" "Sol/Ceres"
 {
 	LongLat	[ 97.68 23.43 0 ]
@@ -70,7 +64,6 @@ Location "Aristaeus" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 16, 2017
 # Origin: Syrian god of agriculture.
-# Additional info: None
 Location "Asari" "Sol/Ceres"
 {
 	LongLat	[ 319.88 83.03 0 ]
@@ -80,7 +73,6 @@ Location "Asari" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 16, 2017
 # Origin: Greek/Phrygian god of vegetation and of fertility.
-# Additional info: None
 Location "Attis" "Sol/Ceres"
 {
 	LongLat	[ 257.84 -73.07 0 ]
@@ -90,7 +82,6 @@ Location "Attis" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Incan goddess of potato, “Potato-mother.”
-# Additional info: None
 Location "Axomama" "Sol/Ceres"
 {
 	LongLat	[ 131.90 22.80 0 ]
@@ -100,7 +91,6 @@ Location "Axomama" "Sol/Ceres"
 
 # Approval date: Aug 22, 2016; Last update: Aug 22, 2016
 # Origin: Quechua (Peru) harvest festival (in May). Aymuray means “the song of the harvest”.
-# Additional info: None
 Location "Aymuray Tholi" "Sol/Ceres"
 {
 	LongLat	[ 335.61 28.78 0 ]
@@ -110,7 +100,6 @@ Location "Aymuray Tholi" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 04, 2016
 # Origin: Haitian god of agriculture.
-# Additional info: None
 Location "Azacca" "Sol/Ceres"
 {
 	LongLat	[ 218.40 -6.66 0 ]
@@ -120,7 +109,6 @@ Location "Azacca" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Belarusian harvest festival (21 September).
-# Additional info: None
 Location "Bagach Tholus" "Sol/Ceres"
 {
 	LongLat	[ 238.91 20.04 0 ]
@@ -130,7 +118,6 @@ Location "Bagach Tholus" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Mordvinian (Volga River Region, Russia) agricultural festival.
-# Additional info: None
 Location "Baltay Catena" "Sol/Ceres"
 {
 	LongLat	[ 274.49 -49.34 0 ]
@@ -140,7 +127,6 @@ Location "Baltay Catena" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Yap Islands (Caroline Islands, Micronesia) guardian of the taro fields who controls the yield of the crops.
-# Additional info: None
 Location "Begbalel" "Sol/Ceres"
 {
 	LongLat	[ 325.35 17.71 0 ]
@@ -150,7 +136,6 @@ Location "Begbalel" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 04, 2016
 # Origin: Belarus god of the fields.
-# Additional info: None
 Location "Belun" "Sol/Ceres"
 {
 	LongLat	[ 356.25 -33.71 0 ]
@@ -160,7 +145,6 @@ Location "Belun" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 04, 2016
 # Origin: Egyptian grain god.
-# Additional info: None
 Location "Besua" "Sol/Ceres"
 {
 	LongLat	[ 300.21 -42.35 0 ]
@@ -170,7 +154,6 @@ Location "Besua" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: German corn spirit.
-# Additional info: None
 Location "Bilwis" "Sol/Ceres"
 {
 	LongLat	[ 79.60 86.20 0 ]
@@ -180,7 +163,6 @@ Location "Bilwis" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Philippine (Hanunoo/Mangyan, Mindoro Island) female spirit, caretaker of the rice spirits.
-# Additional info: None
 Location "Binayo" "Sol/Ceres"
 {
 	LongLat	[ 145.20 86.40 0 ]
@@ -190,7 +172,6 @@ Location "Binayo" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 04, 2016
 # Origin: Bateg/Batek (Malaysia) god who watches over the fruits and flowers.
-# Additional info: None
 Location "Bonsu" "Sol/Ceres"
 {
 	LongLat	[ 93.21 1.74 0 ]
@@ -200,7 +181,6 @@ Location "Bonsu" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Celtic god of malt.
-# Additional info: None
 Location "Braciaca" "Sol/Ceres"
 {
 	LongLat	[ 84.37 -22.77 0 ]
@@ -210,7 +190,6 @@ Location "Braciaca" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Nicaraguan god of cacao.
-# Additional info: None
 Location "Cacaguat" "Sol/Ceres"
 {
 	LongLat	[ 143.61 -1.19 0 ]
@@ -220,7 +199,6 @@ Location "Cacaguat" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Atabapo and Inirida tribes’ (Upper Orinoco River region, Venezuela) vegetation god who ripens the crops and controls the seasons.
-# Additional info: None
 Location "Cachimana" "Sol/Ceres"
 {
 	LongLat	[ 213.20 85.30 0 ]
@@ -230,7 +208,6 @@ Location "Cachimana" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Mexican god/goddess of maize and agriculture.
-# Additional info: None
 Location "Centeotl" "Sol/Ceres"
 {
 	LongLat	[ 141.22 18.95 0 ]
@@ -240,7 +217,6 @@ Location "Centeotl" "Sol/Ceres"
 
 # Approval date: Nov 26, 2016; Last update: Nov 26, 2016
 # Origin: The major festival in Ancient Rome to celebrate for the grain goddess Ceres (8 days in mid- to late April).
-# Additional info: None
 Location "Cerealia Facula" "Sol/Ceres"
 {
 	LongLat	[ 239.60 19.70 0 ]
@@ -250,7 +226,6 @@ Location "Cerealia Facula" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: The major festival in Ancient Rome to celebrate for the grain goddess Ceres (8 days in mid- to late April).
-# Additional info: None
 Location "Cerealia Tholus" "Sol/Ceres"
 {
 	LongLat	[ 239.65 19.61 0 ]
@@ -260,7 +235,6 @@ Location "Cerealia Tholus" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 04, 2016
 # Origin: Shona (Zimbabwe) spirit who provides rains in times of droughts.
-# Additional info: None
 Location "Chaminuka" "Sol/Ceres"
 {
 	LongLat	[ 131.20 -58.58 0 ]
@@ -270,7 +244,6 @@ Location "Chaminuka" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 04, 2016
 # Origin: Inca god who was responsible for the system of agricultural terracing and irrigation.
-# Additional info: None
 Location "Coniraya" "Sol/Ceres"
 {
 	LongLat	[ 65.73 39.90 0 ]
@@ -280,7 +253,6 @@ Location "Coniraya" "Sol/Ceres"
 
 # Approval date: Mar 25, 2016; Last update: Mar 27, 2016
 # Origin: Italian agricultural god who watched over the harvested and stored crop.
-# Additional info: None
 Location "Consus" "Sol/Ceres"
 {
 	LongLat	[ 200.50 -20.70 0 ]
@@ -290,7 +262,6 @@ Location "Consus" "Sol/Ceres"
 
 # Approval date: Aug 22, 2016; Last update: Aug 22, 2016
 # Origin: Colombian harvest festival, Fiestas de La Cosecha, held in August at Pereira. (Cosecha means ‘harvest’ in Spanish).
-# Additional info: None
 Location "Cosecha Tholus" "Sol/Ceres"
 {
 	LongLat	[ 10.38 42.15 0 ]
@@ -300,7 +271,6 @@ Location "Cosecha Tholus" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 04, 2016
 # Origin: Zapotec (S. Mexico) god of maize and of abundant food.
-# Additional info: None
 Location "Cozobi" "Sol/Ceres"
 {
 	LongLat	[ 287.31 45.33 0 ]
@@ -310,7 +280,6 @@ Location "Cozobi" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 04, 2016
 # Origin: Nigerian god of vegetables.
-# Additional info: None
 Location "Dada" "Sol/Ceres"
 {
 	LongLat	[ 336.76 58.63 0 ]
@@ -320,7 +289,6 @@ Location "Dada" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 04, 2016
 # Origin: Bon Dalien; Khmer (Cambodia) festival at the end of the rice harvest (January – February).
-# Additional info: None
 Location "Dalien Tholus" "Sol/Ceres"
 {
 	LongLat	[ 5.21 3.82 0 ]
@@ -330,7 +298,6 @@ Location "Dalien Tholus" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Greek goddess of the cornfield and of crops.
-# Additional info: None
 Location "Damia" "Sol/Ceres"
 {
 	LongLat	[ 315.50 81.70 0 ]
@@ -340,7 +307,6 @@ Location "Damia" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Dutch (The Netherlands) day of thanksgiving for the crop (1st Wednesday of November).
-# Additional info: None
 Location "Dankdag Labes" "Sol/Ceres"
 {
 	LongLat	[ 39.21 78.38 0 ]
@@ -350,7 +316,6 @@ Location "Dankdag Labes" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 04, 2016
 # Origin: Ghanan god associated with the planting of the corn.
-# Additional info: None
 Location "Dantu" "Sol/Ceres"
 {
 	LongLat	[ 138.23 24.30 0 ]
@@ -360,7 +325,6 @@ Location "Dantu" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 04, 2016
 # Origin: Darzamate, Dārza-māte; Latvian spirit, “Mother of the garden.”
-# Additional info: None
 Location "Darzamat" "Sol/Ceres"
 {
 	LongLat	[ 76.40 -44.21 0 ]
@@ -370,7 +334,6 @@ Location "Darzamat" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 04, 2016
 # Origin: Polish god of the tilling of the soil.
-# Additional info: None
 Location "Datan" "Sol/Ceres"
 {
 	LongLat	[ 252.31 59.50 0 ]
@@ -380,7 +343,6 @@ Location "Datan" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Dikhan baba; Kazakh preislamic deity of farming.
-# Additional info: None
 Location "Dikhan" "Sol/Ceres"
 {
 	LongLat	[ 78.10 81.80 0 ]
@@ -390,7 +352,6 @@ Location "Dikhan" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 04, 2016
 # Origin: Dahomey (Benin) god of the fields.
-# Additional info: None
 Location "Doliku" "Sol/Ceres"
 {
 	LongLat	[ 5.88 -40.79 0 ]
@@ -400,7 +361,6 @@ Location "Doliku" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Kogi (N. Colombia) god, who taught people agriculture.
-# Additional info: None
 Location "Duginavi" "Sol/Ceres"
 {
 	LongLat	[ 4.29 39.20 0 ]
@@ -410,7 +370,6 @@ Location "Duginavi" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Sumerian god of vegetation, agriculture.
-# Additional info: None
 Location "Emesh" "Sol/Ceres"
 {
 	LongLat	[ 158.20 11.10 0 ]
@@ -420,7 +379,6 @@ Location "Emesh" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Sumerian god of farming.
-# Additional info: None
 Location "Enkimdu" "Sol/Ceres"
 {
 	LongLat	[ 259.10 78.90 0 ]
@@ -430,7 +388,6 @@ Location "Enkimdu" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 04, 2016
 # Origin: Egyptian cobra-headed goddess of the harvest.
-# Additional info: None
 Location "Ernutet" "Sol/Ceres"
 {
 	LongLat	[ 45.52 52.93 0 ]
@@ -440,7 +397,6 @@ Location "Ernutet" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 04, 2016
 # Origin: Sumerian goddess of the grain.
-# Additional info: None
 Location "Ezinu" "Sol/Ceres"
 {
 	LongLat	[ 195.70 43.24 0 ]
@@ -450,7 +406,6 @@ Location "Ezinu" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 04, 2016
 # Origin: Nigerian god who supplied the yams.
-# Additional info: None
 Location "Fejokoo" "Sol/Ceres"
 {
 	LongLat	[ 312.11 29.15 0 ]
@@ -460,7 +415,6 @@ Location "Fejokoo" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 04, 2016
 # Origin: Oscan (ancient S. Italy) goddess of flowers, counterpart of Roman goddess Flora.
-# Additional info: None
 Location "Fluusa" "Sol/Ceres"
 {
 	LongLat	[ 178.22 -31.31 0 ]
@@ -470,7 +424,6 @@ Location "Fluusa" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 04, 2016
 # Origin: Germanic goddess to whom offerings are made in harvesting the rye.
-# Additional info: None
 Location "Gaue" "Sol/Ceres"
 {
 	LongLat	[ 86.16 30.81 0 ]
@@ -480,7 +433,6 @@ Location "Gaue" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 04, 2016
 # Origin: Udmurt (Volga-Ural Region, Russia) agricultural festival after the spring sowing (June).
-# Additional info: None
 Location "Gerber Catena" "Sol/Ceres"
 {
 	LongLat	[ 215.50 -38.30 0 ]
@@ -490,7 +442,6 @@ Location "Gerber Catena" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 04, 2016
 # Origin: Sumerian/Babylonian goddess of the vine.
-# Additional info: None
 Location "Geshtin" "Sol/Ceres"
 {
 	LongLat	[ 258.81 57.00 0 ]
@@ -500,7 +451,6 @@ Location "Geshtin" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 16, 2017
 # Origin: Mayan god of maize.
-# Additional info: None
 Location "Ghanan" "Sol/Ceres"
 {
 	LongLat	[ 30.76 76.56 0 ]
@@ -510,7 +460,6 @@ Location "Ghanan" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Paraguay, Brazil, and Bolivia spirit helpful in gardening.
-# Additional info: None
 Location "Hakumyi" "Sol/Ceres"
 {
 	LongLat	[ 27.75 51.42 0 ]
@@ -520,7 +469,6 @@ Location "Hakumyi" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Hittite (Asia Minor) goddess of grain.
-# Additional info: None
 Location "Halki" "Sol/Ceres"
 {
 	LongLat	[ 334.60 25.90 0 ]
@@ -530,7 +478,6 @@ Location "Halki" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 09, 2016
 # Origin: Japanese god, protector of tree leaves.
-# Additional info: None
 Location "Hamori" "Sol/Ceres"
 {
 	LongLat	[ 79.44 -60.86 0 ]
@@ -550,7 +497,6 @@ Location "Hanami Planum" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Indian god of agriculture.
-# Additional info: None
 Location "Hatipowa" "Sol/Ceres"
 {
 	LongLat	[ 357.71 -16.08 0 ]
@@ -560,7 +506,6 @@ Location "Hatipowa" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Hau-lani; Hawaiian plant goddess.
-# Additional info: None
 Location "Haulani" "Sol/Ceres"
 {
 	LongLat	[ 10.77 5.80 0 ]
@@ -570,7 +515,6 @@ Location "Haulani" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Egyptian god of grain, produce, and vineyards.
-# Additional info: None
 Location "Heneb" "Sol/Ceres"
 {
 	LongLat	[ 191.04 10.87 0 ]
@@ -590,7 +534,6 @@ Location "HOMOWO REGIO" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Popoluca (S. Mexico) spirit of corn (maize).
-# Additional info: None
 Location "Homshuk" "Sol/Ceres"
 {
 	LongLat	[ 94.06 11.23 0 ]
@@ -600,7 +543,6 @@ Location "Homshuk" "Sol/Ceres"
 
 # Approval date: Aug 22, 2016; Last update: Aug 22, 2016
 # Origin: Hosil bayrami; Uzbek (Central Asia) cotton harvest festival.
-# Additional info: None
 Location "Hosil Tholus" "Sol/Ceres"
 {
 	LongLat	[ 320.71 43.31 0 ]
@@ -610,7 +552,6 @@ Location "Hosil Tholus" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: British god of the cultivated field and of the meadows.
-# Additional info: None
 Location "Ialonus" "Sol/Ceres"
 {
 	LongLat	[ 168.53 48.15 0 ]
@@ -620,7 +561,6 @@ Location "Ialonus" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: Philippine goddess of the cultivated lands.
-# Additional info: None
 Location "Ikapati" "Sol/Ceres"
 {
 	LongLat	[ 45.61 33.84 0 ]
@@ -630,7 +570,6 @@ Location "Ikapati" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Ancient Siouan (S. Carolina, USA) pair of male and female deities invoked for success at the sowing season.
-# Additional info: None
 Location "Inamahari" "Sol/Ceres"
 {
 	LongLat	[ 89.22 14.13 0 ]
@@ -640,7 +579,6 @@ Location "Inamahari" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Zulu (South Africa) agricultural goddess.
-# Additional info: None
 Location "Inkosazana" "Sol/Ceres"
 {
 	LongLat	[ 155.10 31.80 0 ]
@@ -650,7 +588,6 @@ Location "Inkosazana" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 09, 2016
 # Origin: Roman agricultural deity in charge of the sowing.
-# Additional info: None
 Location "Insitor" "Sol/Ceres"
 {
 	LongLat	[ 124.87 -10.71 0 ]
@@ -660,7 +597,6 @@ Location "Insitor" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Korean Earth goddess who brought 5 grains to Jeju island, and began agriculture.
-# Additional info: None
 Location "Jacheongbi" "Sol/Ceres"
 {
 	LongLat	[ 2.30 -69.20 0 ]
@@ -670,7 +606,6 @@ Location "Jacheongbi" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: Abkhazian (Transcaucasia) harvest goddess.
-# Additional info: None
 Location "Jaja" "Sol/Ceres"
 {
 	LongLat	[ 125.27 52.09 0 ]
@@ -680,7 +615,6 @@ Location "Jaja" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 09, 2016
 # Origin: Arunta/Aranda (Australia) god of flowers and fruit.
-# Additional info: None
 Location "Jarimba" "Sol/Ceres"
 {
 	LongLat	[ 21.25 -24.08 0 ]
@@ -690,7 +624,6 @@ Location "Jarimba" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Oct 24, 2015
 # Origin: Slavic god of fertility and harvest, who comes down to the Underworld after every harvest and returns to a usual world every spring.
-# Additional info: None
 Location "Jarovit" "Sol/Ceres"
 {
 	LongLat	[ 284.74 67.90 0 ]
@@ -700,7 +633,6 @@ Location "Jarovit" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 09, 2016
 # Origin: Sakai/Orang Asli (Malaysia) spirit of the crops.
-# Additional info: None
 Location "Juling" "Sol/Ceres"
 {
 	LongLat	[ 168.48 -35.90 0 ]
@@ -710,7 +642,6 @@ Location "Juling" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Latvian god of fertility of the field.
-# Additional info: None
 Location "Jumis" "Sol/Ceres"
 {
 	LongLat	[ 316.40 51.60 0 ]
@@ -720,7 +651,6 @@ Location "Jumis" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Brazilian festival with a rural theme held in June at end of rainy season to give thanks for fertile rain.
-# Additional info: None
 Location "Junina Catenae" "Sol/Ceres"
 {
 	LongLat	[ 214.94 26.05 0 ]
@@ -730,7 +660,6 @@ Location "Junina Catenae" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Maori (New Zealand) god of kumara (sweet potato) crops.
-# Additional info: None
 Location "Kahukura" "Sol/Ceres"
 {
 	LongLat	[ 221.40 61.40 0 ]
@@ -740,7 +669,6 @@ Location "Kahukura" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 09, 2016
 # Origin: Konjo and Banyoro/Nyoro (Uganda) goddess of harvest.
-# Additional info: None
 Location "Kaikara" "Sol/Ceres"
 {
 	LongLat	[ 222.43 42.82 0 ]
@@ -760,7 +688,6 @@ Location "Kait" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Micronesian (Pohnpei/Ponape Island, Caroline Islands) god of the coconut palm.
-# Additional info: None
 Location "Kaneki" "Sol/Ceres"
 {
 	LongLat	[ 294.60 23.80 0 ]
@@ -770,7 +697,6 @@ Location "Kaneki" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Finnish harvest festival (first Saturday of November).
-# Additional info: None
 Location "Kekri Tholus" "Sol/Ceres"
 {
 	LongLat	[ 240.59 19.85 0 ]
@@ -780,7 +706,6 @@ Location "Kekri Tholus" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Hopi spirit of the sprouting maize (Arizona, SW USA).
-# Additional info: None
 Location "Kerwan" "Sol/Ceres"
 {
 	LongLat	[ 123.99 -10.77 0 ]
@@ -790,7 +715,6 @@ Location "Kerwan" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Veddan (Sri Lanka) goddess, provider of food (“Milk mother”).
-# Additional info: None
 Location "Kiriamma" "Sol/Ceres"
 {
 	LongLat	[ 126.33 50.32 0 ]
@@ -800,7 +724,6 @@ Location "Kiriamma" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Lithuanian spirit, guardian of cherry trees.
-# Additional info: None
 Location "Kirnis" "Sol/Ceres"
 {
 	LongLat	[ 264.30 4.90 0 ]
@@ -810,7 +733,6 @@ Location "Kirnis" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Pueblo (SW USA) fertility deity, who presides over agriculture.
-# Additional info: None
 Location "Kokopelli" "Sol/Ceres"
 {
 	LongLat	[ 124.50 18.30 0 ]
@@ -820,7 +742,6 @@ Location "Kokopelli" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Finnish agricultural deity.
-# Additional info: None
 Location "Kondos" "Sol/Ceres"
 {
 	LongLat	[ 17.31 -19.34 0 ]
@@ -830,7 +751,6 @@ Location "Kondos" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Polynesian goddess of plant life.
-# Additional info: None
 Location "Kumitoga" "Sol/Ceres"
 {
 	LongLat	[ 178.83 -10.09 0 ]
@@ -840,7 +760,6 @@ Location "Kumitoga" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 09, 2016
 # Origin: Russian god of vegetation and of the harvest.
-# Additional info: None
 Location "Kupalo" "Sol/Ceres"
 {
 	LongLat	[ 173.20 -39.44 0 ]
@@ -850,7 +769,6 @@ Location "Kupalo" "Sol/Ceres"
 
 # Approval date: Aug 22, 2016; Last update: Aug 22, 2016
 # Origin: African-American festival (“;First Fruits“;) based on ancient African harvest festivals (from December 26 to January 1).
-# Additional info: None
 Location "Kwanzaa Tholus" "Sol/Ceres"
 {
 	LongLat	[ 326.68 32.06 0 ]
@@ -860,7 +778,6 @@ Location "Kwanzaa Tholus" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Latvian spirit, “Mother of the fields.”
-# Additional info: None
 Location "Laukumate" "Sol/Ceres"
 {
 	LongLat	[ 159.42 65.03 0 ]
@@ -870,7 +787,6 @@ Location "Laukumate" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: Roman god of agriculture.
-# Additional info: None
 Location "Liber" "Sol/Ceres"
 {
 	LongLat	[ 37.80 42.56 0 ]
@@ -880,7 +796,6 @@ Location "Liber" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 09, 2016
 # Origin: Ancient Roman festival to honor Liber and Libera, deities of the vine, worshiped, along with Ceres as fertility gods, held on March 17.
-# Additional info: None
 Location "Liberalia Mons" "Sol/Ceres"
 {
 	LongLat	[ 311.01 6.02 0 ]
@@ -890,7 +805,6 @@ Location "Liberalia Mons" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Zapotec (Mexico) deity to whom a ceremony is performed when the first chili plant is cut.
-# Additional info: None
 Location "Lociyo" "Sol/Ceres"
 {
 	LongLat	[ 228.83 -6.53 0 ]
@@ -900,7 +814,6 @@ Location "Lociyo" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Punjabi (Pakistan, NW India) harvest festival. Held on January 13.
-# Additional info: None
 Location "Lohri Tholus" "Sol/Ceres"
 {
 	LongLat	[ 238.66 19.66 0 ]
@@ -910,7 +823,6 @@ Location "Lohri Tholus" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 09, 2016
 # Origin: Hawaiian god of agriculture.
-# Additional info: None
 Location "Lono" "Sol/Ceres"
 {
 	LongLat	[ 304.37 -36.61 0 ]
@@ -920,7 +832,6 @@ Location "Lono" "Sol/Ceres"
 
 # Approval date: Nov 30, 2018; Last update: Nov 30, 2018
 # Origin: Celtic harvest festival, traditionally celebrated on August 1.
-# Additional info: None
 Location "Lughnasa Tholus" "Sol/Ceres"
 {
 	LongLat	[ 326.30 20.20 0 ]
@@ -930,7 +841,6 @@ Location "Lughnasa Tholus" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Hawaiian harvest festival in honor of Lono, a god of fertility, agriculture, and rainfall (lasts four months, from October through February).
-# Additional info: None
 Location "Makahiki Labyrinthus" "Sol/Ceres"
 {
 	LongLat	[ 237.84 17.49 0 ]
@@ -940,7 +850,6 @@ Location "Makahiki Labyrinthus" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 09, 2016
 # Origin: Ngaing (New Guinea) goddess of taro, sugar cane, and other foods.
-# Additional info: None
 Location "Meanderi" "Sol/Ceres"
 {
 	LongLat	[ 194.19 -40.80 0 ]
@@ -950,7 +859,6 @@ Location "Meanderi" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Yurok (California, USA) dwarf god of acorns and the distributor of vegetal abundance.
-# Additional info: None
 Location "Megwomets" "Sol/Ceres"
 {
 	LongLat	[ 146.22 36.54 0 ]
@@ -960,7 +868,6 @@ Location "Megwomets" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 09, 2016
 # Origin: Roman god of harvesting, of cutting of the grain.
-# Additional info: None
 Location "Messor" "Sol/Ceres"
 {
 	LongLat	[ 233.73 49.93 0 ]
@@ -970,7 +877,6 @@ Location "Messor" "Sol/Ceres"
 
 # Approval date: Aug 22, 2016; Last update: Aug 22, 2016
 # Origin: Mikeldiena; Latvian harvest festival. Held at the end of September.
-# Additional info: None
 Location "Mikeli Tholus" "Sol/Ceres"
 {
 	LongLat	[ 293.38 38.62 0 ]
@@ -980,7 +886,6 @@ Location "Mikeli Tholus" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Name of god Tilo as “Food-Giver” (Tonga tribes of Malawi and Zambia).
-# Additional info: None
 Location "Mlezi" "Sol/Ceres"
 {
 	LongLat	[ 223.20 75.90 0 ]
@@ -990,7 +895,6 @@ Location "Mlezi" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 09, 2016
 # Origin: Ojibwe /Chippewa corn (maize) god (Lake Superior area, Canada and USA).
-# Additional info: None
 Location "Mondamin" "Sol/Ceres"
 {
 	LongLat	[ 354.00 -62.24 0 ]
@@ -1000,7 +904,6 @@ Location "Mondamin" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Bengal region (Bangladesh and West Bengal state in India) “new rice” harvest festival.
-# Additional info: None
 Location "Nabanna Fossa" "Sol/Ceres"
 {
 	LongLat	[ 284.05 1.71 0 ]
@@ -1010,7 +913,6 @@ Location "Nabanna Fossa" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Azerbaijani festival of pomegranate harvest. Held in October – November in Goychaycity, center of pomegranates cultivation in Azerbaijan.
-# Additional info: None
 Location "Nar Sulcus" "Sol/Ceres"
 {
 	LongLat	[ 280.11 -41.86 0 ]
@@ -1020,7 +922,6 @@ Location "Nar Sulcus" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Acoma (New Mexico, SW USA) guardian of the field.
-# Additional info: None
 Location "Nawish" "Sol/Ceres"
 {
 	LongLat	[ 193.79 18.28 0 ]
@@ -1030,7 +931,6 @@ Location "Nawish" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Egyptian god of rain.
-# Additional info: None
 Location "Nepen" "Sol/Ceres"
 {
 	LongLat	[ 220.54 6.19 0 ]
@@ -1040,7 +940,6 @@ Location "Nepen" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Oct 24, 2015
 # Origin: Hopi (SW USA) ritual ending the katsina (spiritual beings) season, celebrates the katsinas’ return to their spiritual home in July and their part in the blossoming of plant life.
-# Additional info: None
 Location "Niman Rupes" "Sol/Ceres"
 {
 	LongLat	[ 60.05 -28.56 0 ]
@@ -1050,7 +949,6 @@ Location "Niman Rupes" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 09, 2016
 # Origin: Sumerian goddess of plants and vegetation.
-# Additional info: None
 Location "Ninsar" "Sol/Ceres"
 {
 	LongLat	[ 263.26 30.30 0 ]
@@ -1060,7 +958,6 @@ Location "Ninsar" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Canelos Quichua (Ecuador) female spirit of the garden soil and of pottery clay.
-# Additional info: None
 Location "Nunghui" "Sol/Ceres"
 {
 	LongLat	[ 272.30 -54.00 0 ]
@@ -1070,7 +967,6 @@ Location "Nunghui" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Roman agricultural deity of the harrowing.
-# Additional info: None
 Location "Occator" "Sol/Ceres"
 {
 	LongLat	[ 239.33 19.82 0 ]
@@ -1080,7 +976,6 @@ Location "Occator" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 09, 2016
 # Origin: Philippine agricultural goddess.
-# Additional info: None
 Location "Oltagon" "Sol/Ceres"
 {
 	LongLat	[ 37.96 -25.95 0 ]
@@ -1090,7 +985,6 @@ Location "Oltagon" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: Tomori/Mori (Celebes/Sulawesi, Indonesia) rice spirit who dwells in the Moon.
-# Additional info: None
 Location "Omonga" "Sol/Ceres"
 {
 	LongLat	[ 71.67 58.03 0 ]
@@ -1100,7 +994,6 @@ Location "Omonga" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Harvest festival in Kerala, India, held in August-September.
-# Additional info: None
 Location "Onam Labes" "Sol/Ceres"
 {
 	LongLat	[ 316.02 51.23 0 ]
@@ -1110,7 +1003,6 @@ Location "Onam Labes" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: God of agriculture in Afro-Brazilian beliefs of Yoruba derivation.
-# Additional info: None
 Location "Oxo" "Sol/Ceres"
 {
 	LongLat	[ 359.60 42.21 0 ]
@@ -1120,7 +1012,6 @@ Location "Oxo" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Festival of rice planting season at Sumba Island (Lesser Sunda Islands, E. Indonesia). (February – March).
-# Additional info: None
 Location "Pasola Facula" "Sol/Ceres"
 {
 	LongLat	[ 239.22 19.47 0 ]
@@ -1130,7 +1021,6 @@ Location "Pasola Facula" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Seto (SE Estonia) fertility god.
-# Additional info: None
 Location "Peko" "Sol/Ceres"
 {
 	LongLat	[ 331.40 39.70 0 ]
@@ -1140,7 +1030,6 @@ Location "Peko" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Barama River Caribs (Guyana) god of the manioc.
-# Additional info: None
 Location "Piuku" "Sol/Ceres"
 {
 	LongLat	[ 36.99 -15.37 0 ]
@@ -1150,7 +1039,6 @@ Location "Piuku" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Tamil (Sri Lanka and S. India) harvest festival observed in mid-January. It is a time for giving thanks to nature.
-# Additional info: None
 Location "Pongal Catena" "Sol/Ceres"
 {
 	LongLat	[ 267.66 -37.37 0 ]
@@ -1160,7 +1048,6 @@ Location "Pongal Catena" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Polynesian god of turmeric.
-# Additional info: None
 Location "Rao" "Sol/Ceres"
 {
 	LongLat	[ 119.01 8.10 0 ]
@@ -1170,7 +1057,6 @@ Location "Rao" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Fijian serpent god of agriculture and the underworld. He makes the breadfruit and other fruit trees blossom and yield fruit.
-# Additional info: None
 Location "Ratumaibulu" "Sol/Ceres"
 {
 	LongLat	[ 77.50 -67.30 0 ]
@@ -1180,7 +1066,6 @@ Location "Ratumaibulu" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Arabian tribal god worshipped as the provider of food.
-# Additional info: None
 Location "Razeka" "Sol/Ceres"
 {
 	LongLat	[ 61.63 -3.21 0 ]
@@ -1190,7 +1075,6 @@ Location "Razeka" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Maori (New Zealand) god of agriculture, of cultivated foods.
-# Additional info: None
 Location "Rongo" "Sol/Ceres"
 {
 	LongLat	[ 348.71 3.21 0 ]
@@ -1200,7 +1084,6 @@ Location "Rongo" "Sol/Ceres"
 
 # Approval date: Dec 04, 2015; Last update: Feb 09, 2016
 # Origin: Teutonic goddess who symbolizes the ripe fields of harvest.
-# Additional info: None
 Location "Roskva" "Sol/Ceres"
 {
 	LongLat	[ 333.02 58.90 0 ]
@@ -1220,7 +1103,6 @@ Location "Samhain Catenae" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Indonesian (Bali and Java Islands) god of agriculture.
-# Additional info: None
 Location "Sedana" "Sol/Ceres"
 {
 	LongLat	[ 314.70 36.50 0 ]
@@ -1230,7 +1112,6 @@ Location "Sedana" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 09, 2016
 # Origin: Egyptian name of Isis as goddess of cultivated lands and fields.
-# Additional info: None
 Location "Sekhet" "Sol/Ceres"
 {
 	LongLat	[ 255.05 -66.42 0 ]
@@ -1240,7 +1121,6 @@ Location "Sekhet" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Jivaro (Ecuador and Peru) god of vegetation invoked in the planting and cultivation of bananas.
-# Additional info: None
 Location "Shakaema" "Sol/Ceres"
 {
 	LongLat	[ 33.93 -3.66 0 ]
@@ -1250,7 +1130,6 @@ Location "Shakaema" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Aug 11, 2017
 # Origin: Shen Nong; Chinese buffalo-headed agricultural deity, who taught humans the use of the plow together with other aspects of basic agriculture.
-# Additional info: None
 Location "Shennong" "Sol/Ceres"
 {
 	LongLat	[ 28.10 69.00 0 ]
@@ -1260,7 +1139,6 @@ Location "Shennong" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Columbian deity who produced the fertile black earth for sowing.
-# Additional info: None
 Location "Sintana" "Sol/Ceres"
 {
 	LongLat	[ 46.20 -48.07 0 ]
@@ -1270,7 +1148,6 @@ Location "Sintana" "Sol/Ceres"
 
 # Approval date: Mar 27, 2019; Last update: Mar 27, 2019
 # Origin: Jewish autumn festival of double thanksgiving, celebrated for 8 days in September – October.
-# Additional info: None
 Location "Sukkot Labes" "Sol/Ceres"
 {
 	LongLat	[ 26.81 50.55 0 ]
@@ -1280,7 +1157,6 @@ Location "Sukkot Labes" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 09, 2016
 # Origin: Tongan (Polynesia) goddess invoked for favorable seasons for the crops.
-# Additional info: None
 Location "Tafakula" "Sol/Ceres"
 {
 	LongLat	[ 88.59 -19.82 0 ]
@@ -1290,7 +1166,6 @@ Location "Tafakula" "Sol/Ceres"
 
 # Approval date: Oct 01, 2015; Last update: Feb 09, 2016
 # Origin: Maori (New Zealand) personification of all food.
-# Additional info: None
 Location "Tahu" "Sol/Ceres"
 {
 	LongLat	[ 44.79 -6.59 0 ]
@@ -1300,7 +1175,6 @@ Location "Tahu" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: Malaysian goddess in charge of the tuber harvest.
-# Additional info: None
 Location "Takel" "Sol/Ceres"
 {
 	LongLat	[ 280.48 50.76 0 ]
@@ -1310,7 +1184,6 @@ Location "Takel" "Sol/Ceres"
 
 # Approval date: Jun 20, 2016; Last update: Jun 20, 2016
 # Origin: Polish god of the fields, of the tilling.
-# Additional info: None
 Location "Tawals" "Sol/Ceres"
 {
 	LongLat	[ 238.02 -39.06 0 ]
@@ -1320,7 +1193,6 @@ Location "Tawals" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Hittite (Asia Minor) god of fertility and vegetation.
-# Additional info: None
 Location "Telepinu" "Sol/Ceres"
 {
 	LongLat	[ 335.60 23.20 0 ]
@@ -1330,7 +1202,6 @@ Location "Telepinu" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Scandinavian goddess who “Signifies the seed.”
-# Additional info: None
 Location "Thrud" "Sol/Ceres"
 {
 	LongLat	[ 31.00 -71.30 0 ]
@@ -1340,7 +1211,6 @@ Location "Thrud" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 09, 2016
 # Origin: Land Dayaks (Borneo/Kalimantan, Indonesia) malevolent spirit who devours and depletes the rice.
-# Additional info: None
 Location "Tibong" "Sol/Ceres"
 {
 	LongLat	[ 352.20 -29.82 0 ]
@@ -1350,7 +1220,6 @@ Location "Tibong" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Pawnee (Nebraska, Central USA) god of food and vegetation.
-# Additional info: None
 Location "Toharu" "Sol/Ceres"
 {
 	LongLat	[ 155.95 -48.32 0 ]
@@ -1360,7 +1229,6 @@ Location "Toharu" "Sol/Ceres"
 
 # Approval date: Oct 15, 2015; Last update: Feb 09, 2016
 # Origin: Polynesian god of turmeric.
-# Additional info: None
 Location "Tupo" "Sol/Ceres"
 {
 	LongLat	[ 88.38 -32.35 0 ]
@@ -1370,7 +1238,6 @@ Location "Tupo" "Sol/Ceres"
 
 # Approval date: Sep 12, 2016; Last update: Sep 12, 2016
 # Origin: Nigerian (Zuru Emirate, Kebbi State) harvest festival.
-# Additional info: None
 Location "Uhola Catenae" "Sol/Ceres"
 {
 	LongLat	[ 286.66 -10.65 0 ]
@@ -1380,7 +1247,6 @@ Location "Uhola Catenae" "Sol/Ceres"
 
 # Approval date: Jul 11, 2015; Last update: Feb 09, 2016
 # Origin: Indian and Iranian deity of plants and fields.
-# Additional info: None
 Location "Urvara" "Sol/Ceres"
 {
 	LongLat	[ 249.24 -45.66 0 ]
@@ -1390,7 +1256,6 @@ Location "Urvara" "Sol/Ceres"
 
 # Approval date: Mar 25, 2016; Last update: Mar 27, 2016
 # Origin: Grape harvest festival in Mendoza (Argentina) during the first week of March. It is one of the most important festivals in the country.
-# Additional info: None
 Location "Vendimia Planitia" "Sol/Ceres"
 {
 	LongLat	[ 135.00 23.00 0 ]
@@ -1400,7 +1265,6 @@ Location "Vendimia Planitia" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: Roman goddess of food and nourishment.
-# Additional info: None
 Location "Victa" "Sol/Ceres"
 {
 	LongLat	[ 301.04 36.23 0 ]
@@ -1410,7 +1274,6 @@ Location "Victa" "Sol/Ceres"
 
 # Approval date: Nov 26, 2016; Last update: Nov 26, 2016
 # Origin: Roman wine festivals, celebrated twice a year: on April 23 when the new wine was tasted and August 19 when the new wine was opened for all.
-# Additional info: None
 Location "Vinalia Faculae" "Sol/Ceres"
 {
 	LongLat	[ 242.00 20.20 0 ]
@@ -1420,7 +1283,6 @@ Location "Vinalia Faculae" "Sol/Ceres"
 
 # Approval date: Sep 21, 2015; Last update: Feb 09, 2016
 # Origin: Celtic Briton god of vines.
-# Additional info: None
 Location "Vinotonus" "Sol/Ceres"
 {
 	LongLat	[ 95.12 43.02 0 ]
@@ -1430,7 +1292,6 @@ Location "Vinotonus" "Sol/Ceres"
 
 # Approval date: Dec 14, 2015; Last update: Feb 09, 2016
 # Origin: Garo people (Meghalaya and Assam states, NE India, and Bangladesh) post-harvest three-day festival that marks the end of the agricultural year (in November).
-# Additional info: None
 Location "Wangala Tholus" "Sol/Ceres"
 {
 	LongLat	[ 6.64 -21.62 0 ]
@@ -1440,7 +1301,6 @@ Location "Wangala Tholus" "Sol/Ceres"
 
 # Approval date: Aug 25, 2017; Last update: Aug 25, 2017
 # Origin: Fon (Benin/Dahomey) god of thunder and fertility.
-# Additional info: None
 Location "Xevioso" "Sol/Ceres"
 {
 	LongLat	[ 310.60 0.70 0 ]
@@ -1450,7 +1310,6 @@ Location "Xevioso" "Sol/Ceres"
 
 # Approval date: Sep 16, 2016; Last update: Sep 16, 2016
 # Origin: Aztec fertility god, associated with maize and flowers; patron of music and dance.
-# Additional info: None
 Location "Xochipilli" "Sol/Ceres"
 {
 	LongLat	[ 93.21 56.66 0 ]
@@ -1460,7 +1319,6 @@ Location "Xochipilli" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Dahomey goddess worshipped by women at the harvest rites.
-# Additional info: None
 Location "Yalode" "Sol/Ceres"
 {
 	LongLat	[ 292.48 -42.58 0 ]
@@ -1480,7 +1338,6 @@ Location "Yamor Mons" "Sol/Ceres"
 
 # Approval date: Jul 03, 2015; Last update: Feb 09, 2016
 # Origin: Ancient Georgian god of bountiful harvest.
-# Additional info: None
 Location "Zadeni" "Sol/Ceres"
 {
 	LongLat	[ 38.34 -70.36 0 ]
@@ -1490,7 +1347,6 @@ Location "Zadeni" "Sol/Ceres"
 
 # Approval date: Aug 11, 2017; Last update: Mar 07, 2018
 # Origin: Ancient Armenian god of fertility and vegetation.
-# Additional info: None
 Location "Zatik" "Sol/Ceres"
 {
 	LongLat	[ 114.00 69.90 0 ]
@@ -1503,7 +1359,6 @@ Location "Zatik" "Sol/Ceres"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Underworld in Inuit myths.
-# Additional info: None
 Location "Adlivun Cavus" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 188.86 -15.40 0 ]
@@ -1513,7 +1368,6 @@ Location "Adlivun Cavus" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: Jun 03, 2019
 # Origin: A bottomless lake, one of the entrances to the underworld in Greek mythology.
-# Additional info: None
 Location "Alcyonia Lacus" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 151.95 36.44 0 ]
@@ -1523,7 +1377,6 @@ Location "Alcyonia Lacus" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Ash-Sharīf al-Idrīsī; Arabian mapmaker and geographer (1100–1165/66).
-# Additional info: None
 Location "Al-Idrisi Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 156.01 33.99 0 ]
@@ -1533,7 +1386,6 @@ Location "Al-Idrisi Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Apr 26, 2018; Last update: Apr 26, 2018
 # Origin: Jeanne Baret (Baré); first woman to have completed circumnavigation voyage of the globe (1740-1807).
-# Additional info: None
 Location "Baret Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 157.80 14.60 0 ]
@@ -1543,7 +1395,6 @@ Location "Baret Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 03, 2021
 # Origin: In The Inferno by Dante, Beatrice descends into hell to find Virgil and ask him to guide Dante. She later guides Dante through Paradise in Paradiso.
-# Additional info: None
 Location "Beatrice Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 129.26 0.19 0 ]
@@ -1553,7 +1404,6 @@ Location "Beatrice Fossa" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Venetia; British schoolgirl, who suggested in 1930 the name “Pluto” for Tombaugh’s newly discovered planet (1918–2009).
-# Additional info: None
 Location "Burney" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 133.79 45.68 0 ]
@@ -1572,7 +1422,6 @@ Location "Challenger Colles" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Sep 02, 2021; Last update: Dec 16, 2021
 # Origin: Elizabeth “Bessie”; early American aviator and the first woman of African-American and Native American descent to earn a pilot’s license (1892-1926).
-# Additional info: None
 Location "Coleman Mons" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 167.98 -24.17 0 ]
@@ -1600,7 +1449,6 @@ Location "Coradini" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Jan 03, 2020; Last update: Jan 03, 2020
 # Origin: Thomas Boyd; American mechanical/space engineer, first project manager of the New Horizons mission to Pluto and the Kuiper Belt (1941–2014).
-# Additional info: None
 Location "Coughlin" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 150.54 15.24 0 ]
@@ -1610,7 +1458,6 @@ Location "Coughlin" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Ancestral beings in Yolngu (Australia) myth who traveled between the island of the dead and Australia.
-# Additional info: None
 Location "Djanggawul Fossae" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 84.31 41.00 0 ]
@@ -1620,7 +1467,6 @@ Location "Djanggawul Fossae" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 03, 2021
 # Origin: In ancient Sumerian mythology, Dumuzi was a god of the harvest. He was taken down into the Underworld, but permitted to return to earth for half of each year, resulting in the cycle of the seasons.
-# Additional info: None
 Location "Dumuzi Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 127.90 30.56 0 ]
@@ -1630,7 +1476,6 @@ Location "Dumuzi Fossa" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 09, 2021
 # Origin: Kenneth; Irish astronomer, the first to propose the existence of a disk of bodies beyond the orbit of Neptune, now known as the Edgeworth-Kuiper Belt (1880-1972).
-# Additional info: None
 Location "Edgeworth" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 109.42 6.86 0 ]
@@ -1640,7 +1485,6 @@ Location "Edgeworth" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Juan Sebastián; Spanish explorer of Basque origin, who completed in 1522 the first circumnavigation of the Earth which started in 1519 under the leadership of Magellan (c.1476–1526).
-# Additional info: None
 Location "Elcano Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 143.70 -26.04 0 ]
@@ -1650,7 +1494,6 @@ Location "Elcano Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 11, 2017
 # Origin: James; American astronomer, discoverer of the atmosphere of Pluto (1943–2011).
-# Additional info: None
 Location "Elliot" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 138.86 12.04 0 ]
@@ -1660,7 +1503,6 @@ Location "Elliot" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 05, 2020; Last update: Feb 09, 2021
 # Origin: Lisa; Led the development of the RALPH instrument, the visual and infrared imager and spectrometer on the New Horizons spacecraft (1966-2017).
-# Additional info: None
 Location "Hardaway" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 140.97 46.85 0 ]
@@ -1670,7 +1512,6 @@ Location "Hardaway" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Jan 03, 2020; Last update: Jan 03, 2020
 # Origin: Robert H.; American astronomer, co-discoverer (1955) of Pluto’s 6.4-day rotation period (1923–1989).
-# Additional info: None
 Location "Hardie" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 141.58 23.82 0 ]
@@ -1680,7 +1521,6 @@ Location "Hardie" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Japanese Hayabusa (literally Peregrine Falcon) spacecraft that performed the first asteroid sample return (2003–2010).
-# Additional info: None
 Location "HAYABUSA TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 229.88 46.07 0 ]
@@ -1690,7 +1530,6 @@ Location "HAYABUSA TERRA" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2018; Last update: May 30, 2018
 # Origin: An Icelandic volcano believed to be the entrance to Hell in medieval European times.
-# Additional info: None
 Location "Hekla Cavus" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 154.66 6.86 0 ]
@@ -1700,7 +1539,6 @@ Location "Hekla Cavus" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Sep 25, 2019; Last update: Sep 25, 2019
 # Origin: Son of Odin, who rode the horse Sleipnir into the underworld to retrieve his brother, Balder.
-# Additional info: None
 Location "Hermod Fossae" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 119.34 -8.63 0 ]
@@ -1710,7 +1548,6 @@ Location "Hermod Fossae" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Edmund; New Zealand mountaineer (1919–2008).
-# Additional info: None
 Location "Hillary Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 169.58 3.26 0 ]
@@ -1720,7 +1557,6 @@ Location "Hillary Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: One of the Hero Twins (with Xbalanque) in Mayan mythology, who defeated the lords of the Underworld in a ball game.
-# Additional info: None
 Location "Hunahpu Valles" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 154.41 49.09 0 ]
@@ -1730,7 +1566,6 @@ Location "Hunahpu Valles" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Jan 03, 2020; Last update: Jan 03, 2020
 # Origin: Korean traveler and scholar, who crossed the Asian continent from China to Arabia and back (724-727), and documented the journey in his journals (704–787).
-# Additional info: None
 Location "Hyecho Palus" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 167.44 -17.43 0 ]
@@ -1740,7 +1575,6 @@ Location "Hyecho Palus" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 03, 2021
 # Origin: Inanna was the Queen of Heaven in ancient Sumerian mythology. She visited the Underworld but was permitted to return in exchange for the life of her husband, Dumuzi.
-# Additional info: None
 Location "Inanna Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 129.29 33.05 0 ]
@@ -1750,7 +1584,6 @@ Location "Inanna Fossa" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 12, 2019; Last update: Aug 12, 2019
 # Origin: Epic hero of the Chochenyo/Ohlone (N. California) mythology, an anthropomorphic being resembling a peregrine falcon, who traveled to the underworld to battle Wiwe (“Body of Stone”), the lord of the underworld.
-# Additional info: None
 Location "Kaknú Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 122.07 -30.45 0 ]
@@ -1760,7 +1593,6 @@ Location "Kaknú Fossa" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: Jun 03, 2019
 # Origin: Bishun; Indian-born American atmosphere chemistry scientist, investigated, in particular, tholins, the organic molecules that probably account for the darkest regions on Pluto (1933–2013).
-# Additional info: None
 Location "Khare" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 94.56 27.85 0 ]
@@ -1770,7 +1602,6 @@ Location "Khare" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: Jun 03, 2019
 # Origin: Rolan; Georgian (Caucasus) astronomer. Investigated the dynamics, astrometry and photometry of Pluto (1931–2010).
-# Additional info: None
 Location "Kiladze" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 212.92 28.39 0 ]
@@ -1798,7 +1629,6 @@ Location "Lemminkäinen Vallis" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Percival; American astronomer who in 1906-1916 undertook extensive searches of transneptunian planets (1855-1916).
-# Additional info: None
 Location "LOWELL REGIO" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 338.00 86.00 0 ]
@@ -1808,7 +1638,6 @@ Location "LOWELL REGIO" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 03, 2021
 # Origin: Two Soviet Union planetary rovers that were sent to the surface of the Moon (1970, 1973). Lunokhod 1 was the first remote-controlled, wheeled robot to land on and rove on an extraterrestrial body.
-# Additional info: None
 Location "Lunokhod Planitia" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 109.57 30.75 0 ]
@@ -1818,7 +1647,6 @@ Location "Lunokhod Planitia" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Nyanga (Eastern Dem. Rep. Congo/Zaire) epic hero who travelled to the underworld and after returning home became a wise and powerful king.
-# Additional info: None
 Location "Mwindo Fossae" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 245.78 34.74 0 ]
@@ -1828,7 +1656,6 @@ Location "Mwindo Fossae" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 04, 2021
 # Origin: Jan Hendrik, Dutch astronomer, first described the Oort Cloud, a theoretical cloud of icy planetesimals beyond the Kuiper Belt, and believed to be the source of long- period comets (1900 to 1992).
-# Additional info: None
 Location "Oort" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 92.05 7.86 0 ]
@@ -1838,7 +1665,6 @@ Location "Oort" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Auguste; Swiss-Belgian inventor and physicist known for his pioneering balloon flights into the Earth’s upper atmosphere up to 17 km (1884–1962).
-# Additional info: None
 Location "Piccard Mons" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 176.79 -35.26 0 ]
@@ -1848,7 +1674,6 @@ Location "Piccard Mons" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Antonio; Italian scholar and explorer, whose journal is the only original description of the discoveries made during the first circumnavigation of the Earth which started in Spain in 1519 under the leadership of Magellan (c.1491 – c.1531).
-# Additional info: None
 Location "Pigafetta Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 146.44 -6.83 0 ]
@@ -1858,7 +1683,6 @@ Location "Pigafetta Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 09, 2021
 # Origin: Early US lunar, planetary, and heliospheric missions including the first to Jupiter and Saturn, 1958-1997.
-# Additional info: None
 Location "PIONEER TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 192.40 56.58 0 ]
@@ -1868,7 +1692,6 @@ Location "PIONEER TERRA" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Ahmed Muhiddin, also known as Piri Reis, Ottoman navigator and cartographer (c. 1470–1553). Author of one of the earliest existing world maps in 1513. His “Book of the Sea” (1521), containing 290 maps, was one of the most famous cartographical works of that period.
-# Additional info: None
 Location "Piri Rupes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 108.90 27.13 0 ]
@@ -1878,7 +1701,6 @@ Location "Piri Rupes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 05, 2020; Last update: Aug 10, 2020
 # Origin: Carl; German physicist, inventor of the blink comparator which Clyde Tombaugh used for discovery of Pluto (1858-1927).
-# Additional info: None
 Location "Pulfrich" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 135.99 77.80 0 ]
@@ -1888,7 +1710,6 @@ Location "Pulfrich" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 09, 2021
 # Origin: A series of US space probes sent to the Moon during 1961-1965. In 1964, Ranger 7 obtained the first close-up images of an extraterrestrial surface.
-# Additional info: None
 Location "Ranger Planitia" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 127.91 20.89 0 ]
@@ -1898,7 +1719,6 @@ Location "Ranger Planitia" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Sep 02, 2021; Last update: Dec 16, 2021
 # Origin: Sally; American physicist, astronaut, and first American woman in space (1951-2012).
-# Additional info: None
 Location "Ride Rupes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 163.19 -19.66 0 ]
@@ -1917,7 +1737,6 @@ Location "Rosetta Planitia" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: Jun 03, 2019
 # Origin: Damon; American astronomer; investigated the formation history of Pluto (1959–2004).
-# Additional info: None
 Location "Simonelli" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 314.76 12.79 0 ]
@@ -1927,7 +1746,6 @@ Location "Simonelli" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: A powerful, eight-legged horse in Norse mythology who carried Odin into the Underworld.
-# Additional info: None
 Location "Sleipnir Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 234.51 23.70 0 ]
@@ -1937,7 +1755,6 @@ Location "Sleipnir Fossa" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Soviet Union's Sputnik 1 (literally Satellite 1), the first human-built satellite of the Earth (1957).
-# Additional info: None
 Location "Sputnik Planitia" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 178.69 19.51 0 ]
@@ -1947,7 +1764,6 @@ Location "Sputnik Planitia" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Nov 19, 2019; Last update: Nov 19, 2019
 # Origin: Junko Tabei, Japanese mountaineer and the first woman to climb both Mount Everest and the Seven Summits (1939–2016).
-# Additional info: None
 Location "Tabei Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 164.33 -11.73 0 ]
@@ -1957,7 +1773,6 @@ Location "Tabei Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: The deepest, darkest pit of the Underworld in Greek mythology.
-# Additional info: None
 Location "Tartarus Dorsa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 233.09 8.50 0 ]
@@ -1967,7 +1782,6 @@ Location "Tartarus Dorsa" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 11, 2017
 # Origin: Tenzing Norgay; Nepalese (Sherpa) mountaineer (1914–1986).
-# Additional info: None
 Location "Tenzing Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 177.38 -15.61 0 ]
@@ -1977,7 +1791,6 @@ Location "Tenzing Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Clyde William; American astronomer, discoverer of Pluto (1906–1997).
-# Additional info: None
 Location "TOMBAUGH REGIO" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 183.22 7.62 0 ]
@@ -1987,7 +1800,6 @@ Location "TOMBAUGH REGIO" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Jan 03, 2020; Last update: Jan 03, 2020
 # Origin: Zulu tale hero, who followed a porcupine underground and came upon the village of dead souls.
-# Additional info: None
 Location "Uncama Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 142.62 23.96 0 ]
@@ -2006,7 +1818,6 @@ Location "Väinämöinen Vallis" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: A pair of the Soviet Union’s Vega 1 and Vega 2 spacecraft launched in 1984 that were the first ones to fly balloons on another planet (Venus, 1985) and then the first ones to image the nucleus of a comet (1P/Halley, 1986).
-# Additional info: None
 Location "VEGA TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 85.49 33.96 0 ]
@@ -2016,7 +1827,6 @@ Location "VEGA TERRA" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Series of the Soviet Union’s 16 spacecraft sent to Venus in 1961–1983. The missions accomplished a number of firsts, including the first human made device to enter the atmosphere of another planet (Venera 3, 1966), to measure in situ atmosphere composition of another planet (Venera 4, 1967), to make a soft landing on another planet (Venera 7, 1970), and to return images from another planetary surface (Venera 9, 1975).
-# Additional info: None
 Location "VENERA TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 117.62 56.89 0 ]
@@ -2026,7 +1836,6 @@ Location "VENERA TERRA" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 04, 2021
 # Origin: US Mars orbiter and landed missions that conducted the first successful explorations of the surface of Mars, 1976 to 1982.
-# Additional info: None
 Location "VIKING TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 150.97 12.34 0 ]
@@ -2036,7 +1845,6 @@ Location "VIKING TERRA" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: Italian; Dante’s guide through Hell and Purgatory in the Divine Comedy of Dante Alighieri (1265–1321).
-# Additional info: None
 Location "Virgil Fossae" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 122.76 5.23 0 ]
@@ -2046,7 +1854,6 @@ Location "Virgil Fossae" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 08, 2017; Last update: Sep 15, 2017
 # Origin: A pair of US-launched Voyager 1 and Voyager 2 spacecraft that performed the “grand tour” of all four giant planets (1977-1989).
-# Additional info: None
 Location "VOYAGER TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 153.52 60.08 0 ]
@@ -2056,7 +1863,6 @@ Location "VOYAGER TERRA" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: May 30, 2019; Last update: May 31, 2019
 # Origin: Orville (1871–1948) and Wilbur (1867–1912), brothers, U.S. aviation pioneers who invented, built, and flew in 1903 the world’s first successful powered heavier-than-air flying machine (airplane) with a pilot aboard.
-# Additional info: None
 Location "Wright Mons" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 173.24 -21.36 0 ]
@@ -2066,7 +1872,6 @@ Location "Wright Mons" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Aug 05, 2020; Last update: Aug 10, 2020
 # Origin: Francesco; Italian astronomer who carried out early studies of the orbit of Pluto (1900-1976).
-# Additional info: None
 Location "Zagar" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 155.23 -5.74 0 ]
@@ -2076,7 +1881,6 @@ Location "Zagar" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Feb 03, 2021; Last update: Feb 16, 2021
 # Origin: Zheng He, Chinese explorer, led voyages of Asia, Africa, and the Middle East (1371 to 1433).
-# Additional info: None
 Location "Zheng He Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 160.57 19.01 0 ]
@@ -2089,7 +1893,6 @@ Location "Zheng He Montes" "Sol/Pluto-Charon/Pluto"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Greek mythological ship sailed by Jason and his crew, the Argonauts, from Iolcos to Colchis to retrieve the Golden Fleece, described in the “;Argonautica“; epic poem by Apollonius Rhodius (3rd cen. BC).
-# Additional info: None
 Location "Argo Chasma" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 80.40 27.80 0 ]
@@ -2099,7 +1902,6 @@ Location "Argo Chasma" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Octavia E., American author (1947-2006). Her “;Xenogenesis“; trilogy describes humankind’s departure from Earth and subsequent return.
-# Additional info: None
 Location "Butler Mons" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 38.74 -9.48 0 ]
@@ -2109,7 +1911,6 @@ Location "Butler Mons" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 12, 2018
 # Origin: Chilote (southern Chile) legendary, sentient ghost ship, which could suddenly appear and then quickly disappears again, leaving no evidence of its presence.
-# Additional info: None
 Location "Caleuche Chasma" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 241.80 72.50 0 ]
@@ -2119,7 +1920,6 @@ Location "Caleuche Chasma" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Sir Arthur C., British author (1917-2008). Many of his novels depict space explorations, among which the most notable is “;2001: A Space Odyssey“;, describing a voyage to Jupiter. This novel was adapted from the screenplay he co-wrote with Stanley Kubrick for the 1968 film.
-# Additional info: None
 Location "Clarke Montes" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 7.05 -5.12 0 ]
@@ -2129,7 +1929,6 @@ Location "Clarke Montes" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Aug 05, 2020; Last update: Aug 10, 2020
 # Origin: Protagonist in the fiction novel The Underground Railroad, by US author Colson Whitehead (2016). She was a slave who undertook a long journey to freedom in the North through the network of routes and safe houses for fugitive southern slaves, depicted as an actual railroad.
-# Additional info: None
 Location "Cora" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 351.72 17.09 0 ]
@@ -2139,7 +1938,6 @@ Location "Cora" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: American fictional character, protagonist of “;The Wonderful Wizard of Oz“; and other children’s novels, small girl who visited the magical Land of Oz.
-# Additional info: None
 Location "Dorothy" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 40.58 58.53 0 ]
@@ -2149,7 +1947,6 @@ Location "Dorothy" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Stanley, American-British film director and screenwriter (1928-1999). His film “;2001: A Space Odyssey“; (1968) after the screenplay co-wrote with Arthur Clarke tells the story of humanity’s evolution from tool-using hominids to space explorers and beyond.
-# Additional info: None
 Location "Kubrick Mons" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 30.80 3.60 0 ]
@@ -2159,7 +1956,6 @@ Location "Kubrick Mons" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Egyptian boat that carries the sun god Ra across the sky in the daytime.
-# Additional info: None
 Location "Mandjet Chasma" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 294.40 4.80 0 ]
@@ -2169,7 +1965,6 @@ Location "Mandjet Chasma" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Aug 05, 2020; Last update: Aug 12, 2020
 # Origin: Anne; US-Irish author of science fiction novels, including the Dragonriders of Pern series, which recounts the human colonization of the fictional planet Pern (1926-2011).
-# Additional info: None
 Location "McCaffrey Dorsum" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 294.89 74.28 0 ]
@@ -2179,7 +1974,6 @@ Location "McCaffrey Dorsum" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Hero of humorous folktales told throughout the Middle East, southern Europe and parts of Asia. Undertook numerous journeys with his donkey, upon which he is seated facing backwards. Supposed to be of a Turkish origin.
-# Additional info: None
 Location "Nasreddin" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 308.60 25.50 0 ]
@@ -2189,7 +1983,6 @@ Location "Nasreddin" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Captain of the Nautilus, a submarine, in the novels “;Twenty Thousand Leagues Under the Sea“; (1870) and “;The Mysterious Island“; (1874) by the French author Jules Verne (1825–1905). The stories recount fantastical undersea travels and explorations.
-# Additional info: None
 Location "Nemo" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 314.10 -15.70 0 ]
@@ -2199,7 +1992,6 @@ Location "Nemo" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Spaceship pilot, the main character in a series of fictional stories by the Polish author Stanislaw Lem (1921–2006). He travelled between the Earth, Moon and Mars.
-# Additional info: None
 Location "Pirx" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 256.30 55.20 0 ]
@@ -2209,7 +2001,6 @@ Location "Pirx" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Hindu mythological princess, who traveled through time and space in search of a suitor, described in the epic narrative “;Mahabharata“;.
-# Additional info: None
 Location "Revati" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 35.40 20.70 0 ]
@@ -2219,7 +2010,6 @@ Location "Revati" "Sol/Pluto-Charon/Charon"
 
 # Approval date: Apr 11, 2018; Last update: Apr 11, 2018
 # Origin: Russian merchant in the medieval epic tale (Bylina), who traveled to the bottom of the sea.
-# Additional info: None
 Location "Sadko" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 331.20 -16.10 0 ]

@@ -21,7 +21,7 @@ sets = {
     ],
     "uranusmoons_locs.ssc": ["Puck", "Miranda", "Ariel", "Umbriel", "Titania", "Oberon"],
     "neptunemoons_locs.ssc": ["Proteus", "Triton"],
-    "dwarf_planets_locs.ssc": ["Ceres", "Pluto", "Charon"],
+    "dwarfplanets_locs.ssc": ["Ceres", "Pluto", "Charon"],
     "asteroids_locs.ssc": [
         "Vesta", "Lutetia", "Ida", "Dactyl", "Mathilde", "Eros", "Gaspra", "Steins", "Itokawa", "Bennu", "Ryugu"
     ]

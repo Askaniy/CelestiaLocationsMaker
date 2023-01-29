@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # Approval date: Jul 09, 2009; Last update: Mar 07, 2011
@@ -17,7 +17,6 @@ Location "Abedin" "Sol/Mercury"
 
 # Approval date: Apr 02, 2018; Last update: Apr 03, 2018
 # Origin: Somali word for snake.
-# Additional info: None
 Location "Abeeso Facula" "Sol/Mercury"
 {
 	LongLat	[ 214.60 21.70 0 ]
@@ -27,7 +26,6 @@ Location "Abeeso Facula" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Arab poet (c. 1756-1810).
-# Additional info: None
 Location "Abu Nuwas" "Sol/Mercury"
 {
 	LongLat	[ 21.19 17.63 0 ]
@@ -46,7 +44,6 @@ Location "Acadia Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: English; one of Cook's ships on second voyage to the Pacific, 1772-75.
-# Additional info: None
 Location "Adventure Rupes" "Sol/Mercury"
 {
 	LongLat	[ 65.30 -65.48 0 ]
@@ -65,7 +62,6 @@ Location "Aegaeo Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: (James Beale); Sierra Leonean author, folklorist (1835-1883).
-# Additional info: None
 Location "Africanus Horton" "Sol/Mercury"
 {
 	LongLat	[ 41.19 -50.96 0 ]
@@ -75,7 +71,6 @@ Location "Africanus Horton" "Sol/Mercury"
 
 # Approval date: Apr 02, 2018; Last update: Apr 03, 2018
 # Origin: Igbo (Southeastern Nigeria) word for snake.
-# Additional info: None
 Location "Agwo Facula" "Sol/Mercury"
 {
 	LongLat	[ 213.70 22.40 0 ]
@@ -85,7 +80,6 @@ Location "Agwo Facula" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Abu-a;-Abbas Aj,Ad Obm Aj,Ad a;-Takruri Al-Massufi; Sudanese writer (1556-1627).
-# Additional info: None
 Location "Ahmad Baba" "Sol/Mercury"
 {
 	LongLat	[ 128.35 58.33 0 ]
@@ -95,7 +89,6 @@ Location "Ahmad Baba" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 07, 2016
 # Origin: Alvin; American dancer and choreographer (1931-1989).
-# Additional info: None
 Location "Ailey" "Sol/Mercury"
 {
 	LongLat	[ 182.08 45.58 0 ]
@@ -114,7 +107,6 @@ Location "Akademik Rupes" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 07, 2016
 # Origin: Sergey; Russian author (1791-1859).
-# Additional info: None
 Location "Aksakov" "Sol/Mercury"
 {
 	LongLat	[ 78.74 34.71 0 ]
@@ -124,7 +116,6 @@ Location "Aksakov" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 07, 2016
 # Origin: Ryunosuke; Japanese writer (1892-1927).
-# Additional info: None
 Location "Akutagawa" "Sol/Mercury"
 {
 	LongLat	[ 141.09 48.25 0 ]
@@ -143,7 +134,6 @@ Location "Al-Akhtal" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Jose de; Brazilian novelist (1829-1877).
-# Additional info: None
 Location "Alencar" "Sol/Mercury"
 {
 	LongLat	[ 103.78 -63.64 0 ]
@@ -153,7 +143,6 @@ Location "Alencar" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Arab writer (d. 1007).
-# Additional info: None
 Location "Al-Hamadhani" "Sol/Mercury"
 {
 	LongLat	[ 91.76 39.19 0 ]
@@ -163,7 +152,6 @@ Location "Al-Hamadhani" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Arab author (d. 869).
-# Additional info: None
 Location "Al-Jāhiz" "Sol/Mercury"
 {
 	LongLat	[ 21.76 1.36 0 ]
@@ -173,7 +161,6 @@ Location "Al-Jāhiz" "Sol/Mercury"
 
 # Approval date: Jan 12, 2021; Last update: Mar 02, 2021
 # Origin: Brazilian; an oceanographic research vessel investigating the role of the South Atlantic in global climate change, as well as studying marine biodiversity.
-# Additional info: None
 Location "Alpha Crucis Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 228.31 -12.48 0 ]
@@ -183,7 +170,6 @@ Location "Alpha Crucis Rupēs" "Sol/Mercury"
 
 # Approval date: Apr 29, 2021; Last update: May 05, 2021
 # Origin: Mexican; oceanographic vessel used for academic and federal research in the Pacific (2000s).
-# Additional info: None
 Location "Altair Rupes" "Sol/Mercury"
 {
 	LongLat	[ 186.49 -70.48 0 ]
@@ -193,7 +179,6 @@ Location "Altair Rupes" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Mar 15, 2013
 # Origin: Betti; Estonian poet (1906-1989).
-# Additional info: None
 Location "Alver" "Sol/Mercury"
 {
 	LongLat	[ 282.75 -66.97 0 ]
@@ -203,7 +188,6 @@ Location "Alver" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 07, 2016
 # Origin: American; U.S.Navy's first deep submergence research vessel commissioned in 1964, designed specifically for oceanographic research.
-# Additional info: None
 Location "Alvin Rupes" "Sol/Mercury"
 {
 	LongLat	[ 208.72 8.30 0 ]
@@ -213,7 +197,6 @@ Location "Alvin Rupes" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 07, 2016
 # Origin: Tarsila do; Brazilian painter (1886-1973).
-# Additional info: None
 Location "Amaral" "Sol/Mercury"
 {
 	LongLat	[ 242.18 -26.49 0 ]
@@ -223,7 +206,6 @@ Location "Amaral" "Sol/Mercury"
 
 # Approval date: May 01, 2018; Last update: May 01, 2018
 # Origin: Quechua word for snake.
-# Additional info: None
 Location "Amaru Facula" "Sol/Mercury"
 {
 	LongLat	[ 349.50 -49.80 0 ]
@@ -233,7 +215,6 @@ Location "Amaru Facula" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Arab poet (pre-Islamic).
-# Additional info: None
 Location "Amru Al-Qays" "Sol/Mercury"
 {
 	LongLat	[ 176.11 12.43 0 ]
@@ -243,7 +224,6 @@ Location "Amru Al-Qays" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: 10th century Tamil (South Indian) writer.
-# Additional info: None
 Location "Andal" "Sol/Mercury"
 {
 	LongLat	[ 37.71 -47.52 0 ]
@@ -253,7 +233,6 @@ Location "Andal" "Sol/Mercury"
 
 # Approval date: Jun 23, 2014; Last update: Oct 07, 2016
 # Origin: Welsh poet (fl. 6th century).
-# Additional info: None
 Location "Aneirin" "Sol/Mercury"
 {
 	LongLat	[ 2.68 -27.47 0 ]
@@ -263,7 +242,6 @@ Location "Aneirin" "Sol/Mercury"
 
 # Approval date: Sep 11, 2019; Last update: Sep 11, 2019
 # Origin: Maya, American author and poet (1928 – 2014).
-# Additional info: None
 Location "Angelou" "Sol/Mercury"
 {
 	LongLat	[ 66.71 80.32 0 ]
@@ -273,7 +251,6 @@ Location "Angelou" "Sol/Mercury"
 
 # Approval date: Apr 30, 2013; Last update: Apr 30, 2013
 # Origin: Ancient city in Cambodia.
-# Additional info: None
 Location "Angkor Vallis" "Sol/Mercury"
 {
 	LongLat	[ 245.96 57.28 0 ]
@@ -283,7 +260,6 @@ Location "Angkor Vallis" "Sol/Mercury"
 
 # Approval date: Aug 04, 2017; Last update: Aug 04, 2017
 # Origin: Sofonisba; Italian painter (1532-1625)
-# Additional info: None
 Location "Anguissola" "Sol/Mercury"
 {
 	LongLat	[ 217.35 80.69 0 ]
@@ -311,7 +287,6 @@ Location "Antoniadi Dorsum" "Sol/Mercury"
 
 # Approval date: Aug 04, 2017; Last update: Aug 04, 2017
 # Origin: Anyte of Tegea, Greek poet (early 3rd centrury BC).
-# Additional info: None
 Location "Anyte" "Sol/Mercury"
 {
 	LongLat	[ 210.67 79.50 0 ]
@@ -321,7 +296,6 @@ Location "Anyte" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Māori word for the planet Mercury.
-# Additional info: None
 Location "Apārangi Planitia" "Sol/Mercury"
 {
 	LongLat	[ 289.38 6.70 0 ]
@@ -341,7 +315,6 @@ Location "Apollodorus" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Apr 01, 2020
 # Origin: Albedo name for H-5, Hokusai region.
-# Additional info: None
 Location "APOLLONIA" "Sol/Mercury"
 {
 	LongLat	[ 315.00 45.00 0 ]
@@ -388,7 +361,6 @@ Location "Astrea Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: French; d'Urville's ship to explore Antarctica, 1838-40.
-# Additional info: None
 Location "Astrolabe Rupes" "Sol/Mercury"
 {
 	LongLat	[ 70.90 -42.55 0 ]
@@ -398,7 +370,6 @@ Location "Astrolabe Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Indian philosopher and poet (fl. A.D. 80-150).
-# Additional info: None
 Location "Aśvaghosa" "Sol/Mercury"
 {
 	LongLat	[ 21.49 10.61 0 ]
@@ -408,7 +379,6 @@ Location "Aśvaghosa" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 07, 2016
 # Origin: Eugène; French photographer (1857-1927).
-# Additional info: None
 Location "Atget" "Sol/Mercury"
 {
 	LongLat	[ 193.62 25.57 0 ]
@@ -445,7 +415,6 @@ Location "Bach" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Feb 23, 2017
 # Origin: Elisaveta; Bulgarian poet (1893-1991).
-# Additional info: None
 Location "Bagryana" "Sol/Mercury"
 {
 	LongLat	[ 283.73 -3.89 0 ]
@@ -455,7 +424,6 @@ Location "Bagryana" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: F.; Philippino writer (1788-1862).
-# Additional info: None
 Location "Balagtas" "Sol/Mercury"
 {
 	LongLat	[ 13.90 -22.56 0 ]
@@ -465,7 +433,6 @@ Location "Balagtas" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 07, 2016
 # Origin: George (Giorgi Balanchivadze); American choreographer of Georgian-Russian origin (1904-1983).
-# Additional info: None
 Location "Balanchine" "Sol/Mercury"
 {
 	LongLat	[ 184.48 38.47 0 ]
@@ -475,7 +442,6 @@ Location "Balanchine" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Honore de; French novelist (1799-1850).
-# Additional info: None
 Location "Balzac" "Sol/Mercury"
 {
 	LongLat	[ 144.67 10.62 0 ]
@@ -485,7 +451,6 @@ Location "Balzac" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 07, 2016
 # Origin: Antanas; Lithuanian poet (1835-1902).
-# Additional info: None
 Location "Baranauskas" "Sol/Mercury"
 {
 	LongLat	[ 39.76 50.73 0 ]
@@ -495,7 +460,6 @@ Location "Baranauskas" "Sol/Mercury"
 
 # Approval date: 1982; Last update: Oct 07, 2016
 # Origin: Yakovlev; 16th Century Russian architect.
-# Additional info: None
 Location "Barma" "Sol/Mercury"
 {
 	LongLat	[ 163.49 -40.93 0 ]
@@ -505,7 +469,6 @@ Location "Barma" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 07, 2016
 # Origin: Natalie Clifford; American-French playwright, poet, and novelist (1876-1972).
-# Additional info: None
 Location "Barney" "Sol/Mercury"
 {
 	LongLat	[ 300.29 -11.69 0 ]
@@ -515,7 +478,6 @@ Location "Barney" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Bela; Hungarian composer (1881-1945).
-# Additional info: None
 Location "Bartók" "Sol/Mercury"
 {
 	LongLat	[ 135.06 -29.22 0 ]
@@ -525,7 +487,6 @@ Location "Bartók" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Matsuo; Japanese poet (1644-1694).
-# Additional info: None
 Location "Bashō" "Sol/Mercury"
 {
 	LongLat	[ 170.45 -32.39 0 ]
@@ -535,7 +496,6 @@ Location "Bashō" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 07, 2016
 # Origin: British; naval vessel aboard which Charles Darwin served as a naturalist on a surveying expedition, 1831-1836.
-# Additional info: None
 Location "Beagle Rupes" "Sol/Mercury"
 {
 	LongLat	[ 259.24 -3.22 0 ]
@@ -545,7 +505,6 @@ Location "Beagle Rupes" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Jun 18, 2013
 # Origin: Sidney; American jazz musician and composer (1897-1959).
-# Additional info: None
 Location "Bechet" "Sol/Mercury"
 {
 	LongLat	[ 93.66 83.08 0 ]
@@ -555,7 +514,6 @@ Location "Bechet" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 07, 2016
 # Origin: Clarice; Australian painter (1887-1935).
-# Additional info: None
 Location "Beckett" "Sol/Mercury"
 {
 	LongLat	[ 248.71 -40.20 0 ]
@@ -565,7 +523,6 @@ Location "Beckett" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Ludwig van; German composer of Flemish descent (1770-1827).
-# Additional info: None
 Location "Beethoven" "Sol/Mercury"
 {
 	LongLat	[ 124.21 -20.86 0 ]
@@ -575,7 +532,6 @@ Location "Beethoven" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 07, 2016
 # Origin: Egyptian sculptor (active c. 1340 B.C.).
-# Additional info: None
 Location "Bek" "Sol/Mercury"
 {
 	LongLat	[ 50.99 21.16 0 ]
@@ -585,7 +541,6 @@ Location "Bek" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 07, 2016
 # Origin: Belgian; ship used for an expedition to determine the position of the South Magnetic Pole in 1898, first ship to winter in Antarctica.
-# Additional info: None
 Location "Belgica Rupes" "Sol/Mercury"
 {
 	LongLat	[ 296.24 -50.45 0 ]
@@ -604,7 +559,6 @@ Location "Belinskij" "Sol/Mercury"
 
 # Approval date: Apr 03, 2019; Last update: Apr 03, 2019
 # Origin: Giovanni; Italian painter (1430-1516).
-# Additional info: None
 Location "Bellini" "Sol/Mercury"
 {
 	LongLat	[ 272.83 -33.77 0 ]
@@ -614,7 +568,6 @@ Location "Bellini" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Andres; Venezuelan poet and scholar (1781-1865).
-# Additional info: None
 Location "Bello" "Sol/Mercury"
 {
 	LongLat	[ 120.18 -18.87 0 ]
@@ -624,7 +577,6 @@ Location "Bello" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 07, 2016
 # Origin: Rigaud; Haitian painter (1911-1987).
-# Additional info: None
 Location "Benoit" "Sol/Mercury"
 {
 	LongLat	[ 255.65 7.48 0 ]
@@ -634,7 +586,6 @@ Location "Benoit" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 07, 2016
 # Origin: Sabri; Turkish painter and printmaker (1909-1993).
-# Additional info: None
 Location "Berkel" "Sol/Mercury"
 {
 	LongLat	[ 333.19 -13.73 0 ]
@@ -644,7 +595,6 @@ Location "Berkel" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 06, 2017
 # Origin: Hector; French composer (1803-1869).
-# Additional info: None
 Location "Berlioz" "Sol/Mercury"
 {
 	LongLat	[ 321.34 79.36 0 ]
@@ -663,7 +613,6 @@ Location "Bernini" "Sol/Mercury"
 
 # Approval date: Sep 28, 2020; Last update: Mar 17, 2021
 # Origin: Charles Edward Anderson “;Chuck“;: American singer and songwriter (1926-2017).
-# Additional info: None
 Location "Berry" "Sol/Mercury"
 {
 	LongLat	[ 247.27 70.57 0 ]
@@ -673,7 +622,6 @@ Location "Berry" "Sol/Mercury"
 
 # Approval date: Apr 16, 2018; Last update: Apr 16, 2018
 # Origin: Malagasy (Madagascar) word for snake.
-# Additional info: None
 Location "Bibilava Faculae" "Sol/Mercury"
 {
 	LongLat	[ 202.80 16.40 0 ]
@@ -683,7 +631,6 @@ Location "Bibilava Faculae" "Sol/Mercury"
 
 # Approval date: Apr 16, 2019; Last update: Apr 16, 2019
 # Origin: Cebuano (S. Philippines) word for snake.
-# Additional info: None
 Location "Bitin Facula" "Sol/Mercury"
 {
 	LongLat	[ 28.45 -51.55 0 ]
@@ -702,7 +649,6 @@ Location "Bjornson" "Sol/Mercury"
 
 # Approval date: Nov 22, 2013; Last update: Nov 22, 2013
 # Origin: English; ship used for an expedition to discover the Northwest Passage, 1825-1827.
-# Additional info: None
 Location "Blossom Rupes" "Sol/Mercury"
 {
 	LongLat	[ 270.15 -3.04 0 ]
@@ -721,7 +667,6 @@ Location "Boccaccio" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Anicius Manlius Severinus; Roman scholar (c. A.D. 470-524).
-# Additional info: None
 Location "Boethius" "Sol/Mercury"
 {
 	LongLat	[ 73.64 -0.98 0 ]
@@ -750,7 +695,6 @@ Location "Borealis Planitia" "Sol/Mercury"
 
 # Approval date: Apr 03, 2019; Last update: Apr 03, 2019
 # Origin: A 9th-century Mahayana Buddhist temple in Magelang Regency, in Central Java, Indonesia, consisting of nine stacked platforms and topped by a central dome.
-# Additional info: None
 Location "Borobudur Fossae" "Sol/Mercury"
 {
 	LongLat	[ 271.50 -32.77 0 ]
@@ -769,7 +713,6 @@ Location "Botticelli" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 07, 2016
 # Origin: Olga; Polish painter (1865-1940).
-# Additional info: None
 Location "Boznańska" "Sol/Mercury"
 {
 	LongLat	[ 40.75 59.64 0 ]
@@ -779,7 +722,6 @@ Location "Boznańska" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Johannes; German composer and pianist (1833-1897).
-# Additional info: None
 Location "Brahms" "Sol/Mercury"
 {
 	LongLat	[ 177.36 58.32 0 ]
@@ -789,7 +731,6 @@ Location "Brahms" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Donato; Italian architect (1444-1514).
-# Additional info: None
 Location "Bramante" "Sol/Mercury"
 {
 	LongLat	[ 61.55 -47.23 0 ]
@@ -799,7 +740,6 @@ Location "Bramante" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Charlotte (1816-1855), Emily (1818-1848), Anne (1820-1849); English novelists, and Branwell (1817-1848); author and painter.
-# Additional info: None
 Location "Brontë" "Sol/Mercury"
 {
 	LongLat	[ 127.06 38.39 0 ]
@@ -809,7 +749,6 @@ Location "Brontë" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 07, 2016
 # Origin: Gwendolyn; American poet and novelist (1917-2000).
-# Additional info: None
 Location "Brooks" "Sol/Mercury"
 {
 	LongLat	[ 168.02 -45.22 0 ]
@@ -819,7 +758,6 @@ Location "Brooks" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 07, 2016
 # Origin: Pieter; Flemish painter (1525-1569).
-# Additional info: None
 Location "Bruegel" "Sol/Mercury"
 {
 	LongLat	[ 109.46 49.73 0 ]
@@ -838,7 +776,6 @@ Location "Brunelleschi" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Hindu word for Mercury.
-# Additional info: None
 Location "Budh Planitia" "Sol/Mercury"
 {
 	LongLat	[ 150.46 19.52 0 ]
@@ -848,7 +785,6 @@ Location "Budh Planitia" "Sol/Mercury"
 
 # Approval date: Sep 11, 2019; Last update: Sep 11, 2019
 # Origin: Ivan, Russian author of prose and poetry; first Russian to win the Nobel Prize in Literature, in 1933. (1861 – 1941).
-# Additional info: None
 Location "Bunin" "Sol/Mercury"
 {
 	LongLat	[ 141.76 84.47 0 ]
@@ -858,7 +794,6 @@ Location "Bunin" "Sol/Mercury"
 
 # Approval date: Nov 04, 2015; Last update: Nov 04, 2015
 # Origin: Mary William Ethelbert Appleton “Billie”; American performing artist (1884-1970).
-# Additional info: None
 Location "Burke" "Sol/Mercury"
 {
 	LongLat	[ 171.56 85.91 0 ]
@@ -868,7 +803,6 @@ Location "Burke" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 07, 2016
 # Origin: Robert; Scottish national poet (1759-1796).
-# Additional info: None
 Location "Burns" "Sol/Mercury"
 {
 	LongLat	[ 117.37 54.10 0 ]
@@ -896,7 +830,6 @@ Location "CADUCEATA" "Sol/Mercury"
 
 # Approval date: Apr 30, 2013; Last update: Oct 07, 2016
 # Origin: Cahokia Mounds, ancient city in southern Illinois, USA.
-# Additional info: None
 Location "Cahokia Vallis" "Sol/Mercury"
 {
 	LongLat	[ 233.06 65.55 0 ]
@@ -906,7 +839,6 @@ Location "Cahokia Vallis" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 07, 2016
 # Origin: Alexander; American sculptor (1898-1976).
-# Additional info: None
 Location "Calder" "Sol/Mercury"
 {
 	LongLat	[ 347.25 3.51 0 ]
@@ -916,7 +848,6 @@ Location "Calder" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Greek architect (5th century B.C.).
-# Additional info: None
 Location "Callicrates" "Sol/Mercury"
 {
 	LongLat	[ 30.37 -66.51 0 ]
@@ -926,7 +857,6 @@ Location "Callicrates" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: “;Hot mountains“;; surface temperature hottest near this position.
-# Additional info: None
 Location "Caloris Montes" "Sol/Mercury"
 {
 	LongLat	[ 174.15 31.46 0 ]
@@ -936,7 +866,6 @@ Location "Caloris Montes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: May 25, 2016
 # Origin: “;Hot plain“;; surface temperature hottest near this position.
-# Additional info: None
 Location "Caloris Planitia" "Sol/Mercury"
 {
 	LongLat	[ 198.02 31.65 0 ]
@@ -946,7 +875,6 @@ Location "Caloris Planitia" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 07, 2016
 # Origin: Italo; Italian writer (1923-1985).
-# Additional info: None
 Location "Calvino" "Sol/Mercury"
 {
 	LongLat	[ 56.03 -3.99 0 ]
@@ -956,7 +884,6 @@ Location "Calvino" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 07, 2016
 # Origin: French; originally commissioned in 1942 as a minesweeper, Calypso was purchased by Jacques-Yves Cousteau and used for oceanographic studies in 1950-1996.
-# Additional info: None
 Location "Calypso Rupes" "Sol/Mercury"
 {
 	LongLat	[ 316.48 19.53 0 ]
@@ -966,7 +893,6 @@ Location "Calypso Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Luiz (Vas) de; Portuguese poet (c. 1524-1580).
-# Additional info: None
 Location "Camões" "Sol/Mercury"
 {
 	LongLat	[ 68.39 -71.42 0 ]
@@ -976,7 +902,6 @@ Location "Camões" "Sol/Mercury"
 
 # Approval date: Sep 05, 2018; Last update: Sep 05, 2018
 # Origin: Antonio, marchese d’Ischia; Italian sculptor (1757-1822).
-# Additional info: None
 Location "Canova" "Sol/Mercury"
 {
 	LongLat	[ 3.71 25.60 0 ]
@@ -986,7 +911,6 @@ Location "Canova" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 07, 2016
 # Origin: Truman; American author (1924-1984).
-# Additional info: None
 Location "Capote" "Sol/Mercury"
 {
 	LongLat	[ 287.59 -21.10 0 ]
@@ -996,7 +920,6 @@ Location "Capote" "Sol/Mercury"
 
 # Approval date: Apr 30, 2013; Last update: Oct 07, 2016
 # Origin: Ancient city in the Supe Valley, Peru.
-# Additional info: None
 Location "Caral Vallis" "Sol/Mercury"
 {
 	LongLat	[ 230.71 62.66 0 ]
@@ -1006,7 +929,6 @@ Location "Caral Vallis" "Sol/Mercury"
 
 # Approval date: Nov 22, 2013; Last update: Oct 07, 2016
 # Origin: Michelangelo Merisi; Italian painter (1571-1610).
-# Additional info: None
 Location "Caravaggio" "Sol/Mercury"
 {
 	LongLat	[ 272.76 3.18 0 ]
@@ -1025,7 +947,6 @@ Location "Carducci" "Sol/Mercury"
 
 # Approval date: Oct 19, 2018; Last update: Oct 19, 2018
 # Origin: William; Irish writer (1794-1869).
-# Additional info: None
 Location "Carleton" "Sol/Mercury"
 {
 	LongLat	[ 303.40 -52.20 0 ]
@@ -1035,7 +956,6 @@ Location "Carleton" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 07, 2016
 # Origin: American; iron-free vessel used to conduct magnetic surveys from 1909 to 1928.
-# Additional info: None
 Location "Carnegie Rupes" "Sol/Mercury"
 {
 	LongLat	[ 53.25 58.52 0 ]
@@ -1045,7 +965,6 @@ Location "Carnegie Rupes" "Sol/Mercury"
 
 # Approval date: Apr 30, 2015; Last update: Apr 30, 2015
 # Origin: Turlough; Alternate spelling O’Carolan; Irish composer and performer (1670-1738).
-# Additional info: None
 Location "Carolan" "Sol/Mercury"
 {
 	LongLat	[ 328.23 83.88 0 ]
@@ -1064,7 +983,6 @@ Location "Carrasco Rupēs" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 07, 2016
 # Origin: Enrico; Italian singer (1873-1921).
-# Additional info: None
 Location "Caruso" "Sol/Mercury"
 {
 	LongLat	[ 76.36 -2.33 0 ]
@@ -1074,7 +992,6 @@ Location "Caruso" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 07, 2016
 # Origin: Giuseppe; Italian painter in the court of the Emperor of China (1688-1766).
-# Additional info: None
 Location "Castiglione" "Sol/Mercury"
 {
 	LongLat	[ 272.04 -40.87 0 ]
@@ -1084,7 +1001,6 @@ Location "Castiglione" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Inca/Quechua word for the planet Mercury.
-# Additional info: None
 Location "Catuilla Planum" "Sol/Mercury"
 {
 	LongLat	[ 245.78 -8.78 0 ]
@@ -1094,7 +1010,6 @@ Location "Catuilla Planum" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: May 31, 2017
 # Origin: Gaius Valerius; Roman poet (c. 84-c. 54 B.C.).
-# Additional info: None
 Location "Catullus" "Sol/Mercury"
 {
 	LongLat	[ 67.55 21.90 0 ]
@@ -1113,7 +1028,6 @@ Location "Cervantes" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 07, 2016
 # Origin: Paul; French painter (1839-1906).
-# Additional info: None
 Location "Cézanne" "Sol/Mercury"
 {
 	LongLat	[ 123.69 -8.47 0 ]
@@ -1123,7 +1037,6 @@ Location "Cézanne" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: P. I.; Russian composer (1840-1893).
-# Additional info: None
 Location "Chaikovskij" "Sol/Mercury"
 {
 	LongLat	[ 50.93 7.86 0 ]
@@ -1142,7 +1055,6 @@ Location "Challenger Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 21, 2013
 # Origin: Chinese painter and calligrapher (1254-1322).
-# Additional info: None
 Location "Chao Meng-Fu" "Sol/Mercury"
 {
 	LongLat	[ 156.36 -88.42 0 ]
@@ -1152,7 +1064,6 @@ Location "Chao Meng-Fu" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Anton; Russian playwright and writer (1860-1904).
-# Additional info: None
 Location "Chekhov" "Sol/Mercury"
 {
 	LongLat	[ 61.23 -36.20 0 ]
@@ -1162,7 +1073,6 @@ Location "Chekhov" "Sol/Mercury"
 
 # Approval date: Sep 17, 2012; Last update: Sep 17, 2012
 # Origin: Gilbert Keith; English author (1874-1936).
-# Additional info: None
 Location "Chesterton" "Sol/Mercury"
 {
 	LongLat	[ 126.90 88.51 0 ]
@@ -1172,7 +1082,6 @@ Location "Chesterton" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Chinese composer (12th century).
-# Additional info: None
 Location "Chiang K'ui" "Sol/Mercury"
 {
 	LongLat	[ 102.80 14.71 0 ]
@@ -1182,7 +1091,6 @@ Location "Chiang K'ui" "Sol/Mercury"
 
 # Approval date: Jan 12, 2021; Last update: Jan 25, 2021
 # Origin: Japanese; a scientific drilling ship built for the Integrated Ocean Drilling Program to conduct deep-sea geological research.
-# Additional info: None
 Location "Chikyu Rupes" "Sol/Mercury"
 {
 	LongLat	[ 259.62 -53.82 0 ]
@@ -1192,7 +1100,6 @@ Location "Chikyu Rupes" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Korean poet (1536-1593).
-# Additional info: None
 Location "Chŏng Ch'ŏl" "Sol/Mercury"
 {
 	LongLat	[ 117.31 46.87 0 ]
@@ -1202,7 +1109,6 @@ Location "Chŏng Ch'ŏl" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Frederic; Polish-born French composer and pianist (1810-1849).
-# Additional info: None
 Location "Chopin" "Sol/Mercury"
 {
 	LongLat	[ 123.40 -65.45 0 ]
@@ -1212,7 +1118,6 @@ Location "Chopin" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Chinese painter (c. 1625-1705).
-# Additional info: None
 Location "Chu Ta" "Sol/Mercury"
 {
 	LongLat	[ 105.66 2.04 0 ]
@@ -1222,7 +1127,6 @@ Location "Chu Ta" "Sol/Mercury"
 
 # Approval date: Jun 01, 2020; Last update: Jul 01, 2020
 # Origin: Aztec (Nahuatl) word for snake.
-# Additional info: None
 Location "Coatl Facula" "Sol/Mercury"
 {
 	LongLat	[ 216.55 -29.75 0 ]
@@ -1232,7 +1136,6 @@ Location "Coatl Facula" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: Samuel Taylor; English poet (1772-1834).
-# Additional info: None
 Location "Coleridge" "Sol/Mercury"
 {
 	LongLat	[ 66.60 -55.67 0 ]
@@ -1242,7 +1145,6 @@ Location "Coleridge" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 07, 2016
 # Origin: Aaron; American composer and pianist (1900-1990).
-# Additional info: None
 Location "Copland" "Sol/Mercury"
 {
 	LongLat	[ 287.01 37.63 0 ]
@@ -1252,7 +1154,6 @@ Location "Copland" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 07, 2016
 # Origin: John Singleton; American painter (1738-1815).
-# Additional info: None
 Location "Copley" "Sol/Mercury"
 {
 	LongLat	[ 86.01 -38.63 0 ]
@@ -1262,7 +1163,6 @@ Location "Copley" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 07, 2016
 # Origin: Francois; French composer (1688-1733).
-# Additional info: None
 Location "Couperin" "Sol/Mercury"
 {
 	LongLat	[ 151.94 29.74 0 ]
@@ -1272,7 +1172,6 @@ Location "Couperin" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 07, 2016
 # Origin: Imogen; American photographer (1883-1976).
-# Additional info: None
 Location "Cunningham" "Sol/Mercury"
 {
 	LongLat	[ 202.93 30.41 0 ]
@@ -1282,7 +1181,6 @@ Location "Cunningham" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Apr 01, 2020
 # Origin: Albedo name for H-14, Debussy region.
-# Additional info: None
 Location "CYLLENE" "Sol/Mercury"
 {
 	LongLat	[ 270.00 -41.00 0 ]
@@ -1292,7 +1190,6 @@ Location "CYLLENE" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 11, 2016
 # Origin: Salvador; Spanish painter (1904-1989).
-# Additional info: None
 Location "Dali" "Sol/Mercury"
 {
 	LongLat	[ 240.26 45.16 0 ]
@@ -1302,7 +1199,6 @@ Location "Dali" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Oct 11, 2016
 # Origin: Anne Seymour;  English sculptor (1748-1828).
-# Additional info: None
 Location "Damer" "Sol/Mercury"
 {
 	LongLat	[ 115.81 36.36 0 ]
@@ -1312,7 +1208,6 @@ Location "Damer" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Ruben; Nicaraguan poet, journalist (1867-1916).
-# Additional info: None
 Location "Darío" "Sol/Mercury"
 {
 	LongLat	[ 9.51 -26.28 0 ]
@@ -1322,7 +1217,6 @@ Location "Darío" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Oct 11, 2016
 # Origin: Jacques-Louis; French painter (1748-1825).
-# Additional info: None
 Location "David" "Sol/Mercury"
 {
 	LongLat	[ 292.13 -17.66 0 ]
@@ -1332,7 +1226,6 @@ Location "David" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 11, 2016
 # Origin: Achille-Claude; French composer (1862-1918).
-# Additional info: None
 Location "Debussy" "Sol/Mercury"
 {
 	LongLat	[ 347.46 -33.95 0 ]
@@ -1342,7 +1235,6 @@ Location "Debussy" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Edgar; French painter (1834-1917).
-# Additional info: None
 Location "Degas" "Sol/Mercury"
 {
 	LongLat	[ 127.34 37.08 0 ]
@@ -1352,7 +1244,6 @@ Location "Degas" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Joe; Ghanaian playwright, poet, and novelist (1924-1978).
-# Additional info: None
 Location "de Graft" "Sol/Mercury"
 {
 	LongLat	[ 358.11 22.05 0 ]
@@ -1362,7 +1253,6 @@ Location "de Graft" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Eugene; French painter (1798-1863).
-# Additional info: None
 Location "Delacroix" "Sol/Mercury"
 {
 	LongLat	[ 129.51 -44.32 0 ]
@@ -1372,7 +1262,6 @@ Location "Delacroix" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Andre; French painter (1880-1954).
-# Additional info: None
 Location "Derain" "Sol/Mercury"
 {
 	LongLat	[ 340.30 -9.00 0 ]
@@ -1382,7 +1271,6 @@ Location "Derain" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Gavrila Romanovich; Russian poet (1743-1816).
-# Additional info: None
 Location "Derzhavin" "Sol/Mercury"
 {
 	LongLat	[ 36.93 45.60 0 ]
@@ -1410,7 +1298,6 @@ Location "Dickens" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: English; Cook's ship on last voyage to Pacific, 1776-80.
-# Additional info: None
 Location "Discovery Rupes" "Sol/Mercury"
 {
 	LongLat	[ 37.24 -54.70 0 ]
@@ -1420,7 +1307,6 @@ Location "Discovery Rupes" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Oct 11, 2016
 # Origin: Walter Elias; American film director, screenwriter, and animator. (1901-1966).
-# Additional info: None
 Location "Disney" "Sol/Mercury"
 {
 	LongLat	[ 260.20 -68.15 0 ]
@@ -1430,7 +1316,6 @@ Location "Disney" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 11, 2016
 # Origin: (Suor) Maria de; Maltese sculptor and painter (1645-1703).
-# Additional info: None
 Location "Dominici" "Sol/Mercury"
 {
 	LongLat	[ 36.49 1.29 0 ]
@@ -1440,7 +1325,6 @@ Location "Dominici" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Oct 11, 2016
 # Origin: Kristijonas; Lithuanian poet (1714-1780).
-# Additional info: None
 Location "Donelaitis" "Sol/Mercury"
 {
 	LongLat	[ 321.58 -52.96 0 ]
@@ -1450,7 +1334,6 @@ Location "Donelaitis" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: John; English poet (1572-1631).
-# Additional info: None
 Location "Donne" "Sol/Mercury"
 {
 	LongLat	[ 14.05 2.92 0 ]
@@ -1460,7 +1343,6 @@ Location "Donne" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Fydor Mikhaylovich; Russian novelist (1821-1881).
-# Additional info: None
 Location "Dostoevskij" "Sol/Mercury"
 {
 	LongLat	[ 178.11 -44.73 0 ]
@@ -1470,7 +1352,6 @@ Location "Dostoevskij" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: John; English composer (1562-1626).
-# Additional info: None
 Location "Dowland" "Sol/Mercury"
 {
 	LongLat	[ 180.70 -53.56 0 ]
@@ -1480,7 +1361,6 @@ Location "Dowland" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 11, 2016
 # Origin: Clara; American stained glass artist (1861-1944).
-# Additional info: None
 Location "Driscoll" "Sol/Mercury"
 {
 	LongLat	[ 33.58 30.58 0 ]
@@ -1490,7 +1370,6 @@ Location "Driscoll" "Sol/Mercury"
 
 # Approval date: Jun 14, 2013; Last update: Oct 11, 2016
 # Origin: Duccio di Buoninsegna; Italian painter (c. 1255-1318).
-# Additional info: None
 Location "Duccio" "Sol/Mercury"
 {
 	LongLat	[ 52.42 58.23 0 ]
@@ -1500,7 +1379,6 @@ Location "Duccio" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 11, 2016
 # Origin: Tu Fu; Chinese poet (712-770).
-# Additional info: None
 Location "Du Fu" "Sol/Mercury"
 {
 	LongLat	[ 93.66 25.00 0 ]
@@ -1510,7 +1388,6 @@ Location "Du Fu" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Albrecht; German painter (1471-1528).
-# Additional info: None
 Location "Dürer" "Sol/Mercury"
 {
 	LongLat	[ 118.98 21.51 0 ]
@@ -1520,7 +1397,6 @@ Location "Dürer" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 11, 2016
 # Origin: Dutch; Willem Janszoon's ship credited with the first authenticated European discovery of Australia, 1606.
-# Additional info: None
 Location "Duyfken Rupes" "Sol/Mercury"
 {
 	LongLat	[ 131.93 -20.88 0 ]
@@ -1530,7 +1406,6 @@ Location "Duyfken Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Anton; Bohemian composer (1841-1904).
-# Additional info: None
 Location "Dvorák" "Sol/Mercury"
 {
 	LongLat	[ 12.13 -9.40 0 ]
@@ -1540,7 +1415,6 @@ Location "Dvorák" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Charles A. (Ohiyesa); Sioux author (1858-1939).
-# Additional info: None
 Location "Eastman" "Sol/Mercury"
 {
 	LongLat	[ 234.24 9.52 0 ]
@@ -1550,7 +1424,6 @@ Location "Eastman" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Jose; Spanish dramatist, Nobel laureate (1832-1916).
-# Additional info: None
 Location "Echegaray" "Sol/Mercury"
 {
 	LongLat	[ 20.22 43.48 0 ]
@@ -1560,7 +1433,6 @@ Location "Echegaray" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Oct 11, 2016
 # Origin: Uzo; Nigerian artist (1931-1996).
-# Additional info: None
 Location "Egonu" "Sol/Mercury"
 {
 	LongLat	[ 298.52 67.15 0 ]
@@ -1570,7 +1442,6 @@ Location "Egonu" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Pseudonym of Kano Kuninobu; painter (1543-1590).
-# Additional info: None
 Location "Eitoku" "Sol/Mercury"
 {
 	LongLat	[ 157.18 -21.80 0 ]
@@ -1580,7 +1451,6 @@ Location "Eitoku" "Sol/Mercury"
 
 # Approval date: Apr 16, 2018; Last update: Apr 16, 2018
 # Origin: Yoruba (Nigeria) word for snake.
-# Additional info: None
 Location "Ejo Faculae" "Sol/Mercury"
 {
 	LongLat	[ 200.50 14.50 0 ]
@@ -1590,7 +1460,6 @@ Location "Ejo Faculae" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: Edward Kennedy “Duke”; American composer, musician, conductor (1899-1974).
-# Additional info: None
 Location "Ellington" "Sol/Mercury"
 {
 	LongLat	[ 333.90 -12.88 0 ]
@@ -1600,7 +1469,6 @@ Location "Ellington" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 11, 2016
 # Origin: American; oceanographic research vessel with an ice-breaking hull, collected magnetic profiles of the Antarctic sea floor, 1962.
-# Additional info: None
 Location "Eltanin Rupes" "Sol/Mercury"
 {
 	LongLat	[ 269.40 -74.99 0 ]
@@ -1610,7 +1478,6 @@ Location "Eltanin Rupes" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 11, 2016
 # Origin: Mihail; Romanian poet (1850-1889).
-# Additional info: None
 Location "Eminescu" "Sol/Mercury"
 {
 	LongLat	[ 245.79 10.66 0 ]
@@ -1620,7 +1487,6 @@ Location "Eminescu" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: English; Cook's ship to explore Tahiti, New Zealand, Australia, 1768-71.
-# Additional info: None
 Location "Endeavour Rupes" "Sol/Mercury"
 {
 	LongLat	[ 31.38 38.36 0 ]
@@ -1639,7 +1505,6 @@ Location "Endurance Rupes" "Sol/Mercury"
 
 # Approval date: Apr 30, 2015; Last update: Oct 11, 2016
 # Origin: Sumerian poet, world’s first author known by name (2285 BCE to 2250 BCE).
-# Additional info: None
 Location "Enheduanna" "Sol/Mercury"
 {
 	LongLat	[ 33.59 48.34 0 ]
@@ -1649,7 +1514,6 @@ Location "Enheduanna" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 06, 2017
 # Origin: James Sidney; Belgian painter (1860-1949).
-# Additional info: None
 Location "Ensor" "Sol/Mercury"
 {
 	LongLat	[ 17.65 82.35 0 ]
@@ -1659,7 +1523,6 @@ Location "Ensor" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: American; steamship that explored the Mississippi, Amazon, andMadeira Rivers and sailed on a worldwide hydrographic survey 1877 to1886.
-# Additional info: None
 Location "Enterprise Rupes" "Sol/Mercury"
 {
 	LongLat	[ 283.46 -36.54 0 ]
@@ -1669,7 +1532,6 @@ Location "Enterprise Rupes" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 11, 2016
 # Origin: Benedict Chukwukadibia; Nigerian sculptor and painter (1921-1994).
-# Additional info: None
 Location "Enwonwu" "Sol/Mercury"
 {
 	LongLat	[ 238.04 -10.01 0 ]
@@ -1679,7 +1541,6 @@ Location "Enwonwu" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: O.; Olavdah, West Africa (Benin) slave, writer (c. 1750-1797).
-# Additional info: None
 Location "Equiano" "Sol/Mercury"
 {
 	LongLat	[ 30.59 -40.00 0 ]
@@ -1689,7 +1550,6 @@ Location "Equiano" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Oct 11, 2016
 # Origin: Romain de Tirtoff; French artist and designer of Russian origin (1892-1990).
-# Additional info: None
 Location "Erté" "Sol/Mercury"
 {
 	LongLat	[ 117.33 27.44 0 ]
@@ -1699,7 +1559,6 @@ Location "Erté" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: William; American author (1897-1962).
-# Additional info: None
 Location "Faulkner" "Sol/Mercury"
 {
 	LongLat	[ 283.03 8.08 0 ]
@@ -1709,7 +1568,6 @@ Location "Faulkner" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Afanasy Afanasyevich; Russian poet (1820-1892).
-# Additional info: None
 Location "Fet" "Sol/Mercury"
 {
 	LongLat	[ 180.22 -4.72 0 ]
@@ -1719,7 +1577,6 @@ Location "Fet" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 11, 2016
 # Origin: Hakim Abulkasim; Tajik/Persian poet (c. 940-1020/30).
-# Additional info: None
 Location "Firdousi" "Sol/Mercury"
 {
 	LongLat	[ 294.68 3.47 0 ]
@@ -1729,7 +1586,6 @@ Location "Firdousi" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Oct 11, 2016
 # Origin: Ennio; Italian author (1910-1972).
-# Additional info: None
 Location "Flaiano" "Sol/Mercury"
 {
 	LongLat	[ 76.73 -21.29 0 ]
@@ -1739,7 +1595,6 @@ Location "Flaiano" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Gustave; French novelist (1821-1880).
-# Additional info: None
 Location "Flaubert" "Sol/Mercury"
 {
 	LongLat	[ 72.70 -13.83 0 ]
@@ -1749,7 +1604,6 @@ Location "Flaubert" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: Margot; English ballet dancer (1919-1991).
-# Additional info: None
 Location "Fonteyn" "Sol/Mercury"
 {
 	LongLat	[ 264.49 32.82 0 ]
@@ -1759,7 +1613,6 @@ Location "Fonteyn" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Norwegian; ship used in Arctic by Nansen, 1892-96, and by Sverdrup and Amundsen in Antarctica, 1909.
-# Additional info: None
 Location "Fram Rupes" "Sol/Mercury"
 {
 	LongLat	[ 93.20 -57.68 0 ]
@@ -1769,7 +1622,6 @@ Location "Fram Rupes" "Sol/Mercury"
 
 # Approval date: Jun 26, 2013; Last update: Jun 26, 2013
 # Origin: Richard Buckminster; American engineer and architect (1895-1983).
-# Additional info: None
 Location "Fuller" "Sol/Mercury"
 {
 	LongLat	[ 42.65 82.63 0 ]
@@ -1779,7 +1631,6 @@ Location "Fuller" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: S.; Japanese novelist (1864-1909).
-# Additional info: None
 Location "Futabatei" "Sol/Mercury"
 {
 	LongLat	[ 83.52 -16.05 0 ]
@@ -1789,7 +1640,6 @@ Location "Futabatei" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Thomas; English painter (1727-1788).
-# Additional info: None
 Location "Gainsborough" "Sol/Mercury"
 {
 	LongLat	[ 184.52 -35.73 0 ]
@@ -1809,7 +1659,6 @@ Location "GALLIA" "Sol/Mercury"
 
 # Approval date: May 01, 2018; Last update: May 01, 2018
 # Origin: Fijian and Samoan word for snake.
-# Additional info: None
 Location "Gata Facula" "Sol/Mercury"
 {
 	LongLat	[ 321.40 -52.90 0 ]
@@ -1819,7 +1668,6 @@ Location "Gata Facula" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Aug 06, 2012
 # Origin: Antoni Gaudí i Cornet; Spanish Catalan architect (1852-1926).
-# Additional info: None
 Location "Gaudí" "Sol/Mercury"
 {
 	LongLat	[ 290.84 76.90 0 ]
@@ -1829,7 +1677,6 @@ Location "Gaudí" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Paul; French painter (1848-1903).
-# Additional info: None
 Location "Gauguin" "Sol/Mercury"
 {
 	LongLat	[ 100.01 66.36 0 ]
@@ -1839,7 +1686,6 @@ Location "Gauguin" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 11, 2016
 # Origin: Wilhelmina; Irish stained glass and graphic artist (1887-1955).
-# Additional info: None
 Location "Geddes" "Sol/Mercury"
 {
 	LongLat	[ 29.72 27.17 0 ]
@@ -1849,7 +1695,6 @@ Location "Geddes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Lorenzo; Italian sculptor (1378-1455).
-# Additional info: None
 Location "Ghiberti" "Sol/Mercury"
 {
 	LongLat	[ 80.15 -48.55 0 ]
@@ -1859,7 +1704,6 @@ Location "Ghiberti" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 11, 2016
 # Origin: Jean Boulogne; Dutch sculptor (1529-1608).
-# Additional info: None
 Location "Giambologna" "Sol/Mercury"
 {
 	LongLat	[ 124.11 -42.58 0 ]
@@ -1869,7 +1713,6 @@ Location "Giambologna" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Kahlil (Khalil); Lebanese-American artist, poet, and writer (1883-1931).
-# Additional info: None
 Location "Gibran" "Sol/Mercury"
 {
 	LongLat	[ 111.44 35.73 0 ]
@@ -1879,7 +1722,6 @@ Location "Gibran" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Italian painter (c. 1271-1337).
-# Additional info: None
 Location "Giotto" "Sol/Mercury"
 {
 	LongLat	[ 56.48 12.46 0 ]
@@ -1898,7 +1740,6 @@ Location "Gjöa Rupes" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 11, 2016
 # Origin: Mikhail; Russian composer (1804-1857).
-# Additional info: None
 Location "Glinka" "Sol/Mercury"
 {
 	LongLat	[ 112.55 14.83 0 ]
@@ -1908,7 +1749,6 @@ Location "Glinka" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Christoph Willibald; German composer (1714-1787).
-# Additional info: None
 Location "Gluck" "Sol/Mercury"
 {
 	LongLat	[ 18.78 37.95 0 ]
@@ -1927,7 +1767,6 @@ Location "Goethe" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Nikolay; Russian dramatist and novelist (1809-1852).
-# Additional info: None
 Location "Gogol" "Sol/Mercury"
 {
 	LongLat	[ 147.46 -28.26 0 ]
@@ -1947,7 +1786,6 @@ Location "Goldstone Catena" "Sol/Mercury"
 
 # Approval date: Nov 19, 2019; Last update: Nov 19, 2019
 # Origin: Nadine (1923-2014), South African writer; recipient of the Nobel Prize in Literature (1991) and the Booker Prize (1974).
-# Additional info: None
 Location "Gordimer" "Sol/Mercury"
 {
 	LongLat	[ 170.90 87.73 0 ]
@@ -1957,7 +1795,6 @@ Location "Gordimer" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Francisco (Jose) de Goy (y Lucientes); Spanish painter (1746-1828).
-# Additional info: None
 Location "Goya" "Sol/Mercury"
 {
 	LongLat	[ 152.29 -6.79 0 ]
@@ -1967,7 +1804,6 @@ Location "Goya" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: George Percy Aldridge; Australian-born composer (1882-1961).
-# Additional info: None
 Location "Grainger" "Sol/Mercury"
 {
 	LongLat	[ 255.19 -44.09 0 ]
@@ -1977,7 +1813,6 @@ Location "Grainger" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Edvard; Norwegian composer (1843-1907).
-# Additional info: None
 Location "Grieg" "Sol/Mercury"
 {
 	LongLat	[ 15.36 52.49 0 ]
@@ -1987,7 +1822,6 @@ Location "Grieg" "Sol/Mercury"
 
 # Approval date: Jun 10, 2019; Last update: Jun 10, 2019
 # Origin: Portugese; ship used by D. João de Castro to make a survey of magnetic declination in the Atlantic and Indian Oceans in 1538.
-# Additional info: None
 Location "Grifo Rupes" "Sol/Mercury"
 {
 	LongLat	[ 354.62 7.90 0 ]
@@ -1997,7 +1831,6 @@ Location "Grifo Rupes" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Apr 24, 2012
 # Origin: Majlis; Finnish and American ceramist (1899-1973).
-# Additional info: None
 Location "Grotell" "Sol/Mercury"
 {
 	LongLat	[ 31.63 71.09 0 ]
@@ -2007,7 +1840,6 @@ Location "Grotell" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Italian musical theorist (c. 990-1050).
-# Additional info: None
 Location "Guido d'Arezzo" "Sol/Mercury"
 {
 	LongLat	[ 18.53 -38.41 0 ]
@@ -2017,7 +1849,6 @@ Location "Guido d'Arezzo" "Sol/Mercury"
 
 # Approval date: Jun 23, 2014; Last update: Oct 11, 2016
 # Origin: Hafiz (or Hafez) of Shiraz, Shams-ud-din Muhammad; Persian poet (c. 1320-1389).
-# Additional info: None
 Location "Hafiz" "Sol/Mercury"
 {
 	LongLat	[ 280.44 19.50 0 ]
@@ -2027,7 +1858,6 @@ Location "Hafiz" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Frans; Dutch painter (1581/1585-1666).
-# Additional info: None
 Location "Hals" "Sol/Mercury"
 {
 	LongLat	[ 114.99 -54.96 0 ]
@@ -2037,7 +1867,6 @@ Location "Hals" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: G. F.; German-British composer (1685-1759).
-# Additional info: None
 Location "Handel" "Sol/Mercury"
 {
 	LongLat	[ 34.38 3.53 0 ]
@@ -2047,7 +1876,6 @@ Location "Handel" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Chinese painter (720-780).
-# Additional info: None
 Location "Han Kan" "Sol/Mercury"
 {
 	LongLat	[ 146.40 -72.13 0 ]
@@ -2057,7 +1885,6 @@ Location "Han Kan" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Suzuki; Japanese artist (1720/1724-1770).
-# Additional info: None
 Location "Harunobu" "Sol/Mercury"
 {
 	LongLat	[ 140.93 14.88 0 ]
@@ -2067,7 +1894,6 @@ Location "Harunobu" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Gerhart; German novelist and dramatist (1862-1946).
-# Additional info: None
 Location "Hauptmann" "Sol/Mercury"
 {
 	LongLat	[ 180.41 -23.70 0 ]
@@ -2077,7 +1903,6 @@ Location "Hauptmann" "Sol/Mercury"
 
 # Approval date: Apr 16, 2019; Last update: Apr 16, 2019
 # Origin: Kannada (SW India) word for snake.
-# Additional info: None
 Location "Havu Facula" "Sol/Mercury"
 {
 	LongLat	[ 28.45 -52.22 0 ]
@@ -2087,7 +1912,6 @@ Location "Havu Facula" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Nathaniel; American novelist (1804-1864).
-# Additional info: None
 Location "Hawthorne" "Sol/Mercury"
 {
 	LongLat	[ 115.34 -51.31 0 ]
@@ -2097,7 +1921,6 @@ Location "Hawthorne" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: J.; Austrian composer (1732-1809).
-# Additional info: None
 Location "Haydn" "Sol/Mercury"
 {
 	LongLat	[ 71.64 -27.22 0 ]
@@ -2117,7 +1940,6 @@ Location "Haystack Catena" "Sol/Mercury"
 
 # Approval date: Mar 20, 2017; Last update: Mar 21, 2017
 # Origin: Seamus Justin; Irish poet and playwright (1939 - 2013).
-# Additional info: None
 Location "Heaney" "Sol/Mercury"
 {
 	LongLat	[ 237.71 -33.77 0 ]
@@ -2127,7 +1949,6 @@ Location "Heaney" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Dutch; one of Tasman's ships to explore Australia, New Zealand, 1642-43.
-# Additional info: None
 Location "Heemskerck Rupes" "Sol/Mercury"
 {
 	LongLat	[ 124.31 27.30 0 ]
@@ -2137,7 +1958,6 @@ Location "Heemskerck Rupes" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Heinrich; German poet (1797-1856).
-# Additional info: None
 Location "Heine" "Sol/Mercury"
 {
 	LongLat	[ 124.88 32.46 0 ]
@@ -2156,7 +1976,6 @@ Location "HELIOCAMINUS" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Ernest Miller; American author (1899-1961).
-# Additional info: None
 Location "Hemingway" "Sol/Mercury"
 {
 	LongLat	[ 3.13 17.38 0 ]
@@ -2166,7 +1985,6 @@ Location "Hemingway" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Apr 24, 2012
 # Origin: Robert; American painter (1865 –1929).
-# Additional info: None
 Location "Henri" "Sol/Mercury"
 {
 	LongLat	[ 207.02 79.68 0 ]
@@ -2176,7 +1994,6 @@ Location "Henri" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: American; Palmer's ship to explore Antarctic coast, 1820-21.
-# Additional info: None
 Location "Hero Rupes" "Sol/Mercury"
 {
 	LongLat	[ 171.70 -58.72 0 ]
@@ -2186,7 +2003,6 @@ Location "Hero Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Greek poet (c. 800 B.C.).
-# Additional info: None
 Location "Hesiod" "Sol/Mercury"
 {
 	LongLat	[ 34.25 -58.27 0 ]
@@ -2205,7 +2021,6 @@ Location "HESPERIS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Ando; Japanese artist (1797-1858).
-# Additional info: None
 Location "Hiroshige" "Sol/Mercury"
 {
 	LongLat	[ 26.96 -13.34 0 ]
@@ -2215,7 +2030,6 @@ Location "Hiroshige" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Kakinomoto No; Japanese poet (c. 655-c. 700).
-# Additional info: None
 Location "Hitomaro" "Sol/Mercury"
 {
 	LongLat	[ 15.65 -16.07 0 ]
@@ -2225,7 +2039,6 @@ Location "Hitomaro" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Frances; New Zealand painter (1869-1947).
-# Additional info: None
 Location "Hodgkins" "Sol/Mercury"
 {
 	LongLat	[ 342.03 29.12 0 ]
@@ -2235,7 +2048,6 @@ Location "Hodgkins" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 11, 2016
 # Origin: Katsushika; Japanese painter, draftsman, and printmaker (1760-1849).
-# Additional info: None
 Location "Hokusai" "Sol/Mercury"
 {
 	LongLat	[ 343.35 57.84 0 ]
@@ -2245,7 +2057,6 @@ Location "Hokusai" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Hans (c. 1465-1524), and Hans (c. 1497-1543); German painters.
-# Additional info: None
 Location "Holbein" "Sol/Mercury"
 {
 	LongLat	[ 29.84 36.16 0 ]
@@ -2255,7 +2066,6 @@ Location "Holbein" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Ludvig; Norwegian-Danish writer (1684-1754).
-# Additional info: None
 Location "Holberg" "Sol/Mercury"
 {
 	LongLat	[ 59.57 -67.37 0 ]
@@ -2265,7 +2075,6 @@ Location "Holberg" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: Gustav Theodore; British composer (1874-1934).
-# Additional info: None
 Location "Holst" "Sol/Mercury"
 {
 	LongLat	[ 315.04 -17.42 0 ]
@@ -2275,7 +2084,6 @@ Location "Holst" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Greek epic poet (8th or 9th century B.C.).
-# Additional info: None
 Location "Homer" "Sol/Mercury"
 {
 	LongLat	[ 36.62 -1.30 0 ]
@@ -2285,7 +2093,6 @@ Location "Homer" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Oct 11, 2016
 # Origin: Edward; American painter (1882-1967).
-# Additional info: None
 Location "Hopper" "Sol/Mercury"
 {
 	LongLat	[ 55.96 -12.44 0 ]
@@ -2295,7 +2102,6 @@ Location "Hopper" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Roman poet (65-8 B.C.).
-# Additional info: None
 Location "Horace" "Sol/Mercury"
 {
 	LongLat	[ 50.02 -69.34 0 ]
@@ -2305,7 +2111,6 @@ Location "Horace" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 11, 2016
 # Origin: Hakop; Armenian painter (1806-1881).
-# Additional info: None
 Location "Hovnatanian" "Sol/Mercury"
 {
 	LongLat	[ 187.29 -7.68 0 ]
@@ -2315,7 +2120,6 @@ Location "Hovnatanian" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Victor; French writer, dramatist and poet (1802-1885).
-# Additional info: None
 Location "Hugo" "Sol/Mercury"
 {
 	LongLat	[ 48.49 39.61 0 ]
@@ -2335,7 +2139,6 @@ Location "Hun Kal" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Mar 15, 2013
 # Origin: James Francis “Frank”; Australian photographer (1885-1962).
-# Additional info: None
 Location "Hurley" "Sol/Mercury"
 {
 	LongLat	[ 6.99 -87.36 0 ]
@@ -2345,7 +2148,6 @@ Location "Hurley" "Sol/Mercury"
 
 # Approval date: Apr 16, 2018; Last update: Apr 16, 2018
 # Origin: Amharic (Ethiopia) word for snake.
-# Additional info: None
 Location "Ibab Facula" "Sol/Mercury"
 {
 	LongLat	[ 199.20 14.50 0 ]
@@ -2355,7 +2157,6 @@ Location "Ibab Facula" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Heinrich J.; Norwegian poet and dramatist (1828-1906).
-# Additional info: None
 Location "Ibsen" "Sol/Mercury"
 {
 	LongLat	[ 35.89 -24.35 0 ]
@@ -2374,7 +2175,6 @@ Location "Ictinus" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Egyptian physician and sage (c. 2686-2613 B.C.).
-# Additional info: None
 Location "Imhotep" "Sol/Mercury"
 {
 	LongLat	[ 37.48 -17.97 0 ]
@@ -2384,7 +2184,6 @@ Location "Imhotep" "Sol/Mercury"
 
 # Approval date: Jan 12, 2021; Last update: Feb 02, 2021
 # Origin: Australian; research vessel used since 2014 for atmospheric, oceanographic, biological and geoscience research from the tropical north to the Antarctic ice-edge mainly in the Indian and Pacific Oceans.
-# Additional info: None
 Location "Investigator Rupes" "Sol/Mercury"
 {
 	LongLat	[ 223.96 -25.39 0 ]
@@ -2394,7 +2193,6 @@ Location "Investigator Rupes" "Sol/Mercury"
 
 # Approval date: Apr 16, 2018; Last update: Apr 16, 2018
 # Origin: Zulu and Xhosa (South Africa) word for snake.
-# Additional info: None
 Location "Inyoka Faculae" "Sol/Mercury"
 {
 	LongLat	[ 197.70 14.00 0 ]
@@ -2404,7 +2202,6 @@ Location "Inyoka Faculae" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Charles; American composer (1874-1954).
-# Additional info: None
 Location "Ives" "Sol/Mercury"
 {
 	LongLat	[ 111.99 -32.87 0 ]
@@ -2414,7 +2211,6 @@ Location "Ives" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: María; Mexican painter (c.1902-1955).
-# Additional info: None
 Location "Izquierdo" "Sol/Mercury"
 {
 	LongLat	[ 252.96 -1.66 0 ]
@@ -2424,7 +2220,6 @@ Location "Izquierdo" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Leos; Czechoslovakian composer (1854-1928).
-# Additional info: None
 Location "Janáček" "Sol/Mercury"
 {
 	LongLat	[ 154.85 55.72 0 ]
@@ -2434,7 +2229,6 @@ Location "Janáček" "Sol/Mercury"
 
 # Approval date: Sep 11, 2019; Last update: Sep 11, 2019
 # Origin: Juan Ramón, Spanish poet and author (1881 – 1958).
-# Additional info: None
 Location "Jiménez" "Sol/Mercury"
 {
 	LongLat	[ 152.31 81.83 0 ]
@@ -2444,7 +2238,6 @@ Location "Jiménez" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 11, 2016
 # Origin: Antonio Carlos; Brazilian composer and musician (1927-1994).
-# Additional info: None
 Location "Jobim" "Sol/Mercury"
 {
 	LongLat	[ 66.88 32.45 0 ]
@@ -2454,7 +2247,6 @@ Location "Jobim" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Mor; Hungarian novelist (1825-1904).
-# Additional info: None
 Location "Jókai" "Sol/Mercury"
 {
 	LongLat	[ 138.45 71.93 0 ]
@@ -2464,7 +2256,6 @@ Location "Jókai" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Oct 11, 2016
 # Origin: Scott; American composer (1868 – 1917).
-# Additional info: None
 Location "Joplin" "Sol/Mercury"
 {
 	LongLat	[ 334.49 -38.56 0 ]
@@ -2474,7 +2265,6 @@ Location "Joplin" "Sol/Mercury"
 
 # Approval date: Sep 11, 2019; Last update: Sep 11, 2019
 # Origin: Taikō, Japanese ink painter (1405 – 1496).
-# Additional info: None
 Location "Josetsu" "Sol/Mercury"
 {
 	LongLat	[ 134.93 83.58 0 ]
@@ -2484,7 +2274,6 @@ Location "Josetsu" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Judah; Jewish poet and religious philosopher (c. 1075-1141).
-# Additional info: None
 Location "Judah Ha-Levi" "Sol/Mercury"
 {
 	LongLat	[ 108.01 10.79 0 ]
@@ -2494,7 +2283,6 @@ Location "Judah Ha-Levi" "Sol/Mercury"
 
 # Approval date: Oct 19, 2018; Last update: Oct 19, 2018
 # Origin: Japanese; Kainan Maru, ship of Nobu Shirase Antarctic exploration, 1910-1912.
-# Additional info: None
 Location "Kainan Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 330.80 -29.80 0 ]
@@ -2504,7 +2292,6 @@ Location "Kainan Rupēs" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Indian poet and dramatist (c. 5th century).
-# Additional info: None
 Location "Kālidāsā" "Sol/Mercury"
 {
 	LongLat	[ 179.82 -18.21 0 ]
@@ -2514,7 +2301,6 @@ Location "Kālidāsā" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Aug 06, 2012
 # Origin: Wassily; Russian painter (1866-1944).
-# Additional info: None
 Location "Kandinsky" "Sol/Mercury"
 {
 	LongLat	[ 281.22 87.89 0 ]
@@ -2524,7 +2310,6 @@ Location "Kandinsky" "Sol/Mercury"
 
 # Approval date: Apr 30, 2015; Last update: Oct 11, 2016
 # Origin: Yousuf; Canadian portrait photographer of Armenian descent (1908-2002).
-# Additional info: None
 Location "Karsh" "Sol/Mercury"
 {
 	LongLat	[ 281.15 -35.49 0 ]
@@ -2543,7 +2328,6 @@ Location "Keats" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Yashida Ca; Japanese writer (1283-1352).
-# Additional info: None
 Location "Kenkō" "Sol/Mercury"
 {
 	LongLat	[ 16.16 -21.35 0 ]
@@ -2553,7 +2337,6 @@ Location "Kenkō" "Sol/Mercury"
 
 # Approval date: Oct 12, 2015; Last update: Oct 11, 2016
 # Origin: Jack, American poet and author (1922-1969).
-# Additional info: None
 Location "Kerouac" "Sol/Mercury"
 {
 	LongLat	[ 230.90 25.21 0 ]
@@ -2563,7 +2346,6 @@ Location "Kerouac" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 11, 2016
 # Origin: André; Hungarian-born American photographer (1894-1985).
-# Additional info: None
 Location "Kertész" "Sol/Mercury"
 {
 	LongLat	[ 213.92 27.37 0 ]
@@ -2573,7 +2355,6 @@ Location "Kertész" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Al; Arab female poet (c. 6th century).
-# Additional info: None
 Location "Khansa" "Sol/Mercury"
 {
 	LongLat	[ 51.94 -58.95 0 ]
@@ -2583,7 +2364,6 @@ Location "Khansa" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 11, 2016
 # Origin: Rudyard; English author (1865-1936).
-# Additional info: None
 Location "Kipling" "Sol/Mercury"
 {
 	LongLat	[ 287.98 -19.37 0 ]
@@ -2593,7 +2373,6 @@ Location "Kipling" "Sol/Mercury"
 
 # Approval date: Sep 11, 2019; Last update: Sep 11, 2019
 # Origin: Jack, American illustrator (1917 – 1994).
-# Additional info: None
 Location "Kirby" "Sol/Mercury"
 {
 	LongLat	[ 151.32 82.96 0 ]
@@ -2603,7 +2382,6 @@ Location "Kirby" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Dec 19, 2012
 # Origin: Katarzyna; Polish sculptor (1898-1951).
-# Additional info: None
 Location "Kobro" "Sol/Mercury"
 {
 	LongLat	[ 278.78 -82.16 0 ]
@@ -2613,7 +2391,6 @@ Location "Kobro" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: Vincent Akwete; Ghanaian sculptor (1923-1974).
-# Additional info: None
 Location "Kofi" "Sol/Mercury"
 {
 	LongLat	[ 242.13 56.75 0 ]
@@ -2623,7 +2400,6 @@ Location "Kofi" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Dec 19, 2012
 # Origin: Krzysztof; Polish composer and musician (1931- 1969).
-# Additional info: None
 Location "Komeda" "Sol/Mercury"
 {
 	LongLat	[ 269.53 -82.74 0 ]
@@ -2633,7 +2409,6 @@ Location "Komeda" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Japanese sculptor (13th century).
-# Additional info: None
 Location "Kōshō" "Sol/Mercury"
 {
 	LongLat	[ 139.87 59.93 0 ]
@@ -2643,7 +2418,6 @@ Location "Kōshō" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Chinese dramatist (c. 1241-1320).
-# Additional info: None
 Location "Kuan Han-Ch'ing" "Sol/Mercury"
 {
 	LongLat	[ 53.67 29.44 0 ]
@@ -2653,7 +2427,6 @@ Location "Kuan Han-Ch'ing" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Gerard P.; Dutch-American astronomer, member of original Mariner Venus-Mercury Imaging Team (1905-1973).
-# Additional info: None
 Location "Kuiper" "Sol/Mercury"
 {
 	LongLat	[ 31.32 -11.34 0 ]
@@ -2663,7 +2436,6 @@ Location "Kuiper" "Sol/Mercury"
 
 # Approval date: Apr 30, 2015; Last update: Oct 11, 2016
 # Origin: Umm; Alternate spellings Kulthūm, Kalthoum, and Kalsoum; Egyptian singer (born between 1898 and 1904, died 1975).
-# Additional info: None
 Location "Kulthum" "Sol/Mercury"
 {
 	LongLat	[ 266.47 50.72 0 ]
@@ -2673,7 +2445,6 @@ Location "Kulthum" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Utagawa Kunisada; Japanese woodblock printmaker (1786-1864).
-# Additional info: None
 Location "Kunisada" "Sol/Mercury"
 {
 	LongLat	[ 246.98 1.37 0 ]
@@ -2683,7 +2454,6 @@ Location "Kunisada" "Sol/Mercury"
 
 # Approval date: Mar 14, 2014; Last update: Oct 11, 2016
 # Origin: Utagawa Kuniyoshi; Japanese painter and printmaker (1798-1861).
-# Additional info: None
 Location "Kuniyoshi" "Sol/Mercury"
 {
 	LongLat	[ 37.49 -57.87 0 ]
@@ -2693,7 +2463,6 @@ Location "Kuniyoshi" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Kinko; Japanese composer (18th century).
-# Additional info: None
 Location "Kurosawa" "Sol/Mercury"
 {
 	LongLat	[ 21.49 -52.44 0 ]
@@ -2703,7 +2472,6 @@ Location "Kurosawa" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Oct 11, 2016
 # Origin: Kawanabe; Japanese artist (1831-1889).
-# Additional info: None
 Location "Kyōsai" "Sol/Mercury"
 {
 	LongLat	[ 355.14 25.15 0 ]
@@ -2713,7 +2481,6 @@ Location "Kyōsai" "Sol/Mercury"
 
 # Approval date: Feb 12, 2014; Last update: Oct 11, 2016
 # Origin: French; royal ship used for a voyage in search of the eastern coast of Asia, determined that North America was not an extension of Asia, 1524.
-# Additional info: None
 Location "La Dauphine Rupes" "Sol/Mercury"
 {
 	LongLat	[ 26.62 66.30 0 ]
@@ -2723,7 +2490,6 @@ Location "La Dauphine Rupes" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Dorothea; American photographer (1895-1965).
-# Additional info: None
 Location "Lange" "Sol/Mercury"
 {
 	LongLat	[ 259.53 6.28 0 ]
@@ -2733,7 +2499,6 @@ Location "Lange" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Oct 11, 2016
 # Origin: Alicia de Larrocha; Spanish pianist (1923-2009).
-# Additional info: None
 Location "Larrocha" "Sol/Mercury"
 {
 	LongLat	[ 69.83 43.29 0 ]
@@ -2743,7 +2508,6 @@ Location "Larrocha" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Jun 18, 2013
 # Origin: Halldór Kiljan; Icelandic writer (1902-1998).
-# Additional info: None
 Location "Laxness" "Sol/Mercury"
 {
 	LongLat	[ 50.04 83.27 0 ]
@@ -2762,7 +2526,6 @@ Location "Legend Rupes" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Mar 15, 2013
 # Origin: Madeleine; American author (1918-2007).
-# Additional info: None
 Location "L’Engle" "Sol/Mercury"
 {
 	LongLat	[ 290.38 -86.63 0 ]
@@ -2772,7 +2535,6 @@ Location "L’Engle" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 11, 2016
 # Origin: John Winston; English singer and songwriter (1940-1980).
-# Additional info: None
 Location "Lennon" "Sol/Mercury"
 {
 	LongLat	[ 318.82 -36.41 0 ]
@@ -2791,7 +2553,6 @@ Location "Leopardi" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Mikhail Yurevich; Russian poet (1814-1841).
-# Additional info: None
 Location "Lermontov" "Sol/Mercury"
 {
 	LongLat	[ 48.94 15.24 0 ]
@@ -2801,7 +2562,6 @@ Location "Lermontov" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Gotthold Ephraim; German critic and dramatist (1729-1781).
-# Additional info: None
 Location "Lessing" "Sol/Mercury"
 {
 	LongLat	[ 90.34 -28.50 0 ]
@@ -2811,7 +2571,6 @@ Location "Lessing" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Chinese painter (c. 1140-1210).
-# Additional info: None
 Location "Liang K'ai" "Sol/Mercury"
 {
 	LongLat	[ 184.16 -39.89 0 ]
@@ -2821,7 +2580,6 @@ Location "Liang K'ai" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Chinese poet (1081-c. 1141).
-# Additional info: None
 Location "Li Ch'ing-Chao" "Sol/Mercury"
 {
 	LongLat	[ 71.17 -77.96 0 ]
@@ -2831,7 +2589,6 @@ Location "Li Ch'ing-Chao" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Apr 01, 2020
 # Origin: Albedo name for H-4, Raditladi region.
-# Additional info: None
 Location "LIGURIA" "Sol/Mercury"
 {
 	LongLat	[ 225.00 45.00 0 ]
@@ -2841,7 +2598,6 @@ Location "LIGURIA" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Chinese poet (701-762).
-# Additional info: None
 Location "Li Po" "Sol/Mercury"
 {
 	LongLat	[ 35.69 17.10 0 ]
@@ -2851,7 +2607,6 @@ Location "Li Po" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Apr 24, 2012
 # Origin: Arthur; Canadian painter (1885-1969).
-# Additional info: None
 Location "Lismer" "Sol/Mercury"
 {
 	LongLat	[ 193.63 81.51 0 ]
@@ -2861,7 +2616,6 @@ Location "Lismer" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 11, 2016
 # Origin: Franz; Hungarian piano virtuoso and composer (1811-1886).
-# Additional info: None
 Location "Liszt" "Sol/Mercury"
 {
 	LongLat	[ 168.34 -16.13 0 ]
@@ -2880,7 +2634,6 @@ Location "Lorde" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Mar 15, 2013
 # Origin: Howard Phillips; American author (1890-1937).
-# Additional info: None
 Location "Lovecraft" "Sol/Mercury"
 {
 	LongLat	[ 73.82 -86.24 0 ]
@@ -2890,7 +2643,6 @@ Location "Lovecraft" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Gaulish equivalent of the Roman god Mercury.
-# Additional info: None
 Location "Lugus Planitia" "Sol/Mercury"
 {
 	LongLat	[ 98.66 -6.24 0 ]
@@ -2900,7 +2652,6 @@ Location "Lugus Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: (Chou Shu-Jen); Chinese writer (1881-1936).
-# Additional info: None
 Location "Lu Hsun" "Sol/Mercury"
 {
 	LongLat	[ 23.76 -0.01 0 ]
@@ -2910,7 +2661,6 @@ Location "Lu Hsun" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Greek sculptor (4th century B.C.).
-# Additional info: None
 Location "Lysippus" "Sol/Mercury"
 {
 	LongLat	[ 132.75 1.03 0 ]
@@ -2920,7 +2670,6 @@ Location "Lysippus" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Guillaume de; French poet and composer (c. 1300-1377).
-# Additional info: None
 Location "Machaut" "Sol/Mercury"
 {
 	LongLat	[ 82.37 -2.05 0 ]
@@ -2930,7 +2679,6 @@ Location "Machaut" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Chinese dramatist (fl. 1251).
-# Additional info: None
 Location "Ma Chih-Yuan" "Sol/Mercury"
 {
 	LongLat	[ 78.01 -60.01 0 ]
@@ -2940,7 +2688,6 @@ Location "Ma Chih-Yuan" "Sol/Mercury"
 
 # Approval date: Apr 16, 2018; Last update: Apr 16, 2018
 # Origin: Hausa (Niger and Nigeria) word for snake.
-# Additional info: None
 Location "Maciji Facula" "Sol/Mercury"
 {
 	LongLat	[ 196.00 14.90 0 ]
@@ -2959,7 +2706,6 @@ Location "MacNicol" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: René; Belgian painter (1898-1967).
-# Additional info: None
 Location "Magritte" "Sol/Mercury"
 {
 	LongLat	[ 238.37 -72.78 0 ]
@@ -2969,7 +2715,6 @@ Location "Magritte" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Gustav; Austrian composer (1860-1911).
-# Additional info: None
 Location "Mahler" "Sol/Mercury"
 {
 	LongLat	[ 18.82 -19.68 0 ]
@@ -2988,7 +2733,6 @@ Location "Mansart" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Ustad; Indian painter (17th century).
-# Additional info: None
 Location "Mansur" "Sol/Mercury"
 {
 	LongLat	[ 163.61 47.41 0 ]
@@ -2998,7 +2742,6 @@ Location "Mansur" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Ausias; Spanish poet, first major poet to write in Catalan (1397-1459).
-# Additional info: None
 Location "March" "Sol/Mercury"
 {
 	LongLat	[ 176.30 30.95 0 ]
@@ -3008,7 +2751,6 @@ Location "March" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: (Samuel Clemens); American novelist, satirist (1835-1910).
-# Additional info: None
 Location "Mark Twain" "Sol/Mercury"
 {
 	LongLat	[ 138.28 -10.91 0 ]
@@ -3027,7 +2769,6 @@ Location "Martí" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Marcus Valerius; Roman epigrammist (c. A.D. 40-c. 103).
-# Additional info: None
 Location "Martial" "Sol/Mercury"
 {
 	LongLat	[ 178.33 68.47 0 ]
@@ -3037,7 +2778,6 @@ Location "Martial" "Sol/Mercury"
 
 # Approval date: Jun 10, 2019; Last update: Jun 10, 2019
 # Origin: Maria, Brazilian sculptor (1894-1973).
-# Additional info: None
 Location "Martins" "Sol/Mercury"
 {
 	LongLat	[ 304.93 -8.00 0 ]
@@ -3047,7 +2787,6 @@ Location "Martins" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Iwasa; Japanese painter (1578-1650).
-# Additional info: None
 Location "Matabei" "Sol/Mercury"
 {
 	LongLat	[ 13.90 -39.87 0 ]
@@ -3057,7 +2796,6 @@ Location "Matabei" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Henri; French painter and sculptor (1869-1954).
-# Additional info: None
 Location "Matisse" "Sol/Mercury"
 {
 	LongLat	[ 90.05 -23.83 0 ]
@@ -3067,7 +2805,6 @@ Location "Matisse" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Irish word for the planet Mercury.
-# Additional info: None
 Location "Mearcair Planitia" "Sol/Mercury"
 {
 	LongLat	[ 227.90 31.40 0 ]
@@ -3077,7 +2814,6 @@ Location "Mearcair Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Herman; American novelist (1819-1891).
-# Additional info: None
 Location "Melville" "Sol/Mercury"
 {
 	LongLat	[ 9.89 22.01 0 ]
@@ -3087,7 +2823,6 @@ Location "Melville" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Juan de; Spanish poet (1411-1456).
-# Additional info: None
 Location "Mena" "Sol/Mercury"
 {
 	LongLat	[ 124.73 -0.17 0 ]
@@ -3097,7 +2832,6 @@ Location "Mena" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 11, 2016
 # Origin: Jakob Ludwig Felix; German composer (1809-1847).
-# Additional info: None
 Location "Mendelssohn" "Sol/Mercury"
 {
 	LongLat	[ 257.68 70.31 0 ]
@@ -3107,7 +2841,6 @@ Location "Mendelssohn" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: F.; Portuguese prose author (c. 1510-1583).
-# Additional info: None
 Location "Mendes Pinto" "Sol/Mercury"
 {
 	LongLat	[ 17.57 -61.65 0 ]
@@ -3117,7 +2850,6 @@ Location "Mendes Pinto" "Sol/Mercury"
 
 # Approval date: Oct 19, 2018; Last update: Oct 19, 2018
 # Origin: German; expedition on Meteor ship explored the South Atlantic Ocean, 1925-1927.
-# Additional info: None
 Location "Meteor Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 345.70 -47.70 0 ]
@@ -3127,7 +2859,6 @@ Location "Meteor Rupēs" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 11, 2016
 # Origin: Buonarroti; Italian painter, sculptor and architect (1475-1564).
-# Additional info: None
 Location "Michelangelo" "Sol/Mercury"
 {
 	LongLat	[ 109.69 -44.92 0 ]
@@ -3137,7 +2868,6 @@ Location "Michelangelo" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Adam Bernard; Polish poet (1798-1855).
-# Additional info: None
 Location "Mickiewicz" "Sol/Mercury"
 {
 	LongLat	[ 103.23 23.15 0 ]
@@ -3147,7 +2877,6 @@ Location "Mickiewicz" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: John; English poet (1608-1674).
-# Additional info: None
 Location "Milton" "Sol/Mercury"
 {
 	LongLat	[ 175.06 -26.13 0 ]
@@ -3157,7 +2886,6 @@ Location "Milton" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Russian; Bellingshausen's ship for Antarctic exploration, 1819-21.
-# Additional info: None
 Location "Mirni Rupes" "Sol/Mercury"
 {
 	LongLat	[ 39.01 -38.54 0 ]
@@ -3167,7 +2895,6 @@ Location "Mirni Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 11, 2016
 # Origin: Gabriela; Chilean poet (1889-1957).
-# Additional info: None
 Location "Mistral" "Sol/Mercury"
 {
 	LongLat	[ 54.67 4.70 0 ]
@@ -3177,7 +2904,6 @@ Location "Mistral" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Thomas; South African (Lesotho) novelist (1876/77-1948).
-# Additional info: None
 Location "Mofolo" "Sol/Mercury"
 {
 	LongLat	[ 28.22 -37.68 0 ]
@@ -3187,7 +2913,6 @@ Location "Mofolo" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Jean Baptiste Poquelin; French dramatist and satirist (1622-1673).
-# Additional info: None
 Location "Molière" "Sol/Mercury"
 {
 	LongLat	[ 17.71 15.40 0 ]
@@ -3197,7 +2922,6 @@ Location "Molière" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 12, 2016
 # Origin: Claude; French painter (1840-1926).
-# Additional info: None
 Location "Monet" "Sol/Mercury"
 {
 	LongLat	[ 9.77 44.23 0 ]
@@ -3207,7 +2931,6 @@ Location "Monet" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Oct 12, 2016
 # Origin: Thelonious; American jazz musician and composer (1917-1982).
-# Additional info: None
 Location "Monk" "Sol/Mercury"
 {
 	LongLat	[ 296.19 66.08 0 ]
@@ -3217,7 +2940,6 @@ Location "Monk" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 12, 2016
 # Origin: Claudi; Italian composer (1567-1643).
-# Additional info: None
 Location "Monteverdi" "Sol/Mercury"
 {
 	LongLat	[ 81.01 64.49 0 ]
@@ -3227,7 +2949,6 @@ Location "Monteverdi" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 02, 2018
 # Origin: Ronald; Jamaican sculptor and painter (1900-1984).
-# Additional info: None
 Location "Moody" "Sol/Mercury"
 {
 	LongLat	[ 215.15 -13.21 0 ]
@@ -3246,7 +2967,6 @@ Location "Morrison" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: W. A.; Austrian composer (1756-1791).
-# Additional info: None
 Location "Mozart" "Sol/Mercury"
 {
 	LongLat	[ 190.59 7.75 0 ]
@@ -3256,7 +2976,6 @@ Location "Mozart" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 12, 2016
 # Origin: Edvard; Norwegian painter, printmaker, and draftsman (1863-1944).
-# Additional info: None
 Location "Munch" "Sol/Mercury"
 {
 	LongLat	[ 207.18 40.48 0 ]
@@ -3266,7 +2985,6 @@ Location "Munch" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 12, 2016
 # Origin: Mihály; Hungarian painter (1844-1900).
-# Additional info: None
 Location "Munkácsy" "Sol/Mercury"
 {
 	LongLat	[ 258.86 21.95 0 ]
@@ -3276,7 +2994,6 @@ Location "Munkácsy" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Shikibu; Japanese novelist and poet (978-1014/1026).
-# Additional info: None
 Location "Murasaki" "Sol/Mercury"
 {
 	LongLat	[ 30.40 -12.54 0 ]
@@ -3286,7 +3003,6 @@ Location "Murasaki" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 12, 2016
 # Origin: Modest; Russian composer (1839-1881).
-# Additional info: None
 Location "Mussorgskij" "Sol/Mercury"
 {
 	LongLat	[ 97.65 32.82 0 ]
@@ -3296,7 +3012,6 @@ Location "Mussorgskij" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 12, 2016
 # Origin: Greek sculptor (fl. c. 480-440 B.C.).
-# Additional info: None
 Location "Myron" "Sol/Mercury"
 {
 	LongLat	[ 84.86 71.21 0 ]
@@ -3306,7 +3021,6 @@ Location "Myron" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 12, 2016
 # Origin: Vladimir;  Russian and American writer (1899-1977).
-# Additional info: None
 Location "Nabokov" "Sol/Mercury"
 {
 	LongLat	[ 304.24 -14.56 0 ]
@@ -3325,7 +3039,6 @@ Location "Nairne" "Sol/Mercury"
 
 # Approval date: May 01, 2018; Last update: May 01, 2018
 # Origin: Māori word for snake.
-# Additional info: None
 Location "Nākahi Facula" "Sol/Mercury"
 {
 	LongLat	[ 342.20 -52.70 0 ]
@@ -3335,7 +3048,6 @@ Location "Nākahi Facula" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 12, 2016
 # Origin: Albert; Australian Aboriginal artist, pioneer of contemporary Indigenous Australian art (1902-1959).
-# Additional info: None
 Location "Namatjira" "Sol/Mercury"
 {
 	LongLat	[ 33.04 58.82 0 ]
@@ -3345,7 +3057,6 @@ Location "Namatjira" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Hopi potter (c. 1860-1942).
-# Additional info: None
 Location "Nampeyo" "Sol/Mercury"
 {
 	LongLat	[ 49.96 -40.33 0 ]
@@ -3355,7 +3066,6 @@ Location "Nampeyo" "Sol/Mercury"
 
 # Approval date: Apr 02, 2018; Last update: Apr 03, 2018
 # Origin: Irish word for snake.
-# Additional info: None
 Location "Nathair Facula" "Sol/Mercury"
 {
 	LongLat	[ 295.50 36.00 0 ]
@@ -3365,7 +3075,6 @@ Location "Nathair Facula" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 12, 2016
 # Origin: American; oceanic research and underwater archaeology vessel that performs studies in the Mediterranean and Caribbean since 2009.
-# Additional info: None
 Location "Nautilus Rupes" "Sol/Mercury"
 {
 	LongLat	[ 293.33 -28.23 0 ]
@@ -3375,7 +3084,6 @@ Location "Nautilus Rupes" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 12, 2016
 # Origin: Alisher; Uzbek poet (1441-1501).
-# Additional info: None
 Location "Navoi" "Sol/Mercury"
 {
 	LongLat	[ 199.59 58.82 0 ]
@@ -3395,7 +3103,6 @@ Location "Nāwahī" "Sol/Mercury"
 
 # Approval date: Apr 02, 2018; Last update: Apr 03, 2018
 # Origin: Welsh word for snake.
-# Additional info: None
 Location "Neidr Facula" "Sol/Mercury"
 {
 	LongLat	[ 302.70 35.90 0 ]
@@ -3415,7 +3122,6 @@ Location "Neruda" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 12, 2016
 # Origin: Amado; Mexican poet (1870-1919).
-# Additional info: None
 Location "Nervo" "Sol/Mercury"
 {
 	LongLat	[ 179.89 42.70 0 ]
@@ -3425,7 +3131,6 @@ Location "Nervo" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: B.; German architect (1687-1753).
-# Additional info: None
 Location "Neumann" "Sol/Mercury"
 {
 	LongLat	[ 34.56 -37.22 0 ]
@@ -3435,7 +3140,6 @@ Location "Neumann" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 12, 2016
 # Origin: Elyas Yusof Ganjavi; Persian epic poet (c. 1141-1209).
-# Additional info: None
 Location "Nizāmī" "Sol/Mercury"
 {
 	LongLat	[ 166.71 70.46 0 ]
@@ -3445,7 +3149,6 @@ Location "Nizāmī" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 12, 2016
 # Origin: Rudolf; Soviet and British ballet dancer of Tatar-Bashkir origin (1938-1993).
-# Additional info: None
 Location "Nureyev" "Sol/Mercury"
 {
 	LongLat	[ 173.13 11.68 0 ]
@@ -3455,7 +3158,6 @@ Location "Nureyev" "Sol/Mercury"
 
 # Approval date: Apr 16, 2018; Last update: Apr 16, 2018
 # Origin: Kamba (Kenya) word for snake.
-# Additional info: None
 Location "Nzoka Facula" "Sol/Mercury"
 {
 	LongLat	[ 194.70 15.40 0 ]
@@ -3465,7 +3167,6 @@ Location "Nzoka Facula" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Norse god.
-# Additional info: None
 Location "Odin Planitia" "Sol/Mercury"
 {
 	LongLat	[ 169.86 23.60 0 ]
@@ -3475,7 +3176,6 @@ Location "Odin Planitia" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 12, 2016
 # Origin: Maruyama; Japanese painter (1733-1795).
-# Additional info: None
 Location "Ōkyo" "Sol/Mercury"
 {
 	LongLat	[ 74.66 -70.05 0 ]
@@ -3485,7 +3185,6 @@ Location "Ōkyo" "Sol/Mercury"
 
 # Approval date: Apr 16, 2019; Last update: Apr 16, 2019
 # Origin: Swedish word for snake.
-# Additional info: None
 Location "Orm Faculae" "Sol/Mercury"
 {
 	LongLat	[ 59.68 26.58 0 ]
@@ -3495,7 +3194,6 @@ Location "Orm Faculae" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 12, 2016
 # Origin: John Milton; Cherokee author (1874-1947).
-# Additional info: None
 Location "Oskison" "Sol/Mercury"
 {
 	LongLat	[ 214.76 60.36 0 ]
@@ -3505,7 +3203,6 @@ Location "Oskison" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Arabic word for the planet Mercury.
-# Additional info: None
 Location "Otaared Planitia" "Sol/Mercury"
 {
 	LongLat	[ 337.61 18.26 0 ]
@@ -3515,7 +3212,6 @@ Location "Otaared Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Publius Ovidius Naso; Roman poet (43 B.C.-A.D. 17).
-# Additional info: None
 Location "Ovid" "Sol/Mercury"
 {
 	LongLat	[ 20.23 -69.77 0 ]
@@ -3525,7 +3221,6 @@ Location "Ovid" "Sol/Mercury"
 
 # Approval date: Apr 30, 2013; Last update: Oct 12, 2016
 # Origin: Ancient city in the Campania region of Italy.
-# Additional info: None
 Location "Paestum Vallis" "Sol/Mercury"
 {
 	LongLat	[ 233.96 60.28 0 ]
@@ -3535,7 +3230,6 @@ Location "Paestum Vallis" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Oct 12, 2016
 # Origin: Charles Phillip Kahahawai “Gabby”; Hawaiian musician (1921-1980).
-# Additional info: None
 Location "Pahinui" "Sol/Mercury"
 {
 	LongLat	[ 213.21 -28.16 0 ]
@@ -3545,7 +3239,6 @@ Location "Pahinui" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Oct 12, 2016
 # Origin: American; ice-breaking ship dedicated to scientific research and operated by the National Science Foundation for Antarctic scientific missions since 1992.
-# Additional info: None
 Location "Palmer Rupes" "Sol/Mercury"
 {
 	LongLat	[ 106.28 -26.07 0 ]
@@ -3555,7 +3248,6 @@ Location "Palmer Rupes" "Sol/Mercury"
 
 # Approval date: Apr 16, 2019; Last update: Apr 16, 2019
 # Origin: Tamil (SE India and NE Sri Lanka) word for snake. Another spelling is ‘pambu’.
-# Additional info: None
 Location "Pampu Facula" "Sol/Mercury"
 {
 	LongLat	[ 31.79 -57.76 0 ]
@@ -3565,7 +3257,6 @@ Location "Pampu Facula" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 12, 2016
 # Origin: Classic domed Roman building begun in 27 BC by Marcus Agrippa, and rebuilt by Hadrian between AD 118 and 128.
-# Additional info: None
 Location "Pantheon Fossae" "Sol/Mercury"
 {
 	LongLat	[ 197.17 30.19 0 ]
@@ -3575,7 +3266,6 @@ Location "Pantheon Fossae" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Akkadian messenger god.
-# Additional info: None
 Location "Papsukkal Planitia" "Sol/Mercury"
 {
 	LongLat	[ 271.63 -16.25 0 ]
@@ -3585,7 +3275,6 @@ Location "Papsukkal Planitia" "Sol/Mercury"
 
 # Approval date: Feb 12, 2014; Last update: Oct 12, 2016
 # Origin: English; research vessel of the Royal Navy used to study magnetism, longitude, and navigation problems, commanded by Edmond Halley from 1698 to 1699.
-# Additional info: None
 Location "Paramour Rupes" "Sol/Mercury"
 {
 	LongLat	[ 212.54 -0.08 0 ]
@@ -3595,7 +3284,6 @@ Location "Paramour Rupes" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 12, 2016
 # Origin: Ulrica Fredrica; Swedish painter (1735-1796).
-# Additional info: None
 Location "Pasch" "Sol/Mercury"
 {
 	LongLat	[ 225.25 46.12 0 ]
@@ -3614,7 +3302,6 @@ Location "PENTAS" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 12, 2016
 # Origin: Marius; French and Russian choreographer and dancer (1818-1910).
-# Additional info: None
 Location "Petipa" "Sol/Mercury"
 {
 	LongLat	[ 338.95 11.54 0 ]
@@ -3624,7 +3311,6 @@ Location "Petipa" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Mar 15, 2013
 # Origin: Sándor; Hungarian poet (1823-1849).
-# Additional info: None
 Location "Petőfi" "Sol/Mercury"
 {
 	LongLat	[ 240.65 -83.55 0 ]
@@ -3634,7 +3320,6 @@ Location "Petőfi" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Francesco; Italian poet (1304-1374).
-# Additional info: None
 Location "Petrarch" "Sol/Mercury"
 {
 	LongLat	[ 26.29 -30.52 0 ]
@@ -3644,7 +3329,6 @@ Location "Petrarch" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Aug 06, 2012
 # Origin: Gaius Petronius Arbiter; Roman author (d. 66 ).
-# Additional info: None
 Location "Petronius" "Sol/Mercury"
 {
 	LongLat	[ 40.51 86.06 0 ]
@@ -3663,7 +3347,6 @@ Location "PHAETHONTIAS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Greek sculptor (fl. c. 490-430 B.C.).
-# Additional info: None
 Location "Phidias" "Sol/Mercury"
 {
 	LongLat	[ 149.73 8.97 0 ]
@@ -3673,7 +3356,6 @@ Location "Phidias" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Greek lyric poet (436-380 B.C.).
-# Additional info: None
 Location "Philoxenus" "Sol/Mercury"
 {
 	LongLat	[ 111.75 -8.68 0 ]
@@ -3683,7 +3365,6 @@ Location "Philoxenus" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 12, 2016
 # Origin: Pablo; Spanish painter and sculptor (1881-1973).
-# Additional info: None
 Location "Picasso" "Sol/Mercury"
 {
 	LongLat	[ 309.76 3.44 0 ]
@@ -3693,7 +3374,6 @@ Location "Picasso" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Apr 01, 2020
 # Origin: Albedo name for H-10, Derain region.
-# Additional info: None
 Location "PIERIA" "Sol/Mercury"
 {
 	LongLat	[ 270.00 0.00 0 ]
@@ -3703,7 +3383,6 @@ Location "PIERIA" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Jean Baptiste; French sculptor (1714-1785).
-# Additional info: None
 Location "Pigalle" "Sol/Mercury"
 {
 	LongLat	[ 9.64 -37.65 0 ]
@@ -3713,7 +3392,6 @@ Location "Pigalle" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 12, 2016
 # Origin: Sylvia; American poet (1932-1963).
-# Additional info: None
 Location "Plath" "Sol/Mercury"
 {
 	LongLat	[ 38.84 37.86 0 ]
@@ -3733,7 +3411,6 @@ Location "PLEIAS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Chinese poet (772-846).
-# Additional info: None
 Location "Po Chü-I" "Sol/Mercury"
 {
 	LongLat	[ 165.28 -6.94 0 ]
@@ -3743,7 +3420,6 @@ Location "Po Chü-I" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 12, 2016
 # Origin: Edgar Allan; American poet, critic, editor and author (1809-1849).
-# Additional info: None
 Location "Poe" "Sol/Mercury"
 {
 	LongLat	[ 200.90 43.76 0 ]
@@ -3753,7 +3429,6 @@ Location "Poe" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Greek painter (c. 500-400 B.C.).
-# Additional info: None
 Location "Polygnotus" "Sol/Mercury"
 {
 	LongLat	[ 69.26 -0.13 0 ]
@@ -3763,7 +3438,6 @@ Location "Polygnotus" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Oct 12, 2016
 # Origin: Lyubov; Russian painter and designer (1889-1924).
-# Additional info: None
 Location "Popova" "Sol/Mercury"
 {
 	LongLat	[ 66.73 -34.72 0 ]
@@ -3782,7 +3456,6 @@ Location "Pourquoi-Pas Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: (8th century B.C.).
-# Additional info: None
 Location "Po Ya" "Sol/Mercury"
 {
 	LongLat	[ 20.17 -45.92 0 ]
@@ -3792,7 +3465,6 @@ Location "Po Ya" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 12, 2016
 # Origin: Greek sculptor (fl. 370-330 B.C.).
-# Additional info: None
 Location "Praxiteles" "Sol/Mercury"
 {
 	LongLat	[ 60.28 27.11 0 ]
@@ -3802,7 +3474,6 @@ Location "Praxiteles" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Aug 06, 2012
 # Origin: Sergey; Russian composer (1891-1953).
-# Additional info: None
 Location "Prokofiev" "Sol/Mercury"
 {
 	LongLat	[ 297.08 85.77 0 ]
@@ -3821,7 +3492,6 @@ Location "Protea Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Marcel; French novelist (1871-1922).
-# Additional info: None
 Location "Proust" "Sol/Mercury"
 {
 	LongLat	[ 47.59 19.56 0 ]
@@ -3831,7 +3501,6 @@ Location "Proust" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Giacomo; Italian composer (1858-1924).
-# Additional info: None
 Location "Puccini" "Sol/Mercury"
 {
 	LongLat	[ 45.32 -65.39 0 ]
@@ -3850,7 +3519,6 @@ Location "Purcell" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Alecksandr Sergeyevich; Russian poet (1799-1837).
-# Additional info: None
 Location "Pushkin" "Sol/Mercury"
 {
 	LongLat	[ 20.73 -65.79 0 ]
@@ -3860,7 +3528,6 @@ Location "Pushkin" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 12, 2016
 # Origin: Qi Baishi; Chinese painter (1864-1957).
-# Additional info: None
 Location "Qi Baishi" "Sol/Mercury"
 {
 	LongLat	[ 195.63 -4.31 0 ]
@@ -3870,7 +3537,6 @@ Location "Qi Baishi" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Oct 12, 2016
 # Origin: (Ch'iu Ying); Chinese painter (1494-1552).
-# Additional info: None
 Location "Qiu Ying" "Sol/Mercury"
 {
 	LongLat	[ 85.70 82.67 0 ]
@@ -3880,7 +3546,6 @@ Location "Qiu Ying" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Francois; French writer (c. 1483-1553).
-# Additional info: None
 Location "Rabelais" "Sol/Mercury"
 {
 	LongLat	[ 61.81 -60.53 0 ]
@@ -3890,7 +3555,6 @@ Location "Rabelais" "Sol/Mercury"
 
 # Approval date: Mar 18, 2010; Last update: Oct 12, 2016
 # Origin: Sergei V.; Russian composer, pianist, and conductor (1873-1943).
-# Additional info: None
 Location "Rachmaninoff" "Sol/Mercury"
 {
 	LongLat	[ 302.63 27.66 0 ]
@@ -3900,7 +3564,6 @@ Location "Rachmaninoff" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 12, 2016
 # Origin: Raden Saleh; Javanese painter (1807-1880).
-# Additional info: None
 Location "Raden Saleh" "Sol/Mercury"
 {
 	LongLat	[ 201.17 2.07 0 ]
@@ -3910,7 +3573,6 @@ Location "Raden Saleh" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 12, 2016
 # Origin: Leetile Disang; Botswanan playwright and poet (1910-1971).
-# Additional info: None
 Location "Raditladi" "Sol/Mercury"
 {
 	LongLat	[ 240.94 27.15 0 ]
@@ -3920,7 +3582,6 @@ Location "Raditladi" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Ya; Latvian poet (1865-1925).
-# Additional info: None
 Location "Rajnis" "Sol/Mercury"
 {
 	LongLat	[ 96.21 4.36 0 ]
@@ -3930,7 +3591,6 @@ Location "Rajnis" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Jean Philippe; French composer (1683-1764).
-# Additional info: None
 Location "Rameau" "Sol/Mercury"
 {
 	LongLat	[ 37.24 -54.58 0 ]
@@ -3940,7 +3600,6 @@ Location "Rameau" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 12, 2016
 # Origin: Raffaello Sanzio; Italian painter (1483-1520).
-# Additional info: None
 Location "Raphael" "Sol/Mercury"
 {
 	LongLat	[ 76.35 -20.42 0 ]
@@ -3950,7 +3609,6 @@ Location "Raphael" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 12, 2016
 # Origin: Maurice; French composer (1875-1937).
-# Additional info: None
 Location "Ravel" "Sol/Mercury"
 {
 	LongLat	[ 38.19 -12.01 0 ]
@@ -3960,7 +3618,6 @@ Location "Ravel" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Dec 16, 2013
 # Origin: Erich Maria; German author (1898-1970).
-# Additional info: None
 Location "Remarque" "Sol/Mercury"
 {
 	LongLat	[ 6.46 84.94 0 ]
@@ -3970,7 +3627,6 @@ Location "Remarque" "Sol/Mercury"
 
 # Approval date: Feb 27, 2009; Last update: Oct 13, 2016
 # Origin: Rembrandt Harmenszoon van Rijn; Dutch painter (1606-1669).
-# Additional info: None
 Location "Rembrandt" "Sol/Mercury"
 {
 	LongLat	[ 272.13 -32.89 0 ]
@@ -3980,7 +3636,6 @@ Location "Rembrandt" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Pierre Auguste; French painter (1841-1919).
-# Additional info: None
 Location "Renoir" "Sol/Mercury"
 {
 	LongLat	[ 52.01 -18.34 0 ]
@@ -3990,7 +3645,6 @@ Location "Renoir" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Ilya Yefimovich; Russian painter (1844-1930).
-# Additional info: None
 Location "Repin" "Sol/Mercury"
 {
 	LongLat	[ 63.33 -19.12 0 ]
@@ -4000,7 +3654,6 @@ Location "Repin" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: English; one of Cook's ships, second expedition to Pacific, 1772-75.
-# Additional info: None
 Location "Resolution Rupes" "Sol/Mercury"
 {
 	LongLat	[ 50.66 -63.25 0 ]
@@ -4010,7 +3663,6 @@ Location "Resolution Rupes" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: Tilman; German sculptor (c. 1460-1531).
-# Additional info: None
 Location "Riemenschneider" "Sol/Mercury"
 {
 	LongLat	[ 99.95 -52.75 0 ]
@@ -4020,7 +3672,6 @@ Location "Riemenschneider" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Jun 20, 2013
 # Origin: Sen no; Japanese tea master, designer of Japanese tea ceremony (1522-1591).
-# Additional info: None
 Location "Rikyū" "Sol/Mercury"
 {
 	LongLat	[ 22.74 79.91 0 ]
@@ -4030,7 +3681,6 @@ Location "Rikyū" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Rainer Maria; German poet (1875-1926).
-# Additional info: None
 Location "Rilke" "Sol/Mercury"
 {
 	LongLat	[ 12.57 -44.81 0 ]
@@ -4040,7 +3690,6 @@ Location "Rilke" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 13, 2016
 # Origin: Arthur; French poet (1854-1891).
-# Additional info: None
 Location "Rimbaud" "Sol/Mercury"
 {
 	LongLat	[ 148.90 -63.62 0 ]
@@ -4050,7 +3699,6 @@ Location "Rimbaud" "Sol/Mercury"
 
 # Approval date: Apr 30, 2015; Last update: Oct 13, 2016
 # Origin: Diego; Mexican painter (1886-1957).
-# Additional info: None
 Location "Rivera" "Sol/Mercury"
 {
 	LongLat	[ 327.82 69.29 0 ]
@@ -4060,7 +3708,6 @@ Location "Rivera" "Sol/Mercury"
 
 # Approval date: Sep 11, 2019; Last update: Sep 11, 2019
 # Origin: José, Filipino writer (1861 – 1896).
-# Additional info: None
 Location "Rizal" "Sol/Mercury"
 {
 	LongLat	[ 146.98 82.48 0 ]
@@ -4070,7 +3717,6 @@ Location "Rizal" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Auguste; French sculptor (1840-1917).
-# Additional info: None
 Location "Rodin" "Sol/Mercury"
 {
 	LongLat	[ 18.89 21.72 0 ]
@@ -4080,7 +3726,6 @@ Location "Rodin" "Sol/Mercury"
 
 # Approval date: Mar 15, 2013; Last update: Mar 15, 2013
 # Origin: Nicholas; Russian painter (1874-1947).
-# Additional info: None
 Location "Roerich" "Sol/Mercury"
 {
 	LongLat	[ 58.94 -84.39 0 ]
@@ -4090,7 +3735,6 @@ Location "Roerich" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: Peter Paul; Flemish painter (1577-1640).
-# Additional info: None
 Location "Rubens" "Sol/Mercury"
 {
 	LongLat	[ 77.99 60.58 0 ]
@@ -4100,7 +3744,6 @@ Location "Rubens" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Andrey; Russian painter (c. 1370-1430).
-# Additional info: None
 Location "Rublev" "Sol/Mercury"
 {
 	LongLat	[ 157.08 -15.12 0 ]
@@ -4110,7 +3753,6 @@ Location "Rublev" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Persian poet (c. 859-940/941).
-# Additional info: None
 Location "Rūdaki" "Sol/Mercury"
 {
 	LongLat	[ 51.76 -3.97 0 ]
@@ -4120,7 +3762,6 @@ Location "Rūdaki" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 13, 2016
 # Origin: Francois; French sculptor (1784-1855).
-# Additional info: None
 Location "Rude" "Sol/Mercury"
 {
 	LongLat	[ 79.29 -33.22 0 ]
@@ -4130,7 +3771,6 @@ Location "Rude" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 13, 2016
 # Origin: Jalal Ad-Din, also Mawlana; Persian poet and Sufi mystic (1207-1273).
-# Additional info: None
 Location "Rūmī" "Sol/Mercury"
 {
 	LongLat	[ 105.30 -24.20 0 ]
@@ -4140,7 +3780,6 @@ Location "Rūmī" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 13, 2016
 # Origin: Shota; Georgian poet (c. 1160-1216).
-# Additional info: None
 Location "Rustaveli" "Sol/Mercury"
 {
 	LongLat	[ 277.26 52.41 0 ]
@@ -4150,7 +3789,6 @@ Location "Rustaveli" "Sol/Mercury"
 
 # Approval date: Nov 22, 2013; Last update: Oct 13, 2016
 # Origin: Rachel; Netherland painter (1664-1750).
-# Additional info: None
 Location "Ruysch" "Sol/Mercury"
 {
 	LongLat	[ 265.88 -10.70 0 ]
@@ -4169,7 +3807,6 @@ Location "Sadī" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: Ihara; Japanese novelist and poet (1642-1693).
-# Additional info: None
 Location "Saikaku" "Sol/Mercury"
 {
 	LongLat	[ 177.97 71.96 0 ]
@@ -4179,7 +3816,6 @@ Location "Saikaku" "Sol/Mercury"
 
 # Approval date: Jun 23, 2014; Last update: Oct 13, 2016
 # Origin: Sanai of Ghazna, Abul Majd bin Majdud bin Adam; Persian poet (d. c. 1131).
-# Additional info: None
 Location "Sanai" "Sol/Mercury"
 {
 	LongLat	[ 6.99 -13.37 0 ]
@@ -4189,7 +3825,6 @@ Location "Sanai" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 13, 2016
 # Origin: August; German photographer (1876-1964).
-# Additional info: None
 Location "Sander" "Sol/Mercury"
 {
 	LongLat	[ 205.44 42.43 0 ]
@@ -4199,7 +3834,6 @@ Location "Sander" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Spanish; Columbus' flagship, first voyage to America, 1492.
-# Additional info: None
 Location "Santa María Rupes" "Sol/Mercury"
 {
 	LongLat	[ 20.00 5.81 0 ]
@@ -4209,7 +3843,6 @@ Location "Santa María Rupes" "Sol/Mercury"
 
 # Approval date: Nov 04, 2015; Last update: Nov 04, 2015
 # Origin: Mahananda; Nepalese poet (1896-1977).
-# Additional info: None
 Location "Sapkota" "Sol/Mercury"
 {
 	LongLat	[ 132.79 86.09 0 ]
@@ -4219,7 +3852,6 @@ Location "Sapkota" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: Domingo Faustino; Argentine writer (1811-1888).
-# Additional info: None
 Location "Sarmiento" "Sol/Mercury"
 {
 	LongLat	[ 189.58 -29.27 0 ]
@@ -4229,7 +3861,6 @@ Location "Sarmiento" "Sol/Mercury"
 
 # Approval date: Apr 16, 2019; Last update: Apr 16, 2019
 # Origin: Sinhalese (Sri Lanka) word for snake.
-# Additional info: None
 Location "Sarpa Facula" "Sol/Mercury"
 {
 	LongLat	[ 30.87 -53.07 0 ]
@@ -4239,7 +3870,6 @@ Location "Sarpa Facula" "Sol/Mercury"
 
 # Approval date: Nov 22, 2013; Last update: Oct 13, 2016
 # Origin: Augusta; American sculptor (1892-1962).
-# Additional info: None
 Location "Savage" "Sol/Mercury"
 {
 	LongLat	[ 266.59 -8.59 0 ]
@@ -4249,7 +3879,6 @@ Location "Savage" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: Aruthin Sayadian; Armenian/Georgian song writer (1712-1795).
-# Additional info: None
 Location "Sayat-Nova" "Sol/Mercury"
 {
 	LongLat	[ 122.70 -27.98 0 ]
@@ -4259,7 +3888,6 @@ Location "Sayat-Nova" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: Domenico (1685-1757) and Alessandro (1660-1725); Italian composers.
-# Additional info: None
 Location "Scarlatti" "Sol/Mercury"
 {
 	LongLat	[ 101.16 40.70 0 ]
@@ -4269,7 +3897,6 @@ Location "Scarlatti" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Giovanni V.; Italian astronomer (1835-1910).
-# Additional info: None
 Location "Schiaparelli Dorsum" "Sol/Mercury"
 {
 	LongLat	[ 164.30 23.26 0 ]
@@ -4279,7 +3906,6 @@ Location "Schiaparelli Dorsum" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Arnold; Austrian-American composer (1874-1951).
-# Additional info: None
 Location "Schoenberg" "Sol/Mercury"
 {
 	LongLat	[ 136.08 -16.06 0 ]
@@ -4289,7 +3915,6 @@ Location "Schoenberg" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Franz S.; Austrian composer (1797-1828).
-# Additional info: None
 Location "Schubert" "Sol/Mercury"
 {
 	LongLat	[ 54.26 -43.21 0 ]
@@ -4308,7 +3933,6 @@ Location "Scopas" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 13, 2016
 # Origin: Shonagun; Japanese diarist and poet (c. 966-1013).
-# Additional info: None
 Location "Sei" "Sol/Mercury"
 {
 	LongLat	[ 88.59 -64.61 0 ]
@@ -4318,7 +3942,6 @@ Location "Sei" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 13, 2016
 # Origin: Theodor Seuss Geisel; American author and cartoonist (1904-1991).
-# Additional info: None
 Location "Seuss" "Sol/Mercury"
 {
 	LongLat	[ 326.84 7.65 0 ]
@@ -4328,7 +3951,6 @@ Location "Seuss" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: William; English poet and dramatist (1564-1616).
-# Additional info: None
 Location "Shakespeare" "Sol/Mercury"
 {
 	LongLat	[ 152.25 48.10 0 ]
@@ -4338,7 +3960,6 @@ Location "Shakespeare" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 13, 2016
 # Origin: Percy Bysshe; English poet (1792-1822).
-# Additional info: None
 Location "Shelley" "Sol/Mercury"
 {
 	LongLat	[ 128.27 -47.69 0 ]
@@ -4348,7 +3969,6 @@ Location "Shelley" "Sol/Mercury"
 
 # Approval date: Nov 20, 2008; Last update: Oct 13, 2016
 # Origin: Amrita; Indian painter (1913-1941).
-# Additional info: None
 Location "Sher-Gil" "Sol/Mercury"
 {
 	LongLat	[ 225.26 -45.26 0 ]
@@ -4358,7 +3978,6 @@ Location "Sher-Gil" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Taras Hryhorovych; Ukrainian poet (1814-1861).
-# Additional info: None
 Location "Shevchenko" "Sol/Mercury"
 {
 	LongLat	[ 46.02 -53.64 0 ]
@@ -4368,7 +3987,6 @@ Location "Shevchenko" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: (Yakov Rabinowitz); Yiddish writer (1859-1916).
-# Additional info: None
 Location "Sholem Aleichem" "Sol/Mercury"
 {
 	LongLat	[ 90.48 50.92 0 ]
@@ -4378,7 +3996,6 @@ Location "Sholem Aleichem" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Jean; Finnish composer (1865-1957).
-# Additional info: None
 Location "Sibelius" "Sol/Mercury"
 {
 	LongLat	[ 145.37 -49.50 0 ]
@@ -4388,7 +4005,6 @@ Location "Sibelius" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Babylonian word for the planet Mercury.
-# Additional info: None
 Location "Sihtu Planitia" "Sol/Mercury"
 {
 	LongLat	[ 55.57 -2.82 0 ]
@@ -4398,7 +4014,6 @@ Location "Sihtu Planitia" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Greek lyric poet (556-468 B.C.).
-# Additional info: None
 Location "Simonides" "Sol/Mercury"
 {
 	LongLat	[ 44.85 -29.13 0 ]
@@ -4408,7 +4023,6 @@ Location "Simonides" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Joseph; Turkish architect (1489-1588).
-# Additional info: None
 Location "Sinan" "Sol/Mercury"
 {
 	LongLat	[ 30.59 15.46 0 ]
@@ -4418,7 +4032,6 @@ Location "Sinan" "Sol/Mercury"
 
 # Approval date: Apr 02, 2018; Last update: Apr 03, 2018
 # Origin: Afrikaans word for snake.
-# Additional info: None
 Location "Slang Faculae" "Sol/Mercury"
 {
 	LongLat	[ 179.30 24.50 0 ]
@@ -4428,7 +4041,6 @@ Location "Slang Faculae" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Bedrich; Czechoslovakian composer (1824-1884).
-# Additional info: None
 Location "Smetana" "Sol/Mercury"
 {
 	LongLat	[ 70.17 -48.25 0 ]
@@ -4438,7 +4050,6 @@ Location "Smetana" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Sturluson; Icelandic saga writer and poet (1179-1241).
-# Additional info: None
 Location "Snorri" "Sol/Mercury"
 {
 	LongLat	[ 83.24 -9.17 0 ]
@@ -4504,7 +4115,6 @@ Location "SOLITUDO ATLANTIS" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Apr 01, 2020
 # Origin: Albedo name for H-9, Eminescu region.
-# Additional info: None
 Location "SOLITUDO CRIOPHORI" "Sol/Mercury"
 {
 	LongLat	[ 230.00 0.00 0 ]
@@ -4586,7 +4196,6 @@ Location "SOLITUDO NEPTUNI" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Apr 01, 2020
 # Origin: Albedo name for H-13, Neruda region.
-# Additional info: None
 Location "SOLITUDO PERSEPHONES" "Sol/Mercury"
 {
 	LongLat	[ 225.00 -41.00 0 ]
@@ -4614,7 +4223,6 @@ Location "SOLITUDO PROMETHEI" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Greek dramatist (c. 496-406 B.C.).
-# Additional info: None
 Location "Sophocles" "Sol/Mercury"
 {
 	LongLat	[ 146.04 -6.95 0 ]
@@ -4624,7 +4232,6 @@ Location "Sophocles" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Ines de la Cruz; Mexican writer (1651-1695).
-# Additional info: None
 Location "Sor Juana" "Sol/Mercury"
 {
 	LongLat	[ 25.59 50.51 0 ]
@@ -4634,7 +4241,6 @@ Location "Sor Juana" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Natsume (Kinosaka); Japanese novelist (1867-1916).
-# Additional info: None
 Location "Sōseki" "Sol/Mercury"
 {
 	LongLat	[ 38.77 39.31 0 ]
@@ -4644,7 +4250,6 @@ Location "Sōseki" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Tawaraya; Japanese artist (1600-1643).
-# Additional info: None
 Location "Sōtatsu" "Sol/Mercury"
 {
 	LongLat	[ 18.17 -48.73 0 ]
@@ -4654,7 +4259,6 @@ Location "Sōtatsu" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 14, 2016
 # Origin: John Philip; American bandmaster and composer (1854-1932).
-# Additional info: None
 Location "Sousa" "Sol/Mercury"
 {
 	LongLat	[ 359.37 46.69 0 ]
@@ -4664,7 +4268,6 @@ Location "Sousa" "Sol/Mercury"
 
 # Approval date: Jun 10, 2019; Last update: Jun 10, 2019
 # Origin: Japanese; Japan’s first dedicated Antarctic research vessel (polar voyages in 1956-1962).
-# Additional info: None
 Location "Soya Rupes" "Sol/Mercury"
 {
 	LongLat	[ 293.37 -6.47 0 ]
@@ -4674,7 +4277,6 @@ Location "Soya Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Carl; Swiss epic poet (1845-1924).
-# Additional info: None
 Location "Spitteler" "Sol/Mercury"
 {
 	LongLat	[ 60.26 -69.18 0 ]
@@ -4684,7 +4286,6 @@ Location "Spitteler" "Sol/Mercury"
 
 # Approval date: Mar 03, 2010; Last update: Oct 14, 2016
 # Origin: Edward; American photographer and painter (1879-1973).
-# Additional info: None
 Location "Steichen" "Sol/Mercury"
 {
 	LongLat	[ 282.96 -12.79 0 ]
@@ -4694,7 +4295,6 @@ Location "Steichen" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 14, 2016
 # Origin: Robert Louis; Scottish author (1850-1894).
-# Additional info: None
 Location "Stevenson" "Sol/Mercury"
 {
 	LongLat	[ 143.88 2.05 0 ]
@@ -4704,7 +4304,6 @@ Location "Stevenson" "Sol/Mercury"
 
 # Approval date: Feb 27, 2012; Last update: Feb 27, 2012
 # Origin: Alfred; American photographer (1864-1946).
-# Additional info: None
 Location "Stieglitz" "Sol/Mercury"
 {
 	LongLat	[ 292.37 72.54 0 ]
@@ -4714,7 +4313,6 @@ Location "Stieglitz" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Ancient Greek word for the planet Mercury.
-# Additional info: None
 Location "Stilbon Planitia" "Sol/Mercury"
 {
 	LongLat	[ 209.61 57.54 0 ]
@@ -4724,7 +4322,6 @@ Location "Stilbon Planitia" "Sol/Mercury"
 
 # Approval date: Sep 11, 2019; Last update: Sep 16, 2019
 # Origin: Strauss family of musicians.
-# Additional info: None
 Location "Strauss" "Sol/Mercury"
 {
 	LongLat	[ 285.53 70.42 0 ]
@@ -4734,7 +4331,6 @@ Location "Strauss" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Igor Fyodorovich; Russian-born American composer (1882-1971).
-# Additional info: None
 Location "Stravinsky" "Sol/Mercury"
 {
 	LongLat	[ 78.90 51.95 0 ]
@@ -4744,7 +4340,6 @@ Location "Stravinsky" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: August; Swedish playwright, novelist, and short-story writer (1849-1912).
-# Additional info: None
 Location "Strindberg" "Sol/Mercury"
 {
 	LongLat	[ 136.67 53.41 0 ]
@@ -4754,7 +4349,6 @@ Location "Strindberg" "Sol/Mercury"
 
 # Approval date: Apr 02, 2018; Last update: Apr 03, 2018
 # Origin: Basque word for snake.
-# Additional info: None
 Location "Suge Facula" "Sol/Mercury"
 {
 	LongLat	[ 300.40 26.10 0 ]
@@ -4764,7 +4358,6 @@ Location "Suge Facula" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Japanese word for the planet Mercury.
-# Additional info: None
 Location "Suisei Planitia" "Sol/Mercury"
 {
 	LongLat	[ 147.81 60.88 0 ]
@@ -4783,7 +4376,6 @@ Location "Sullivan" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Indian poet (1483-1563).
-# Additional info: None
 Location "Sūr Dās" "Sol/Mercury"
 {
 	LongLat	[ 93.57 -46.98 0 ]
@@ -4793,7 +4385,6 @@ Location "Sūr Dās" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Vassily; Russian painter (1848-1916).
-# Additional info: None
 Location "Surikov" "Sol/Mercury"
 {
 	LongLat	[ 124.90 -36.98 0 ]
@@ -4812,7 +4403,6 @@ Location "Sveinsdóttir" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Fujiwara; Japanese poet and portrait artist (1142-1205).
-# Additional info: None
 Location "Takanobu" "Sol/Mercury"
 {
 	LongLat	[ 108.56 30.66 0 ]
@@ -4822,7 +4412,6 @@ Location "Takanobu" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Japanese painter (12th century).
-# Additional info: None
 Location "Takayoshi" "Sol/Mercury"
 {
 	LongLat	[ 163.82 -37.23 0 ]
@@ -4841,7 +4430,6 @@ Location "Tangaroa Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Indian (Mogul) composer from the court of Akbar.
-# Additional info: None
 Location "Tansen" "Sol/Mercury"
 {
 	LongLat	[ 71.67 4.11 0 ]
@@ -4851,7 +4439,6 @@ Location "Tansen" "Sol/Mercury"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: English; ship of discovery that took part in the Ross Antarctic expedition (1839-1843) and Franklin Arctic expedition (1845).
-# Additional info: None
 Location "Terror Rupes" "Sol/Mercury"
 {
 	LongLat	[ 275.69 -72.06 0 ]
@@ -4861,7 +4448,6 @@ Location "Terror Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: R.; Bengalese poet and novelist (also known as Tagore), Nobel Prize in literature in 1913 (1861-1941).
-# Additional info: None
 Location "Thākur" "Sol/Mercury"
 {
 	LongLat	[ 64.57 -3.05 0 ]
@@ -4871,7 +4457,6 @@ Location "Thākur" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Byzantine painter (c. 1330-1405).
-# Additional info: None
 Location "Theophanes" "Sol/Mercury"
 {
 	LongLat	[ 142.78 -5.02 0 ]
@@ -4881,7 +4466,6 @@ Location "Theophanes" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Henry David; American poet and philosopher (1817-1862).
-# Additional info: None
 Location "Thoreau" "Sol/Mercury"
 {
 	LongLat	[ 132.64 5.94 0 ]
@@ -4891,7 +4475,6 @@ Location "Thoreau" "Sol/Mercury"
 
 # Approval date: Apr 02, 2018; Last update: Apr 03, 2018
 # Origin: Arabic word for snake.
-# Additional info: None
 Location "Thueban Facula" "Sol/Mercury"
 {
 	LongLat	[ 200.50 48.70 0 ]
@@ -4901,7 +4484,6 @@ Location "Thueban Facula" "Sol/Mercury"
 
 # Approval date: Apr 30, 2013; Last update: Oct 14, 2016
 # Origin: Ancient city in Algeria.
-# Additional info: None
 Location "Timgad Vallis" "Sol/Mercury"
 {
 	LongLat	[ 243.56 60.88 0 ]
@@ -4911,7 +4493,6 @@ Location "Timgad Vallis" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Italian painter (1518-1594).
-# Additional info: None
 Location "Tintoretto" "Sol/Mercury"
 {
 	LongLat	[ 22.95 -47.99 0 ]
@@ -4931,7 +4512,6 @@ Location "Tir Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Tiziano Vecellio; Italian Renaissance painter (c. 1488/90-1576).
-# Additional info: None
 Location "Titian" "Sol/Mercury"
 {
 	LongLat	[ 42.53 -3.69 0 ]
@@ -4941,7 +4521,6 @@ Location "Titian" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Aug 06, 2012
 # Origin: John Ronald Reuel; English author and philologist (1892-1973).
-# Additional info: None
 Location "Tolkien" "Sol/Mercury"
 {
 	LongLat	[ 211.08 88.82 0 ]
@@ -4951,7 +4530,6 @@ Location "Tolkien" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Lev N.; Russian novelist (1828-1910).
-# Additional info: None
 Location "Tolstoj" "Sol/Mercury"
 {
 	LongLat	[ 164.64 -16.23 0 ]
@@ -4961,7 +4539,6 @@ Location "Tolstoj" "Sol/Mercury"
 
 # Approval date: Jul 09, 2009; Last update: Oct 14, 2016
 # Origin: To Ngoc Van; Vietnamese painter (1906-1954).
-# Additional info: None
 Location "To Ngoc Van" "Sol/Mercury"
 {
 	LongLat	[ 111.70 52.49 0 ]
@@ -4971,7 +4548,6 @@ Location "To Ngoc Van" "Sol/Mercury"
 
 # Approval date: Oct 19, 2018; Last update: Oct 19, 2018
 # Origin: Pamela Lyndon (born Helen Lyndon Goff); Australian-born British writer best known for Mary Poppins series of children’s books (1899-1996).
-# Additional info: None
 Location "Travers" "Sol/Mercury"
 {
 	LongLat	[ 329.10 -28.00 0 ]
@@ -4990,7 +4566,6 @@ Location "TRICRENA" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Aug 06, 2012
 # Origin: Nína (Jónína) ; Icelandic artist (1913-1968).
-# Additional info: None
 Location "Tryggvadóttir" "Sol/Mercury"
 {
 	LongLat	[ 171.56 89.55 0 ]
@@ -5000,7 +4575,6 @@ Location "Tryggvadóttir" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Han dynasty composer (second century A.D.).
-# Additional info: None
 Location "Ts'ai Wen-Chi" "Sol/Mercury"
 {
 	LongLat	[ 23.15 23.47 0 ]
@@ -5010,7 +4584,6 @@ Location "Ts'ai Wen-Chi" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Chinese writer (c. 1715-1763).
-# Additional info: None
 Location "Ts'ao Chan" "Sol/Mercury"
 {
 	LongLat	[ 142.35 -13.31 0 ]
@@ -5020,7 +4593,6 @@ Location "Ts'ao Chan" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Ki (Kino); noted Japanese man of letters (c. 945).
-# Additional info: None
 Location "Tsurayuki" "Sol/Mercury"
 {
 	LongLat	[ 20.34 -62.99 0 ]
@@ -5039,7 +4611,6 @@ Location "Tung Yüan" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Ivan Sergeyevich; Russian writer (1818-1883).
-# Additional info: None
 Location "Turgenev" "Sol/Mercury"
 {
 	LongLat	[ 136.26 65.68 0 ]
@@ -5049,7 +4620,6 @@ Location "Turgenev" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Etruscan messenger god equivalent of Roman god Mercury.
-# Additional info: None
 Location "Turms Planitia" "Sol/Mercury"
 {
 	LongLat	[ 350.81 -31.05 0 ]
@@ -5059,7 +4629,6 @@ Location "Turms Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Indian composer (1767-1847).
-# Additional info: None
 Location "Tyagaraja" "Sol/Mercury"
 {
 	LongLat	[ 148.90 3.89 0 ]
@@ -5069,7 +4638,6 @@ Location "Tyagaraja" "Sol/Mercury"
 
 # Approval date: Apr 16, 2019; Last update: Apr 16, 2019
 # Origin: Malay word for snake.
-# Additional info: None
 Location "Ular Facula" "Sol/Mercury"
 {
 	LongLat	[ 29.95 -55.10 0 ]
@@ -5079,7 +4647,6 @@ Location "Ular Facula" "Sol/Mercury"
 
 # Approval date: Jan 30, 2016; Last update: Oct 07, 2016
 # Origin: English vessel which took Edmond Halley to Saint Helena in 1676 to conduct a survey of the stars in the southern hemisphere. While there, Halley observed the 1677 transit of Mercury which enabled him to make one of the earliest calculations to estimate the size of the solar system.
-# Additional info: None
 Location "Unity Rupes" "Sol/Mercury"
 {
 	LongLat	[ 275.20 27.16 0 ]
@@ -5089,7 +4656,6 @@ Location "Unity Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Japanese sculptor (c. 1148-1223).
-# Additional info: None
 Location "Unkei" "Sol/Mercury"
 {
 	LongLat	[ 62.60 -31.79 0 ]
@@ -5099,7 +4665,6 @@ Location "Unkei" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Turkish/Persian architect (17th century).
-# Additional info: None
 Location "Ustad Isa" "Sol/Mercury"
 {
 	LongLat	[ 166.11 -31.91 0 ]
@@ -5109,7 +4674,6 @@ Location "Ustad Isa" "Sol/Mercury"
 
 # Approval date: Mar 14, 2017; Last update: Mar 14, 2017
 # Origin: Swahili (E. Africa) name for the planet Mercury.
-# Additional info: None
 Location "Utaridi Planitia" "Sol/Mercury"
 {
 	LongLat	[ 270.17 -65.50 0 ]
@@ -5119,7 +4683,6 @@ Location "Utaridi Planitia" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Sanskrit poet, author of the Ramayala (1st century B.C.).
-# Additional info: None
 Location "Vālmiki" "Sol/Mercury"
 {
 	LongLat	[ 141.41 -23.58 0 ]
@@ -5129,7 +4692,6 @@ Location "Vālmiki" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Anthony; Flemish painter (1599-1641).
-# Additional info: None
 Location "Van Dijck" "Sol/Mercury"
 {
 	LongLat	[ 166.63 75.80 0 ]
@@ -5139,7 +4701,6 @@ Location "Van Dijck" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Jan; Flemish painter (c. 1395-1441).
-# Additional info: None
 Location "Van Eyck" "Sol/Mercury"
 {
 	LongLat	[ 159.43 43.22 0 ]
@@ -5149,7 +4710,6 @@ Location "Van Eyck" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Vincent Willem; Dutch painter (1853-1890).
-# Additional info: None
 Location "van Gogh" "Sol/Mercury"
 {
 	LongLat	[ 138.68 -76.88 0 ]
@@ -5159,7 +4719,6 @@ Location "van Gogh" "Sol/Mercury"
 
 # Approval date: Jun 18, 2013; Last update: Oct 14, 2016
 # Origin: Raja Ravi; Indian painter (1848-1906).
-# Additional info: None
 Location "Varma" "Sol/Mercury"
 {
 	LongLat	[ 18.97 80.04 0 ]
@@ -5169,7 +4728,6 @@ Location "Varma" "Sol/Mercury"
 
 # Approval date: Jun 30, 2020; Last update: Jul 01, 2020
 # Origin: Ivan, Bulgarian poet (1850-1921).
-# Additional info: None
 Location "Vazov" "Sol/Mercury"
 {
 	LongLat	[ 212.33 -65.40 0 ]
@@ -5179,7 +4737,6 @@ Location "Vazov" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Diego; Spanish painter (1599-1660).
-# Additional info: None
 Location "Velázquez" "Sol/Mercury"
 {
 	LongLat	[ 55.43 37.59 0 ]
@@ -5189,7 +4746,6 @@ Location "Velázquez" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Giuseppe; Italian composer (1813-1901).
-# Additional info: None
 Location "Verdi" "Sol/Mercury"
 {
 	LongLat	[ 169.71 64.36 0 ]
@@ -5199,7 +4755,6 @@ Location "Verdi" "Sol/Mercury"
 
 # Approval date: Jun 28, 2021; Last update: Jun 29, 2021
 # Origin: Paolo; Italian Renaissance painter (1528-1588).
-# Additional info: None
 Location "Veronese" "Sol/Mercury"
 {
 	LongLat	[ 55.95 5.30 0 ]
@@ -5209,7 +4764,6 @@ Location "Veronese" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Spanish; Magellan's and Del Cano's ship, first voyage around the world.
-# Additional info: None
 Location "Victoria Rupes" "Sol/Mercury"
 {
 	LongLat	[ 34.16 52.71 0 ]
@@ -5219,7 +4773,6 @@ Location "Victoria Rupes" "Sol/Mercury"
 
 # Approval date: Dec 16, 2013; Last update: Oct 14, 2016
 # Origin: Maria Elena; Portuguese-born French painter (1908-1992).
-# Additional info: None
 Location "Vieira da Silva" "Sol/Mercury"
 {
 	LongLat	[ 123.41 1.54 0 ]
@@ -5229,7 +4782,6 @@ Location "Vieira da Silva" "Sol/Mercury"
 
 # Approval date: Sep 25, 2015; Last update: Oct 14, 2016
 # Origin: Heitor; Brazilian composer (1887-1959).
-# Additional info: None
 Location "Villa-Lobos" "Sol/Mercury"
 {
 	LongLat	[ 353.21 5.27 0 ]
@@ -5239,7 +4791,6 @@ Location "Villa-Lobos" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Gil; Portuguese dramatist (c. 1465-1537).
-# Additional info: None
 Location "Vincente" "Sol/Mercury"
 {
 	LongLat	[ 142.96 -56.75 0 ]
@@ -5249,7 +4800,6 @@ Location "Vincente" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Antonio; Italian composer (1678-1741).
-# Additional info: None
 Location "Vivaldi" "Sol/Mercury"
 {
 	LongLat	[ 85.92 13.76 0 ]
@@ -5259,7 +4809,6 @@ Location "Vivaldi" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Maurice de; French painter (1876-1958).
-# Additional info: None
 Location "Vlaminck" "Sol/Mercury"
 {
 	LongLat	[ 13.51 28.48 0 ]
@@ -5269,7 +4818,6 @@ Location "Vlaminck" "Sol/Mercury"
 
 # Approval date: Aug 04, 2017; Last update: Aug 04, 2017
 # Origin: Kurt; American writer (1922-2007).
-# Additional info: None
 Location "Vonnegut" "Sol/Mercury"
 {
 	LongLat	[ 249.91 82.72 0 ]
@@ -5279,7 +4827,6 @@ Location "Vonnegut" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Russian; Bellingshausen's ship for Antarctic exploration, 1819-21.
-# Additional info: None
 Location "Vostok Rupes" "Sol/Mercury"
 {
 	LongLat	[ 19.60 -37.88 0 ]
@@ -5289,7 +4836,6 @@ Location "Vostok Rupes" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Indian poet (fl. 1500 B.C.).
-# Additional info: None
 Location "Vyāsa" "Sol/Mercury"
 {
 	LongLat	[ 84.62 49.79 0 ]
@@ -5299,7 +4845,6 @@ Location "Vyāsa" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Richard; German composer (1813-1883).
-# Additional info: None
 Location "Wagner" "Sol/Mercury"
 {
 	LongLat	[ 114.78 -68.25 0 ]
@@ -5309,7 +4854,6 @@ Location "Wagner" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Chinese painter (1308-1385).
-# Additional info: None
 Location "Wang Meng" "Sol/Mercury"
 {
 	LongLat	[ 104.12 8.53 0 ]
@@ -5319,7 +4863,6 @@ Location "Wang Meng" "Sol/Mercury"
 
 # Approval date: Apr 24, 2012; Last update: Oct 14, 2016
 # Origin: Andy, American artist (1928-1987).
-# Additional info: None
 Location "Warhol" "Sol/Mercury"
 {
 	LongLat	[ 6.27 -2.55 0 ]
@@ -5329,7 +4872,6 @@ Location "Warhol" "Sol/Mercury"
 
 # Approval date: Dec 19, 2012; Last update: Oct 14, 2016
 # Origin: McKinley Morganfield (“;Muddy“;); American musician (1915-1983).
-# Additional info: None
 Location "Waters" "Sol/Mercury"
 {
 	LongLat	[ 105.45 -8.96 0 ]
@@ -5339,7 +4881,6 @@ Location "Waters" "Sol/Mercury"
 
 # Approval date: Jun 30, 2020; Last update: Jul 01, 2020
 # Origin: Wen Tianxiang; Chinese writer and poet (1236-1283).
-# Additional info: None
 Location "Wen Tianxiang" "Sol/Mercury"
 {
 	LongLat	[ 191.60 -45.34 0 ]
@@ -5349,7 +4890,6 @@ Location "Wen Tianxiang" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Henrik Arnold; Norwegian poet (1808-1845).
-# Additional info: None
 Location "Wergeland" "Sol/Mercury"
 {
 	LongLat	[ 56.36 -37.93 0 ]
@@ -5359,7 +4899,6 @@ Location "Wergeland" "Sol/Mercury"
 
 # Approval date: 1985; Last update: Oct 14, 2016
 # Origin: Walter; American poet (1819-1892).
-# Additional info: None
 Location "Whitman" "Sol/Mercury"
 {
 	LongLat	[ 111.64 41.40 0 ]
@@ -5369,7 +4908,6 @@ Location "Whitman" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Christopher; English architect (1632-1723).
-# Additional info: None
 Location "Wren" "Sol/Mercury"
 {
 	LongLat	[ 35.95 24.84 0 ]
@@ -5379,7 +4917,6 @@ Location "Wren" "Sol/Mercury"
 
 # Approval date: Apr 08, 2008; Last update: Oct 14, 2016
 # Origin: Chinese painter (active 1130-1162).
-# Additional info: None
 Location "Xiao Zhao" "Sol/Mercury"
 {
 	LongLat	[ 236.16 10.58 0 ]
@@ -5398,7 +4935,6 @@ Location "Xuelong Rupes" "Sol/Mercury"
 
 # Approval date: Nov 04, 2015; Last update: Nov 04, 2015
 # Origin: Kosaku; Japanese composer and conductor (1886-1965).
-# Additional info: None
 Location "Yamada" "Sol/Mercury"
 {
 	LongLat	[ 223.84 82.54 0 ]
@@ -5408,7 +4944,6 @@ Location "Yamada" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: William Butler; Irish poet and dramatist (1865-1939).
-# Additional info: None
 Location "Yeats" "Sol/Mercury"
 {
 	LongLat	[ 35.03 9.44 0 ]
@@ -5427,7 +4962,6 @@ Location "Yelcho Rupes" "Sol/Mercury"
 
 # Approval date: Jun 01, 2020; Last update: Jul 01, 2020
 # Origin: Chinese word for silver snake.
-# Additional info: None
 Location "Yinshe Facula" "Sol/Mercury"
 {
 	LongLat	[ 191.22 -46.32 0 ]
@@ -5437,7 +4971,6 @@ Location "Yinshe Facula" "Sol/Mercury"
 
 # Approval date: Aug 06, 2012; Last update: Aug 06, 2012
 # Origin: Hidetsugu (Eiji); Japanese novelist (1892-1962).
-# Additional info: None
 Location "Yoshikawa" "Sol/Mercury"
 {
 	LongLat	[ 253.97 81.21 0 ]
@@ -5447,7 +4980,6 @@ Location "Yoshikawa" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Korean poet (1587-1671).
-# Additional info: None
 Location "Yun Sǒn-Do" "Sol/Mercury"
 {
 	LongLat	[ 110.08 -73.49 0 ]
@@ -5466,7 +4998,6 @@ Location "Zapiola Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: USSR; Motor-sail schooner to study Earth's magnetic field, 1953.
-# Additional info: None
 Location "Zarya Rupes" "Sol/Mercury"
 {
 	LongLat	[ 20.42 -42.73 0 ]
@@ -5476,7 +5007,6 @@ Location "Zarya Rupes" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Motokiyo; Japanese dramatist and playwright (c. 1363-1443).
-# Additional info: None
 Location "Zeami" "Sol/Mercury"
 {
 	LongLat	[ 147.41 -2.96 0 ]
@@ -5486,7 +5016,6 @@ Location "Zeami" "Sol/Mercury"
 
 # Approval date: 1976; Last update: Oct 14, 2016
 # Origin: Dutch; one of Tasman's ships to explore Australia, New Zealand, 1642-43.
-# Additional info: None
 Location "Zeehaen Rupes" "Sol/Mercury"
 {
 	LongLat	[ 158.15 49.64 0 ]
@@ -5496,7 +5025,6 @@ Location "Zeehaen Rupes" "Sol/Mercury"
 
 # Approval date: Jun 01, 2020; Last update: Jul 01, 2020
 # Origin: Serbian word for snake.
-# Additional info: None
 Location "Zmija Facula" "Sol/Mercury"
 {
 	LongLat	[ 267.75 -37.35 0 ]
@@ -5506,7 +5034,6 @@ Location "Zmija Facula" "Sol/Mercury"
 
 # Approval date: 1979; Last update: Oct 14, 2016
 # Origin: Emile; French novelist (1840-1902).
-# Additional info: None
 Location "Zola" "Sol/Mercury"
 {
 	LongLat	[ 178.25 49.75 0 ]

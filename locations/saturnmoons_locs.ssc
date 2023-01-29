@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # 2 locations on Epimetheus.
@@ -453,7 +453,6 @@ Location "Uther" "Sol/Saturn/Mimas"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Youngest son; brings father a magic apple; marries the Genie Peri Banu.
-# Additional info: None
 Location "Ahmad" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 310.02 57.87 0 ]
@@ -463,7 +462,6 @@ Location "Ahmad" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Brother of Gharib in the tale “;The History of Gharib and His Brother Ajib.“;
-# Additional info: None
 Location "Ajib" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 239.39 61.68 0 ]
@@ -473,7 +471,6 @@ Location "Ajib" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Hero of the tale; he has the magic lamp.
-# Additional info: None
 Location "Aladdin" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 22.14 62.69 0 ]
@@ -483,7 +480,6 @@ Location "Aladdin" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: The barber's first brother in “;The Hunchback’s Tale.“;
-# Additional info: None
 Location "Al-Bakbuk" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 191.62 5.26 0 ]
@@ -502,7 +498,6 @@ Location "Alexandria Sulcus" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: The barber's third brother in “;The Hunchback’s Tale.“;
-# Additional info: None
 Location "Al-Fakik" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 306.55 35.52 0 ]
@@ -512,7 +507,6 @@ Location "Al-Fakik" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: The barber's second brother in “;The Hunchback’s Tale.“;
-# Additional info: None
 Location "Al-Haddar" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 200.78 50.48 0 ]
@@ -522,7 +516,6 @@ Location "Al-Haddar" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Hero of tale who found a great treasure owned by 40 thieves.
-# Additional info: None
 Location "Ali Baba" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 17.51 56.84 0 ]
@@ -532,7 +525,6 @@ Location "Ali Baba" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: The barber’s fourth brother in “The Hunchback’s Tale.”
-# Additional info: None
 Location "Al-Kuz" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 178.66 -18.88 0 ]
@@ -551,7 +543,6 @@ Location "Al-Medinah Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Father of benevolent prince Al-Mustansir in “;The Hunchback’s Tale.“;
-# Additional info: None
 Location "Al-Mustazi" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 201.75 -21.09 0 ]
@@ -588,7 +579,6 @@ Location "Andalús Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Damascus merchant, father of Ghanim and Fitnah in the “;Tale of Ghanim Bin Ayyub, the Distraught, the Thrall O’ Love.“;
-# Additional info: None
 Location "Ayyub" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 295.02 38.58 0 ]
@@ -598,7 +588,6 @@ Location "Ayyub" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Man betrothed to his cousin Azizah in “;The tale of Aziz and Azizah.“;
-# Additional info: None
 Location "Aziz" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 348.49 17.73 0 ]
@@ -617,7 +606,6 @@ Location "Baghdad Sulcus" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Oldest Prince, brother of Parwez and Perizadah in the tale “;The Two Sisters Who Envied Their Cadette.“;
-# Additional info: None
 Location "Bahman" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 61.37 14.70 0 ]
@@ -636,7 +624,6 @@ Location "Bassorah Fossa" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Son of a Persian king in the tale “;Prince Behram and the Princess Al-Datma.“;
-# Additional info: None
 Location "Behram" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 181.49 -15.43 0 ]
@@ -655,7 +642,6 @@ Location "Bishangarh Fossae" "Sol/Saturn/Enceladus"
 
 # Approval date: Feb 04, 2010; Last update: Nov 26, 2014
 # Origin: Place in the tale “;Story of the Chief of the Bulak Police.“;
-# Additional info: None
 Location "Bulak Sulcus" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 109.32 16.67 0 ]
@@ -701,7 +687,6 @@ Location "Cufa Dorsa" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Crafty old crone who fools several men.
-# Additional info: None
 Location "Dalilah" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 249.65 51.55 0 ]
@@ -738,7 +723,6 @@ Location "Diyar Planitia" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Sage who cured King Yunan of leprosy.
-# Additional info: None
 Location "Duban" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 281.26 58.07 0 ]
@@ -748,7 +732,6 @@ Location "Duban" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Sister of Shahrazad.
-# Additional info: None
 Location "Dunyazad" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 202.04 41.51 0 ]
@@ -767,7 +750,6 @@ Location "Ebony Dorsum" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Daughter of Ayyub, sister of Ghanim in the “;Tale of Ghanim Bin Ayyub, the Distraught, the Thrall O’ Love.“;
-# Additional info: None
 Location "Fitnah" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 289.99 45.39 0 ]
@@ -777,7 +759,6 @@ Location "Fitnah" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Son of  Ayyub, brother of Fitnah in the “;Tale of Ghanim Bin Ayyub, the Distraught, the Thrall O’Love.“;
-# Additional info: None
 Location "Ghanim" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 280.78 38.74 0 ]
@@ -814,7 +795,6 @@ Location "Harran Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Harun al-Rashid; Caliph in many tales, for example “;Harun Al-Rashid and the Two Slave-Girls.“;
-# Additional info: None
 Location "Harun" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 225.74 36.47 0 ]
@@ -824,7 +804,6 @@ Location "Harun" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Character in the tale “;Hassan of Bassorah.“;
-# Additional info: None
 Location "Hassan" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 188.91 -31.57 0 ]
@@ -834,7 +813,6 @@ Location "Hassan" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Caliph in the tale “;The Caliph Hisham and the Arab Youth.“;
-# Additional info: None
 Location "Hisham" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 280.41 48.25 0 ]
@@ -853,7 +831,6 @@ Location "Isbanir Fossa" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Character in the tale “;Isaac of Mosul and the Merchant.“;
-# Additional info: None
 Location "Ishak" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 225.02 47.60 0 ]
@@ -863,7 +840,6 @@ Location "Ishak" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Vizier of Harun al-Rashid in the tale “;Nur al-Din Ali and the Damsel Anis al-Jalis.“;
-# Additional info: None
 Location "Ja’afar" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 337.56 34.60 0 ]
@@ -873,7 +849,6 @@ Location "Ja’afar" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Female hero in “;The Story of Jansha.“;
-# Additional info: None
 Location "Jansha" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 157.40 -30.65 0 ]
@@ -883,7 +858,6 @@ Location "Jansha" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: The seaborn; heroine of nights 738 to 756.
-# Additional info: None
 Location "Julnar" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 347.09 53.76 0 ]
@@ -893,7 +867,6 @@ Location "Julnar" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Kamar al-Akmár; Prince, son of Sabur (King of Persia) in the tale “;The Ebony Horse.“;
-# Additional info: None
 Location "Kamar" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 32.25 -40.62 0 ]
@@ -903,7 +876,6 @@ Location "Kamar" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: The greedy brother of Ali Baba in the tale “;Ali Baba and the Forty Thieves.“;
-# Additional info: None
 Location "Kasim" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 173.05 42.35 0 ]
@@ -931,7 +903,6 @@ Location "Khorasan Fossa" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: King, husband of Shirin in the tale “;Khusrau and Shirin and the Fisherman.“;
-# Additional info: None
 Location "Khusrau" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 185.86 -4.10 0 ]
@@ -959,7 +930,6 @@ Location "Láhej Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Hero in the tale “;Ma'aruf the Cobbler and His Wife Fatimah.“;
-# Additional info: None
 Location "Ma’aruf" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 333.58 -37.16 0 ]
@@ -978,7 +948,6 @@ Location "Makran Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Queen in the “;Tale of Kamar Al-Zaman.“;
-# Additional info: None
 Location "Marjanah" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 303.01 38.20 0 ]
@@ -988,7 +957,6 @@ Location "Marjanah" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Eunuch sworder in the tale “;Nur al-Din Ali and the Damsel Anis al-Jalis.“;
-# Additional info: None
 Location "Masrur" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 294.27 66.27 0 ]
@@ -1007,7 +975,6 @@ Location "Misr Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Clever slave girl in the tale “;Ali Baba and the Forty Thieves.“;
-# Additional info: None
 Location "Morgiana" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 196.17 31.75 0 ]
@@ -1026,7 +993,6 @@ Location "Mosul Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Goes to get the vessels that contain Jinni in “;The City of Brass“;.
-# Additional info: None
 Location "Musa" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 11.59 73.85 0 ]
@@ -1036,7 +1002,6 @@ Location "Musa" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Old tailor in the tale “;Aladdin; or The Wonderful Lamp.“;
-# Additional info: None
 Location "Mustafa" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 184.95 -30.76 0 ]
@@ -1046,7 +1011,6 @@ Location "Mustafa" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Great king, father of Sharrkan and Zau al-Makán in “;The Tale of King Omar and his Sons.“;
-# Additional info: None
 Location "Omar" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 273.97 17.89 0 ]
@@ -1056,7 +1020,6 @@ Location "Omar" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 28, 2014
 # Origin: Figure in the tale “;Otbah and Rayya.“;
-# Additional info: None
 Location "Otbah" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 159.80 -40.03 0 ]
@@ -1066,7 +1029,6 @@ Location "Otbah" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 28, 2014
 # Origin: Second prince, brother of Bahman and Perizadah in the tale “;The Two Sisters Who Envied Their Cadette.“;
-# Additional info: None
 Location "Parwez" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 25.56 22.95 0 ]
@@ -1076,7 +1038,6 @@ Location "Parwez" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 28, 2014
 # Origin: Genie who marries Ahmad and helps him fulfill the demands of his father.
-# Additional info: None
 Location "Peri-Banu" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 319.14 62.04 0 ]
@@ -1086,7 +1047,6 @@ Location "Peri-Banu" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 29, 2014
 # Origin: Youngest princess, sister of Bahman and Parwez in the tale “;The Two Sisters Who Envied Their Cadette.“;
-# Additional info: None
 Location "Perizadah" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 155.11 -21.12 0 ]
@@ -1096,7 +1056,6 @@ Location "Perizadah" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Aug 29, 2014
 # Origin: Female character in the tale “;Otbah and Rayya.“;
-# Additional info: None
 Location "Rayya" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 178.88 -32.41 0 ]
@@ -1106,7 +1065,6 @@ Location "Rayya" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Aug 29, 2014
 # Origin: King of Persia and father of Kamar in the tale “;The Ebony Horse.“;
-# Additional info: None
 Location "Sabur" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 296.18 -23.90 0 ]
@@ -1126,7 +1084,6 @@ Location "Salih" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 29, 2014
 # Origin: Shayk who guides Musa and Talib to the mountains in “;The City of Brass“;.
-# Additional info: None
 Location "Samad" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 1.23 61.69 0 ]
@@ -1164,7 +1121,6 @@ Location "Sarandib Planitia" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Aug 29, 2014
 # Origin: Heroine who tells King Shahryar “;The Tales of a Thousand Nights“;.
-# Additional info: None
 Location "Shahrazad" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 201.60 46.50 0 ]
@@ -1174,7 +1130,6 @@ Location "Shahrazad" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Nov 06, 2014
 # Origin: King whom Shahrazad beguiles with the tales of a thousand nights and a night.
-# Additional info: None
 Location "Shahryar" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 226.69 57.71 0 ]
@@ -1184,7 +1139,6 @@ Location "Shahryar" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Nov 06, 2014
 # Origin: The barber's sixth brother in “;The Hunchback’s Tale.“;
-# Additional info: None
 Location "Shakashik" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 181.26 -17.59 0 ]
@@ -1194,7 +1148,6 @@ Location "Shakashik" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Nov 06, 2014
 # Origin: Son of the great King Omar in “;The Tale of King Omar and his Sons.“;
-# Additional info: None
 Location "Sharrkan" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 301.91 16.42 0 ]
@@ -1213,7 +1166,6 @@ Location "Shiraz Sulcus" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Nov 06, 2014
 # Origin: Wife of King Khusrau in the tale “;Khusrau and Shirin and the Fisherman.“;
-# Additional info: None
 Location "Shirin" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 172.82 -2.27 0 ]
@@ -1223,7 +1175,6 @@ Location "Shirin" "Sol/Saturn/Enceladus"
 
 # Approval date: 1982; Last update: Nov 06, 2014
 # Origin: Voyager who had many marvelous adventures on seven voyages.
-# Additional info: None
 Location "Sindbad" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 211.61 66.97 0 ]
@@ -1242,7 +1193,6 @@ Location "Sind Sulci" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Nov 06, 2014
 # Origin: Fictional king of Persian city in the tale “;The Tale of the Vizier and the Sage Duban.“;
-# Additional info: None
 Location "Yunan" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 285.79 53.95 0 ]
@@ -1252,7 +1202,6 @@ Location "Yunan" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 17, 2009; Last update: Nov 06, 2014
 # Origin: Daughter of Dalilah in the tale “;The Rogueries of Dalilah the Crafty and Her Daughter Zaynab the Coney-Catcher.“;
-# Additional info: None
 Location "Zaynab" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 26.97 69.52 0 ]
@@ -1262,7 +1211,6 @@ Location "Zaynab" "Sol/Saturn/Enceladus"
 
 # Approval date: Nov 07, 2006; Last update: Nov 06, 2014
 # Origin: Female character in the tale “;Ali Shar and Zumurrud.“;
-# Additional info: None
 Location "Zumurrud" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 182.05 -22.23 0 ]
@@ -1783,7 +1731,6 @@ Location "Aeneas" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A Trojan defending Aeneas’ camp against the Rutulians, killed by Turnus.
-# Additional info: None
 Location "Alcander" "Sol/Saturn/Dione"
 {
 	LongLat	[ 295.49 -52.89 0 ]
@@ -1857,7 +1804,6 @@ Location "Antenor" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A district of Rome near the Forum.
-# Additional info: None
 Location "Argiletum Fossae" "Sol/Saturn/Dione"
 {
 	LongLat	[ 32.10 65.18 0 ]
@@ -1867,7 +1813,6 @@ Location "Argiletum Fossae" "Sol/Saturn/Dione"
 
 # Approval date: Mar 17, 2008; Last update: Feb 25, 2011
 # Origin: Town in Apulia (now Puglia, southern Italy) founded after the Trojan war by Diomedes.
-# Additional info: None
 Location "Arpi Fossae" "Sol/Saturn/Dione"
 {
 	LongLat	[ 119.00 52.00 0 ]
@@ -1886,7 +1831,6 @@ Location "Ascanius" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: Early king of Troy, son of Tros, brother of Ilus and Ganymede.
-# Additional info: None
 Location "Assaracus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 8.79 32.65 0 ]
@@ -2078,7 +2022,6 @@ Location "Eumelus" "Sol/Saturn/Dione"
 
 # Approval date: Mar 17, 2008; Last update: Feb 25, 2011
 # Origin: The river on which Sparta stood.
-# Additional info: None
 Location "Eurotas Chasmata" "Sol/Saturn/Dione"
 {
 	LongLat	[ 301.35 4.94 0 ]
@@ -2106,7 +2049,6 @@ Location "Evander" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A Rutulian of those besieging the men of Aeneas in their leader’s absence.
-# Additional info: None
 Location "Fadus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 225.18 -35.94 0 ]
@@ -2125,7 +2067,6 @@ Location "Fidena Fossae" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: An old Italian killed in the first fighting between Latins and Trojans while trying to make peace.
-# Additional info: None
 Location "Galaesus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 296.25 46.77 0 ]
@@ -2135,7 +2076,6 @@ Location "Galaesus" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: There are two persons in the Aeneid with this name: (a) a Rutulian from a group attacking the Trojan’s camp in the absence of Aeneas, and (b) an Italian whose son, priest of Apollo and Diana, was a soldier of Turnus.
-# Additional info: None
 Location "Haemon" "Sol/Saturn/Dione"
 {
 	LongLat	[ 276.31 84.33 0 ]
@@ -2154,7 +2094,6 @@ Location "Halys" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A river in southeastern Sicily with wide marshes near its mouth.
-# Additional info: None
 Location "Helorus Fossa" "Sol/Saturn/Dione"
 {
 	LongLat	[ 76.48 -31.84 0 ]
@@ -2173,7 +2112,6 @@ Location "Herbesus" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A river of the Sabines, affluent of the Tiber.
-# Additional info: None
 Location "Himella Fossa" "Sol/Saturn/Dione"
 {
 	LongLat	[ 336.55 -45.60 0 ]
@@ -2183,7 +2121,6 @@ Location "Himella Fossa" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: There are two persons in the Aeneid with this name: (a) father of Palinurus, and (b) father of Iapyx.
-# Additional info: None
 Location "Iasus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 245.92 -22.13 0 ]
@@ -2229,7 +2166,6 @@ Location "Lagus" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A Rutulian with the troops besieging the camp of Aeneas.
-# Additional info: None
 Location "Lamyrus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 255.61 53.67 0 ]
@@ -2365,7 +2301,6 @@ Location "Nisus" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: An ally of Turnus, son of Telon and Sebethis.
-# Additional info: None
 Location "Oebalus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 351.60 44.47 0 ]
@@ -2450,7 +2385,6 @@ Location "Phaleris" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A Trojan, companion of Aeneas.
-# Additional info: None
 Location "Phorbas" "Sol/Saturn/Dione"
 {
 	LongLat	[ 131.29 81.20 0 ]
@@ -2514,7 +2448,6 @@ Location "Sagaris" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: There are two persons in the Aeneid with this name: (a) a companion of Aeneas and a contestant in the foot race, and (b) a Rutulian.
-# Additional info: None
 Location "Salius" "Sol/Saturn/Dione"
 {
 	LongLat	[ 181.73 65.09 0 ]
@@ -2533,7 +2466,6 @@ Location "Silvius" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: There are two persons in the Aeneid with this name: (a) a Rutulian in the troop of Volcens, and (b) an Italian whose sons fought for Turnus.
-# Additional info: None
 Location "Sulmo" "Sol/Saturn/Dione"
 {
 	LongLat	[ 333.50 55.92 0 ]
@@ -2543,7 +2475,6 @@ Location "Sulmo" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: Ruler of the Teleboans on Capri; father of Oebalus.
-# Additional info: None
 Location "Telon" "Sol/Saturn/Dione"
 {
 	LongLat	[ 97.20 -16.20 0 ]
@@ -2607,7 +2538,6 @@ Location "Tyrrhus" "Sol/Saturn/Dione"
 
 # Approval date: Feb 25, 2011; Last update: Feb 25, 2011
 # Origin: A Latin, leader of cavalry sent as reinforcements to Turnus.
-# Additional info: None
 Location "Volcens" "Sol/Saturn/Dione"
 {
 	LongLat	[ 268.51 -13.84 0 ]
@@ -2737,7 +2667,6 @@ Location "Atum" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Underworld in mythology of Cook Islands (Polynesia), home for mother of Vatea, the ancestor of gods and humans.
-# Additional info: None
 Location "Avaiki Chasmata" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 279.00 25.00 0 ]
@@ -2891,7 +2820,6 @@ Location "Fuxi" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Vault above the sky in Cherokee (SE USA) myths, where anything that was alive lived before the creation of Earth.
-# Additional info: None
 Location "Galunlati Chasmata" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 290.00 38.00 0 ]
@@ -2955,7 +2883,6 @@ Location "Haoso" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Beautiful land created by Persian god Ahura Mazda (Ormazd); modern Kandahar, Afghanistan.
-# Additional info: None
 Location "Harahvaiti Fossa" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 171.00 -36.00 0 ]
@@ -3136,7 +3063,6 @@ Location "Kirinyaga Linea" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Nganasan (Taymyr Peninsula Samoyed, Russia) mythical mountain range, the first land to appear from the primordial waters after creation. The first man and woman were placed on it.
-# Additional info: None
 Location "Koykamou Catena" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 244.00 -70.00 0 ]
@@ -3210,7 +3136,6 @@ Location "Ligoupup" "Sol/Saturn/Rhea"
 
 # Approval date: 1982; Last update: Jan 18, 2012
 # Origin: Marshall Islands (Micronesia) great creator god.
-# Additional info: None
 Location "Lowa" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 16.60 40.90 0 ]
@@ -3274,7 +3199,6 @@ Location "Malunga" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Nanai (Amur River area, E. Siberia, Russia) goddess who created the Asian continent and Sakhalin Island. For this action, she was killed by her husband and world creator, Khado.
-# Additional info: None
 Location "Mamaldi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 184.00 14.00 0 ]
@@ -3311,7 +3235,6 @@ Location "Melo" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Holy land created by Persian god Ahura Mazda (Ormazd); modern Mary/Merv Oasis, Turkmenistan.
-# Additional info: None
 Location "Mouru Catena" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 343.50 48.50 0 ]
@@ -3429,7 +3352,6 @@ Location "Olorun" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Island in Japanese mythology formed by a drop of water that fell from a sword held by the primeval deities Izanagi and Izanami.
-# Additional info: None
 Location "Onokoro Catenae" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 328.50 -44.70 0 ]
@@ -3466,7 +3388,6 @@ Location "Pan Ku" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Nuristan (NE Afghanistan) river in which Bagisht, the creator of people, was born by the mother goddess Disani.
-# Additional info: None
 Location "Parun Fossa" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 152.00 -46.50 0 ]
@@ -3522,7 +3443,6 @@ Location "Puchou Catenae" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Mount in Igorot (Luzon Island, Philippines) mythology, on the peak of which the palace of creator god Lumawig is located.
-# Additional info: None
 Location "Pulag Chasma" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 266.50 -33.00 0 ]
@@ -3667,7 +3587,6 @@ Location "Tawa" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Holy mountain in Korean mythology, where creator god came onto the earth.
-# Additional info: None
 Location "Thebeksan Catena" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 174.00 -39.50 0 ]
@@ -3777,7 +3696,6 @@ Location "Vatea" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: River in Cuebo (Columbia) myths, where the Cuebo people were born.
-# Additional info: None
 Location "Vaupas Chasma" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 260.00 -35.00 0 ]
@@ -3841,7 +3759,6 @@ Location "Wulbari" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Place where Kakadu (N. Australia) creator goddess Imberombera landed after crossing the sea (modern Malay Bay). There he met the giant Wuraka, ancestor of all peoples.
-# Additional info: None
 Location "Wungaran Catenae" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 79.00 22.50 0 ]
@@ -3887,7 +3804,6 @@ Location "Xu" "Sol/Saturn/Rhea"
 
 # Approval date: Aug 06, 2010; Last update: Aug 06, 2010
 # Origin: Lodge of the North Wind in Klamath (NW USA) myth, where the creator god Kemush slept during the creation of the world.
-# Additional info: None
 Location "Yamsi Chasmata" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 280.50 -28.00 0 ]
@@ -3963,7 +3879,6 @@ Location "Afekan" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Lithuania.
-# Additional info: None
 Location "Akmena Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 55.60 85.10 0 ]
@@ -3973,7 +3888,6 @@ Location "Akmena Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 17, 2010
 # Origin: Lake in Italy.
-# Additional info: None
 Location "Albano Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 236.40 65.90 0 ]
@@ -3983,7 +3897,6 @@ Location "Albano Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 01, 2017
 # Origin: Planet from the Dune series; IV Anbus, home of Tibana, an apologist for Socratic Christianity.
-# Additional info: None
 Location "Anbus Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 215.00 39.20 0 ]
@@ -3993,7 +3906,6 @@ Location "Anbus Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Apr 28, 2014
 # Origin: Name of a mountain range from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Angmar Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 221.90 -10.00 0 ]
@@ -4003,7 +3915,6 @@ Location "Angmar Montes" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in France.
-# Additional info: None
 Location "Annecy Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 128.90 76.80 0 ]
@@ -4023,7 +3934,6 @@ Location "Antilia Faculae" "Sol/Saturn/Titan"
 
 # Approval date: Mar 12, 2020; Last update: Mar 13, 2020
 # Origin: Mythological river in the Aztec Underworld.
-# Additional info: None
 Location "Apanohuaya Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 297.24 84.29 0 ]
@@ -4042,7 +3952,6 @@ Location "Ara Fluctus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Mali.
-# Additional info: None
 Location "Arala Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 124.90 78.10 0 ]
@@ -4052,7 +3961,6 @@ Location "Arala Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Fjord in Iceland.
-# Additional info: None
 Location "Arnar Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 322.00 72.60 0 ]
@@ -4071,7 +3979,6 @@ Location "Arrakis Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Dec 19, 2012; Last update: Dec 19, 2012
 # Origin: Daughter of Elrond; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Arwen Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ 260.00 -7.50 0 ]
@@ -4081,7 +3988,6 @@ Location "Arwen Colles" "Sol/Saturn/Titan"
 
 # Approval date: Dec 21, 2010; Last update: Dec 21, 2010
 # Origin: Intermittent lake (salar) in Chile.
-# Additional info: None
 Location "Atacama Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 227.60 68.20 0 ]
@@ -4091,7 +3997,6 @@ Location "Atacama Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in Guatemala.
-# Additional info: None
 Location "Atitlán Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 238.80 69.30 0 ]
@@ -4101,7 +4006,6 @@ Location "Atitlán Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: Oct 29, 2015
 # Origin: Greek Titanis goddess of the morning wind.
-# Additional info: None
 Location "Aura Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 226.86 13.79 0 ]
@@ -4111,7 +4015,6 @@ Location "Aura Undae" "Sol/Saturn/Titan"
 
 # Approval date: Mar 12, 2020; Last update: Mar 31, 2020
 # Origin: Gulf and bay in NE Russia (Kamchatka Peninsula).
-# Additional info: None
 Location "Avacha Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 335.43 82.87 0 ]
@@ -4139,7 +4042,6 @@ Location "Bacab Virgae" "Sol/Saturn/Titan"
 
 # Approval date: Jan 09, 2018; Last update: Jan 10, 2018
 # Origin: Bay in Canada.
-# Additional info: None
 Location "Baffin Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 344.62 80.35 0 ]
@@ -4149,7 +4051,6 @@ Location "Baffin Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Hungary.
-# Additional info: None
 Location "Balaton Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 87.50 82.90 0 ]
@@ -4159,7 +4060,6 @@ Location "Balaton Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Bayta Darell, fictional character in Isaac Asimov's Foundation Series, wife of the Trader Tran Darell and grandmother of famous author Arcadia “Arcady” Darell.
-# Additional info: None
 Location "Bayta Fretum" "Sol/Saturn/Titan"
 {
 	LongLat	[ 311.20 73.00 0 ]
@@ -4178,7 +4078,6 @@ Location "Bazaruto Facula" "Sol/Saturn/Titan"
 
 # Approval date: Apr 15, 2015; Last update: Oct 29, 2015
 # Origin: Celtic/Irish goddess of water, education, and knowledge. Anyone who drinks the water from her well will become wise.
-# Additional info: None
 Location "Beag" "Sol/Saturn/Titan"
 {
 	LongLat	[ 169.55 -34.74 0 ]
@@ -4197,7 +4096,6 @@ Location "BELET" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 20, 2015
 # Origin: An enchanted island in Shakespeare’s Tempest.
-# Additional info: None
 Location "Bermoothes Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 317.10 67.10 0 ]
@@ -4207,7 +4105,6 @@ Location "Bermoothes Insula" "Sol/Saturn/Titan"
 
 # Approval date: Dec 19, 2012; Last update: Dec 19, 2012
 # Origin: Hobbit, the main character in ‘The Hobbit’ novel; he traveled across Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Bilbo Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ 38.56 -4.23 0 ]
@@ -4217,7 +4114,6 @@ Location "Bilbo Colles" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 19, 2015
 # Origin: Boicua; Island in Arawak (Bahamas) legend said to contain the fountain of youth.
-# Additional info: None
 Location "Bimini Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 305.40 73.30 0 ]
@@ -4236,7 +4132,6 @@ Location "Bolsena Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 09, 2018; Last update: Jan 10, 2018
 # Origin: Bone; Gulf in Indonesia.
-# Additional info: None
 Location "Boni Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 345.38 78.69 0 ]
@@ -4246,7 +4141,6 @@ Location "Boni Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Dec 05, 2011
 # Origin: Greek god of the north wind.
-# Additional info: None
 Location "Boreas Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 215.00 -6.00 0 ]
@@ -4256,7 +4150,6 @@ Location "Boreas Undae" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Baralku; In Yolngu culture (Arnhem Land, Australia), the island of the dead and the place where the Djanggawul, the three creator siblings, originated.
-# Additional info: None
 Location "Bralgu Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 251.50 76.20 0 ]
@@ -4266,7 +4159,6 @@ Location "Bralgu Insulae" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Switzerland
-# Additional info: None
 Location "Brienz Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 43.80 85.30 0 ]
@@ -4276,7 +4168,6 @@ Location "Brienz Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Nauru.
-# Additional info: None
 Location "Buada Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 129.60 76.40 0 ]
@@ -4286,7 +4177,6 @@ Location "Buada Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: A rocky island in Russian folk tales located on the south shore of the Baltic Sea.
-# Additional info: None
 Location "Buyan Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 245.10 77.30 0 ]
@@ -4296,7 +4186,6 @@ Location "Buyan Insula" "Sol/Saturn/Titan"
 
 # Approval date: Mar 18, 2016; Last update: Mar 18, 2016
 # Origin: Planet from the Dune series; a cold planet, known for its lustrous Soostones, used as a “punishment planet” by the Bene Gesserit.
-# Additional info: None
 Location "Buzzell Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 262.70 -66.30 0 ]
@@ -4306,7 +4195,6 @@ Location "Buzzell Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Oct 08, 2014; Last update: Oct 09, 2014
 # Origin: Planet from the Dune series; the original home of the House Atriedes, a fictional noble family.
-# Additional info: None
 Location "Caladan Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 226.00 31.00 0 ]
@@ -4316,7 +4204,6 @@ Location "Caladan Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Apr 07, 2011; Last update: Apr 07, 2011
 # Origin: Lake in Argentina.
-# Additional info: None
 Location "Cardiel Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 206.50 70.20 0 ]
@@ -4326,7 +4213,6 @@ Location "Cardiel Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in New York, USA.
-# Additional info: None
 Location "Cayuga Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 230.00 69.80 0 ]
@@ -4336,7 +4222,6 @@ Location "Cayuga Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Oct 08, 2014; Last update: Oct 09, 2014
 # Origin: River in The Iliad.
-# Additional info: None
 Location "Celadon Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ 28.80 -73.70 0 ]
@@ -4355,7 +4240,6 @@ Location "Cerknica Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Malawi and Mozambique.
-# Additional info: None
 Location "Chilwa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 131.30 75.00 0 ]
@@ -4392,7 +4276,6 @@ Location "Coats Facula" "Sol/Saturn/Titan"
 
 # Approval date: Jan 05, 2012; Last update: Jan 05, 2012
 # Origin: Roman abstract divinity of harmony.
-# Additional info: None
 Location "CONCORDIA REGIO" "Sol/Saturn/Titan"
 {
 	LongLat	[ 241.00 -20.00 0 ]
@@ -4402,7 +4285,6 @@ Location "CONCORDIA REGIO" "Sol/Saturn/Titan"
 
 # Approval date: Sep 14, 2017; Last update: Sep 15, 2017
 # Origin: Planet from the Dune series; site of Battle of Corrin.
-# Additional info: None
 Location "Corrin Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 31.00 -66.00 0 ]
@@ -4421,7 +4303,6 @@ Location "Crete Facula" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: Oct 29, 2015
 # Origin: Lake in Croatia.
-# Additional info: None
 Location "Crveno Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 184.91 -79.55 0 ]
@@ -4440,7 +4321,6 @@ Location "DILMUN" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Angola.
-# Additional info: None
 Location "Dilolo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 125.00 76.20 0 ]
@@ -4450,7 +4330,6 @@ Location "Dilolo Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 09, 2018; Last update: Jan 10, 2018
 # Origin: Bay in Ireland.
-# Additional info: None
 Location "Dingle Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 336.44 81.36 0 ]
@@ -4460,7 +4339,6 @@ Location "Dingle Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Oct 11, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Dolmed Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 216.80 -11.60 0 ]
@@ -4470,7 +4348,6 @@ Location "Dolmed Montes" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Nov 13, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional settingin fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Doom Mons" "Sol/Saturn/Titan"
 {
 	LongLat	[ 40.42 -14.65 0 ]
@@ -4480,7 +4357,6 @@ Location "Doom Mons" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Latvia.
-# Additional info: None
 Location "Dridzis Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 131.30 78.90 0 ]
@@ -4490,7 +4366,6 @@ Location "Dridzis Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Oct 08, 2014; Last update: Oct 09, 2014
 # Origin: Planet from the Dune series; useful for its agricultural contributions to the Imperium.
-# Additional info: None
 Location "Ecaz Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 36.70 -83.00 0 ]
@@ -4500,7 +4375,6 @@ Location "Ecaz Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Apr 28, 2014
 # Origin: Name of a mountain range from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Echoriath Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 213.80 -7.40 0 ]
@@ -4555,7 +4429,6 @@ Location "Enriquillo Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Nov 13, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional settingin fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Erebor Mons" "Sol/Saturn/Titan"
 {
 	LongLat	[ 36.23 -4.97 0 ]
@@ -4565,7 +4438,6 @@ Location "Erebor Mons" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Dec 05, 2011
 # Origin: Greek personification of the east wind.
-# Additional info: None
 Location "Eurus Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 210.30 -7.50 0 ]
@@ -4575,7 +4447,6 @@ Location "Eurus Undae" "Sol/Saturn/Titan"
 
 # Approval date: Dec 21, 2010; Last update: Dec 21, 2010
 # Origin: Intermittent lake in Australia.
-# Additional info: None
 Location "Eyre Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 225.10 72.60 0 ]
@@ -4585,7 +4456,6 @@ Location "Eyre Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 05, 2021
 # Origin: Bay in Samoa (Upolu Island).
-# Additional info: None
 Location "Fagaloa Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 320.50 82.90 0 ]
@@ -4595,7 +4465,6 @@ Location "Fagaloa Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 19, 2012; Last update: Dec 19, 2012
 # Origin: Wise man of nobility; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Faramir Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ 153.80 4.00 0 ]
@@ -4623,7 +4492,6 @@ Location "FENSAL" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Fjord between Denmark and Germany.
-# Additional info: None
 Location "Flensborg Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 295.30 64.90 0 ]
@@ -4633,7 +4501,6 @@ Location "Flensborg Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Portugal, Azores.
-# Additional info: None
 Location "Fogo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 98.00 81.90 0 ]
@@ -4643,7 +4510,6 @@ Location "Fogo Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Apr 15, 2015; Last update: Oct 29, 2015
 # Origin: Norse god, the wisest and most eloquent of the Aesir.
-# Additional info: None
 Location "Forseti" "Sol/Saturn/Titan"
 {
 	LongLat	[ 10.40 25.53 0 ]
@@ -4653,7 +4519,6 @@ Location "Forseti" "Sol/Saturn/Titan"
 
 # Approval date: Apr 07, 2011; Last update: Apr 07, 2011
 # Origin: Lake in Indiana, USA.
-# Additional info: None
 Location "Freeman Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 211.10 73.60 0 ]
@@ -4663,7 +4528,6 @@ Location "Freeman Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 12, 2020; Last update: Mar 13, 2020
 # Origin: Bay in Canada.
-# Additional info: None
 Location "Fundy Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 315.64 83.26 0 ]
@@ -4673,7 +4537,6 @@ Location "Fundy Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Gulf in Tunisia.
-# Additional info: None
 Location "Gabes Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 289.60 67.60 0 ]
@@ -4683,7 +4546,6 @@ Location "Gabes Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 08, 2017; Last update: Mar 08, 2017
 # Origin: Planet from the Dune series; the name for the planet Giedi Prime after the fall of House Harkonnen.
-# Additional info: None
 Location "Gammu Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 250.00 -77.90 0 ]
@@ -4693,7 +4555,6 @@ Location "Gammu Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 02, 2017
 # Origin: Planet from the Dune series; third planet of Niushe, noted for its hedonistic culture.
-# Additional info: None
 Location "Gamont Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 75.00 56.80 0 ]
@@ -4703,7 +4564,6 @@ Location "Gamont Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: Oct 29, 2015
 # Origin: Wizard, leader of the Fellowship of the Ring; character from Middle-earth, the fictional setting fantasy novels by J. R. R. Tolkien.
-# Additional info: None
 Location "Gandalf Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ 209.54 14.61 0 ]
@@ -4722,7 +4582,6 @@ Location "Ganesa Macula" "Sol/Saturn/Titan"
 
 # Approval date: Mar 08, 2017; Last update: Mar 08, 2017
 # Origin: Planet from the Dune series; with a village named London.
-# Additional info: None
 Location "Gansireed Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 239.30 -69.30 0 ]
@@ -4732,7 +4591,6 @@ Location "Gansireed Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 05, 2012; Last update: Jan 05, 2012
 # Origin: Iranian paradise where the souls of faithful men dwell.
-# Additional info: None
 Location "GAROTMAN TERRA" "Sol/Saturn/Titan"
 {
 	LongLat	[ 348.00 -13.50 0 ]
@@ -4751,7 +4609,6 @@ Location "Gatun Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: May 24, 2018
 # Origin: Peace Queen of the Iroquois.
-# Additional info: None
 Location "Genetaska Macula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 196.30 23.50 0 ]
@@ -4761,7 +4618,6 @@ Location "Genetaska Macula" "Sol/Saturn/Titan"
 
 # Approval date: Jan 09, 2018; Last update: Jan 10, 2018
 # Origin: Gulf in Italy.
-# Additional info: None
 Location "Genova Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 326.61 80.11 0 ]
@@ -4771,7 +4627,6 @@ Location "Genova Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Aug 24, 2017; Last update: Aug 25, 2017
 # Origin: Planet from the Dune series; Giedi Prime is the homeworld ofHouse Harkonnen.
-# Additional info: None
 Location "Giedi Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 357.02 5.22 0 ]
@@ -4781,7 +4636,6 @@ Location "Giedi Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 07, 2021
 # Origin: Biblical second River of Paradise, one of four rivers flowing from Eden.
-# Additional info: None
 Location "Gihon Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 215.55 76.81 0 ]
@@ -4791,7 +4645,6 @@ Location "Gihon Flumen" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 02, 2017
 # Origin: Planet from the Dune series; home of House Ginaz.
-# Additional info: None
 Location "Ginaz Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 261.70 83.00 0 ]
@@ -4801,7 +4654,6 @@ Location "Ginaz Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Oct 11, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Gram Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 207.90 -9.90 0 ]
@@ -4811,7 +4663,6 @@ Location "Gram Montes" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in England.
-# Additional info: None
 Location "Grasmere Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 103.10 72.30 0 ]
@@ -4821,7 +4672,6 @@ Location "Grasmere Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 01, 2017
 # Origin: Planet from the Dune series; where Duncan Idaho first blooded his sword.
-# Additional info: None
 Location "Grumman Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 106.80 -35.30 0 ]
@@ -4840,7 +4690,6 @@ Location "Guabonito" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: Planet from the Dune series; a jewel planet known for its quality quartz, and which is mined out in the time of Shaddam I.
-# Additional info: None
 Location "Hagal Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 344.95 -60.59 0 ]
@@ -4850,7 +4699,6 @@ Location "Hagal Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Dec 03, 2013; Last update: Dec 03, 2013
 # Origin: Lake in Iraq.
-# Additional info: None
 Location "Hammar Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 308.29 48.60 0 ]
@@ -4860,7 +4708,6 @@ Location "Hammar Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 19, 2012; Last update: Dec 19, 2012
 # Origin: Son of Haldir, a ruler of the fictional Folk of Haleth; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Handir Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ 356.68 10.00 0 ]
@@ -4870,7 +4717,6 @@ Location "Handir Colles" "Sol/Saturn/Titan"
 
 # Approval date: Dec 23, 2011; Last update: Dec 23, 2011
 # Origin: Bella Coola (northwestern USA and western Canada) goddess of education, knowledge, and magic. She manifested as a shaman so she could teach the people.
-# Additional info: None
 Location "Hano" "Sol/Saturn/Titan"
 {
 	LongLat	[ 345.10 40.30 0 ]
@@ -4880,7 +4726,6 @@ Location "Hano" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Salvor Hardin, fictional character in Isaac Asimov's Foundation Series, first Mayor of the planet Terminus.
-# Additional info: None
 Location "Hardin Fretum" "Sol/Saturn/Titan"
 {
 	LongLat	[ 317.80 57.30 0 ]
@@ -4890,7 +4735,6 @@ Location "Hardin Fretum" "Sol/Saturn/Titan"
 
 # Approval date: Sep 14, 2017; Last update: Sep 15, 2017
 # Origin: Planet from Dune series; sixth stop in the Zensunni migration.
-# Additional info: None
 Location "Harmonthep Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 101.40 -72.30 0 ]
@@ -4900,7 +4744,6 @@ Location "Harmonthep Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 05, 2021
 # Origin: In Polynesian mythology, original home island of the Polynesian people.
-# Additional info: None
 Location "Hawaiki Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 327.07 84.32 0 ]
@@ -4910,7 +4753,6 @@ Location "Hawaiki Insulae" "Sol/Saturn/Titan"
 
 # Approval date: Jan 05, 2012; Last update: Feb 08, 2012
 # Origin: Egyptian female personification of happiness.
-# Additional info: None
 Location "HETPET REGIO" "Sol/Saturn/Titan"
 {
 	LongLat	[ 292.00 -22.00 0 ]
@@ -4920,7 +4762,6 @@ Location "HETPET REGIO" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Myanmar.
-# Additional info: None
 Location "Hlawga Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 103.60 76.60 0 ]
@@ -4957,7 +4798,6 @@ Location "HOTEI REGIO" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: The river that flows at the gates of the netherworld in Mesopotamian mythology.
-# Additional info: None
 Location "Hubur Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 192.85 -70.24 0 ]
@@ -4967,7 +4807,6 @@ Location "Hubur Flumen" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Legendary island in the marshes of southern Iraq.
-# Additional info: None
 Location "Hufaidh Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 320.30 67.00 0 ]
@@ -4977,7 +4816,6 @@ Location "Hufaidh Insulae" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Madagascar.
-# Additional info: None
 Location "Ihotry Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 137.20 76.10 0 ]
@@ -4987,7 +4825,6 @@ Location "Ihotry Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Idaho, USA.
-# Additional info: None
 Location "Imogene Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 111.80 71.10 0 ]
@@ -4997,7 +4834,6 @@ Location "Imogene Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 05, 2021
 # Origin: Planet from the Dune series; home of House Thorvald.
-# Additional info: None
 Location "Ipyr Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 289.00 86.24 0 ]
@@ -5007,7 +4843,6 @@ Location "Ipyr Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Nov 13, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional settingin fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Irensaga Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 212.71 -5.68 0 ]
@@ -5017,7 +4852,6 @@ Location "Irensaga Montes" "Sol/Saturn/Titan"
 
 # Approval date: Dec 21, 2010; Last update: Dec 21, 2010
 # Origin: Intermittent lake (shott) in Tunisia.
-# Additional info: None
 Location "Jerid Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 221.00 66.70 0 ]
@@ -5036,7 +4870,6 @@ Location "Jingpo Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 02, 2017
 # Origin: Planet from the Dune series; once controlled by the Spacing Guild, taken over by the Honored Matres as a stronghold for their leader.
-# Additional info: None
 Location "Junction Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 215.30 -47.70 0 ]
@@ -5046,7 +4879,6 @@ Location "Junction Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in Peru.
-# Additional info: None
 Location "Junín Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 236.90 66.90 0 ]
@@ -5056,7 +4888,6 @@ Location "Junín Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Oct 08, 2014; Last update: Oct 09, 2014
 # Origin: Planet from the Dune series; the capital of the Imperium.
-# Additional info: None
 Location "Kaitain Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 348.66 52.37 0 ]
@@ -5075,7 +4906,6 @@ Location "Kalseru Virga" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Tajikistan.
-# Additional info: None
 Location "Karakul Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 56.60 86.30 0 ]
@@ -5085,7 +4915,6 @@ Location "Karakul Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: River in the Iliad.
-# Additional info: None
 Location "Karesos Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 194.75 -70.90 0 ]
@@ -5095,7 +4924,6 @@ Location "Karesos Flumen" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: Lake in the Philippines.
-# Additional info: None
 Location "Kayangan Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 202.17 -86.30 0 ]
@@ -5132,7 +4960,6 @@ Location "Koitere Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 07, 2021
 # Origin: River of lamentations in the Greek underworld, Hades.
-# Additional info: None
 Location "Kokytos Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ 255.00 72.21 0 ]
@@ -5151,7 +4978,6 @@ Location "KRAKEN MARE" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 20, 2015
 # Origin: Crocylea; Mythological Greek island in the Ionian Sea, near Ithaca.
-# Additional info: None
 Location "Krocylea Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 302.40 69.10 0 ]
@@ -5161,7 +4987,6 @@ Location "Krocylea Insulae" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 01, 2017
 # Origin: Planet from the Dune series; captured by the Honored Matres.
-# Additional info: None
 Location "Kronin Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 96.27 -35.70 0 ]
@@ -5180,7 +5005,6 @@ Location "Ksa" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Bay in India.
-# Additional info: None
 Location "Kumbaru Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 303.80 56.80 0 ]
@@ -5190,7 +5014,6 @@ Location "Kumbaru Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 03, 2013; Last update: Dec 03, 2013
 # Origin: Intermittent lake on the border of India and Pakistan.
-# Additional info: None
 Location "Kutch Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 217.00 88.40 0 ]
@@ -5200,7 +5023,6 @@ Location "Kutch Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: May 24, 2013; Last update: May 24, 2013
 # Origin: Lake in Russia.
-# Additional info: None
 Location "Ladoga Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 26.10 74.80 0 ]
@@ -5210,7 +5032,6 @@ Location "Ladoga Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Cameroon.
-# Additional info: None
 Location "Lagdo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 125.70 75.50 0 ]
@@ -5220,7 +5041,6 @@ Location "Lagdo Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 08, 2017; Last update: Mar 08, 2017
 # Origin: Planet from the Dune series; a center for Bene Gesserit education, also where Miles Teg is trained as a Mentat.
-# Additional info: None
 Location "Lampadas Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 124.00 -81.80 0 ]
@@ -5230,7 +5050,6 @@ Location "Lampadas Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in the Philippines.
-# Additional info: None
 Location "Lanao Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 217.70 71.00 0 ]
@@ -5240,7 +5059,6 @@ Location "Lanao Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 01, 2017
 # Origin: Planet from the Dune series; where Glossu Rabban, the nephew of Baron Harkonnen, is a Count.
-# Additional info: None
 Location "Lankiveil Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 149.50 -48.20 0 ]
@@ -5259,7 +5077,6 @@ Location "Leilah Fluctus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 08, 2017; Last update: Mar 08, 2017
 # Origin: Planet from the Dune series; where Miles Teg retires, also the home planet of his Bene Gesserit mother, Lady Janet Roxbrough.
-# Additional info: None
 Location "Lernaeus Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 138.00 -83.40 0 ]
@@ -5269,7 +5086,6 @@ Location "Lernaeus Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Vanuatu.
-# Additional info: None
 Location "Letas Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 88.20 81.30 0 ]
@@ -5279,7 +5095,6 @@ Location "Letas Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Apr 11, 2008; Last update: Jan 29, 2013
 # Origin: One of the sirens in Greek mythology.
-# Additional info: None
 Location "LIGEIA MARE" "Sol/Saturn/Titan"
 {
 	LongLat	[ 247.90 79.70 0 ]
@@ -5289,7 +5104,6 @@ Location "LIGEIA MARE" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 07, 2021
 # Origin: Name of a mountain range (Ered Lithui, Ash Mountains), the northern border of the land of Mordor from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Lithui Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 112.56 84.68 0 ]
@@ -5299,7 +5113,6 @@ Location "Lithui Montes" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in Manipur, India.
-# Additional info: None
 Location "Logtak Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 226.10 70.80 0 ]
@@ -5318,7 +5131,6 @@ Location "Luin Montes" "Sol/Saturn/Titan"
 
 # Approval date: Mar 12, 2020; Last update: Mar 31, 2020
 # Origin: Cove in England.
-# Additional info: None
 Location "Lulworth Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 316.88 67.19 0 ]
@@ -5337,7 +5149,6 @@ Location "Mackay Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 09, 2018; Last update: Jan 10, 2018
 # Origin: Bay in Japan.
-# Additional info: None
 Location "Maizuru Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 352.53 78.90 0 ]
@@ -5347,7 +5158,6 @@ Location "Maizuru Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 09, 2018; Last update: Jan 10, 2018
 # Origin: Bay in Tanzania.
-# Additional info: None
 Location "Manza Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 346.10 79.29 0 ]
@@ -5357,7 +5167,6 @@ Location "Manza Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Venezuela.
-# Additional info: None
 Location "Maracaibo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 127.70 75.30 0 ]
@@ -5376,7 +5185,6 @@ Location "Mayda Insula" "Sol/Saturn/Titan"
 
 # Approval date: Dec 21, 2010; Last update: Dec 21, 2010
 # Origin: Intermittent lake (shott) in Algeria.
-# Additional info: None
 Location "Melrhir Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 212.60 64.90 0 ]
@@ -5395,7 +5203,6 @@ Location "Menrva" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Oct 11, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Merlock Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 211.80 -8.90 0 ]
@@ -5405,7 +5212,6 @@ Location "Merlock Montes" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 05, 2021
 # Origin: Fictional island mentioned by ancient Greek writer Theopompus in his work Philippica.
-# Additional info: None
 Location "Meropis Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 313.68 83.85 0 ]
@@ -5433,7 +5239,6 @@ Location "Mindanao Facula" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Apr 28, 2014
 # Origin: Name of a mountain from Middle-earth, the fictional settingin fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Mindolluin Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 208.96 -3.30 0 ]
@@ -5443,7 +5248,6 @@ Location "Mindolluin Montes" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Nov 13, 2012
 # Origin: Name of a mountain range from Middle-earth, the fictional settingin fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Misty Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 62.44 56.80 0 ]
@@ -5453,7 +5257,6 @@ Location "Misty Montes" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Nov 13, 2012
 # Origin: Name of a mountain range from Middle-earth, the fictional settingin fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Mithrim Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 127.42 -2.16 0 ]
@@ -5463,7 +5266,6 @@ Location "Mithrim Montes" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Nov 13, 2012
 # Origin: Indian goddess of beauty and magic.
-# Additional info: None
 Location "Mohini Fluctus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 38.53 -11.78 0 ]
@@ -5473,7 +5275,6 @@ Location "Mohini Fluctus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 23, 2011; Last update: Dec 23, 2011
 # Origin: Chumash (California, USA) ancestor shaman and goddess of magic, education, knowledge, health and healing.
-# Additional info: None
 Location "Momoy" "Sol/Saturn/Titan"
 {
 	LongLat	[ 44.60 11.60 0 ]
@@ -5492,7 +5293,6 @@ Location "Montego Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Firth in Scotland.
-# Additional info: None
 Location "Moray Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 281.40 76.60 0 ]
@@ -5502,7 +5302,6 @@ Location "Moray Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: Oct 29, 2015
 # Origin: Name of three massive peaks, the Mountains of Moria, at the midpoint of the Misty Mountains range from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Moria Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 190.45 15.05 0 ]
@@ -5512,7 +5311,6 @@ Location "Moria Montes" "Sol/Saturn/Titan"
 
 # Approval date: Dec 03, 2013; Last update: Dec 03, 2013
 # Origin: Lake in Germany.
-# Additional info: None
 Location "Müggel Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 203.50 84.44 0 ]
@@ -5522,7 +5320,6 @@ Location "Müggel Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 08, 2017; Last update: Mar 08, 2017
 # Origin: Planet from the Dune series; place where the son of a female supplicant to Alia Atreides was killed.
-# Additional info: None
 Location "Muritan Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 219.20 -68.80 0 ]
@@ -5532,7 +5329,6 @@ Location "Muritan Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Muzhwi Dam, lake in Zimbabwe.
-# Additional info: None
 Location "Muzhwi Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 126.30 74.80 0 ]
@@ -5542,7 +5338,6 @@ Location "Muzhwi Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Zambia and Democratic Republic of the Congo.
-# Additional info: None
 Location "Mweru Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 131.80 71.90 0 ]
@@ -5552,7 +5347,6 @@ Location "Mweru Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: Oct 29, 2015
 # Origin: Greek nymph, a minor deity, nurse of the god Dionysus, who instructed him in the Mysteries.
-# Additional info: None
 Location "Mystis" "Sol/Saturn/Titan"
 {
 	LongLat	[ 194.86 0.07 0 ]
@@ -5562,7 +5356,6 @@ Location "Mystis" "Sol/Saturn/Titan"
 
 # Approval date: Sep 27, 2007; Last update: Jun 02, 2018
 # Origin: Lake in Iceland.
-# Additional info: None
 Location "Mývatn Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 135.28 78.19 0 ]
@@ -5572,7 +5365,6 @@ Location "Mývatn Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 03, 2013; Last update: Dec 03, 2013
 # Origin: Intermittent lake in Kenya.
-# Additional info: None
 Location "Nakuru Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 94.00 65.81 0 ]
@@ -5582,7 +5374,6 @@ Location "Nakuru Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Mar 08, 2017; Last update: Mar 08, 2017
 # Origin: Planet from the Dune series; where the son of Farok lost his eyes.
-# Additional info: None
 Location "Naraj Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 35.80 -74.20 0 ]
@@ -5610,7 +5401,6 @@ Location "Neagh Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Uruguay.
-# Additional info: None
 Location "Negra Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 128.90 75.50 0 ]
@@ -5620,7 +5410,6 @@ Location "Negra Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 21, 2010; Last update: Dec 21, 2010
 # Origin: Intermittent lake in Botswana.
-# Additional info: None
 Location "Ngami Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 213.90 66.70 0 ]
@@ -5639,7 +5428,6 @@ Location "Nicobar Faculae" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Gulf in Costa Rica.
-# Additional info: None
 Location "Nicoya Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 251.20 74.80 0 ]
@@ -5649,7 +5437,6 @@ Location "Nicoya Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 19, 2012; Last update: Dec 19, 2012
 # Origin: Second queen of Doriath, a fictional realm of Grey Elves; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Nimloth Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ 151.30 11.86 0 ]
@@ -5659,7 +5446,6 @@ Location "Nimloth Colles" "Sol/Saturn/Titan"
 
 # Approval date: Sep 14, 2017; Last update: Sep 15, 2017
 # Origin: Planet from the Dune series; planet captured by the Honored Matres.
-# Additional info: None
 Location "Niushe Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 88.10 75.10 0 ]
@@ -5669,7 +5455,6 @@ Location "Niushe Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Dec 05, 2011
 # Origin: Greek god of the south or southwest wind.
-# Additional info: None
 Location "Notus Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 211.10 -10.00 0 ]
@@ -5688,7 +5473,6 @@ Location "Oahu Facula" "Sol/Saturn/Titan"
 
 # Approval date: Sep 14, 2017; Last update: Sep 15, 2017
 # Origin: Puerto Rican goddess of happiness and weather.
-# Additional info: None
 Location "OCHUMARE REGIO" "Sol/Saturn/Titan"
 {
 	LongLat	[ 348.10 10.40 0 ]
@@ -5698,7 +5482,6 @@ Location "OCHUMARE REGIO" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake on the border of Macedonia and Albania.
-# Additional info: None
 Location "Ohrid Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 221.90 71.80 0 ]
@@ -5708,7 +5491,6 @@ Location "Ohrid Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Bay in New Zealand.
-# Additional info: None
 Location "Okahu Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 282.00 73.70 0 ]
@@ -5718,7 +5500,6 @@ Location "Okahu Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in El Salvador.
-# Additional info: None
 Location "Olomega Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 122.20 78.70 0 ]
@@ -5746,7 +5527,6 @@ Location "Oneida Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 05, 2021
 # Origin: Japanese mythological island.
-# Additional info: None
 Location "Onogoro Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 311.70 83.28 0 ]
@@ -5774,7 +5554,6 @@ Location "Orog Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Mar 08, 2017; Last update: Mar 08, 2017
 # Origin: Planet from the Dune series; home to a Bene Gesserit Keep, attacked by the Honored Matres.
-# Additional info: None
 Location "Palma Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 31.00 -72.40 0 ]
@@ -5784,7 +5563,6 @@ Location "Palma Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Fjord in Chile.
-# Additional info: None
 Location "Patos Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 224.80 77.20 0 ]
@@ -5794,7 +5572,6 @@ Location "Patos Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Oct 15, 2010; Last update: Oct 15, 2010
 # Origin: Aymara (Peru, Bolivia) goddess of the moon, education and knowledge.
-# Additional info: None
 Location "Paxsi" "Sol/Saturn/Titan"
 {
 	LongLat	[ 341.20 5.00 0 ]
@@ -5804,7 +5581,6 @@ Location "Paxsi" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 19, 2015
 # Origin: Mythological Chinese mountain island where immortals lived.
-# Additional info: None
 Location "Penglai Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 308.70 72.20 0 ]
@@ -5823,7 +5599,6 @@ Location "Perkunas Virgae" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Nepal.
-# Additional info: None
 Location "Phewa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 124.00 72.20 0 ]
@@ -5842,7 +5617,6 @@ Location "Pielinen Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: In Greek mythology the “wandering rocks”, between which the sea was mercilessly violent. Only Argo was said to have successfully passed the rocks.
-# Additional info: None
 Location "Planctae Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 251.30 77.50 0 ]
@@ -5870,7 +5644,6 @@ Location "Polelya Macula" "Sol/Saturn/Titan"
 
 # Approval date: Oct 08, 2014; Last update: Oct 09, 2014
 # Origin: Planet from the Dune series; third planet of Epsilon Alangue, considered by many Zensunni Wanderers as their planet of origin.
-# Additional info: None
 Location "Poritrin Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 24.00 48.00 0 ]
@@ -5880,7 +5653,6 @@ Location "Poritrin Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in the Republic of Macedonia, Albania, and Greece.
-# Additional info: None
 Location "Prespa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 135.70 73.10 0 ]
@@ -5890,7 +5662,6 @@ Location "Prespa Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Sound in state of Washington, USA.
-# Additional info: None
 Location "Puget Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 241.10 82.40 0 ]
@@ -5900,7 +5671,6 @@ Location "Puget Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Nov 14, 2008; Last update: Dec 01, 2010
 # Origin: Māori (New Zealand) supernatural being, the father of sharks and lizards. Son of the sea god Tangaroa.
-# Additional info: None
 Location "PUNGA MARE" "Sol/Saturn/Titan"
 {
 	LongLat	[ 339.70 85.10 0 ]
@@ -5910,7 +5680,6 @@ Location "PUNGA MARE" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Kukunor, Tso Ngonpo; lake in China.
-# Additional info: None
 Location "Qinghai Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 51.50 83.40 0 ]
@@ -5920,7 +5689,6 @@ Location "Qinghai Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Ecuador.
-# Additional info: None
 Location "Quilotoa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 120.10 80.30 0 ]
@@ -5939,7 +5707,6 @@ Location "QUIVIRA" "Sol/Saturn/Titan"
 
 # Approval date: Dec 21, 2010; Last update: Dec 21, 2010
 # Origin: Intermittent lake (playa) in California, USA.
-# Additional info: None
 Location "Racetrack Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 224.90 66.10 0 ]
@@ -5949,7 +5716,6 @@ Location "Racetrack Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Scotland.
-# Additional info: None
 Location "Rannoch Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 129.30 74.20 0 ]
@@ -5959,7 +5725,6 @@ Location "Rannoch Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Oct 11, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Rerir Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 212.10 -4.80 0 ]
@@ -5969,7 +5734,6 @@ Location "Rerir Montes" "Sol/Saturn/Titan"
 
 # Approval date: Oct 08, 2014; Last update: Oct 09, 2014
 # Origin: Planet from the Dune series; fourth planet of Eridani A, supreme in machine culture, noted for miniaturization.
-# Additional info: None
 Location "Richese Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 199.00 41.80 0 ]
@@ -5979,7 +5743,6 @@ Location "Richese Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Chile and Argentina.
-# Additional info: None
 Location "Roca Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 123.50 79.80 0 ]
@@ -5998,7 +5761,6 @@ Location "Rohe Fluctus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Fjord in Norway.
-# Additional info: None
 Location "Rombaken Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 232.90 75.30 0 ]
@@ -6008,7 +5770,6 @@ Location "Rombaken Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: Planet from the Dune series; the planet on which the younger brother of Miles Teg was poisoned.
-# Additional info: None
 Location "Romo Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 200.96 -82.79 0 ]
@@ -6018,7 +5779,6 @@ Location "Romo Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: Planet from the Dune series; the source planet for the Bene Gesserit's original poison drug, or, the “;Water of Life“;, and the origin of the Bene Gesserit order itself.
-# Additional info: None
 Location "Rossak Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 355.00 -71.04 0 ]
@@ -6028,7 +5788,6 @@ Location "Rossak Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 20, 2015
 # Origin: Island in Atlantic Ocean (15th Century maps) on verge of the unknown, near Antilla and St. Brandan.
-# Additional info: None
 Location "Royllo Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 297.20 68.30 0 ]
@@ -6038,7 +5797,6 @@ Location "Royllo Insula" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Tanzania.
-# Additional info: None
 Location "Rukwa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 134.80 74.80 0 ]
@@ -6048,7 +5806,6 @@ Location "Rukwa Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Burundi.
-# Additional info: None
 Location "Rwegura Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 105.20 71.50 0 ]
@@ -6058,7 +5815,6 @@ Location "Rwegura Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 07, 2021
 # Origin: Bay in South Africa.
-# Additional info: None
 Location "Saldanha Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 322.50 82.42 0 ]
@@ -6068,7 +5824,6 @@ Location "Saldanha Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Sep 14, 2017; Last update: Sep 15, 2017
 # Origin: Planet from the Dune series; Salusa Secundus, used as the Imperial Prison Planet.
-# Additional info: None
 Location "Salusa Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 264.20 45.60 0 ]
@@ -6078,7 +5833,6 @@ Location "Salusa Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 07, 2021
 # Origin: Legendary river in Jewish literature.
-# Additional info: None
 Location "Sambation Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ 90.12 87.33 0 ]
@@ -6097,7 +5851,6 @@ Location "Santorini Facula" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: A river in Hindu mythology.
-# Additional info: None
 Location "Saraswati Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 193.51 -74.55 0 ]
@@ -6116,7 +5869,6 @@ Location "Sarygamysh Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Hari Seldon, the fictional, intellectual hero of Isaac Asimov's Foundation Series, First Minister of the Galactic Empire.
-# Additional info: None
 Location "Seldon Fretum" "Sol/Saturn/Titan"
 {
 	LongLat	[ 316.60 66.00 0 ]
@@ -6144,7 +5896,6 @@ Location "SENKYO" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in Armenia.
-# Additional info: None
 Location "Sevan Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 225.60 69.70 0 ]
@@ -6182,7 +5933,6 @@ Location "Shiwanni Virgae" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: Lake in Japan.
-# Additional info: None
 Location "Shoji Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 166.37 -79.74 0 ]
@@ -6210,7 +5960,6 @@ Location "Sinlap" "Sol/Saturn/Titan"
 
 # Approval date: Mar 12, 2013; Last update: Mar 12, 2013
 # Origin: Lake in Scotland.
-# Additional info: None
 Location "Sionascaig Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 278.12 -41.52 0 ]
@@ -6220,7 +5969,6 @@ Location "Sionascaig Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Inlet in Antarctica.
-# Additional info: None
 Location "Skelton Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 314.90 76.80 0 ]
@@ -6230,7 +5978,6 @@ Location "Skelton Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Feb 03, 2012; Last update: Feb 03, 2012
 # Origin: Melanesian (New Ireland Island, Papua New Guinea) god of wisdom.
-# Additional info: None
 Location "Soi" "Sol/Saturn/Titan"
 {
 	LongLat	[ 140.90 24.30 0 ]
@@ -6268,7 +6015,6 @@ Location "Sparrow Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Japan.
-# Additional info: None
 Location "Suwa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 135.20 74.10 0 ]
@@ -6278,7 +6024,6 @@ Location "Suwa Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Ukraine.
-# Additional info: None
 Location "Synevyr Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 53.60 81.00 0 ]
@@ -6288,7 +6033,6 @@ Location "Synevyr Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Nov 13, 2012; Last update: Nov 13, 2012
 # Origin: Name of a mountain from Middle-earth, the fictional settingin fantasy novels by J.R.R. Tolkien.
-# Additional info: None
 Location "Taniquetil Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 213.26 -3.67 0 ]
@@ -6307,7 +6051,6 @@ Location "Tasmania Facula" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in New Zealand.
-# Additional info: None
 Location "Taupo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 132.60 72.70 0 ]
@@ -6317,7 +6060,6 @@ Location "Taupo Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Kazakhstan.
-# Additional info: None
 Location "Tengiz Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 105.60 73.20 0 ]
@@ -6336,7 +6078,6 @@ Location "Texel Facula" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: Oct 29, 2015
 # Origin: Persian rain god.
-# Additional info: None
 Location "Tishtrya Virgae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 179.75 23.84 0 ]
@@ -6346,7 +6087,6 @@ Location "Tishtrya Virgae" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: Oct 29, 2015
 # Origin: Aztec rain god.
-# Additional info: None
 Location "Tlaloc Virgae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 207.70 23.73 0 ]
@@ -6356,7 +6096,6 @@ Location "Tlaloc Virgae" "Sol/Saturn/Titan"
 
 # Approval date: Mar 01, 2017; Last update: Mar 01, 2017
 # Origin: Planet from the Dune series; home world of the Bene Tleilax.
-# Additional info: None
 Location "Tleilax Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 16.00 -48.00 0 ]
@@ -6366,7 +6105,6 @@ Location "Tleilax Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Indonesia.
-# Additional info: None
 Location "Toba Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 108.10 70.90 0 ]
@@ -6376,7 +6114,6 @@ Location "Toba Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 05, 2012; Last update: Jan 05, 2012
 # Origin: Aztec paradise where crops never fade.
-# Additional info: None
 Location "TOLLAN TERRA" "Sol/Saturn/Titan"
 {
 	LongLat	[ 322.70 6.40 0 ]
@@ -6404,7 +6141,6 @@ Location "Totak Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Apr 07, 2011; Last update: Apr 07, 2011
 # Origin: Lake in Japan.
-# Additional info: None
 Location "Towada Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 244.20 71.40 0 ]
@@ -6414,7 +6150,6 @@ Location "Towada Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: May 25, 2018
 # Origin: Golan Trevize, fictional character in Isaac Asimov's Foundation Series, councilman of the planet Terminus.
-# Additional info: None
 Location "Trevize Fretum" "Sol/Saturn/Titan"
 {
 	LongLat	[ 269.90 74.40 0 ]
@@ -6424,7 +6159,6 @@ Location "Trevize Fretum" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Greece.
-# Additional info: None
 Location "Trichonida Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 65.30 81.30 0 ]
@@ -6434,7 +6168,6 @@ Location "Trichonida Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Fjord in Canada.
-# Additional info: None
 Location "Trold Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 292.70 71.30 0 ]
@@ -6453,7 +6186,6 @@ Location "TSEGIHI" "Sol/Saturn/Titan"
 
 # Approval date: Aug 24, 2017; Last update: Aug 24, 2017
 # Origin: Hopi name for Mount Taylor (New Mexico, US), as a sacredmountain.
-# Additional info: None
 Location "TSIIPIYA TERRA" "Sol/Saturn/Titan"
 {
 	LongLat	[ 340.12 2.83 0 ]
@@ -6463,7 +6195,6 @@ Location "TSIIPIYA TERRA" "Sol/Saturn/Titan"
 
 # Approval date: Dec 27, 2015; Last update: Dec 28, 2015
 # Origin: Tsongmo, Changu; Lake in India.
-# Additional info: None
 Location "Tsomgo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 162.41 -86.37 0 ]
@@ -6483,7 +6214,6 @@ Location "TUI REGIO" "Sol/Saturn/Titan"
 
 # Approval date: Dec 14, 2020; Last update: Jan 07, 2021
 # Origin: Bay in Columbia.
-# Additional info: None
 Location "Tumaco Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 315.22 82.55 0 ]
@@ -6493,7 +6223,6 @@ Location "Tumaco Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Fjord in Greenland.
-# Additional info: None
 Location "Tunu Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 299.80 79.20 0 ]
@@ -6503,7 +6232,6 @@ Location "Tunu Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: May 24, 2018
 # Origin: Planet from the Dune series; “sanctuary planet” for defeated houses of the Imperium.
-# Additional info: None
 Location "Tupile Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 32.20 -80.50 0 ]
@@ -6513,7 +6241,6 @@ Location "Tupile Labyrinthus" "Sol/Saturn/Titan"
 
 # Approval date: Apr 05, 2010; Last update: Dec 01, 2010
 # Origin: Māori (New Zealand) “;Great Rain“; god.
-# Additional info: None
 Location "Uanui Virgae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 235.30 45.20 0 ]
@@ -6523,7 +6250,6 @@ Location "Uanui Virgae" "Sol/Saturn/Titan"
 
 # Approval date: Mar 12, 2013; Last update: Mar 12, 2013
 # Origin: Lake in Iran.
-# Additional info: None
 Location "Urmia Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 276.55 -39.27 0 ]
@@ -6533,7 +6259,6 @@ Location "Urmia Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in Mongolia.
-# Additional info: None
 Location "Uvs Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 245.70 69.60 0 ]
@@ -6543,7 +6268,6 @@ Location "Uvs Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 21, 2010; Last update: Dec 21, 2010
 # Origin: Intermittent lake (salar) in Bolivia.
-# Additional info: None
 Location "Uyuni Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 228.40 66.30 0 ]
@@ -6553,7 +6277,6 @@ Location "Uyuni Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Sep 16, 2010; Last update: Sep 16, 2010
 # Origin: Lake in Sweden.
-# Additional info: None
 Location "Vänern Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 223.10 70.40 0 ]
@@ -6563,7 +6286,6 @@ Location "Vänern Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Turkey.
-# Additional info: None
 Location "Van Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 137.30 74.20 0 ]
@@ -6582,7 +6304,6 @@ Location "Veles" "Sol/Saturn/Titan"
 
 # Approval date: Jul 20, 2015; Last update: May 24, 2018
 # Origin: Intermittent lake in Bosnia-Herzegovina.
-# Additional info: None
 Location "Veliko Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 33.10 -76.80 0 ]
@@ -6592,7 +6313,6 @@ Location "Veliko Lacuna" "Sol/Saturn/Titan"
 
 # Approval date: Feb 13, 2013; Last update: Feb 13, 2013
 # Origin: In Norse mythology, a broad river of the ice-cold poisonous Elivagar system.
-# Additional info: None
 Location "Vid Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ 242.25 72.90 0 ]
@@ -6602,7 +6322,6 @@ Location "Vid Flumina" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Argentina.
-# Additional info: None
 Location "Viedma Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 125.70 72.00 0 ]
@@ -6630,7 +6349,6 @@ Location "Waikare Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Bay in Japan.
-# Additional info: None
 Location "Wakasa Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 270.00 80.70 0 ]
@@ -6640,7 +6358,6 @@ Location "Wakasa Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Jan 19, 2015; Last update: Jan 21, 2015
 # Origin: Bay in Namibia.
-# Additional info: None
 Location "Walvis Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 324.10 58.20 0 ]
@@ -6650,7 +6367,6 @@ Location "Walvis Sinus" "Sol/Saturn/Titan"
 
 # Approval date: Mar 12, 2020; Last update: Mar 13, 2020
 # Origin: Lake in Ghana.
-# Additional info: None
 Location "Weija Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 327.68 68.77 0 ]
@@ -6669,7 +6385,6 @@ Location "Winia Fluctus" "Sol/Saturn/Titan"
 
 # Approval date: Feb 26, 2018; Last update: Feb 27, 2018
 # Origin: Lake in Canada.
-# Additional info: None
 Location "Winnipeg Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 153.31 78.05 0 ]
@@ -6679,7 +6394,6 @@ Location "Winnipeg Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 03, 2013; Last update: Dec 03, 2013
 # Origin: Intermittent lake in Australia.
-# Additional info: None
 Location "Woytchugga Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 109.00 68.88 0 ]
@@ -6698,7 +6412,6 @@ Location "XANADU" "Sol/Saturn/Titan"
 
 # Approval date: Nov 06, 2015; Last update: Nov 06, 2015
 # Origin: River in the Iliad.
-# Additional info: None
 Location "Xanthus Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 242.76 83.47 0 ]
@@ -6708,7 +6421,6 @@ Location "Xanthus Flumen" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Managua; lake in Nicaragua.
-# Additional info: None
 Location "Xolotlán Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 72.90 82.30 0 ]
@@ -6727,7 +6439,6 @@ Location "Xuttah Planitia" "Sol/Saturn/Titan"
 
 # Approval date: Jan 05, 2012; Last update: Jan 05, 2012
 # Origin: Australian spirit land filled with game and clean water for good souls.
-# Additional info: None
 Location "YALAING TERRA" "Sol/Saturn/Titan"
 {
 	LongLat	[ 324.00 -19.50 0 ]
@@ -6737,7 +6448,6 @@ Location "YALAING TERRA" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Siberia (Evenkia, Asiatic Russia).
-# Additional info: None
 Location "Yessey Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 110.80 73.00 0 ]
@@ -6747,7 +6457,6 @@ Location "Yessey Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Honduras.
-# Additional info: None
 Location "Yojoa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 54.10 78.10 0 ]
@@ -6757,7 +6466,6 @@ Location "Yojoa Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 06, 2017; Last update: Jun 06, 2017
 # Origin: Lake in Paraguay.
-# Additional info: None
 Location "Ypoa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 132.20 73.40 0 ]
@@ -6767,7 +6475,6 @@ Location "Ypoa Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Jun 26, 2017; Last update: Jun 26, 2017
 # Origin: Lake in Cuba.
-# Additional info: None
 Location "Zaza Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 106.90 72.40 0 ]
@@ -6777,7 +6484,6 @@ Location "Zaza Lacus" "Sol/Saturn/Titan"
 
 # Approval date: Dec 05, 2011; Last update: Dec 05, 2011
 # Origin: Greek personification of the gentle west wind.
-# Additional info: None
 Location "Zephyrus Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 217.10 -8.50 0 ]
@@ -6787,7 +6493,6 @@ Location "Zephyrus Undae" "Sol/Saturn/Titan"
 
 # Approval date: Aug 07, 2017; Last update: Aug 07, 2017
 # Origin: Lake in Antarctica.
-# Additional info: None
 Location "Zub Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 102.60 71.70 0 ]
@@ -6848,7 +6553,6 @@ Location "Meri" "Sol/Saturn/Hyperion"
 
 # Approval date: Aug 16, 2013; Last update: Aug 16, 2013
 # Origin: A Saracen lord, killed by Archbishop Turpin.
-# Additional info: None
 Location "Abisme" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 92.92 37.53 0 ]

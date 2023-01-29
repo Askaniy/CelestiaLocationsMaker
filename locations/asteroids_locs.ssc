@@ -2,15 +2,14 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # 106 locations on Vesta.
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Fabia Aconia Paulina; Roman aristocratic woman, wife of Praetextatus (d. c. 384).
-# Additional info: None
 Location "Aconia" "Sol/Vesta"
 {
 	LongLat	[ 1.37 7.54 0 ]
@@ -20,7 +19,6 @@ Location "Aconia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 17, 2014
 # Origin: Aelia Oculata; Roman vestal virgin (c. 83).
-# Additional info: None
 Location "Aelia" "Sol/Vesta"
 {
 	LongLat	[ 140.8 -14.26 0 ]
@@ -30,7 +28,6 @@ Location "Aelia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Cornelia Africana; Roman noblewoman, wife of Tiberus Gracchus Major, mother of Tiberus and Gaius Gracchus (c. 190-100 B.C.).
-# Additional info: None
 Location "Africana" "Sol/Vesta"
 {
 	LongLat	[ 195.87 68.99 0 ]
@@ -40,7 +37,6 @@ Location "Africana" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 18, 2014
 # Origin: Roman festival celebrated several times a year; on this day the Rex sacrorum offered a ram in the Regia.
-# Additional info: None
 Location "Agonium Rupes" "Sol/Vesta"
 {
 	LongLat	[ 166.08 -53.47 0 ]
@@ -50,7 +46,6 @@ Location "Agonium Rupes" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Alba Longa (usually identified with Castel Gandolfo), in the Alban Hills, 25 km SE of Rome. Ancient city founded by Ascanius.
-# Additional info: None
 Location "Albalonga Catena" "Sol/Vesta"
 {
 	LongLat	[ -77.39 -7.17 0 ]
@@ -60,7 +55,6 @@ Location "Albalonga Catena" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin.
-# Additional info: None
 Location "Albana" "Sol/Vesta"
 {
 	LongLat	[ 50.69 76.61 0 ]
@@ -70,7 +64,6 @@ Location "Albana" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Albia Dominica; Roman noblewoman, wife of Emperor Valens (c. 337–378).
-# Additional info: None
 Location "Albia" "Sol/Vesta"
 {
 	LongLat	[ -71.15 -27.85 0 ]
@@ -80,7 +73,6 @@ Location "Albia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman noblewoman, daughter of Anthemius and Aelia Euphemia, wife of Ricimer (fl. 467-472).
-# Additional info: None
 Location "Alypia" "Sol/Vesta"
 {
 	LongLat	[ -10.78 -70.22 0 ]
@@ -90,7 +82,6 @@ Location "Alypia" "Sol/Vesta"
 
 # Approval date: Oct 07, 2014; Last update: Oct 07, 2014
 # Origin: Angioletta Coradini; Italian planetary scientist (1946-2011).
-# Additional info: None
 Location "Angioletta" "Sol/Vesta"
 {
 	LongLat	[ 29.25 -40.16 0 ]
@@ -100,7 +91,6 @@ Location "Angioletta" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Famous Roman woman, daughter of M. Antonius and Octavia, wife of Drusus, mother of Germanicus, Livilla, and Emperor Claudius (36 B.C. - A.D. 37).
-# Additional info: None
 Location "Antonia" "Sol/Vesta"
 {
 	LongLat	[ 200.78 -58.70 0 ]
@@ -110,7 +100,6 @@ Location "Antonia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Julia Aquilia Severa; Roman vestal virgin (c. 218).
-# Additional info: None
 Location "Aquilia" "Sol/Vesta"
 {
 	LongLat	[ 40.88 -49.41 0 ]
@@ -120,7 +109,6 @@ Location "Aquilia" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 18, 2014
 # Origin: City at the foot of Albanus Mons, once a powerful city in early Latium (present-day Ariccia).
-# Additional info: None
 Location "Aricia Tholus" "Sol/Vesta"
 {
 	LongLat	[ 161.55 13.38 0 ]
@@ -130,7 +118,6 @@ Location "Aricia Tholus" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 70 B.C.).
-# Additional info: None
 Location "Arruntia" "Sol/Vesta"
 {
 	LongLat	[ 71.59 39.44 0 ]
@@ -140,7 +127,6 @@ Location "Arruntia" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 3rd century).
-# Additional info: None
 Location "Bellicia" "Sol/Vesta"
 {
 	LongLat	[ 47.76 37.73 0 ]
@@ -150,7 +136,6 @@ Location "Bellicia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Roman festival of Bacchus celebrated on the day of the winter solstice.
-# Additional info: None
 Location "Brumalia Tholus" "Sol/Vesta"
 {
 	LongLat	[ -85.01 -6.31 0 ]
@@ -160,7 +145,6 @@ Location "Brumalia Tholus" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Bruttia Crispina; Roman Empress, wife of Emperor Commodus (164-191).
-# Additional info: None
 Location "Bruttia" "Sol/Vesta"
 {
 	LongLat	[ 87.09 63.81 0 ]
@@ -170,7 +154,6 @@ Location "Bruttia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Atia Balba Caesonia; Roman noblewoman, daughter of Julius Ceasar’s sister, mother of Emperor Augustus (85-43 B.C.).
-# Additional info: None
 Location "Caesonia" "Sol/Vesta"
 {
 	LongLat	[ 99.93 31.20 0 ]
@@ -180,7 +163,6 @@ Location "Caesonia" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 3rd century).
-# Additional info: None
 Location "Calpurnia" "Sol/Vesta"
 {
 	LongLat	[ 199.1 16.72 0 ]
@@ -190,7 +172,6 @@ Location "Calpurnia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 213).
-# Additional info: None
 Location "Cannutia" "Sol/Vesta"
 {
 	LongLat	[ 64.73 -58.93 0 ]
@@ -200,7 +181,6 @@ Location "Cannutia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: One of the first Roman vestal virgins.
-# Additional info: None
 Location "Canuleia" "Sol/Vesta"
 {
 	LongLat	[ -65.48 -33.62 0 ]
@@ -210,7 +190,6 @@ Location "Canuleia" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (d. 266 B.C.).
-# Additional info: None
 Location "Caparronia" "Sol/Vesta"
 {
 	LongLat	[ 167.03 35.71 0 ]
@@ -220,7 +199,6 @@ Location "Caparronia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman Empress, daughter of military commander Lucillianus, wife of Emperor Jovian (mid 4th century C.E.).
-# Additional info: None
 Location "Charito" "Sol/Vesta"
 {
 	LongLat	[ -59.29 -44.80 0 ]
@@ -240,7 +218,6 @@ Location "Claudia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Coelia Concordia; the last Roman vestal virgin and the last Vestalis Maxima (Chief Vestal) after the Temple of Vesta was closed in 391 (d. 406 A.D.).
-# Additional info: None
 Location "Coelia" "Sol/Vesta"
 {
 	LongLat	[ 89.82 -1.14 0 ]
@@ -250,7 +227,6 @@ Location "Coelia" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 23).
-# Additional info: None
 Location "Cornelia" "Sol/Vesta"
 {
 	LongLat	[ -134.43 -9.37 0 ]
@@ -260,7 +236,6 @@ Location "Cornelia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin.
-# Additional info: None
 Location "Cossinia" "Sol/Vesta"
 {
 	LongLat	[ 28.96 0.63 0 ]
@@ -280,7 +255,6 @@ Location "Divalia Fossae" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 10-19).
-# Additional info: None
 Location "Domitia" "Sol/Vesta"
 {
 	LongLat	[ 187.96 37.62 0 ]
@@ -290,7 +264,6 @@ Location "Domitia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Julia; wife of Roman emperor Severus.
-# Additional info: None
 Location "Domna" "Sol/Vesta"
 {
 	LongLat	[ 75.93 -11.11 0 ]
@@ -300,7 +273,6 @@ Location "Domna" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Julia; famous Roman woman, second daughter of Germanicus and Agrippina, sister of Gaius (16-38).
-# Additional info: None
 Location "Drusilla" "Sol/Vesta"
 {
 	LongLat	[ -98.78 -15.05 0 ]
@@ -310,7 +282,6 @@ Location "Drusilla" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Priestess and prominent citizen of Pompeii (c. 1st century).
-# Additional info: None
 Location "Eumachia" "Sol/Vesta"
 {
 	LongLat	[ 167.06 0.14 0 ]
@@ -320,7 +291,6 @@ Location "Eumachia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Famous Roman woman, second wife of Constantius II.
-# Additional info: None
 Location "Eusebia" "Sol/Vesta"
 {
 	LongLat	[ 204.31 -42.04 0 ]
@@ -330,7 +300,6 @@ Location "Eusebia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Wife of Maximian (c. 324).
-# Additional info: None
 Location "Eutropia" "Sol/Vesta"
 {
 	LongLat	[ 105.01 22.40 0 ]
@@ -340,7 +309,6 @@ Location "Eutropia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (served as a vestal virgin from 73 to pre 58 B.C.).
-# Additional info: None
 Location "Fabia" "Sol/Vesta"
 {
 	LongLat	[ -94.24 15.53 0 ]
@@ -350,7 +318,6 @@ Location "Fabia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Flavia Maxima; Roman Empress, wife of Constantine I, executed by him (d. 326).
-# Additional info: None
 Location "Fausta" "Sol/Vesta"
 {
 	LongLat	[ -50.24 -25.44 0 ]
@@ -360,7 +327,6 @@ Location "Fausta" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 18, 2014
 # Origin: Roman All Souls’ Day (February 21) where each household made offerings at the graves of its dead.
-# Additional info: None
 Location "Feralia Planitia" "Sol/Vesta"
 {
 	LongLat	[ -48.29 3.03 0 ]
@@ -370,7 +336,6 @@ Location "Feralia Planitia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 215).
-# Additional info: None
 Location "Flavola" "Sol/Vesta"
 {
 	LongLat	[ 179.56 -9.16 0 ]
@@ -380,7 +345,6 @@ Location "Flavola" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (d. 216 B.C.).
-# Additional info: None
 Location "Floronia" "Sol/Vesta"
 {
 	LongLat	[ -55.94 36.23 0 ]
@@ -390,7 +354,6 @@ Location "Floronia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 69 B.C.).
-# Additional info: None
 Location "Fonteia" "Sol/Vesta"
 {
 	LongLat	[ 141.41 -53.25 0 ]
@@ -400,7 +363,6 @@ Location "Fonteia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Wife of Clodius, Curio, and Antony.
-# Additional info: None
 Location "Fulvia" "Sol/Vesta"
 {
 	LongLat	[ 142.65 -26.13 0 ]
@@ -410,7 +372,6 @@ Location "Fulvia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Annia Fundania Faustina; Roman noblewoman, cousin of M. Aurelius, victim of Commodus (d. 192).
-# Additional info: None
 Location "Fundania" "Sol/Vesta"
 {
 	LongLat	[ 135.02 57.62 0 ]
@@ -420,7 +381,6 @@ Location "Fundania" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Galeria Fundana; wife of Emperor Vitellius, (c. 1st century).
-# Additional info: None
 Location "Galeria" "Sol/Vesta"
 {
 	LongLat	[ -131.62 -29.82 0 ]
@@ -430,7 +390,6 @@ Location "Galeria" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin.
-# Additional info: None
 Location "Gegania" "Sol/Vesta"
 {
 	LongLat	[ 60.77 4.05 0 ]
@@ -440,7 +399,6 @@ Location "Gegania" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Pomponia Graecina; Roman noblewoman, married to the consul Aulus Plautius (d. A.D. 83).
-# Additional info: None
 Location "Graecina" "Sol/Vesta"
 {
 	LongLat	[ 87.01 -37.45 0 ]
@@ -450,7 +408,6 @@ Location "Graecina" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 18, 2014
 # Origin: Flavia Iulia Helena Augusta; mother of Constantine the Great.
-# Additional info: None
 Location "Helena" "Sol/Vesta"
 {
 	LongLat	[ 122.55 -41.51 0 ]
@@ -460,7 +417,6 @@ Location "Helena" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Herennia Etruscilla; Roman Empress, wife of Emperor Decius, mother of Emperors Etruscus Herrenius and Hostilian (c. 250).
-# Additional info: None
 Location "Herennia" "Sol/Vesta"
 {
 	LongLat	[ -139.67 -72.42 0 ]
@@ -470,7 +426,6 @@ Location "Herennia" "Sol/Vesta"
 
 # Approval date: Oct 07, 2014; Last update: Oct 07, 2014
 # Origin: Daughter of consul and advocate Quintus Hortensius (fl. c. 50 B.C.); she was known as a skilled orator.
-# Additional info: None
 Location "Hortensia" "Sol/Vesta"
 {
 	LongLat	[ 15.38 -46.85 0 ]
@@ -480,7 +435,6 @@ Location "Hortensia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 107).
-# Additional info: None
 Location "Iuinia" "Sol/Vesta"
 {
 	LongLat	[ 88.22 -35.58 0 ]
@@ -490,7 +444,6 @@ Location "Iuinia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Famous Roman woman, second wife of Emperor Valentinian.
-# Additional info: None
 Location "Justina" "Sol/Vesta"
 {
 	LongLat	[ -42.12 -34.41 0 ]
@@ -500,7 +453,6 @@ Location "Justina" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 62).
-# Additional info: None
 Location "Laelia" "Sol/Vesta"
 {
 	LongLat	[ 140.45 -46.82 0 ]
@@ -510,7 +462,6 @@ Location "Laelia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Clodia; Roman vestal virgin (c. 213).
-# Additional info: None
 Location "Laeta" "Sol/Vesta"
 {
 	LongLat	[ 179.9 14.90 0 ]
@@ -520,7 +471,6 @@ Location "Laeta" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Acca; mythical woman, wife of the shepherd Faustulus in Roman mythology, adoptive mother of Romulus and Remus.
-# Additional info: None
 Location "Laurentia" "Sol/Vesta"
 {
 	LongLat	[ -57.2 -28.15 0 ]
@@ -530,7 +480,6 @@ Location "Laurentia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 18, 2014
 # Origin: Roman city revered it for its Aeneas traditions, its Venus temple, and it cults of Vesta (now Pratica de Mare).
-# Additional info: None
 Location "Lavinium Dorsum" "Sol/Vesta"
 {
 	LongLat	[ -40.85 27.15 0 ]
@@ -540,7 +489,6 @@ Location "Lavinium Dorsum" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 25).
-# Additional info: None
 Location "Lepida" "Sol/Vesta"
 {
 	LongLat	[ -53.24 16.74 0 ]
@@ -550,7 +498,6 @@ Location "Lepida" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 18, 2014
 # Origin: Roman vestal virgin (c. 140-113 B.C.).
-# Additional info: None
 Location "Licinia" "Sol/Vesta"
 {
 	LongLat	[ 17.35 23.34 0 ]
@@ -560,7 +507,6 @@ Location "Licinia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Lollia Paulina; Roman woman of distinguished ancestry and great wealth, Roman Empress as the third wife of Caligula (15-49).
-# Additional info: None
 Location "Lollia" "Sol/Vesta"
 {
 	LongLat	[ 92.33 -37.36 0 ]
@@ -570,7 +516,6 @@ Location "Lollia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Domitia; Roman empress, wife of Emperor Domitian, Augusta of Rome (c. 51-130).
-# Additional info: None
 Location "Longina" "Sol/Vesta"
 {
 	LongLat	[ -129.35 36.96 0 ]
@@ -580,7 +525,6 @@ Location "Longina" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Ancient Roman feast held on July 19 when the Romans, defeated and pursued by the Gauls, retired and concealed themselves in the woods.
-# Additional info: None
 Location "Lucaria Tholus" "Sol/Vesta"
 {
 	LongLat	[ 103.65 -12.90 0 ]
@@ -590,7 +534,6 @@ Location "Lucaria Tholus" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Annia; Roman Empress, mother of M. Aurelius, married to Emperors L. Verus, and then to Ti. Claudius (c. 150-182).
-# Additional info: None
 Location "Lucilla" "Sol/Vesta"
 {
 	LongLat	[ 149.12 -75.96 0 ]
@@ -600,7 +543,6 @@ Location "Lucilla" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman festival reflecting the needs of a small pastoral community, involving the sacrifice of goats and youths striking those whom they met with strips of goat skins, held February 15.
-# Additional info: None
 Location "Lupercalia Fossa" "Sol/Vesta"
 {
 	LongLat	[ 92.6 10.33 0 ]
@@ -610,7 +552,6 @@ Location "Lupercalia Fossa" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 240).
-# Additional info: None
 Location "Mamilia" "Sol/Vesta"
 {
 	LongLat	[ -67.91 48.39 0 ]
@@ -620,7 +561,6 @@ Location "Mamilia" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (d. 113 B.C.).
-# Additional info: None
 Location "Marcia" "Sol/Vesta"
 {
 	LongLat	[ 189.55 8.98 0 ]
@@ -630,7 +570,6 @@ Location "Marcia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Second wife of Herod, king of Roman province Judea, known for her great beauty (c. 60-29 B.C.).
-# Additional info: None
 Location "Mariamne" "Sol/Vesta"
 {
 	LongLat	[ 200.73 -68.44 0 ]
@@ -640,7 +579,6 @@ Location "Mariamne" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 19, 2014
 # Origin: Roman festival associated with the goddess Juno, celebrated on March 1.
-# Additional info: None
 Location "Matronalia Rupes" "Sol/Vesta"
 {
 	LongLat	[ 82.76 -49.42 0 ]
@@ -650,7 +588,6 @@ Location "Matronalia Rupes" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Claudia Metrodora; Greek woman with Roman citizenship, prominent public benefactor (mid 1st century A.D.).
-# Additional info: None
 Location "Metrodora" "Sol/Vesta"
 {
 	LongLat	[ -49.46 -59.43 0 ]
@@ -660,7 +597,6 @@ Location "Metrodora" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: The first wife of the Roman Emperor Constantine the Great, mother of Crispus (early 4th century).
-# Additional info: None
 Location "Minervina" "Sol/Vesta"
 {
 	LongLat	[ 49.29 16.85 0 ]
@@ -670,7 +606,6 @@ Location "Minervina" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 337 B.C.).
-# Additional info: None
 Location "Minucia" "Sol/Vesta"
 {
 	LongLat	[ 207.2 20.20 0 ]
@@ -680,7 +615,6 @@ Location "Minucia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 19, 2014
 # Origin: Daughter of Pythagoras and Theano, wife of Milon of Crotona.
-# Additional info: None
 Location "Myia" "Sol/Vesta"
 {
 	LongLat	[ 106.34 -50.53 0 ]
@@ -690,7 +624,6 @@ Location "Myia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Mar 19, 2014
 # Origin: Roman festival held on July 23 in the heat of the summer to honor Neptunus, god of water.
-# Additional info: None
 Location "Neptunalia Dorsa" "Sol/Vesta"
 {
 	LongLat	[ -69.25 -45.14 0 ]
@@ -700,7 +633,6 @@ Location "Neptunalia Dorsa" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 204).
-# Additional info: None
 Location "Numisia" "Sol/Vesta"
 {
 	LongLat	[ -112.75 -7.48 0 ]
@@ -710,7 +642,6 @@ Location "Numisia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (served as vestal virgin from c. 40 B.C. to A.D. 19).
-# Additional info: None
 Location "Occia" "Sol/Vesta"
 {
 	LongLat	[ 18.48 -15.47 0 ]
@@ -720,7 +651,6 @@ Location "Occia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (third century A.D.).
-# Additional info: None
 Location "Octavia" "Sol/Vesta"
 {
 	LongLat	[ 147.21 -3.30 0 ]
@@ -730,7 +660,6 @@ Location "Octavia" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (d. 483 B.C.).
-# Additional info: None
 Location "Oppia" "Sol/Vesta"
 {
 	LongLat	[ -50.92 -7.89 0 ]
@@ -740,7 +669,6 @@ Location "Oppia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Paculla Annia; Campanian (Southern Italy) priestess of Bacchus whose reforms radically altered the Bacchanalian ritual in ancient Rome (fl. c. 188 B.C.).
-# Additional info: None
 Location "Paculla" "Sol/Vesta"
 {
 	LongLat	[ 1.15 -64.22 0 ]
@@ -750,7 +678,6 @@ Location "Paculla" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Mar 19, 2014
 # Origin: Roman festival that included performance of funeral rites, at the first day of the nine-day Parentalia festival honoring ancestors.
-# Additional info: None
 Location "Parentatio Rupes" "Sol/Vesta"
 {
 	LongLat	[ -42.41 -73.75 0 ]
@@ -760,7 +687,6 @@ Location "Parentatio Rupes" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Mar 19, 2014
 # Origin: Roman festival of the shepherds' and livestocks' god and goddess Pales, held on April 21, feast of purification of the beast, herdsmen, and stalls.
-# Additional info: None
 Location "Parilia Dorsa" "Sol/Vesta"
 {
 	LongLat	[ -26.16 -56.71 0 ]
@@ -770,7 +696,6 @@ Location "Parilia Dorsa" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 19, 2014
 # Origin: Aurelia; priestess for life of asylum-granting Artemis Pergaia, built hydreion at her own expense.
-# Additional info: None
 Location "Paulina" "Sol/Vesta"
 {
 	LongLat	[ -16.89 10.92 0 ]
@@ -780,7 +705,6 @@ Location "Paulina" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 100-70 B.C.).
-# Additional info: None
 Location "Perpennia" "Sol/Vesta"
 {
 	LongLat	[ 108.75 -23.03 0 ]
@@ -790,7 +714,6 @@ Location "Perpennia" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 600 B.C.).
-# Additional info: None
 Location "Pinaria" "Sol/Vesta"
 {
 	LongLat	[ 31.63 -29.54 0 ]
@@ -800,7 +723,6 @@ Location "Pinaria" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Galla; daughter of the Roman Emperor Theodorius I, wife of Athualf, King of the Visigoths, and Constantius III, Roman Emperor (390-450).
-# Additional info: None
 Location "Placidia" "Sol/Vesta"
 {
 	LongLat	[ 131.38 19.24 0 ]
@@ -810,7 +732,6 @@ Location "Placidia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Plancia Magna; daughter of Roman Senator Varus, wife of Tertullus, benefactress and patron of Perga, the capital of the Roman province of Pamphylia in Asia Minor (1st-2nd century A.D.).
-# Additional info: None
 Location "Plancia" "Sol/Vesta"
 {
 	LongLat	[ 193.91 61.56 0 ]
@@ -820,7 +741,6 @@ Location "Plancia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 213).
-# Additional info: None
 Location "Pomponia" "Sol/Vesta"
 {
 	LongLat	[ 112.58 70.20 0 ]
@@ -830,7 +750,6 @@ Location "Pomponia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Daughter of Roman statesman Cato Uticensis, second wife of M. Brutus (c. 70-43/42 B.C.).
-# Additional info: None
 Location "Portia" "Sol/Vesta"
 {
 	LongLat	[ 41.17 0.91 0 ]
@@ -840,7 +759,6 @@ Location "Portia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 420 B.C.).
-# Additional info: None
 Location "Postumia" "Sol/Vesta"
 {
 	LongLat	[ -116.23 33.84 0 ]
@@ -850,7 +768,6 @@ Location "Postumia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Flavia Publicia; Roman vestal virgin (c. 213).
-# Additional info: None
 Location "Publicia" "Sol/Vesta"
 {
 	LongLat	[ 84.36 14.53 0 ]
@@ -870,7 +787,6 @@ Location "Rheasilvia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 19, 2014
 # Origin: Roman festival where a dog was sacrificed to the god Robigus to prevent the red dust, or mildew, which attacked corn when the ear was beginning to form.
-# Additional info: None
 Location "Robigalia Catena" "Sol/Vesta"
 {
 	LongLat	[ -130.22 -14.04 0 ]
@@ -880,7 +796,6 @@ Location "Robigalia Catena" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 54).
-# Additional info: None
 Location "Rubria" "Sol/Vesta"
 {
 	LongLat	[ 18.34 -7.32 0 ]
@@ -890,7 +805,6 @@ Location "Rubria" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 250-301).
-# Additional info: None
 Location "Rufillia" "Sol/Vesta"
 {
 	LongLat	[ 138.71 -12.92 0 ]
@@ -910,7 +824,6 @@ Location "Saturnalia Fossae" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 40 B.C.-A.D. 23).
-# Additional info: None
 Location "Scantia" "Sol/Vesta"
 {
 	LongLat	[ -85.35 29.63 0 ]
@@ -920,7 +833,6 @@ Location "Scantia" "Sol/Vesta"
 
 # Approval date: Oct 07, 2014; Last update: Oct 07, 2014
 # Origin: Amaesia Sentia; mentioned by Valerius Maximus as an instance of a female who pleaded her own cause before the praetor; called “Androgyne” for having a man’s spirit with a female body.
-# Additional info: None
 Location "Sentia" "Sol/Vesta"
 {
 	LongLat	[ 20.75 -38.39 0 ]
@@ -930,7 +842,6 @@ Location "Sentia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Roman noblewoman, niece of Emperor Theodosius (c. 400).
-# Additional info: None
 Location "Serena" "Sol/Vesta"
 {
 	LongLat	[ 120.71 -20.43 0 ]
@@ -940,7 +851,6 @@ Location "Serena" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 240).
-# Additional info: None
 Location "Severina" "Sol/Vesta"
 {
 	LongLat	[ 121.55 -75.41 0 ]
@@ -950,7 +860,6 @@ Location "Severina" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (d. 274 B.C.).
-# Additional info: None
 Location "Sextilia" "Sol/Vesta"
 {
 	LongLat	[ 145.93 -39.00 0 ]
@@ -960,7 +869,6 @@ Location "Sextilia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin.
-# Additional info: None
 Location "Sossia" "Sol/Vesta"
 {
 	LongLat	[ -74.24 -36.78 0 ]
@@ -970,7 +878,6 @@ Location "Sossia" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin.
-# Additional info: None
 Location "Tarpeia" "Sol/Vesta"
 {
 	LongLat	[ 29.3 -69.47 0 ]
@@ -980,7 +887,6 @@ Location "Tarpeia" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 19, 2014
 # Origin: Teia Euphrosyne Ruffina, Roman vestal virgin (c. 200).
-# Additional info: None
 Location "Teia" "Sol/Vesta"
 {
 	LongLat	[ -88.94 -3.44 0 ]
@@ -990,7 +896,6 @@ Location "Teia" "Sol/Vesta"
 
 # Approval date: Nov 21, 2012; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 48).
-# Additional info: None
 Location "Torquata" "Sol/Vesta"
 {
 	LongLat	[ -6.22 46.45 0 ]
@@ -1000,7 +905,6 @@ Location "Torquata" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin.
-# Additional info: None
 Location "Tuccia" "Sol/Vesta"
 {
 	LongLat	[ 196.81 -39.86 0 ]
@@ -1010,7 +914,6 @@ Location "Tuccia" "Sol/Vesta"
 
 # Approval date: Sep 30, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin.
-# Additional info: None
 Location "Urbinia" "Sol/Vesta"
 {
 	LongLat	[ -83.74 -29.88 0 ]
@@ -1020,7 +923,6 @@ Location "Urbinia" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 10-83).
-# Additional info: None
 Location "Varronilla" "Sol/Vesta"
 {
 	LongLat	[ 29.58 29.62 0 ]
@@ -1030,7 +932,6 @@ Location "Varronilla" "Sol/Vesta"
 
 # Approval date: Feb 28, 2012; Last update: Mar 28, 2014
 # Origin: One of the first Roman vestal virgins.
-# Additional info: None
 Location "Veneneia" "Sol/Vesta"
 {
 	LongLat	[ 155.68 -47.93 0 ]
@@ -1040,7 +941,6 @@ Location "Veneneia" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 19, 2014
 # Origin: Roman festival of Vesta, held June 7-15.
-# Additional info: None
 Location "VESTALIA TERRA" "Sol/Vesta"
 {
 	LongLat	[ -116.53 -3.73 0 ]
@@ -1050,7 +950,6 @@ Location "VESTALIA TERRA" "Sol/Vesta"
 
 # Approval date: Feb 05, 2014; Last update: Feb 05, 2014
 # Origin: Roman vestal virgin (c. 200).
-# Additional info: None
 Location "Vettenia" "Sol/Vesta"
 {
 	LongLat	[ 79.31 4.80 0 ]
@@ -1060,7 +959,6 @@ Location "Vettenia" "Sol/Vesta"
 
 # Approval date: Dec 27, 2011; Last update: Mar 19, 2014
 # Origin: Roman vestal virgin (c. 48).
-# Additional info: None
 Location "Vibidia" "Sol/Vesta"
 {
 	LongLat	[ -139.7 -26.96 0 ]
@@ -1073,7 +971,6 @@ Location "Vibidia" "Sol/Vesta"
 
 # Approval date: Apr 05, 2011; Last update: Apr 28, 2011
 # Origin: Province of the Roman Empire at the time of Lutetia, located in ancient and present-day Greece.
-# Additional info: None
 Location "ACHAIA REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 206.00 28.00 0 ]
@@ -1083,7 +980,6 @@ Location "ACHAIA REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: Province of the Roman Empire at the time of Lutetia, its location corresponds to present-day Andalusia province, Spain.
-# Additional info: None
 Location "BAETICA REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 318.00 69.00 0 ]
@@ -1093,7 +989,6 @@ Location "BAETICA REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Bavay in France.
-# Additional info: None
 Location "Bagacum" "Sol/Lutetia"
 {
 	LongLat	[ 49.00 46.00 0 ]
@@ -1103,7 +998,6 @@ Location "Bagacum" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Basel in Switzerland.
-# Additional info: None
 Location "Basilia" "Sol/Lutetia"
 {
 	LongLat	[ 184.00 73.00 0 ]
@@ -1113,7 +1007,6 @@ Location "Basilia" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Bonn in Germany.
-# Additional info: None
 Location "Bonna" "Sol/Lutetia"
 {
 	LongLat	[ 67.00 62.00 0 ]
@@ -1123,7 +1016,6 @@ Location "Bonna" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Bordeaux in France.
-# Additional info: None
 Location "Burdigala" "Sol/Lutetia"
 {
 	LongLat	[ 211.00 52.00 0 ]
@@ -1133,7 +1025,6 @@ Location "Burdigala" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Danube River in Europe.
-# Additional info: None
 Location "Danuvius Labes" "Sol/Lutetia"
 {
 	LongLat	[ 333.00 70.00 0 ]
@@ -1143,7 +1034,6 @@ Location "Danuvius Labes" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: Province of the Roman Empire at the time of Lutetia, its location corresponds to present-day central Italy.
-# Additional info: None
 Location "ETRURIA REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 282.00 19.00 0 ]
@@ -1153,7 +1043,6 @@ Location "ETRURIA REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Florence in Italy.
-# Additional info: None
 Location "Florentia" "Sol/Lutetia"
 {
 	LongLat	[ 137.00 23.00 0 ]
@@ -1163,7 +1052,6 @@ Location "Florentia" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Gállego River in Spain.
-# Additional info: None
 Location "Gallicum Labes" "Sol/Lutetia"
 {
 	LongLat	[ 287.00 77.00 0 ]
@@ -1173,7 +1061,6 @@ Location "Gallicum Labes" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Joué-lès-Tours in France.
-# Additional info: None
 Location "Gaudiaco" "Sol/Lutetia"
 {
 	LongLat	[ 5.00 58.00 0 ]
@@ -1183,7 +1070,6 @@ Location "Gaudiaco" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Genoa in Italy.
-# Additional info: None
 Location "Genua" "Sol/Lutetia"
 {
 	LongLat	[ 117.00 11.00 0 ]
@@ -1193,7 +1079,6 @@ Location "Genua" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Girona in Spain.
-# Additional info: None
 Location "Gerunda" "Sol/Lutetia"
 {
 	LongLat	[ 68.00 78.00 0 ]
@@ -1203,7 +1088,6 @@ Location "Gerunda" "Sol/Lutetia"
 
 # Approval date: Mar 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Glonn River in Germany.
-# Additional info: None
 Location "Glana Rupes" "Sol/Lutetia"
 {
 	LongLat	[ 124.00 11.00 0 ]
@@ -1213,7 +1097,6 @@ Location "Glana Rupes" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: Hermann; French astronomer of German origin, discoverer of asteroid (21) Lutetia (1802-1866).
-# Additional info: None
 Location "GOLDSCHMIDT REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 360.00 -65.00 0 ]
@@ -1223,7 +1106,6 @@ Location "GOLDSCHMIDT REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Ebro River in Spain.
-# Additional info: None
 Location "Hiberus Fossa" "Sol/Lutetia"
 {
 	LongLat	[ 33.00 46.00 0 ]
@@ -1233,7 +1115,6 @@ Location "Hiberus Fossa" "Sol/Lutetia"
 
 # Approval date: Sep 02, 2011; Last update: Sep 02, 2011
 # Origin: City at the time of Lutetia, present-day Enns in Austria; defines zero degrees longitude on Lutetia.
-# Additional info: None
 Location "Lauriacum" "Sol/Lutetia"
 {
 	LongLat	[ 0.00 37.00 0 ]
@@ -1243,7 +1124,6 @@ Location "Lauriacum" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Lyon in France.
-# Additional info: None
 Location "Lugdunum" "Sol/Lutetia"
 {
 	LongLat	[ 219.00 10.00 0 ]
@@ -1253,7 +1133,6 @@ Location "Lugdunum" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Marseille in France.
-# Additional info: None
 Location "Massilia" "Sol/Lutetia"
 {
 	LongLat	[ 96.00 41.00 0 ]
@@ -1263,7 +1142,6 @@ Location "Massilia" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: Province of the Roman Empire at the time of Lutetia, its location corresponds to present-day southern France.
-# Additional info: None
 Location "NARBONENSIS REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 101.00 34.00 0 ]
@@ -1273,7 +1151,6 @@ Location "NARBONENSIS REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Nice in France.
-# Additional info: None
 Location "Nicaea" "Sol/Lutetia"
 {
 	LongLat	[ 181.00 43.00 0 ]
@@ -1283,7 +1160,6 @@ Location "Nicaea" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: Province of the Roman Empire at the time of Lutetia, its location corresponds to present-day Austria and a part of Slovenia.
-# Additional info: None
 Location "NORICUM REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 10.00 41.00 0 ]
@@ -1293,7 +1169,6 @@ Location "NORICUM REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: Province of the Roman Empire at the time of Lutetia, its location corresponds to present-day western Hungary and parts of the adjacent countries.
-# Additional info: None
 Location "PANNONIA REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 30.00 23.00 0 ]
@@ -1303,7 +1178,6 @@ Location "PANNONIA REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Padua in Italy.
-# Additional info: None
 Location "Patavium" "Sol/Lutetia"
 {
 	LongLat	[ 52.00 31.00 0 ]
@@ -1313,7 +1187,6 @@ Location "Patavium" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: Province of the Roman Empire at the time of Lutetia, its location corresponds to present-day eastern Switzerland and parts of the adjacent countries.
-# Additional info: None
 Location "RAETIA REGIO" "Sol/Lutetia"
 {
 	LongLat	[ 305.00 -20.00 0 ]
@@ -1323,7 +1196,6 @@ Location "RAETIA REGIO" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Rhine River in Europe.
-# Additional info: None
 Location "Rhenus Rupes" "Sol/Lutetia"
 {
 	LongLat	[ 262.00 20.00 0 ]
@@ -1333,7 +1205,6 @@ Location "Rhenus Rupes" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Rhone River in Switzerland and France.
-# Additional info: None
 Location "Rhodanus Rimae" "Sol/Lutetia"
 {
 	LongLat	[ 39.00 53.00 0 ]
@@ -1343,7 +1214,6 @@ Location "Rhodanus Rimae" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Rome in Italy.
-# Additional info: None
 Location "Roma" "Sol/Lutetia"
 {
 	LongLat	[ 243.00 13.00 0 ]
@@ -1353,7 +1223,6 @@ Location "Roma" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Salles (Gironde) in France.
-# Additional info: None
 Location "Salomacus" "Sol/Lutetia"
 {
 	LongLat	[ 109.00 11.00 0 ]
@@ -1363,7 +1232,6 @@ Location "Salomacus" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Solin in Croatia.
-# Additional info: None
 Location "Salona" "Sol/Lutetia"
 {
 	LongLat	[ 37.00 32.00 0 ]
@@ -1373,7 +1241,6 @@ Location "Salona" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Sarno River in Italy.
-# Additional info: None
 Location "Sarnus Labes" "Sol/Lutetia"
 {
 	LongLat	[ 285.00 63.00 0 ]
@@ -1383,7 +1250,6 @@ Location "Sarnus Labes" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Seine River in France.
-# Additional info: None
 Location "Sequana Fossa" "Sol/Lutetia"
 {
 	LongLat	[ 106.00 57.00 0 ]
@@ -1393,7 +1259,6 @@ Location "Sequana Fossa" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Syracuse in Italy.
-# Additional info: None
 Location "Syracusae" "Sol/Lutetia"
 {
 	LongLat	[ 328.00 39.00 0 ]
@@ -1403,7 +1268,6 @@ Location "Syracusae" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Tiber River in Italy.
-# Additional info: None
 Location "Tiberis Rimae" "Sol/Lutetia"
 {
 	LongLat	[ 229.00 33.00 0 ]
@@ -1413,7 +1277,6 @@ Location "Tiberis Rimae" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: River at the time of Lutetia, present-day Ticino River in Italy.
-# Additional info: None
 Location "Ticinum Dorsum" "Sol/Lutetia"
 {
 	LongLat	[ 100.00 51.00 0 ]
@@ -1423,7 +1286,6 @@ Location "Ticinum Dorsum" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Toledo in Spain.
-# Additional info: None
 Location "Toletum" "Sol/Lutetia"
 {
 	LongLat	[ 161.00 87.00 0 ]
@@ -1433,7 +1295,6 @@ Location "Toletum" "Sol/Lutetia"
 
 # Approval date: Apr 05, 2011; Last update: Apr 05, 2011
 # Origin: City at the time of Lutetia, present-day Zurich in Switzerland.
-# Additional info: None
 Location "Turicum" "Sol/Lutetia"
 {
 	LongLat	[ 158.00 20.00 0 ]
@@ -1474,7 +1335,6 @@ Location "Azzurra" "Sol/Ida"
 
 # Approval date: 1997; Last update: Feb 10, 2012
 # Origin: Lava tube in the Republic of Korea.
-# Additional info: None
 Location "Bilemot" "Sol/Ida"
 {
 	LongLat	[ -29.20 27.80 0 ]
@@ -1556,7 +1416,6 @@ Location "Mammoth" "Sol/Ida"
 
 # Approval date: 1997; Last update: Feb 10, 2012
 # Origin: Lava tube in the Republic of Korea.
-# Additional info: None
 Location "Manjang" "Sol/Ida"
 {
 	LongLat	[ -90.50 28.30 0 ]
@@ -2250,7 +2109,6 @@ Location "Tai-yü" "Sol/Eros"
 
 # Approval date: 2003; Last update: Dec 01, 2010
 # Origin: Māori hero, beloved of young maiden Hinemoa who swam across Lake Rotorua to marry him.
-# Additional info: None
 Location "Tutanekai" "Sol/Eros"
 {
 	LongLat	[ 3.30 56.40 0 ]
@@ -2591,7 +2449,6 @@ Location "Zohar" "Sol/Gaspra"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Banded gemstone, variety of the mineral chalcedony.
-# Additional info: None
 Location "Agate" "Sol/Steins"
 {
 	LongLat	[ -1.80 -57.60 0 ]
@@ -2601,7 +2458,6 @@ Location "Agate" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Gemstone notable for its color change, appearing green in daylight, but red under incandescent light; a variety of chrysoberyl.
-# Additional info: None
 Location "Alexandrite" "Sol/Steins"
 {
 	LongLat	[ -20.70 7.00 0 ]
@@ -2611,7 +2467,6 @@ Location "Alexandrite" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Red to violet-red gemstone, a variety of the mineral garnet.
-# Additional info: None
 Location "Almandine" "Sol/Steins"
 {
 	LongLat	[ -53.80 -29.50 0 ]
@@ -2621,7 +2476,6 @@ Location "Almandine" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Light bluish-green gemstone, a variety of the mineral orthoclase.
-# Additional info: None
 Location "Amazonite" "Sol/Steins"
 {
 	LongLat	[ -75.60 -9.60 0 ]
@@ -2631,7 +2485,6 @@ Location "Amazonite" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Violet gemstone, a variety of the mineral quartz.
-# Additional info: None
 Location "Amethyst" "Sol/Steins"
 {
 	LongLat	[ -343.20 -28.90 0 ]
@@ -2641,7 +2494,6 @@ Location "Amethyst" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Blue-green and light blue gemstone, a variety of the mineral beryl.
-# Additional info: None
 Location "Aquamarine" "Sol/Steins"
 {
 	LongLat	[ -120.30 -7.20 0 ]
@@ -2651,7 +2503,6 @@ Location "Aquamarine" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Nikolai Stepanovich; Soviet and Ukrainian astronomer, discovered asteroid (2867) Steins (1931-2004).
-# Additional info: None
 Location "CHERNYKH REGIO" "Sol/Steins"
 {
 	LongLat	[ -60.00 20.00 0 ]
@@ -2661,7 +2512,6 @@ Location "CHERNYKH REGIO" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Yellow or brownish-green gemstone, the third hardest gemstone after diamond and sapphire.
-# Additional info: None
 Location "Chrysoberyl" "Sol/Steins"
 {
 	LongLat	[ -29.60 2.00 0 ]
@@ -2671,7 +2521,6 @@ Location "Chrysoberyl" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Yellow gemstone, a variety of the mineral quartz.
-# Additional info: None
 Location "Citrine" "Sol/Steins"
 {
 	LongLat	[ -340.60 -13.70 0 ]
@@ -2681,7 +2530,6 @@ Location "Citrine" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Rare and precious gemstone, the hardest natural substance.
-# Additional info: None
 Location "Diamond" "Sol/Steins"
 {
 	LongLat	[ -13.40 54.60 0 ]
@@ -2691,7 +2539,6 @@ Location "Diamond" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Green gemstone, a variety of the mineral beryl.
-# Additional info: None
 Location "Emerald" "Sol/Steins"
 {
 	LongLat	[ -139.30 3.90 0 ]
@@ -2701,7 +2548,6 @@ Location "Emerald" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Group of related minerals found in a variety of colors and often cut as gemstones.
-# Additional info: None
 Location "Garnet" "Sol/Steins"
 {
 	LongLat	[ -338.30 8.60 0 ]
@@ -2711,7 +2557,6 @@ Location "Garnet" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Semitransparent to translucent gemstone, a variety of the minerals nephrite and jadeite.
-# Additional info: None
 Location "Jade" "Sol/Steins"
 {
 	LongLat	[ -335.30 18.00 0 ]
@@ -2721,7 +2566,6 @@ Location "Jade" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Lapis Lazuli; gemstone formed from a rock containing a number of minerals, the quality and value determined by the color and abundance of the blue mineral lazurite.
-# Additional info: None
 Location "Lapis" "Sol/Steins"
 {
 	LongLat	[ -329.70 31.50 0 ]
@@ -2731,7 +2575,6 @@ Location "Lapis" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Translucent to opaque gemstone, usually banded or rich green and often found with azurite.
-# Additional info: None
 Location "Malachite" "Sol/Steins"
 {
 	LongLat	[ -49.90 -11.80 0 ]
@@ -2741,7 +2584,6 @@ Location "Malachite" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Volcanic glass used as a gemstone.
-# Additional info: None
 Location "Obsidian" "Sol/Steins"
 {
 	LongLat	[ -43.60 10.60 0 ]
@@ -2751,7 +2593,6 @@ Location "Obsidian" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Gemstone variety of the mineral chalcedony.
-# Additional info: None
 Location "Onyx" "Sol/Steins"
 {
 	LongLat	[ -8.90 -10.90 0 ]
@@ -2761,7 +2602,6 @@ Location "Onyx" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Non-crystalline gemstone noted for its rich play of colors when turned in the light.
-# Additional info: None
 Location "Opal" "Sol/Steins"
 {
 	LongLat	[ -337.80 -1.10 0 ]
@@ -2771,7 +2611,6 @@ Location "Opal" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Green gemstone, a variety of the mineral olivine.
-# Additional info: None
 Location "Peridot" "Sol/Steins"
 {
 	LongLat	[ -336.00 25.10 0 ]
@@ -2781,7 +2620,6 @@ Location "Peridot" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: All colors of gemstones of the mineral corundum (except red, which is the gemstone ruby) are called sapphires.
-# Additional info: None
 Location "Sapphire" "Sol/Steins"
 {
 	LongLat	[ -31.30 31.30 0 ]
@@ -2801,7 +2639,6 @@ Location "Topaz" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Gemstone noted for its beautiful, multi-colored prismatic crystals.
-# Additional info: None
 Location "Tourmaline" "Sol/Steins"
 {
 	LongLat	[ -347.60 20.90 0 ]
@@ -2811,7 +2648,6 @@ Location "Tourmaline" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Opaque blue-to-green mineral of arid climates that has been used as a gemstone for thousands of years.
-# Additional info: None
 Location "Turquoise" "Sol/Steins"
 {
 	LongLat	[ -113.40 31.60 0 ]
@@ -2821,7 +2657,6 @@ Location "Turquoise" "Sol/Steins"
 
 # Approval date: May 09, 2012; Last update: May 09, 2012
 # Origin: Gemstone that is colorless in its pure form, but also found in yellows, browns, and reds.
-# Additional info: None
 Location "Zircon" "Sol/Steins"
 {
 	LongLat	[ -335.00 13.50 0 ]
@@ -2990,7 +2825,6 @@ Location "YOSHINOBU REGIO" "Sol/Itokawa"
 
 # Approval date: Mar 26, 2020; Last update: Mar 30, 2020
 # Origin: Aello; Greek, one of the harpies (together with Celaeno and Ocypete), half-maiden and half-bird personification of storm winds, that would snatch and carry things away from Earth.
-# Additional info: None
 Location "Aellopus Saxum" "Sol/Bennu"
 {
 	LongLat	[ -335.67 -25.44 0 ]
@@ -3000,7 +2834,6 @@ Location "Aellopus Saxum" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Greek, childhood playmate of the supreme god Zeus who was turned into an eagle by Hera.
-# Additional info: None
 Location "Aetos Saxum" "Sol/Bennu"
 {
 	LongLat	[ -150.36 -3.46 0 ]
@@ -3010,7 +2843,6 @@ Location "Aetos Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: Chilean mythological nocturnal bird whose wings shine at night with metallic colors so bright that cast no shadow. It lives in small caves and eats metal ores, weight of which gives no possibility to fly.
-# Additional info: None
 Location "Alicanto" "Sol/Bennu"
 {
 	LongLat	[ -111.93 0.08 0 ]
@@ -3020,7 +2852,6 @@ Location "Alicanto" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Tagalog (Philippines) deity that is depicted as a bird, the first creature to inhabit the universe.
-# Additional info: None
 Location "Amihan Saxum" "Sol/Bennu"
 {
 	LongLat	[ -256.51 17.96 0 ]
@@ -3030,7 +2861,6 @@ Location "Amihan Saxum" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Ancient Egyptian primordial mound that arose from the primordial waters Nu. The god Atum settled upon it to create the world after his flight over the waters in the form of the Bennu bird, who is a piece of his soul.
-# Additional info: None
 Location "Benben Saxum" "Sol/Bennu"
 {
 	LongLat	[ -127.59 45.86 0 ]
@@ -3040,7 +2870,6 @@ Location "Benben Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 30, 2020
 # Origin: Mythological shapeshifting entity inhabiting the lochs (lakes) of the west coast of Scotland. It commonly adopts the appearance of a gigantic water bird.
-# Additional info: None
 Location "Boobrie Saxum" "Sol/Bennu"
 {
 	LongLat	[ -214.28 -48.08 0 ]
@@ -3050,7 +2879,6 @@ Location "Boobrie Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: In myths of Aboriginal Australian people of the Murray River basin, a crane, who tossed an egg from the nest of emu Dinewan into the sky where it became the sun.
-# Additional info: None
 Location "Bralgah" "Sol/Bennu"
 {
 	LongLat	[ -324.99 44.36 0 ]
@@ -3060,7 +2888,6 @@ Location "Bralgah" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 30, 2020
 # Origin: One of four birds which destructed the first race of people carved out of wood in Kʼicheʼ Maya (Guatemala) creation myth.
-# Additional info: None
 Location "Camulatz Saxum" "Sol/Bennu"
 {
 	LongLat	[ -259.65 10.26 0 ]
@@ -3070,7 +2897,6 @@ Location "Camulatz Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Jun 10, 2020
 # Origin: Greek, one of the harpies (together with Aellopus and Ocypete), half-maiden and half-bird personification of darkness and storm winds, that would snatch and carry things away from Earth.
-# Additional info: None
 Location "Celaeno Saxum" "Sol/Bennu"
 {
 	LongLat	[ -335.23 -18.42 0 ]
@@ -3080,7 +2906,6 @@ Location "Celaeno Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 30, 2020
 # Origin: Thunder-beings of Algonquian mythology (in particular Oklahoma Miami Nation) that live in the sky and cause thunder and lightning. They look like giant eagles, or as birds with a human head.
-# Additional info: None
 Location "Ciinkwia Saxum" "Sol/Bennu"
 {
 	LongLat	[ -249.47 4.97 0 ]
@@ -3090,7 +2915,6 @@ Location "Ciinkwia Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: Emu whose egg created the sun in the myths of Aboriginal Australian people of the Murray River basin.
-# Additional info: None
 Location "Dinewan" "Sol/Bennu"
 {
 	LongLat	[ -323.70 41.40 0 ]
@@ -3100,7 +2924,6 @@ Location "Dinewan" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 27, 2020
 # Origin: Non-flying bird, rounded and gray, a fictional character in the book Alice's Adventure in Wonderland (1865) by English writer Lewis Carroll.
-# Additional info: None
 Location "Dodo Saxum" "Sol/Bennu"
 {
 	LongLat	[ -64.42 32.68 0 ]
@@ -3110,7 +2933,6 @@ Location "Dodo Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 30, 2020
 # Origin: Slavic prophetic bird, symbol of wisdom and knowledge; she is depicted as a large bird with a woman's head.
-# Additional info: None
 Location "Gamayun Saxum" "Sol/Bennu"
 {
 	LongLat	[ -105.45 -9.86 0 ]
@@ -3120,7 +2942,6 @@ Location "Gamayun Saxum" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: French, dragon-like monster with wings, bird-like neck, and the ability to breathe fire.
-# Additional info: None
 Location "Gargoyle Saxum" "Sol/Bennu"
 {
 	LongLat	[ -92.48 -4.59 0 ]
@@ -3130,7 +2951,6 @@ Location "Gargoyle Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 30, 2020
 # Origin: Norse, gold-combed rooster who lives in the heavenly majestic hall Valhalla and wakes gods and heroes.
-# Additional info: None
 Location "Gullinkambi Saxum" "Sol/Bennu"
 {
 	LongLat	[ -17.96 -18.53 0 ]
@@ -3140,7 +2960,6 @@ Location "Gullinkambi Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: Maori (New Zealand) mythical bird with enormously long divided tail, which lives in heavens and never visits earth.
-# Additional info: None
 Location "Hokioi" "Sol/Bennu"
 {
 	LongLat	[ -41.78 -55.07 0 ]
@@ -3150,7 +2969,6 @@ Location "Hokioi" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Norse, one of the two ravens (together with Muninn) accompanying the supreme god Odin.
-# Additional info: None
 Location "Huginn Saxum" "Sol/Bennu"
 {
 	LongLat	[ -43.25 29.77 0 ]
@@ -3160,7 +2978,6 @@ Location "Huginn Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 11, 2021
 # Origin: Pawnee (Central USA) Thunderbird, a huge long-necked bird with a forked, jagged tail. The beating of his wings causes thunder.
-# Additional info: None
 Location "Huhuk" "Sol/Bennu"
 {
 	LongLat	[ -152.30 1.12 0 ]
@@ -3170,7 +2987,6 @@ Location "Huhuk" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 30, 2020
 # Origin: Giant flying creature looking like bird or bat in myths of Kaonde, a Bantu-speaking people of NW Zambia and the adjacent areas of the Democratic Republic of Congo (Zaire).
-# Additional info: None
 Location "Kongamato Saxum" "Sol/Bennu"
 {
 	LongLat	[ -66.31 -5.03 0 ]
@@ -3180,7 +2996,6 @@ Location "Kongamato Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Mar 17, 2021
 # Origin: Mesopotamian /Sumerian nocturnal wind demon depicted as woman with wings and birds' feet with talons.
-# Additional info: None
 Location "Lilitu" "Sol/Bennu"
 {
 	LongLat	[ -115.36 26.13 0 ]
@@ -3190,7 +3005,6 @@ Location "Lilitu" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 11, 2021
 # Origin: Massive bird that resides beyond the eastern horizon since before time began and causes lunar eclipses in myths of Bagobo (Lumad group at Mindanao Island, S. Philippines).
-# Additional info: None
 Location "Minokawa" "Sol/Bennu"
 {
 	LongLat	[ -269.10 8.79 0 ]
@@ -3200,7 +3014,6 @@ Location "Minokawa" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Norse, one of the two ravens (together with Huginn) accompanying the supreme god Odin.
-# Additional info: None
 Location "Muninn Saxum" "Sol/Bennu"
 {
 	LongLat	[ -48.68 29.34 0 ]
@@ -3210,7 +3023,6 @@ Location "Muninn Saxum" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Greek, one of the three named harpies, half-maiden and half-bird personification of storm winds, that would snatch and carry things away from Earth.
-# Additional info: None
 Location "Ocypete Saxum" "Sol/Bennu"
 {
 	LongLat	[ -328.25 -25.09 0 ]
@@ -3220,7 +3032,6 @@ Location "Ocypete Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 27, 2020
 # Origin: Princess turned into White Swan in the ballet Swan Lake (1877) by Russian composer Pyotr Tchaikovsky. This character, which name derives from French, is opposite to Odile, the Black Swan maiden.
-# Additional info: None
 Location "Odette Saxum" "Sol/Bennu"
 {
 	LongLat	[ -291.08 44.86 0 ]
@@ -3230,7 +3041,6 @@ Location "Odette Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 27, 2020
 # Origin: Black Swan maiden in the ballet Swan Lake (1877) by Russian composer Pyotr Tchaikovsky. This character, which name derives from Old German, is opposite to Odette, the Swan Princess.
-# Additional info: None
 Location "Odile Saxum" "Sol/Bennu"
 {
 	LongLat	[ -294.08 42.74 0 ]
@@ -3240,7 +3050,6 @@ Location "Odile Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: In Czech and Slovak folklore, glowing or burning bird (firebird) with colorful red, gold and orange feathers.
-# Additional info: None
 Location "Ohnivak" "Sol/Bennu"
 {
 	LongLat	[ -125.67 4.23 0 ]
@@ -3250,7 +3059,6 @@ Location "Ohnivak" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: Winged horse in Greek mythology.
-# Additional info: None
 Location "Pegasus" "Sol/Bennu"
 {
 	LongLat	[ -329.83 -23.53 0 ]
@@ -3260,7 +3068,6 @@ Location "Pegasus" "Sol/Bennu"
 
 # Approval date: Feb 11, 2020; Last update: Mar 12, 2020
 # Origin: Māori (Polynesia) monstrous bird who kills and eat humans.
-# Additional info: None
 Location "Pouakai Saxum" "Sol/Bennu"
 {
 	LongLat	[ -166.75 40.45 0 ]
@@ -3270,7 +3077,6 @@ Location "Pouakai Saxum" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Enormous bird of prey in Arabic mythology of the Middle East.
-# Additional info: None
 Location "Roc Saxum" "Sol/Bennu"
 {
 	LongLat	[ -25.36 23.46 0 ]
@@ -3280,7 +3086,6 @@ Location "Roc Saxum" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: In Hindu mythology, a giant bird, vulture, whose wings had been burnt by the blaze of the Sun when he had flown too close to it in racing with his brother.
-# Additional info: None
 Location "Sampati" "Sol/Bennu"
 {
 	LongLat	[ -97.34 19.02 0 ]
@@ -3300,7 +3105,6 @@ Location "Simurgh Saxum" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Roman vampiric bird of ill omen.
-# Additional info: None
 Location "Strix Saxum" "Sol/Bennu"
 {
 	LongLat	[ -88.26 -13.40 0 ]
@@ -3310,7 +3114,6 @@ Location "Strix Saxum" "Sol/Bennu"
 
 # Approval date: Mar 26, 2020; Last update: Mar 27, 2020
 # Origin: King of the Eagles in the Middle-earth, the fictional setting in fantasy novels by English author J.R.R. Tolkien, the greatest of all eagles, with a wingspan of 55 m (approximately as this boulder).
-# Additional info: None
 Location "Thorondor Saxum" "Sol/Bennu"
 {
 	LongLat	[ -45.10 47.94 0 ]
@@ -3320,7 +3123,6 @@ Location "Thorondor Saxum" "Sol/Bennu"
 
 # Approval date: Jan 31, 2020; Last update: Mar 12, 2020
 # Origin: Cherokee (Southeast USA), giant birds who scattered the Earth with pieces of serpent which turned into standing pillars of rocks.
-# Additional info: None
 Location "TLANUWA REGIO" "Sol/Bennu"
 {
 	LongLat	[ -261.70 37.86 0 ]
@@ -3330,7 +3132,6 @@ Location "TLANUWA REGIO" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: Abenaki (Algonquians of NE USA) giant bird, named Windblower, who sits upon a rock at the edge of the sky far in the north and produces winds by his wings.
-# Additional info: None
 Location "Wuchowsen" "Sol/Bennu"
 {
 	LongLat	[ -88.13 -11.78 0 ]
@@ -3340,7 +3141,6 @@ Location "Wuchowsen" "Sol/Bennu"
 
 # Approval date: Dec 18, 2020; Last update: Feb 12, 2021
 # Origin: Fon (Benin/Dahomey) mythical bird which reconciled the two gods in their dispute and thus ended a great drought.
-# Additional info: None
 Location "Wututu" "Sol/Bennu"
 {
 	LongLat	[ -84.34 17.03 0 ]
@@ -3373,7 +3173,6 @@ Location "Catafo Saxum" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Protagonist of a fairy tale Cendrillon by French writer Charles Perrault (1697), also known as Cinderella.
-# Additional info: None
 Location "Cendrillon" "Sol/Ryugu"
 {
 	LongLat	[ -350.50 -31.90 0 ]
@@ -3383,7 +3182,6 @@ Location "Cendrillon" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Seacoast in Japanese fairy tale where fisherman Urashima Taro rescued a turtle and started his journey to the undersea Ryugu Palace.
-# Additional info: None
 Location "Ejima Saxum" "Sol/Ryugu"
 {
 	LongLat	[ -101.10 32.00 0 ]
@@ -3393,7 +3191,6 @@ Location "Ejima Saxum" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Mythical Mount Horai (Penglai in Chinese), paradise of the immortals; in some versions of the Japanese fairy tale about fisherman Urashima is located in the sea on the shell of tortoise that princess Otohime has turned into.
-# Additional info: None
 Location "Horai Fossa" "Sol/Ryugu"
 {
 	LongLat	[ -296.60 -32.10 0 ]
@@ -3403,7 +3200,6 @@ Location "Horai Fossa" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Japanese ball-like dumplings made from the flour of the kibi (proso millet) grain that the fairy tale hero Momotaro brought on his distant journey because this sweet keeps its softness for a long time.
-# Additional info: None
 Location "Kibidango" "Sol/Ryugu"
 {
 	LongLat	[ -50.00 31.20 0 ]
@@ -3413,7 +3209,6 @@ Location "Kibidango" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: ‘Golden Boy’ in Japanese fairy tale, who grew up in the wild forests of Mount Ashigara and had a superhuman strength.
-# Additional info: None
 Location "Kintaro" "Sol/Ryugu"
 {
 	LongLat	[ -157.80 -0.40 0 ]
@@ -3423,7 +3218,6 @@ Location "Kintaro" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Small ball-like bun, which ran away from home and rolled on the road, singing his tricky song; protagonist of a Russian fairy tale.
-# Additional info: None
 Location "Kolobok" "Sol/Ryugu"
 {
 	LongLat	[ -333.50 1.50 0 ]
@@ -3433,7 +3227,6 @@ Location "Kolobok" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: ‘Peach Boy’ in Japanese fairy tale, who came to Earth inside a giant peach and once undertook a journey to fight horned ogres in a distant island.
-# Additional info: None
 Location "Momotaro" "Sol/Ryugu"
 {
 	LongLat	[ -51.90 12.50 0 ]
@@ -3443,7 +3236,6 @@ Location "Momotaro" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Otohime Sama; princess in Japanese fairy tale, sea mistress, who welcomed fisherman Urashima Taro in undersea Ryugu Palace and gave him a parting gift, a jewel box whose lid he was told never to open.
-# Additional info: None
 Location "Otohime Saxum" "Sol/Ryugu"
 {
 	LongLat	[ -274.40 69.80 0 ]
@@ -3453,7 +3245,6 @@ Location "Otohime Saxum" "Sol/Ryugu"
 
 # Approval date: Dec 18, 2018; Last update: Dec 18, 2018
 # Origin: ‘Dragon god’, sea ruler in Japanese fairy tale, father of princess Otohime, master of the undersea Ryugu Palace where fisherman Urashima Taro was a guest.
-# Additional info: None
 Location "Ryujin Dorsum" "Sol/Ryugu"
 {
 	LongLat	[ -180.00 -0.00 0 ]
@@ -3463,7 +3254,6 @@ Location "Ryujin Dorsum" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Immortal world of Japanese mythology, eternal, timeless land across the sea or undersea kingdom, where the princess Otohime lives in the fairy tale about the fisherman Urashima.
-# Additional info: None
 Location "Tokoyo Fossa" "Sol/Ryugu"
 {
 	LongLat	[ -166.20 50.50 0 ]
@@ -3473,7 +3263,6 @@ Location "Tokoyo Fossa" "Sol/Ryugu"
 
 # Approval date: Dec 19, 2018; Last update: Apr 08, 2019
 # Origin: Urashima Taro; fisherman in Japanese fairy tale who rescued a turtle and traveled on its back to the dragon Ryujin’s undersea Ryugu Palace, where he was welcomed by princess Otohime.
-# Additional info: None
 Location "Urashima" "Sol/Ryugu"
 {
 	LongLat	[ -92.90 8.10 0 ]

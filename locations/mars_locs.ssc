@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # Approval date: Dec 16, 2022; Last update: Dec 16, 2022
@@ -125,7 +125,6 @@ Location "Acidalia Mensa" "Sol/Mars"
 
 # Approval date: 1973; Last update: Jun 06, 2018
 # Origin: From classical albedo feature at 44N, 21W.
-# Additional info: None
 Location "Acidalia Planitia" "Sol/Mars"
 {
 	LongLat	[ 339.26 49.76 0 ]
@@ -162,7 +161,6 @@ Location "Adams" "Sol/Mars"
 
 # Approval date: 1958; Last update: Feb 09, 2021
 # Origin: Floating island where winds were kept in a cave.
-# Additional info: None
 Location "AEOLIS" "Sol/Mars"
 {
 	LongLat	[ 145.00 -4.94 0 ]
@@ -172,7 +170,6 @@ Location "AEOLIS" "Sol/Mars"
 
 # Approval date: Jun 13, 2018; Last update: Jun 13, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aeolis Chaos" "Sol/Mars"
 {
 	LongLat	[ 150.60 -7.13 0 ]
@@ -182,7 +179,6 @@ Location "Aeolis Chaos" "Sol/Mars"
 
 # Approval date: Jul 27, 2012; Last update: Jul 27, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aeolis Dorsa" "Sol/Mars"
 {
 	LongLat	[ 152.63 -5.05 0 ]
@@ -201,7 +197,6 @@ Location "Aeolis Mensae" "Sol/Mars"
 
 # Approval date: May 16, 2012; Last update: May 16, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aeolis Mons" "Sol/Mars"
 {
 	LongLat	[ 137.85 -5.08 0 ]
@@ -211,7 +206,6 @@ Location "Aeolis Mons" "Sol/Mars"
 
 # Approval date: May 16, 2012; Last update: May 16, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aeolis Palus" "Sol/Mars"
 {
 	LongLat	[ 137.42 -4.47 0 ]
@@ -230,7 +224,6 @@ Location "Aeolis Planum" "Sol/Mars"
 
 # Approval date: Aug 27, 2012; Last update: Aug 27, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aeolis Serpens" "Sol/Mars"
 {
 	LongLat	[ 149.57 -1.38 0 ]
@@ -441,7 +434,6 @@ Location "Alga" "Sol/Mars"
 
 # Approval date: 1979; Last update: Jul 22, 2013
 # Origin: (Alytus), town in Lithuania.
-# Additional info: None
 Location "Alitus" "Sol/Mars"
 {
 	LongLat	[ 321.86 -34.91 0 ]
@@ -460,7 +452,6 @@ Location "Allegheny Vallis" "Sol/Mars"
 
 # Approval date: Jul 05, 2017; Last update: Jul 05, 2017
 # Origin: Town in Morocco.
-# Additional info: None
 Location "Alnif" "Sol/Mars"
 {
 	LongLat	[ 328.91 -15.14 0 ]
@@ -470,7 +461,6 @@ Location "Alnif" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Niue.
-# Additional info: None
 Location "Alofi" "Sol/Mars"
 {
 	LongLat	[ 359.98 9.84 0 ]
@@ -516,7 +506,6 @@ Location "Amazonis Mensa" "Sol/Mars"
 
 # Approval date: 1973; Last update: Jun 21, 2012
 # Origin: Classical albedo feature name; home of the Amazons.
-# Additional info: None
 Location "Amazonis Planitia" "Sol/Mars"
 {
 	LongLat	[ 197.09 25.75 0 ]
@@ -571,7 +560,6 @@ Location "Amenthes Fossae" "Sol/Mars"
 
 # Approval date: 2006; Last update: Jun 06, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Amenthes Planum" "Sol/Mars"
 {
 	LongLat	[ 105.92 3.40 0 ]
@@ -608,7 +596,6 @@ Location "Amsterdam" "Sol/Mars"
 
 # Approval date: Jan 18, 2017; Last update: Jan 19, 2017
 # Origin: Town in Madagascar.
-# Additional info: None
 Location "Andapa" "Sol/Mars"
 {
 	LongLat	[ 355.27 -5.33 0 ]
@@ -618,7 +605,6 @@ Location "Andapa" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Town in New York, USA.
-# Additional info: None
 Location "Angelica" "Sol/Mars"
 {
 	LongLat	[ 76.95 18.65 0 ]
@@ -691,7 +677,6 @@ Location "Antoniadi" "Sol/Mars"
 
 # Approval date: Mar 04, 2013; Last update: Mar 04, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aonia Mons" "Sol/Mars"
 {
 	LongLat	[ 272.08 -53.33 0 ]
@@ -719,7 +704,6 @@ Location "AONIA TERRA" "Sol/Mars"
 
 # Approval date: Mar 04, 2013; Last update: Mar 04, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aonia Tholus" "Sol/Mars"
 {
 	LongLat	[ 279.96 -59.04 0 ]
@@ -785,7 +769,6 @@ Location "Apollinaris Tholus" "Sol/Mars"
 
 # Approval date: Oct 16, 2017; Last update: Oct 16, 2017
 # Origin: Greek god of light, poetry, music and arts, one of the Olympian gods, son of Zeus.
-# Additional info: None
 Location "Apollo Patera" "Sol/Mars"
 {
 	LongLat	[ 226.45 17.94 0 ]
@@ -840,7 +823,6 @@ Location "Arago" "Sol/Mars"
 
 # Approval date: Aug 25, 2021; Last update: Aug 25, 2021
 # Origin: Named for nearby Arago crater; Dominique F.; French astronomer (1786-1853).
-# Additional info: None
 Location "Arago Dorsa" "Sol/Mars"
 {
 	LongLat	[ 29.39 9.74 0 ]
@@ -859,7 +841,6 @@ Location "Aram Chaos" "Sol/Mars"
 
 # Approval date: Apr 29, 2014; Last update: Apr 29, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Aram Dorsum" "Sol/Mars"
 {
 	LongLat	[ 348.76 7.80 0 ]
@@ -896,7 +877,6 @@ Location "Arcadia Dorsa" "Sol/Mars"
 
 # Approval date: 1973; Last update: Jun 06, 2018
 # Origin: From classical albedo feature at 45N, 120W.
-# Additional info: None
 Location "Arcadia Planitia" "Sol/Mars"
 {
 	LongLat	[ 188.15 49.02 0 ]
@@ -978,7 +958,6 @@ Location "Argyre Cavi" "Sol/Mars"
 
 # Approval date: Feb 18, 2014; Last update: Feb 18, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Argyre Mons" "Sol/Mars"
 {
 	LongLat	[ 311.91 -50.37 0 ]
@@ -1024,7 +1003,6 @@ Location "Arica" "Sol/Mars"
 
 # Approval date: Feb 22, 2012; Last update: Feb 22, 2012
 # Origin: Town in Trinidad and Tobago.
-# Additional info: None
 Location "Arima" "Sol/Mars"
 {
 	LongLat	[ 296.32 -15.84 0 ]
@@ -1133,7 +1111,6 @@ Location "Arta" "Sol/Mars"
 
 # Approval date: Aug 30, 2013; Last update: Aug 30, 2013
 # Origin: Town in Armenia.
-# Additional info: None
 Location "Artik" "Sol/Mars"
 {
 	LongLat	[ 130.98 -34.80 0 ]
@@ -1161,7 +1138,6 @@ Location "Arvi" "Sol/Mars"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: Village in Tuvalu.
-# Additional info: None
 Location "Asau" "Sol/Mars"
 {
 	LongLat	[ 154.68 -3.63 0 ]
@@ -1270,7 +1246,6 @@ Location "Athabasca Valles" "Sol/Mars"
 
 # Approval date: Oct 16, 2017; Last update: Oct 16, 2017
 # Origin: Greek goddess of wisdom, one of the Olympians, daughter of Zeus.
-# Additional info: None
 Location "Athena Patera" "Sol/Mars"
 {
 	LongLat	[ 227.18 18.74 0 ]
@@ -1289,7 +1264,6 @@ Location "Atlantis Chaos" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 27, 2020
 # Origin: Classical albedo feature, Atlantis.
-# Additional info: None
 Location "Atlantis Mons" "Sol/Mars"
 {
 	LongLat	[ 184.77 -28.71 0 ]
@@ -1309,7 +1283,6 @@ Location "Atrax Fossa" "Sol/Mars"
 
 # Approval date: Oct 12, 2014; Last update: Oct 14, 2014
 # Origin: Town in Latvia.
-# Additional info: None
 Location "Auce" "Sol/Mars"
 {
 	LongLat	[ 80.14 -27.17 0 ]
@@ -1319,7 +1292,6 @@ Location "Auce" "Sol/Mars"
 
 # Approval date: Aug 14, 2015; Last update: Aug 14, 2015
 # Origin: Town in the Solomon Islands.
-# Additional info: None
 Location "Auki" "Sol/Mars"
 {
 	LongLat	[ 96.87 -15.76 0 ]
@@ -1420,7 +1392,6 @@ Location "Australe Lingula" "Sol/Mars"
 
 # Approval date: 2006; Last update: May 14, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Australe Mensa" "Sol/Mars"
 {
 	LongLat	[ 357.24 -86.88 0 ]
@@ -1466,7 +1437,6 @@ Location "Auxo Dorsum" "Sol/Mars"
 
 # Approval date: Nov 15, 2016; Last update: Nov 15, 2016
 # Origin: Village in Armenia.
-# Additional info: None
 Location "Avan" "Sol/Mars"
 {
 	LongLat	[ 290.23 -10.97 0 ]
@@ -1620,7 +1590,6 @@ Location "Bada" "Sol/Mars"
 
 # Approval date: Apr 11, 2015; Last update: Apr 16, 2015
 # Origin: Town in California, USA.
-# Additional info: None
 Location "Badwater" "Sol/Mars"
 {
 	LongLat	[ 62.14 -32.79 0 ]
@@ -1648,7 +1617,6 @@ Location "Baetis Chasma" "Sol/Mars"
 
 # Approval date: Feb 02, 2017; Last update: Feb 02, 2017
 # Origin: Classical albedo feature, Baetis.
-# Additional info: None
 Location "Baetis Labēs" "Sol/Mars"
 {
 	LongLat	[ 288.54 -3.67 0 ]
@@ -1703,7 +1671,6 @@ Location "Bakhuysen" "Sol/Mars"
 
 # Approval date: 1976; Last update: Jan 14, 2014
 # Origin: Town in the Republic of Panama, formerly within the US Panama Canal Zone.
-# Additional info: None
 Location "Balboa" "Sol/Mars"
 {
 	LongLat	[ 326.12 -3.82 0 ]
@@ -1758,7 +1725,6 @@ Location "Balvicar" "Sol/Mars"
 
 # Approval date: Apr 03, 2017; Last update: Apr 03, 2017
 # Origin: Town in Kermān province in Iran.
-# Additional info: None
 Location "Bam" "Sol/Mars"
 {
 	LongLat	[ 115.67 -25.79 0 ]
@@ -1786,7 +1752,6 @@ Location "Bamberg" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Cuba.
-# Additional info: None
 Location "Banes" "Sol/Mars"
 {
 	LongLat	[ 355.68 10.76 0 ]
@@ -1877,7 +1842,6 @@ Location "Barsukov" "Sol/Mars"
 
 # Approval date: Mar 07, 2019; Last update: Mar 08, 2019
 # Origin: Charles A.; American atmospheric physicist (1930-2014).
-# Additional info: None
 Location "Barth" "Sol/Mars"
 {
 	LongLat	[ 25.67 7.44 0 ]
@@ -1887,7 +1851,6 @@ Location "Barth" "Sol/Mars"
 
 # Approval date: Jun 25, 2013; Last update: Jun 25, 2013
 # Origin: River in the Altai Republic, Russia.
-# Additional info: None
 Location "Bashkaus Valles" "Sol/Mars"
 {
 	LongLat	[ 356.74 -25.68 0 ]
@@ -1924,7 +1887,6 @@ Location "Batoş" "Sol/Mars"
 
 # Approval date: Jun 01, 2018; Last update: Jun 01, 2018
 # Origin: Raymond Milner; American geologist and photogrammetrist (1931-2013).
-# Additional info: None
 Location "Batson" "Sol/Mars"
 {
 	LongLat	[ 84.15 -28.91 0 ]
@@ -1934,7 +1896,6 @@ Location "Batson" "Sol/Mars"
 
 # Approval date: Feb 22, 2012; Last update: Feb 22, 2012
 # Origin: Town in Timor-Leste.
-# Additional info: None
 Location "Baucau" "Sol/Mars"
 {
 	LongLat	[ 304.90 -28.37 0 ]
@@ -1944,7 +1905,6 @@ Location "Baucau" "Sol/Mars"
 
 # Approval date: Sep 06, 2016; Last update: Sep 06, 2016
 # Origin: William Alvin; American astronomer (1924-2012).
-# Additional info: None
 Location "Baum" "Sol/Mars"
 {
 	LongLat	[ 28.30 -24.72 0 ]
@@ -2008,7 +1968,6 @@ Location "Beltra" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Town in West Virginia, USA.
-# Additional info: None
 Location "Belva" "Sol/Mars"
 {
 	LongLat	[ 77.38 18.48 0 ]
@@ -2018,7 +1977,6 @@ Location "Belva" "Sol/Mars"
 
 # Approval date: Aug 05, 2013; Last update: Aug 06, 2013
 # Origin: (Belev) Town in Tula region, Russia.
-# Additional info: None
 Location "Belyov" "Sol/Mars"
 {
 	LongLat	[ 201.99 -45.02 0 ]
@@ -2091,7 +2049,6 @@ Location "Beruri" "Sol/Mars"
 
 # Approval date: Nov 12, 2013; Last update: Nov 12, 2013
 # Origin: Village in Kiribati.
-# Additional info: None
 Location "Betio" "Sol/Mars"
 {
 	LongLat	[ 281.35 -23.13 0 ]
@@ -2230,7 +2187,6 @@ Location "Bluff" "Sol/Mars"
 
 # Approval date: Jul 01, 2013; Last update: Jul 01, 2013
 # Origin: Jürgen; German historian (1935-2008).
-# Additional info: None
 Location "Blunck" "Sol/Mars"
 {
 	LongLat	[ 323.10 -27.23 0 ]
@@ -2357,7 +2313,6 @@ Location "Bordeaux" "Sol/Mars"
 
 # Approval date: 2006; Last update: Jun 06, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Boreales Scopuli" "Sol/Mars"
 {
 	LongLat	[ 269.84 88.88 0 ]
@@ -2376,7 +2331,6 @@ Location "BOREOSYRTIS" "Sol/Mars"
 
 # Approval date: 2006; Last update: May 15, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Boreum Cavus" "Sol/Mars"
 {
 	LongLat	[ 339.85 84.64 0 ]
@@ -2440,7 +2394,6 @@ Location "Bozkir" "Sol/Mars"
 
 # Approval date: Oct 15, 2015; Last update: Oct 15, 2015
 # Origin: Raymond Douglas “Ray”; American author (1920-2012).
-# Additional info: None
 Location "Bradbury" "Sol/Mars"
 {
 	LongLat	[ 85.80 2.58 0 ]
@@ -2468,7 +2421,6 @@ Location "Brazos Valles" "Sol/Mars"
 
 # Approval date: Sep 15, 2014; Last update: Sep 15, 2014
 # Origin: Town in Belgium.
-# Additional info: None
 Location "Bree" "Sol/Mars"
 {
 	LongLat	[ 149.63 37.64 0 ]
@@ -2559,7 +2511,6 @@ Location "Bunge" "Sol/Mars"
 
 # Approval date: Jun 14, 2016; Last update: Jun 14, 2016
 # Origin: Village in the Netherlands.
-# Additional info: None
 Location "Bunnik" "Sol/Mars"
 {
 	LongLat	[ 217.90 -38.07 0 ]
@@ -2614,7 +2565,6 @@ Location "Buvinda Vallis" "Sol/Mars"
 
 # Approval date: Nov 12, 2013; Last update: Nov 12, 2013
 # Origin: Town in Bulgaria.
-# Additional info: None
 Location "Byala" "Sol/Mars"
 {
 	LongLat	[ 293.53 -25.73 0 ]
@@ -2652,7 +2602,6 @@ Location "Cádiz" "Sol/Mars"
 
 # Approval date: Nov 16, 2018; Last update: Nov 16, 2018
 # Origin: Town in Italy.
-# Additional info: None
 Location "Cagli" "Sol/Mars"
 {
 	LongLat	[ 356.45 4.73 0 ]
@@ -2716,7 +2665,6 @@ Location "Camargo" "Sol/Mars"
 
 # Approval date: Nov 26, 2012; Last update: Nov 26, 2012
 # Origin: Henri; French astronomer (1907-2003).
-# Additional info: None
 Location "Camichel" "Sol/Mars"
 {
 	LongLat	[ 308.39 2.26 0 ]
@@ -2771,7 +2719,6 @@ Location "Can" "Sol/Mars"
 
 # Approval date: Jan 18, 2011; Last update: Jun 29, 2011
 # Origin: Town in New Caledonia.
-# Additional info: None
 Location "Canala" "Sol/Mars"
 {
 	LongLat	[ 279.92 24.35 0 ]
@@ -2835,7 +2782,6 @@ Location "Candor Chasma" "Sol/Mars"
 
 # Approval date: Sep 18, 2012; Last update: Sep 18, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Candor Colles" "Sol/Mars"
 {
 	LongLat	[ 284.43 -6.63 0 ]
@@ -2863,7 +2809,6 @@ Location "Candor Mensa" "Sol/Mars"
 
 # Approval date: Mar 11, 2013; Last update: Mar 11, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Candor Sulci" "Sol/Mars"
 {
 	LongLat	[ 283.15 -4.92 0 ]
@@ -2909,7 +2854,6 @@ Location "Canso" "Sol/Mars"
 
 # Approval date: Aug 25, 2021; Last update: Aug 25, 2021
 # Origin: From nearby albedo feature Cantabras, at 10N, 5W.
-# Additional info: None
 Location "Cantabras Dorsum" "Sol/Mars"
 {
 	LongLat	[ 354.72 9.50 0 ]
@@ -2919,7 +2863,6 @@ Location "Cantabras Dorsum" "Sol/Mars"
 
 # Approval date: Aug 25, 2021; Last update: Aug 25, 2021
 # Origin: From nearby albedo feature Cantabras, at 10N, 5W.
-# Additional info: None
 Location "Cantabras Serpens" "Sol/Mars"
 {
 	LongLat	[ 355.25 9.94 0 ]
@@ -2966,7 +2909,6 @@ Location "Capri Mensa" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 19, 2020
 # Origin: Classical albedo feature, Capri Cornu.
-# Additional info: None
 Location "Capri Montes" "Sol/Mars"
 {
 	LongLat	[ 300.28 -19.20 0 ]
@@ -2976,7 +2918,6 @@ Location "Capri Montes" "Sol/Mars"
 
 # Approval date: Sep 22, 2014; Last update: Sep 22, 2014
 # Origin: After Caralis Fons, classical albedo feature named after Caralis Lacus, now Beysehir Gölü, in Isauria (Asia Minor).
-# Additional info: None
 Location "Caralis Chaos" "Sol/Mars"
 {
 	LongLat	[ 178.60 -37.20 0 ]
@@ -2986,7 +2927,6 @@ Location "Caralis Chaos" "Sol/Mars"
 
 # Approval date: Aug 21, 2015; Last update: Aug 21, 2015
 # Origin: Town in Uruguay.
-# Additional info: None
 Location "Cardona" "Sol/Mars"
 {
 	LongLat	[ 328.02 -19.65 0 ]
@@ -3032,7 +2972,6 @@ Location "Castril" "Sol/Mars"
 
 # Approval date: Nov 27, 2015; Last update: Nov 27, 2015
 # Origin: Village in Angola.
-# Additional info: None
 Location "Catota" "Sol/Mars"
 {
 	LongLat	[ 333.02 51.67 0 ]
@@ -3069,7 +3008,6 @@ Location "Caxias" "Sol/Mars"
 
 # Approval date: Aug 27, 2012; Last update: Aug 27, 2012
 # Origin: Town in Saint Kitts and Nevis.
-# Additional info: None
 Location "Cayon" "Sol/Mars"
 {
 	LongLat	[ 113.62 -35.93 0 ]
@@ -3215,7 +3153,6 @@ Location "Ceti Chasma" "Sol/Mars"
 
 # Approval date: Sep 18, 2012; Last update: Sep 18, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Ceti Labes" "Sol/Mars"
 {
 	LongLat	[ 284.27 -6.78 0 ]
@@ -3280,7 +3217,6 @@ Location "Chalcoporos Rupēs" "Sol/Mars"
 
 # Approval date: Dec 14, 2006; Last update: May 23, 2013
 # Origin: Town in Pakistan.
-# Additional info: None
 Location "Chaman" "Sol/Mars"
 {
 	LongLat	[ 50.96 -60.86 0 ]
@@ -3290,7 +3226,6 @@ Location "Chaman" "Sol/Mars"
 
 # Approval date: Aug 26, 2019; Last update: Aug 26, 2019
 # Origin: Town in India.
-# Additional info: None
 Location "Chamba" "Sol/Mars"
 {
 	LongLat	[ 335.62 14.29 0 ]
@@ -3309,7 +3244,6 @@ Location "Chamberlin" "Sol/Mars"
 
 # Approval date: 1976; Last update: Feb 10, 2012
 # Origin: Town in the Democratic People's Republic of Korea.
-# Additional info: None
 Location "Changsŏng" "Sol/Mars"
 {
 	LongLat	[ 302.66 23.47 0 ]
@@ -3436,7 +3370,6 @@ Location "Chefu" "Sol/Mars"
 
 # Approval date: 1976; Last update: Jul 19, 2013
 # Origin: Town in Russia.
-# Additional info: None
 Location "Chekalin" "Sol/Mars"
 {
 	LongLat	[ 333.19 -24.28 0 ]
@@ -3491,7 +3424,6 @@ Location "Chincoteague" "Sol/Mars"
 
 # Approval date: 1976; Last update: Feb 10, 2012
 # Origin: Town in the Republic of Korea.
-# Additional info: None
 Location "Chinju" "Sol/Mars"
 {
 	LongLat	[ 317.86 -4.52 0 ]
@@ -3537,7 +3469,6 @@ Location "Chom" "Sol/Mars"
 
 # Approval date: Mar 21, 2015; Last update: Mar 21, 2015
 # Origin: Town in Mongolia.
-# Additional info: None
 Location "Choyr" "Sol/Mars"
 {
 	LongLat	[ 18.72 -32.43 0 ]
@@ -3556,7 +3487,6 @@ Location "Chronius Mons" "Sol/Mars"
 
 # Approval date: Feb 02, 2017; Last update: Feb 02, 2017
 # Origin: Classical albedo feature name, Chrysas.
-# Additional info: None
 Location "Chrysas Mensa" "Sol/Mars"
 {
 	LongLat	[ 289.90 -6.77 0 ]
@@ -3611,7 +3541,6 @@ Location "CHRYSOKERAS" "Sol/Mars"
 
 # Approval date: Feb 09, 2018; Last update: Feb 09, 2018
 # Origin: Village in Nepal.
-# Additional info: None
 Location "Chukhung" "Sol/Mars"
 {
 	LongLat	[ 287.58 38.47 0 ]
@@ -3639,7 +3568,6 @@ Location "Chur" "Sol/Mars"
 
 # Approval date: Aug 15, 2016; Last update: Aug 16, 2016
 # Origin: Town on Réunion Island.
-# Additional info: None
 Location "Cilaos" "Sol/Mars"
 {
 	LongLat	[ 129.48 -35.71 0 ]
@@ -3649,7 +3577,6 @@ Location "Cilaos" "Sol/Mars"
 
 # Approval date: Oct 27, 2020; Last update: Nov 24, 2020
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Cimmeria Tholi" "Sol/Mars"
 {
 	LongLat	[ 158.55 -34.59 0 ]
@@ -3948,7 +3875,6 @@ Location "Coprates Labes" "Sol/Mars"
 
 # Approval date: Nov 23, 2015; Last update: Nov 23, 2015
 # Origin: Classical martian albedo feature, Coprates.
-# Additional info: None
 Location "Coprates Mensa" "Sol/Mars"
 {
 	LongLat	[ 288.84 -12.20 0 ]
@@ -3958,7 +3884,6 @@ Location "Coprates Mensa" "Sol/Mars"
 
 # Approval date: May 26, 2015; Last update: May 26, 2015
 # Origin: Classical martian albedo feature, Coprates
-# Additional info: None
 Location "Coprates Montes" "Sol/Mars"
 {
 	LongLat	[ 294.61 -13.00 0 ]
@@ -4004,7 +3929,6 @@ Location "Coronae Montes" "Sol/Mars"
 
 # Approval date: Aug 07, 2015; Last update: Aug 07, 2015
 # Origin: Albedo feature name.
-# Additional info: None
 Location "Coronae Planum" "Sol/Mars"
 {
 	LongLat	[ 65.41 -32.68 0 ]
@@ -4023,7 +3947,6 @@ Location "Coronae Scopulus" "Sol/Mars"
 
 # Approval date: Sep 29, 2011; Last update: Feb 08, 2012
 # Origin: Town in Belize.
-# Additional info: None
 Location "Corozal" "Sol/Mars"
 {
 	LongLat	[ 159.42 -38.79 0 ]
@@ -4259,7 +4182,6 @@ Location "Daan" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Town in Colorado, USA.
-# Additional info: None
 Location "Dacono" "Sol/Mars"
 {
 	LongLat	[ 77.95 18.34 0 ]
@@ -4305,7 +4227,6 @@ Location "Daiyang" "Sol/Mars"
 
 # Approval date: Nov 06, 2017; Last update: Nov 06, 2017
 # Origin: Javanese word for night.
-# Additional info: None
 Location "Dalu Cavus" "Sol/Mars"
 {
 	LongLat	[ 261.00 -6.90 0 ]
@@ -4324,7 +4245,6 @@ Location "Daly" "Sol/Mars"
 
 # Approval date: Dec 01, 2021; Last update: Dec 01, 2021
 # Origin: Town in Australia.
-# Additional info: None
 Location "Dampier" "Sol/Mars"
 {
 	LongLat	[ 203.63 -15.73 0 ]
@@ -4424,7 +4344,6 @@ Location "Deba" "Sol/Mars"
 
 # Approval date: Feb 16, 2018; Last update: Feb 19, 2018
 # Origin: Village in India.
-# Additional info: None
 Location "Dechu" "Sol/Mars"
 {
 	LongLat	[ 202.01 -42.25 0 ]
@@ -4434,7 +4353,6 @@ Location "Dechu" "Sol/Mars"
 
 # Approval date: Sep 06, 2016; Last update: Sep 06, 2016
 # Origin: Town in India.
-# Additional info: None
 Location "Degana" "Sol/Mars"
 {
 	LongLat	[ 314.50 -23.72 0 ]
@@ -4633,7 +4551,6 @@ Location "Dinorwic" "Sol/Mars"
 
 # Approval date: Oct 16, 2017; Last update: Oct 16, 2017
 # Origin: Greek god of wine, celebration and ecstasy, patron god of the art and theatre, one of the Olympian gods, son of Zeus.
-# Additional info: None
 Location "Dionysus Patera" "Sol/Mars"
 {
 	LongLat	[ 226.77 17.96 0 ]
@@ -4697,7 +4614,6 @@ Location "Doba" "Sol/Mars"
 
 # Approval date: Apr 19, 2011; Last update: Jun 29, 2011
 # Origin: Town in the Republic of San Marino.
-# Additional info: None
 Location "Dogana" "Sol/Mars"
 {
 	LongLat	[ 306.33 -10.01 0 ]
@@ -4725,7 +4641,6 @@ Location "Dokuchaev" "Sol/Mars"
 
 # Approval date: Oct 22, 2013; Last update: Oct 22, 2013
 # Origin: Audouin Charles; French astronomer (1924-2010).
-# Additional info: None
 Location "Dollfus" "Sol/Mars"
 {
 	LongLat	[ 355.74 -21.59 0 ]
@@ -4735,7 +4650,6 @@ Location "Dollfus" "Sol/Mars"
 
 # Approval date: Mar 07, 2012; Last update: Mar 07, 2012
 # Origin: Town in the Union of the Comoros.
-# Additional info: None
 Location "Domoni" "Sol/Mars"
 {
 	LongLat	[ 234.39 51.38 0 ]
@@ -4799,7 +4713,6 @@ Location "Downe" "Sol/Mars"
 
 # Approval date: Oct 27, 2020; Last update: Nov 24, 2020
 # Origin: From albedo feature at 25S, 205W.
-# Additional info: None
 Location "Draconis Mons" "Sol/Mars"
 {
 	LongLat	[ 165.06 -23.94 0 ]
@@ -4836,7 +4749,6 @@ Location "Dromore" "Sol/Mars"
 
 # Approval date: Sep 15, 2020; Last update: Feb 09, 2021
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Dryas Mons" "Sol/Mars"
 {
 	LongLat	[ 187.59 -44.39 0 ]
@@ -4864,7 +4776,6 @@ Location "Dubki" "Sol/Mars"
 
 # Approval date: Nov 26, 2012; Last update: Nov 26, 2012
 # Origin: Town in Qatar.
-# Additional info: None
 Location "Dukhan" "Sol/Mars"
 {
 	LongLat	[ 320.86 7.76 0 ]
@@ -4874,7 +4785,6 @@ Location "Dukhan" "Sol/Mars"
 
 # Approval date: Jun 19, 2015; Last update: Jun 19, 2015
 # Origin: River in Argentina.
-# Additional info: None
 Location "Dulce Vallis" "Sol/Mars"
 {
 	LongLat	[ 136.54 -4.82 0 ]
@@ -4911,7 +4821,6 @@ Location "Dunhuang" "Sol/Mars"
 
 # Approval date: Nov 27, 2015; Last update: Nov 27, 2015
 # Origin: Town in Benin.
-# Additional info: None
 Location "Dunkassa" "Sol/Mars"
 {
 	LongLat	[ 222.94 -37.49 0 ]
@@ -5039,7 +4948,6 @@ Location "Echus Montes" "Sol/Mars"
 
 # Approval date: May 20, 2016; Last update: May 20, 2016
 # Origin: Classical albedo feature name, Echus Lacus.
-# Additional info: None
 Location "Echus Palus" "Sol/Mars"
 {
 	LongLat	[ 282.73 12.29 0 ]
@@ -5067,7 +4975,6 @@ Location "Eddie" "Sol/Mars"
 
 # Approval date: Oct 29, 2012; Last update: Oct 29, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Eden Patera" "Sol/Mars"
 {
 	LongLat	[ 348.94 33.77 0 ]
@@ -5158,7 +5065,6 @@ Location "ELECTRIS" "Sol/Mars"
 
 # Approval date: Aug 12, 2013; Last update: Aug 12, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Electris Mons" "Sol/Mars"
 {
 	LongLat	[ 152.73 -45.67 0 ]
@@ -5195,7 +5101,6 @@ Location "Elorza" "Sol/Mars"
 
 # Approval date: May 01, 2021; Last update: May 07, 2021
 # Origin: Wolfgang; American volcanologist and planetary geologist (1928-2016).
-# Additional info: None
 Location "Elston" "Sol/Mars"
 {
 	LongLat	[ 119.18 -15.39 0 ]
@@ -5367,7 +5272,6 @@ Location "ERIDANIA" "Sol/Mars"
 
 # Approval date: Aug 12, 2013; Last update: Aug 12, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Eridania Mons" "Sol/Mars"
 {
 	LongLat	[ 137.86 -57.02 0 ]
@@ -5377,7 +5281,6 @@ Location "Eridania Mons" "Sol/Mars"
 
 # Approval date: Sep 22, 2010; Last update: Sep 22, 2010
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Eridania Planitia" "Sol/Mars"
 {
 	LongLat	[ 122.21 -38.15 0 ]
@@ -5432,7 +5335,6 @@ Location "Escorial" "Sol/Mars"
 
 # Approval date: Dec 08, 2014; Last update: Dec 09, 2014
 # Origin: Town in Madagascar.
-# Additional info: None
 Location "Esira" "Sol/Mars"
 {
 	LongLat	[ 313.39 8.96 0 ]
@@ -5478,7 +5380,6 @@ Location "Eumenides Dorsum" "Sol/Mars"
 
 # Approval date: 1958; Last update: Feb 09, 2021
 # Origin: “;Lucky journey or lucky return“;; i.e., infernal regions beyond Elysium.
-# Additional info: None
 Location "EUNOSTOS" "Sol/Mars"
 {
 	LongLat	[ 140.00 22.00 0 ]
@@ -5497,7 +5398,6 @@ Location "EUPHRATES" "Sol/Mars"
 
 # Approval date: Oct 29, 2012; Last update: Oct 29, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Euphrates Patera" "Sol/Mars"
 {
 	LongLat	[ 10.26 38.43 0 ]
@@ -5553,7 +5453,6 @@ Location "Falun" "Sol/Mars"
 
 # Approval date: Aug 27, 2012; Last update: Aug 27, 2012
 # Origin: Town in Saint Vincent and the Grenadines.
-# Additional info: None
 Location "Fancy" "Sol/Mars"
 {
 	LongLat	[ 113.60 -35.45 0 ]
@@ -5572,7 +5471,6 @@ Location "Faqu" "Sol/Mars"
 
 # Approval date: Apr 03, 2013; Last update: Apr 03, 2013
 # Origin: River in Afghanistan.
-# Additional info: None
 Location "Farah Vallis" "Sol/Mars"
 {
 	LongLat	[ 136.80 -6.03 0 ]
@@ -5582,7 +5480,6 @@ Location "Farah Vallis" "Sol/Mars"
 
 # Approval date: Mar 11, 2013; Last update: Mar 11, 2013
 # Origin: Town in the Republic of Guinea-Bissau.
-# Additional info: None
 Location "Farim" "Sol/Mars"
 {
 	LongLat	[ 139.28 -44.31 0 ]
@@ -5628,7 +5525,6 @@ Location "Fesenkov" "Sol/Mars"
 
 # Approval date: Nov 15, 2010; Last update: Jun 29, 2011
 # Origin: Valdemar Axel; English astronomer (1910-1981).
-# Additional info: None
 Location "Firsoff" "Sol/Mars"
 {
 	LongLat	[ 350.63 2.73 0 ]
@@ -5666,7 +5562,6 @@ Location "Flat" "Sol/Mars"
 
 # Approval date: Sep 12, 2016; Last update: Sep 12, 2016
 # Origin: Village in Iceland.
-# Additional info: None
 Location "Flateyri" "Sol/Mars"
 {
 	LongLat	[ 330.92 -35.86 0 ]
@@ -5919,7 +5814,6 @@ Location "Gamboa" "Sol/Mars"
 
 # Approval date: Nov 22, 2013; Last update: Nov 22, 2013
 # Origin: Town in the Republic of the Maldives.
-# Additional info: None
 Location "Gan" "Sol/Mars"
 {
 	LongLat	[ 229.00 61.72 0 ]
@@ -6028,7 +5922,6 @@ Location "Garm" "Sol/Mars"
 
 # Approval date: Apr 24, 2015; Last update: Apr 24, 2015
 # Origin: Village in Armenia.
-# Additional info: None
 Location "Garni" "Sol/Mars"
 {
 	LongLat	[ 290.31 -11.52 0 ]
@@ -6038,7 +5931,6 @@ Location "Garni" "Sol/Mars"
 
 # Approval date: Apr 06, 2018; Last update: Apr 06, 2018
 # Origin: Town in Ghana.
-# Additional info: None
 Location "Garu" "Sol/Mars"
 {
 	LongLat	[ 141.28 -6.39 0 ]
@@ -6075,7 +5967,6 @@ Location "Gebog" "Sol/Mars"
 
 # Approval date: May 01, 2017; Last update: May 02, 2017
 # Origin: River in Turkey.
-# Additional info: None
 Location "Gediz Vallis" "Sol/Mars"
 {
 	LongLat	[ 137.44 -4.85 0 ]
@@ -6094,7 +5985,6 @@ Location "GEHON" "Sol/Mars"
 
 # Approval date: Apr 30, 2007; Last update: May 15, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Gemina Lingula" "Sol/Mars"
 {
 	LongLat	[ 2.59 81.87 0 ]
@@ -6104,7 +5994,6 @@ Location "Gemina Lingula" "Sol/Mars"
 
 # Approval date: 2006; Last update: May 15, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Gemini Scopuli" "Sol/Mars"
 {
 	LongLat	[ 26.10 80.39 0 ]
@@ -6222,7 +6111,6 @@ Location "Goff" "Sol/Mars"
 
 # Approval date: Jul 05, 2017; Last update: Jul 05, 2017
 # Origin: Town in Zimbabwe.
-# Additional info: None
 Location "Gokwe" "Sol/Mars"
 {
 	LongLat	[ 78.12 -27.14 0 ]
@@ -6304,7 +6192,6 @@ Location "Gorgonum Chaos" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 18, 2020
 # Origin: Classical albedo feature name of Greek origin, Gorgonum Sinus.
-# Additional info: None
 Location "Gorgonum Mons" "Sol/Mars"
 {
 	LongLat	[ 190.31 -35.34 0 ]
@@ -6350,7 +6237,6 @@ Location "Gratteri" "Sol/Mars"
 
 # Approval date: Apr 11, 2015; Last update: Apr 16, 2015
 # Origin: Ronald; American geologist (1939-2011).
-# Additional info: None
 Location "Greeley" "Sol/Mars"
 {
 	LongLat	[ 3.92 -36.79 0 ]
@@ -6387,7 +6273,6 @@ Location "Grindavik" "Sol/Mars"
 
 # Approval date: Jul 01, 2013; Last update: Jul 01, 2013
 # Origin: Konstantin Iosifovich; Russian cosmophysicist (1918–1993).
-# Additional info: None
 Location "Gringauz" "Sol/Mars"
 {
 	LongLat	[ 324.30 -20.67 0 ]
@@ -6452,7 +6337,6 @@ Location "Guir" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Gujiang" "Sol/Mars"
 {
 	LongLat	[ 109.90 24.98 0 ]
@@ -6471,7 +6355,6 @@ Location "Gulch" "Sol/Mars"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: Town in the Republic of Gambia.
-# Additional info: None
 Location "Gunjur" "Sol/Mars"
 {
 	LongLat	[ 146.66 -0.17 0 ]
@@ -6499,7 +6382,6 @@ Location "Gusev" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Gutian" "Sol/Mars"
 {
 	LongLat	[ 110.23 24.96 0 ]
@@ -6537,7 +6419,6 @@ Location "Hadriaca Patera" "Sol/Mars"
 
 # Approval date: Oct 12, 2014; Last update: Oct 14, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Hadriacus Cavi" "Sol/Mars"
 {
 	LongLat	[ 78.05 -27.25 0 ]
@@ -6557,7 +6438,6 @@ Location "Hadriacus Mons" "Sol/Mars"
 
 # Approval date: Jul 09, 2013; Last update: Jul 09, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Hadriacus Palus" "Sol/Mars"
 {
 	LongLat	[ 77.30 -27.25 0 ]
@@ -6567,7 +6447,6 @@ Location "Hadriacus Palus" "Sol/Mars"
 
 # Approval date: Nov 12, 2013; Last update: Nov 12, 2013
 # Origin: Town in Lebanon.
-# Additional info: None
 Location "Halba" "Sol/Mars"
 {
 	LongLat	[ 303.86 -26.01 0 ]
@@ -6677,7 +6556,6 @@ Location "Harmakhis Vallis" "Sol/Mars"
 
 # Approval date: Jul 07, 2010; Last update: Nov 17, 2010
 # Origin: Daniel Lester III; American astronomer (1919-1962).
-# Additional info: None
 Location "Harris" "Sol/Mars"
 {
 	LongLat	[ 66.81 -21.90 0 ]
@@ -6687,7 +6565,6 @@ Location "Harris" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Town in Georgia, USA.
-# Additional info: None
 Location "Hartwell" "Sol/Mars"
 {
 	LongLat	[ 77.72 18.53 0 ]
@@ -6715,7 +6592,6 @@ Location "Hashir" "Sol/Mars"
 
 # Approval date: Jan 03, 2012; Last update: Feb 17, 2012
 # Origin: River in Germany.
-# Additional info: None
 Location "Havel Vallis" "Sol/Mars"
 {
 	LongLat	[ 302.54 0.77 0 ]
@@ -6815,7 +6691,6 @@ Location "Hellas Chaos" "Sol/Mars"
 
 # Approval date: Aug 07, 2015; Last update: Aug 07, 2015
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Hellas Chasma" "Sol/Mars"
 {
 	LongLat	[ 65.47 -34.64 0 ]
@@ -6916,7 +6791,6 @@ Location "Hephaestus Rupēs" "Sol/Mars"
 
 # Approval date: Oct 16, 2017; Last update: Oct 16, 2017
 # Origin: Greek goddess of women and marriage, one of the Olympians, wife of Zeus.
-# Additional info: None
 Location "Hera Patera" "Sol/Mars"
 {
 	LongLat	[ 226.23 18.45 0 ]
@@ -6944,7 +6818,6 @@ Location "Her Desher Vallis" "Sol/Mars"
 
 # Approval date: Oct 16, 2017; Last update: Oct 16, 2017
 # Origin: Greek god of trade, travelers, sports, the messenger of the gods, one of the Olympian gods, son of Zeus.
-# Additional info: None
 Location "Hermes Patera" "Sol/Mars"
 {
 	LongLat	[ 226.57 18.33 0 ]
@@ -6999,7 +6872,6 @@ Location "Hesperia Planum" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 19, 2020
 # Origin: Classical albedo feature, Hesperus.
-# Additional info: None
 Location "Hesperus Tholus" "Sol/Mars"
 {
 	LongLat	[ 138.72 -37.56 0 ]
@@ -7027,7 +6899,6 @@ Location "HIDDEKEL" "Sol/Mars"
 
 # Approval date: May 17, 2016; Last update: May 17, 2016
 # Origin: Classical albedo feature name, Hiddekel.
-# Additional info: None
 Location "Hiddekel Cavus" "Sol/Mars"
 {
 	LongLat	[ 16.24 29.43 0 ]
@@ -7037,7 +6908,6 @@ Location "Hiddekel Cavus" "Sol/Mars"
 
 # Approval date: Jun 05, 2017; Last update: Jun 06, 2017
 # Origin: Classical albedo feature name, Hiddekel.
-# Additional info: None
 Location "Hiddekel Rupes" "Sol/Mars"
 {
 	LongLat	[ 16.47 16.77 0 ]
@@ -7164,7 +7034,6 @@ Location "Hsūanch'eng" "Sol/Mars"
 
 # Approval date: Oct 12, 2014; Last update: Oct 14, 2014
 # Origin: River in Peru.
-# Additional info: None
 Location "Huallaga Vallis" "Sol/Mars"
 {
 	LongLat	[ 79.07 -26.67 0 ]
@@ -7192,7 +7061,6 @@ Location "Huggins" "Sol/Mars"
 
 # Approval date: Mar 21, 2015; Last update: Mar 21, 2015
 # Origin: Donald M.; American atmospheric physicist (1925-2010).
-# Additional info: None
 Location "Hunten" "Sol/Mars"
 {
 	LongLat	[ 23.69 -39.18 0 ]
@@ -7301,7 +7169,6 @@ Location "Hydaspis Chaos" "Sol/Mars"
 
 # Approval date: Nov 01, 2014; Last update: Nov 01, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Hydrae Cavus" "Sol/Mars"
 {
 	LongLat	[ 298.69 -7.93 0 ]
@@ -7311,7 +7178,6 @@ Location "Hydrae Cavus" "Sol/Mars"
 
 # Approval date: Nov 01, 2014; Last update: Nov 01, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Hydrae Chaos" "Sol/Mars"
 {
 	LongLat	[ 300.03 -5.90 0 ]
@@ -7339,7 +7205,6 @@ Location "Hydraotes Chaos" "Sol/Mars"
 
 # Approval date: Oct 21, 2014; Last update: Oct 21, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Hydraotes Colles" "Sol/Mars"
 {
 	LongLat	[ 326.32 -0.02 0 ]
@@ -7502,7 +7367,6 @@ Location "Icaria Planum" "Sol/Mars"
 
 # Approval date: Jun 05, 2017; Last update: Jun 06, 2017
 # Origin: Classical albedo feature name, Icaria.
-# Additional info: None
 Location "Icaria Rupes" "Sol/Mars"
 {
 	LongLat	[ 220.32 -35.79 0 ]
@@ -7665,7 +7529,6 @@ Location "Ismeniae Fossae" "Sol/Mars"
 
 # Approval date: Oct 29, 2012; Last update: Oct 29, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Ismenia Patera" "Sol/Mars"
 {
 	LongLat	[ 1.80 38.55 0 ]
@@ -7720,7 +7583,6 @@ Location "Ister Chaos" "Sol/Mars"
 
 # Approval date: Apr 30, 2014; Last update: Apr 30, 2014
 # Origin: Town in Kosovo.
-# Additional info: None
 Location "Istok" "Sol/Mars"
 {
 	LongLat	[ 274.18 -45.10 0 ]
@@ -7757,7 +7619,6 @@ Location "Ius Labes" "Sol/Mars"
 
 # Approval date: Nov 23, 2015; Last update: Nov 23, 2015
 # Origin: Classical martian albedo feature, Ius.
-# Additional info: None
 Location "Ius Mensa" "Sol/Mars"
 {
 	LongLat	[ 284.68 -8.60 0 ]
@@ -7767,7 +7628,6 @@ Location "Ius Mensa" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Mexico.
-# Additional info: None
 Location "Izamal" "Sol/Mars"
 {
 	LongLat	[ 1.62 3.78 0 ]
@@ -7786,7 +7646,6 @@ Location "Izendy" "Sol/Mars"
 
 # Approval date: Mar 06, 2020; Last update: Mar 12, 2020
 # Origin: Town in Slovenia.
-# Additional info: None
 Location "Izola" "Sol/Mars"
 {
 	LongLat	[ 54.10 -26.11 0 ]
@@ -7796,7 +7655,6 @@ Location "Izola" "Sol/Mars"
 
 # Approval date: Mar 06, 2020; Last update: Mar 12, 2020
 # Origin: Named for nearby crater Izola.
-# Additional info: None
 Location "Izola Mensa" "Sol/Mars"
 {
 	LongLat	[ 54.29 -25.89 0 ]
@@ -7806,7 +7664,6 @@ Location "Izola Mensa" "Sol/Mars"
 
 # Approval date: Feb 16, 2018; Last update: Feb 19, 2018
 # Origin: Town in India.
-# Additional info: None
 Location "Jaisalmer" "Sol/Mars"
 {
 	LongLat	[ 84.14 33.49 0 ]
@@ -7897,7 +7754,6 @@ Location "Jezero" "Sol/Mars"
 
 # Approval date: Sep 17, 2021; Last update: Sep 17, 2021
 # Origin: Named for nearby crater, Jezero.
-# Additional info: None
 Location "Jezero Mons" "Sol/Mars"
 {
 	LongLat	[ 78.23 18.16 0 ]
@@ -7916,7 +7772,6 @@ Location "Jezža" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Taiwan.
-# Additional info: None
 Location "Jiji" "Sol/Mars"
 {
 	LongLat	[ 358.26 8.77 0 ]
@@ -7998,7 +7853,6 @@ Location "Jones" "Sol/Mars"
 
 # Approval date: Jun 01, 2018; Last update: Jun 01, 2018
 # Origin: Town in Republic of Korea.
-# Additional info: None
 Location "Jori" "Sol/Mars"
 {
 	LongLat	[ 83.40 -28.38 0 ]
@@ -8044,7 +7898,6 @@ Location "Jumla" "Sol/Mars"
 
 # Approval date: Nov 01, 2014; Last update: Nov 01, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Juventae Cavi" "Sol/Mars"
 {
 	LongLat	[ 301.84 -3.91 0 ]
@@ -8081,7 +7934,6 @@ Location "JUVENTAE FONS" "Sol/Mars"
 
 # Approval date: Apr 17, 2015; Last update: Apr 18, 2015
 # Origin: Classical albedo feature name, Juventae Fons
-# Additional info: None
 Location "Juventae Mensa" "Sol/Mars"
 {
 	LongLat	[ 294.37 -7.93 0 ]
@@ -8163,7 +8015,6 @@ Location "Kakori" "Sol/Mars"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: Town in the United Arab Emirates.
-# Additional info: None
 Location "Kalba" "Sol/Mars"
 {
 	LongLat	[ 154.83 -5.89 0 ]
@@ -8191,7 +8042,6 @@ Location "Kalocsa" "Sol/Mars"
 
 # Approval date: Nov 14, 2018; Last update: Nov 14, 2018
 # Origin: Town in China.
-# Additional info: None
 Location "Kalpin" "Sol/Mars"
 {
 	LongLat	[ 141.27 8.93 0 ]
@@ -8255,7 +8105,6 @@ Location "Kandi" "Sol/Mars"
 
 # Approval date: Apr 03, 2017; Last update: Apr 03, 2017
 # Origin: Town in Mauritania.
-# Additional info: None
 Location "Kankossa" "Sol/Mars"
 {
 	LongLat	[ 304.46 -11.83 0 ]
@@ -8283,7 +8132,6 @@ Location "Kantang" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Malawi.
-# Additional info: None
 Location "Kaporo" "Sol/Mars"
 {
 	LongLat	[ 14.35 -0.12 0 ]
@@ -8302,7 +8150,6 @@ Location "Karpinsk" "Sol/Mars"
 
 # Approval date: Dec 01, 2021; Last update: Dec 01, 2021
 # Origin: Town in Australia.
-# Additional info: None
 Location "Karratha" "Sol/Mars"
 {
 	LongLat	[ 203.60 -15.69 0 ]
@@ -8330,7 +8177,6 @@ Location "Kartabo" "Sol/Mars"
 
 # Approval date: Oct 02, 2015; Last update: Oct 02, 2015
 # Origin: River in Iran.
-# Additional info: None
 Location "Kārūn Valles" "Sol/Mars"
 {
 	LongLat	[ 174.10 -35.94 0 ]
@@ -8448,7 +8294,6 @@ Location "Kem'" "Sol/Mars"
 
 # Approval date: Sep 15, 2020; Last update: Feb 09, 2021
 # Origin: Alexander; Soviet engineer of Armenian descent, founder of the Soviet scientific school of space transport engineering, designer of the first planetary rovers, including lunar Lunokhod 1 and 2, and martian PrOP-M mini-rover onboard Mars 2 and 3 landers (1921-2003).
-# Additional info: None
 Location "Kemurdzhian" "Sol/Mars"
 {
 	LongLat	[ 188.61 -43.22 0 ]
@@ -8458,7 +8303,6 @@ Location "Kemurdzhian" "Sol/Mars"
 
 # Approval date: Feb 16, 2018; Last update: Feb 19, 2018
 # Origin: Town in Democratic Republic of the Congo.
-# Additional info: None
 Location "Kenge" "Sol/Mars"
 {
 	LongLat	[ 102.95 -16.36 0 ]
@@ -8477,7 +8321,6 @@ Location "Kepler" "Sol/Mars"
 
 # Approval date: Mar 27, 2012; Last update: Mar 28, 2012
 # Origin: Town in Eritrea.
-# Additional info: None
 Location "Keren" "Sol/Mars"
 {
 	LongLat	[ 337.50 20.98 0 ]
@@ -8514,7 +8357,6 @@ Location "Kholm" "Sol/Mars"
 
 # Approval date: Dec 01, 2021; Last update: Dec 01, 2021
 # Origin: Town in Mongolia.
-# Additional info: None
 Location "Khujirt" "Sol/Mars"
 {
 	LongLat	[ 203.03 -16.29 0 ]
@@ -8551,7 +8393,6 @@ Location "Kifrī" "Sol/Mars"
 
 # Approval date: Jun 10, 2019; Last update: Jun 10, 2019
 # Origin: Town in England.
-# Additional info: None
 Location "Kilkhampton" "Sol/Mars"
 {
 	LongLat	[ 336.70 17.52 0 ]
@@ -8561,7 +8402,6 @@ Location "Kilkhampton" "Sol/Mars"
 
 # Approval date: Feb 16, 2018; Last update: Feb 19, 2018
 # Origin: Village in Yemen.
-# Additional info: None
 Location "Kilmia" "Sol/Mars"
 {
 	LongLat	[ 59.48 -24.04 0 ]
@@ -8598,7 +8438,6 @@ Location "Kinda" "Sol/Mars"
 
 # Approval date: 1979; Last update: Oct 02, 2018
 # Origin: Jamaican port.
-# Additional info: None
 Location "Kingston" "Sol/Mars"
 {
 	LongLat	[ 312.96 22.11 0 ]
@@ -8698,7 +8537,6 @@ Location "Kok" "Sol/Mars"
 
 # Approval date: Nov 26, 2012; Last update: Nov 26, 2012
 # Origin: Town in the Kingdom of Tonga.
-# Additional info: None
 Location "Kolonga" "Sol/Mars"
 {
 	LongLat	[ 305.06 8.32 0 ]
@@ -8744,7 +8582,6 @@ Location "Korph" "Sol/Mars"
 
 # Approval date: Sep 27, 2013; Last update: Sep 27, 2013
 # Origin: Village in Turkmenistan.
-# Additional info: None
 Location "Koshoba" "Sol/Mars"
 {
 	LongLat	[ 77.00 22.93 0 ]
@@ -8754,7 +8591,6 @@ Location "Koshoba" "Sol/Mars"
 
 # Approval date: Oct 24, 2017; Last update: Oct 24, 2017
 # Origin: Town in Uganda.
-# Additional info: None
 Location "Kotido" "Sol/Mars"
 {
 	LongLat	[ 350.89 1.00 0 ]
@@ -8764,7 +8600,6 @@ Location "Kotido" "Sol/Mars"
 
 # Approval date: Sep 15, 2014; Last update: Sep 15, 2014
 # Origin: Town in Finland.
-# Additional info: None
 Location "Kotka" "Sol/Mars"
 {
 	LongLat	[ 169.88 19.25 0 ]
@@ -8801,7 +8636,6 @@ Location "Koy" "Sol/Mars"
 
 # Approval date: Apr 21, 2021; Last update: Apr 22, 2021
 # Origin: Town in Ukraine.
-# Additional info: None
 Location "Kozova" "Sol/Mars"
 {
 	LongLat	[ 359.04 3.90 0 ]
@@ -8838,7 +8672,6 @@ Location "Krishtofovich" "Sol/Mars"
 
 # Approval date: Oct 28, 2016; Last update: Oct 28, 2016
 # Origin: Town in the municipality of Pirot, Serbia.
-# Additional info: None
 Location "Krupac" "Sol/Mars"
 {
 	LongLat	[ 86.01 -7.79 0 ]
@@ -8866,7 +8699,6 @@ Location "Kufra" "Sol/Mars"
 
 # Approval date: Feb 20, 2018; Last update: Feb 20, 2018
 # Origin: Town in Austria.
-# Additional info: None
 Location "Kufstein" "Sol/Mars"
 {
 	LongLat	[ 57.54 -36.00 0 ]
@@ -9102,7 +8934,6 @@ Location "Land" "Sol/Mars"
 
 # Approval date: Jun 14, 2016; Last update: Jun 14, 2016
 # Origin: Village in Nepal.
-# Additional info: None
 Location "Langtang" "Sol/Mars"
 {
 	LongLat	[ 224.04 -38.12 0 ]
@@ -9175,7 +9006,6 @@ Location "Laylá" "Sol/Mars"
 
 # Approval date: Nov 06, 2017; Last update: Nov 06, 2017
 # Origin: Arabic word for night.
-# Additional info: None
 Location "Layl Cavus" "Sol/Mars"
 {
 	LongLat	[ 261.40 -10.40 0 ]
@@ -9194,7 +9024,6 @@ Location "Lebu" "Sol/Mars"
 
 # Approval date: Jul 20, 2012; Last update: Jul 20, 2012
 # Origin: Joshua; American molecular biologist (1925-2008).
-# Additional info: None
 Location "Lederberg" "Sol/Mars"
 {
 	LongLat	[ 314.08 13.01 0 ]
@@ -9294,7 +9123,6 @@ Location "Liais" "Sol/Mars"
 
 # Approval date: Nov 26, 2012; Last update: Nov 26, 2012
 # Origin: Town in Antigua and Barbuda.
-# Additional info: None
 Location "Liberta" "Sol/Mars"
 {
 	LongLat	[ 304.55 35.23 0 ]
@@ -9376,7 +9204,6 @@ Location "Lins" "Sol/Mars"
 
 # Approval date: Jun 13, 2011; Last update: Jun 29, 2011
 # Origin: Town in Slovakia.
-# Additional info: None
 Location "Lipany" "Sol/Mars"
 {
 	LongLat	[ 79.67 -0.22 0 ]
@@ -9576,7 +9403,6 @@ Location "Longa" "Sol/Mars"
 
 # Approval date: Oct 20, 2021; Last update: Oct 23, 2021
 # Origin: Town in Indonesia.
-# Additional info: None
 Location "Longboh" "Sol/Mars"
 {
 	LongLat	[ 95.10 31.32 0 ]
@@ -9595,7 +9421,6 @@ Location "Loon" "Sol/Mars"
 
 # Approval date: Oct 07, 2014; Last update: Oct 07, 2014
 # Origin: Epidio López; Mexican astronomer and author (1879-1965).
-# Additional info: None
 Location "López" "Sol/Mars"
 {
 	LongLat	[ 98.04 -14.57 0 ]
@@ -9678,7 +9503,6 @@ Location "Lowell" "Sol/Mars"
 
 # Approval date: May 31, 2013; Last update: May 31, 2013
 # Origin: Town in the Republic of Equatorial Guinea.
-# Additional info: None
 Location "Luba" "Sol/Mars"
 {
 	LongLat	[ 323.00 -18.26 0 ]
@@ -9688,7 +9512,6 @@ Location "Luba" "Sol/Mars"
 
 # Approval date: Jan 30, 2013; Last update: Jan 30, 2013
 # Origin: Town in the Commonwealth of the Bahamas.
-# Additional info: None
 Location "Lucaya" "Sol/Mars"
 {
 	LongLat	[ 51.91 -11.55 0 ]
@@ -9707,7 +9530,6 @@ Location "Luck" "Sol/Mars"
 
 # Approval date: 1997; Last update: May 18, 2018
 # Origin: Albedo feature name.
-# Additional info: None
 Location "Lucus Planum" "Sol/Mars"
 {
 	LongLat	[ 182.83 -4.99 0 ]
@@ -9726,7 +9548,6 @@ Location "Luga" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Lukeqin" "Sol/Mars"
 {
 	LongLat	[ 110.13 24.83 0 ]
@@ -9925,7 +9746,6 @@ Location "Mago" "Sol/Mars"
 
 # Approval date: Apr 09, 2014; Last update: Apr 09, 2014
 # Origin: Town in Taiwan (also spelled Makung).
-# Additional info: None
 Location "Magong" "Sol/Mars"
 {
 	LongLat	[ 313.31 11.89 0 ]
@@ -9962,7 +9782,6 @@ Location "Maja Valles" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Maji" "Sol/Mars"
 {
 	LongLat	[ 109.91 25.04 0 ]
@@ -9972,7 +9791,6 @@ Location "Maji" "Sol/Mars"
 
 # Approval date: Nov 28, 2011; Last update: Feb 17, 2012
 # Origin: Capital of the Republic of the Marshall Islands.
-# Additional info: None
 Location "Majuro" "Sol/Mars"
 {
 	LongLat	[ 84.33 -33.26 0 ]
@@ -9991,7 +9809,6 @@ Location "Makhambet" "Sol/Mars"
 
 # Approval date: Nov 06, 2017; Last update: Nov 06, 2017
 # Origin: Indonesian word for night.
-# Additional info: None
 Location "Malam Cavus" "Sol/Mars"
 {
 	LongLat	[ 261.90 -11.20 0 ]
@@ -10019,7 +9836,6 @@ Location "Malea Planum" "Sol/Mars"
 
 # Approval date: Feb 10, 2020; Last update: Feb 10, 2020
 # Origin: Town in Indonesia.
-# Additional info: None
 Location "Malino" "Sol/Mars"
 {
 	LongLat	[ 335.28 18.00 0 ]
@@ -10029,7 +9845,6 @@ Location "Malino" "Sol/Mars"
 
 # Approval date: Sep 06, 2016; Last update: Sep 06, 2016
 # Origin: Town in Tanzania.
-# Additional info: None
 Location "Mambali" "Sol/Mars"
 {
 	LongLat	[ 27.03 -23.51 0 ]
@@ -10255,7 +10070,6 @@ Location "MARGARITIFER TERRA" "Sol/Mars"
 
 # Approval date: Apr 21, 2021; Last update: Apr 22, 2021
 # Origin: Lynn; evolutionary biologist (1938-2011).
-# Additional info: None
 Location "Margulis" "Sol/Mars"
 {
 	LongLat	[ 8.49 -23.16 0 ]
@@ -10328,7 +10142,6 @@ Location "Martin" "Sol/Mars"
 
 # Approval date: Jul 15, 2013; Last update: Jul 15, 2013
 # Origin: Dmitry Yakovlevich; Russian astronomer (1906-1989).
-# Additional info: None
 Location "Martynov" "Sol/Mars"
 {
 	LongLat	[ 323.59 -30.36 0 ]
@@ -10347,7 +10160,6 @@ Location "Martz" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Town in California, USA.
-# Additional info: None
 Location "Marysville" "Sol/Mars"
 {
 	LongLat	[ 77.18 18.13 0 ]
@@ -10357,7 +10169,6 @@ Location "Marysville" "Sol/Mars"
 
 # Approval date: Oct 20, 2021; Last update: Oct 23, 2021
 # Origin: Town in Pakistan.
-# Additional info: None
 Location "Mastung" "Sol/Mars"
 {
 	LongLat	[ 95.95 31.40 0 ]
@@ -10439,7 +10250,6 @@ Location "Mazamba" "Sol/Mars"
 
 # Approval date: Jun 01, 2018; Last update: Jun 01, 2018
 # Origin: John “Jack”; American geologist (1932-2012).
-# Additional info: None
 Location "McCauley" "Sol/Mars"
 {
 	LongLat	[ 83.23 -27.35 0 ]
@@ -10548,7 +10358,6 @@ Location "Melas Labes" "Sol/Mars"
 
 # Approval date: Nov 23, 2015; Last update: Nov 23, 2015
 # Origin: Classical martian albedo feature, Melas.
-# Additional info: None
 Location "Melas Mensa" "Sol/Mars"
 {
 	LongLat	[ 285.85 -10.72 0 ]
@@ -10630,7 +10439,6 @@ Location "Mendota" "Sol/Mars"
 
 # Approval date: 2003; Last update: Jun 07, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Meridiani Planum" "Sol/Mars"
 {
 	LongLat	[ 356.86 -0.04 0 ]
@@ -10668,7 +10476,6 @@ Location "Meroe Patera" "Sol/Mars"
 
 # Approval date: Nov 02, 2011; Last update: Feb 17, 2012
 # Origin: Town in Saint Lucia.
-# Additional info: None
 Location "Micoud" "Sol/Mars"
 {
 	LongLat	[ 16.34 50.56 0 ]
@@ -10742,7 +10549,6 @@ Location "Millochau" "Sol/Mars"
 
 # Approval date: Aug 12, 2010; Last update: Nov 17, 2010
 # Origin: Town in the Republic of Croatia.
-# Additional info: None
 Location "Milna" "Sol/Mars"
 {
 	LongLat	[ 347.76 -23.46 0 ]
@@ -10824,7 +10630,6 @@ Location "MOAB" "Sol/Mars"
 
 # Approval date: Jul 05, 2012; Last update: Jul 05, 2012
 # Origin: Town in Gabon.
-# Additional info: None
 Location "Moanda" "Sol/Mars"
 {
 	LongLat	[ 320.05 -35.93 0 ]
@@ -10834,7 +10639,6 @@ Location "Moanda" "Sol/Mars"
 
 # Approval date: Jul 10, 2015; Last update: Jul 10, 2015
 # Origin: River in Sierra Leone.
-# Additional info: None
 Location "Moa Valles" "Sol/Mars"
 {
 	LongLat	[ 305.30 35.62 0 ]
@@ -10862,7 +10666,6 @@ Location "Mohawk" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 14, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Mohe" "Sol/Mars"
 {
 	LongLat	[ 110.14 24.77 0 ]
@@ -10872,7 +10675,6 @@ Location "Mohe" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 15, 2021
 # Origin: Named for nearby crater, Mohe.
-# Additional info: None
 Location "Mohe Tholi" "Sol/Mars"
 {
 	LongLat	[ 110.13 24.69 0 ]
@@ -10900,7 +10702,6 @@ Location "Molesworth" "Sol/Mars"
 
 # Approval date: Jun 29, 2015; Last update: Jun 29, 2015
 # Origin: Village in Cyprus.
-# Additional info: None
 Location "Moni" "Sol/Mars"
 {
 	LongLat	[ 18.77 -47.01 0 ]
@@ -10982,7 +10783,6 @@ Location "Moss" "Sol/Mars"
 
 # Approval date: May 06, 2013; Last update: May 06, 2013
 # Origin: Town in Brunei.
-# Additional info: None
 Location "Muara" "Sol/Mars"
 {
 	LongLat	[ 340.69 24.32 0 ]
@@ -11019,7 +10819,6 @@ Location "Murgoo" "Sol/Mars"
 
 # Approval date: Sep 06, 2016; Last update: Sep 06, 2016
 # Origin: Bruce Churchill; American planetary scientist (1931-2013).
-# Additional info: None
 Location "Murray" "Sol/Mars"
 {
 	LongLat	[ 28.06 -23.29 0 ]
@@ -11074,7 +10873,6 @@ Location "Nain" "Sol/Mars"
 
 # Approval date: 1979; Last update: Feb 10, 2012
 # Origin: Town in the Republic of Korea.
-# Additional info: None
 Location "Naju" "Sol/Mars"
 {
 	LongLat	[ 122.86 44.99 0 ]
@@ -11084,7 +10882,6 @@ Location "Naju" "Sol/Mars"
 
 # Approval date: Jun 01, 2018; Last update: Jun 01, 2018
 # Origin: Town in Burkina Faso.
-# Additional info: None
 Location "Nako" "Sol/Mars"
 {
 	LongLat	[ 82.93 -29.67 0 ]
@@ -11094,7 +10891,6 @@ Location "Nako" "Sol/Mars"
 
 # Approval date: 1982; Last update: Feb 10, 2012
 # Origin: Modern name for river in the Republic of Korea.
-# Additional info: None
 Location "Naktong Vallis" "Sol/Mars"
 {
 	LongLat	[ 33.39 4.89 0 ]
@@ -11140,7 +10936,6 @@ Location "Nansen" "Sol/Mars"
 
 # Approval date: Oct 12, 2014; Last update: Oct 14, 2014
 # Origin: River in Ecuador.
-# Additional info: None
 Location "Napo Vallis" "Sol/Mars"
 {
 	LongLat	[ 78.03 -25.97 0 ]
@@ -11186,7 +10981,6 @@ Location "Naryn" "Sol/Mars"
 
 # Approval date: Nov 06, 2017; Last update: Nov 06, 2017
 # Origin: Danish word for night.
-# Additional info: None
 Location "Nat Cavus" "Sol/Mars"
 {
 	LongLat	[ 263.10 -11.90 0 ]
@@ -11214,7 +11008,6 @@ Location "Navan" "Sol/Mars"
 
 # Approval date: Jul 27, 2015; Last update: Jul 28, 2015
 # Origin: River in Fiji.
-# Additional info: None
 Location "Navua Valles" "Sol/Mars"
 {
 	LongLat	[ 82.68 -33.94 0 ]
@@ -11251,7 +11044,6 @@ Location "Nectaris Fossae" "Sol/Mars"
 
 # Approval date: May 26, 2015; Last update: May 26, 2015
 # Origin: Classical martian albedo feature, Nectaris
-# Additional info: None
 Location "Nectaris Montes" "Sol/Mars"
 {
 	LongLat	[ 305.35 -14.64 0 ]
@@ -11270,7 +11062,6 @@ Location "Negele" "Sol/Mars"
 
 # Approval date: Aug 20, 2015; Last update: Oct 02, 2018
 # Origin: Town in Jamaica.
-# Additional info: None
 Location "Negril" "Sol/Mars"
 {
 	LongLat	[ 69.43 20.19 0 ]
@@ -11361,7 +11152,6 @@ Location "Nereidum Montes" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: River in Bosnia and Herzegovina and Croatia.
-# Additional info: None
 Location "Neretva Vallis" "Sol/Mars"
 {
 	LongLat	[ 77.20 18.55 0 ]
@@ -11380,7 +11170,6 @@ Location "Nestus Valles" "Sol/Mars"
 
 # Approval date: Sep 29, 2017; Last update: Sep 29, 2017
 # Origin: Gerhard; German planetary scientist (1944-2014).
-# Additional info: None
 Location "Neukum" "Sol/Mars"
 {
 	LongLat	[ 28.40 -44.90 0 ]
@@ -11399,7 +11188,6 @@ Location "Never" "Sol/Mars"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: Town in the Republic of Sao Tome and Principe.
-# Additional info: None
 Location "Neves" "Sol/Mars"
 {
 	LongLat	[ 151.31 -3.39 0 ]
@@ -11463,7 +11251,6 @@ Location "Newton" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 19, 2020
 # Origin: Named for nearby crater, Newton.
-# Additional info: None
 Location "Newton Tholus" "Sol/Mars"
 {
 	LongLat	[ 194.89 -40.48 0 ]
@@ -11482,7 +11269,6 @@ Location "Nhill" "Sol/Mars"
 
 # Approval date: Feb 02, 2017; Last update: Feb 02, 2017
 # Origin: Classical albedo feature name, Nia.
-# Additional info: None
 Location "Nia Chaos" "Sol/Mars"
 {
 	LongLat	[ 292.62 -6.74 0 ]
@@ -11492,7 +11278,6 @@ Location "Nia Chaos" "Sol/Mars"
 
 # Approval date: 1982; Last update: Feb 07, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Nia Fossae" "Sol/Mars"
 {
 	LongLat	[ 288.23 -14.73 0 ]
@@ -11502,7 +11287,6 @@ Location "Nia Fossae" "Sol/Mars"
 
 # Approval date: Apr 17, 2015; Last update: Apr 18, 2015
 # Origin: Classical albedo feature name, Nia
-# Additional info: None
 Location "Nia Mensa" "Sol/Mars"
 {
 	LongLat	[ 292.68 -7.72 0 ]
@@ -11512,7 +11296,6 @@ Location "Nia Mensa" "Sol/Mars"
 
 # Approval date: Mar 11, 2013; Last update: Mar 11, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Nia Tholus" "Sol/Mars"
 {
 	LongLat	[ 285.05 -6.59 0 ]
@@ -11612,7 +11395,6 @@ Location "Nili Patera" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Nili Planum" "Sol/Mars"
 {
 	LongLat	[ 77.10 18.60 0 ]
@@ -11622,7 +11404,6 @@ Location "Nili Planum" "Sol/Mars"
 
 # Approval date: May 09, 2014; Last update: May 09, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Nili Tholus" "Sol/Mars"
 {
 	LongLat	[ 67.35 9.15 0 ]
@@ -11795,7 +11576,6 @@ Location "NOACHIS TERRA" "Sol/Mars"
 
 # Approval date: Nov 06, 2017; Last update: Nov 06, 2017
 # Origin: Polish word for night.
-# Additional info: None
 Location "Noc Cavus" "Sol/Mars"
 {
 	LongLat	[ 263.30 -13.40 0 ]
@@ -11823,7 +11603,6 @@ Location "Noctis Labyrinthus" "Sol/Mars"
 
 # Approval date: Nov 06, 2017; Last update: Nov 06, 2017
 # Origin: Classical albedo feature name, Noctis Lacus.
-# Additional info: None
 Location "Noctis Tholus" "Sol/Mars"
 {
 	LongLat	[ 261.80 -12.30 0 ]
@@ -11842,7 +11621,6 @@ Location "Noma" "Sol/Mars"
 
 # Approval date: Jan 19, 2011; Last update: Jun 29, 2011
 # Origin: Town in Aruba.
-# Additional info: None
 Location "Noord" "Sol/Mars"
 {
 	LongLat	[ 348.73 -19.27 0 ]
@@ -11879,7 +11657,6 @@ Location "Novara" "Sol/Mars"
 
 # Approval date: Jun 14, 2016; Last update: Jun 14, 2016
 # Origin: Nquthu, town in South Africa.
-# Additional info: None
 Location "Nqutu" "Sol/Mars"
 {
 	LongLat	[ 169.55 -38.04 0 ]
@@ -11907,7 +11684,6 @@ Location "Nutak" "Sol/Mars"
 
 # Approval date: Sep 12, 2016; Last update: Sep 12, 2016
 # Origin: Town in Norway.
-# Additional info: None
 Location "Nybyen" "Sol/Mars"
 {
 	LongLat	[ 343.34 -37.02 0 ]
@@ -11917,7 +11693,6 @@ Location "Nybyen" "Sol/Mars"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: Town in the Republic of Djibouti.
-# Additional info: None
 Location "Obock" "Sol/Mars"
 {
 	LongLat	[ 150.53 -2.01 0 ]
@@ -11990,7 +11765,6 @@ Location "Octantis Mons" "Sol/Mars"
 
 # Approval date: Jan 30, 2018; Last update: Jan 31, 2018
 # Origin: Classical albedo feature name, Oenotria.
-# Additional info: None
 Location "Oenotria Cavi" "Sol/Mars"
 {
 	LongLat	[ 78.90 -3.86 0 ]
@@ -12000,7 +11774,6 @@ Location "Oenotria Cavi" "Sol/Mars"
 
 # Approval date: Jun 13, 2011; Last update: Jun 14, 2011
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Oenotria Plana" "Sol/Mars"
 {
 	LongLat	[ 76.64 -8.14 0 ]
@@ -12047,7 +11820,6 @@ Location "Ogygis Rupes" "Sol/Mars"
 
 # Approval date: Sep 17, 2015; Last update: Sep 18, 2015
 # Origin: Classical albedo feature name: Ogygis Regio.
-# Additional info: None
 Location "Ogygis Undae" "Sol/Mars"
 {
 	LongLat	[ 293.79 -49.66 0 ]
@@ -12066,7 +11838,6 @@ Location "Ohara" "Sol/Mars"
 
 # Approval date: Apr 23, 2018; Last update: Apr 23, 2018
 # Origin: Town in (Bacău) Romania.
-# Additional info: None
 Location "Oituz" "Sol/Mars"
 {
 	LongLat	[ 341.24 23.46 0 ]
@@ -12076,7 +11847,6 @@ Location "Oituz" "Sol/Mars"
 
 # Approval date: Nov 26, 2012; Last update: Nov 26, 2012
 # Origin: River in Botswana.
-# Additional info: None
 Location "Okavango Valles" "Sol/Mars"
 {
 	LongLat	[ 8.97 38.10 0 ]
@@ -12140,7 +11910,6 @@ Location "OLYMPIA" "Sol/Mars"
 
 # Approval date: 2006; Last update: Jun 07, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Olympia Cavi" "Sol/Mars"
 {
 	LongLat	[ 182.23 85.06 0 ]
@@ -12159,7 +11928,6 @@ Location "Olympia Mensae" "Sol/Mars"
 
 # Approval date: Mar 20, 2007; Last update: Jun 07, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Olympia Planum" "Sol/Mars"
 {
 	LongLat	[ 188.81 82.18 0 ]
@@ -12178,7 +11946,6 @@ Location "Olympia Rupēs" "Sol/Mars"
 
 # Approval date: 2003; Last update: Jun 07, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Olympia Undae" "Sol/Mars"
 {
 	LongLat	[ 178.48 81.16 0 ]
@@ -12197,7 +11964,6 @@ Location "Olympica Fossae" "Sol/Mars"
 
 # Approval date: Nov 29, 2017; Last update: Nov 29, 2017
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Olympus Maculae" "Sol/Mars"
 {
 	LongLat	[ 217.16 17.36 0 ]
@@ -12216,7 +11982,6 @@ Location "Olympus Mons" "Sol/Mars"
 
 # Approval date: Oct 16, 2017; Last update: Oct 16, 2017
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Olympus Paterae" "Sol/Mars"
 {
 	LongLat	[ 226.81 18.32 0 ]
@@ -12316,7 +12081,6 @@ Location "Ophir Labes" "Sol/Mars"
 
 # Approval date: Nov 20, 2013; Last update: Nov 20, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Ophir Mensa" "Sol/Mars"
 {
 	LongLat	[ 286.51 -3.99 0 ]
@@ -12443,7 +12207,6 @@ Location "Oudemans" "Sol/Mars"
 
 # Approval date: Jun 03, 2020; Last update: Apr 05, 2021
 # Origin: Tobias, American planetary scientist (1936-2017).
-# Additional info: None
 Location "Owen" "Sol/Mars"
 {
 	LongLat	[ 83.84 -13.48 0 ]
@@ -12489,7 +12252,6 @@ Location "OXIA PALUS" "Sol/Mars"
 
 # Approval date: May 17, 2019; Last update: May 17, 2019
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Oxia Planum" "Sol/Mars"
 {
 	LongLat	[ 334.29 17.28 0 ]
@@ -12508,7 +12270,6 @@ Location "OXUS" "Sol/Mars"
 
 # Approval date: Oct 29, 2012; Last update: Oct 29, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Oxus Cavus" "Sol/Mars"
 {
 	LongLat	[ 359.48 37.41 0 ]
@@ -12518,7 +12279,6 @@ Location "Oxus Cavus" "Sol/Mars"
 
 # Approval date: Oct 29, 2012; Last update: Oct 29, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Oxus Patera" "Sol/Mars"
 {
 	LongLat	[ 359.66 38.97 0 ]
@@ -12555,7 +12315,6 @@ Location "Padus Vallis" "Sol/Mars"
 
 # Approval date: Sep 29, 2017; Last update: Sep 29, 2017
 # Origin: Town in Thailand.
-# Additional info: None
 Location "Pai" "Sol/Mars"
 {
 	LongLat	[ 37.60 -41.10 0 ]
@@ -12592,7 +12351,6 @@ Location "Palana" "Sol/Mars"
 
 # Approval date: Sep 29, 2011; Last update: Feb 17, 2012
 # Origin: Capital of the Federated States of Micronesia.
-# Additional info: None
 Location "Palikir" "Sol/Mars"
 {
 	LongLat	[ 202.14 -41.57 0 ]
@@ -12756,7 +12514,6 @@ Location "Pavonis Sulci" "Sol/Mars"
 
 # Approval date: Sep 26, 2012; Last update: Sep 26, 2012
 # Origin: River in British Columbia and Alberta, Canada.
-# Additional info: None
 Location "Peace Vallis" "Sol/Mars"
 {
 	LongLat	[ 137.23 -4.21 0 ]
@@ -12784,7 +12541,6 @@ Location "Peixe" "Sol/Mars"
 
 # Approval date: Feb 04, 2021; Last update: Feb 04, 2021
 # Origin: From albedo feature at 48S, 290W.
-# Additional info: None
 Location "Peneus Mensa" "Sol/Mars"
 {
 	LongLat	[ 55.10 -45.46 0 ]
@@ -12794,7 +12550,6 @@ Location "Peneus Mensa" "Sol/Mars"
 
 # Approval date: Aug 07, 2015; Last update: Aug 07, 2015
 # Origin: From classical albedo feature at 48S, 290W.
-# Additional info: None
 Location "Peneus Palus" "Sol/Mars"
 {
 	LongLat	[ 56.71 -35.06 0 ]
@@ -12948,7 +12703,6 @@ Location "PHISON" "Sol/Mars"
 
 # Approval date: Mar 20, 2019; Last update: Mar 20, 2019
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Phison Patera" "Sol/Mars"
 {
 	LongLat	[ 48.70 30.27 0 ]
@@ -12985,7 +12739,6 @@ Location "PHLEGRA" "Sol/Mars"
 
 # Approval date: 2003; Last update: Jun 07, 2018
 # Origin: Named for classical albedo feature at 35N, 195W.
-# Additional info: None
 Location "Phlegra Dorsa" "Sol/Mars"
 {
 	LongLat	[ 170.37 25.08 0 ]
@@ -13031,7 +12784,6 @@ Location "PHRIXI REGIO" "Sol/Mars"
 
 # Approval date: Jun 05, 2017; Last update: Jun 06, 2017
 # Origin: Classical albedo feature name, Phrixi.
-# Additional info: None
 Location "Phrixi Rupes" "Sol/Mars"
 {
 	LongLat	[ 292.97 -44.67 0 ]
@@ -13078,7 +12830,6 @@ Location "Pindus Mons" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Pingle" "Sol/Mars"
 {
 	LongLat	[ 110.70 25.98 0 ]
@@ -13097,7 +12848,6 @@ Location "Pinglo" "Sol/Mars"
 
 # Approval date: Aug 25, 2021; Last update: Aug 25, 2021
 # Origin: Town in Italy.
-# Additional info: None
 Location "Piscinas" "Sol/Mars"
 {
 	LongLat	[ 358.55 4.48 0 ]
@@ -13107,7 +12857,6 @@ Location "Piscinas" "Sol/Mars"
 
 # Approval date: Aug 25, 2021; Last update: Aug 25, 2021
 # Origin: Named for nearby Piscinas crater.
-# Additional info: None
 Location "Piscinas Serpentes" "Sol/Mars"
 {
 	LongLat	[ 358.84 4.55 0 ]
@@ -13117,7 +12866,6 @@ Location "Piscinas Serpentes" "Sol/Mars"
 
 # Approval date: Nov 01, 2014; Last update: Nov 01, 2014
 # Origin: Town in Costa Rica.
-# Additional info: None
 Location "Pital" "Sol/Mars"
 {
 	LongLat	[ 297.72 -9.27 0 ]
@@ -13127,7 +12875,6 @@ Location "Pital" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 19, 2020
 # Origin: Classical albedo feature, Pityusa Insula.
-# Additional info: None
 Location "Pityusa Mons" "Sol/Mars"
 {
 	LongLat	[ 17.58 -63.56 0 ]
@@ -13173,7 +12920,6 @@ Location "Planum Angustum" "Sol/Mars"
 
 # Approval date: 1976; Last update: Jun 07, 2018
 # Origin: Classical albedo feature.
-# Additional info: None
 Location "Planum Australe" "Sol/Mars"
 {
 	LongLat	[ 157.70 -83.35 0 ]
@@ -13183,7 +12929,6 @@ Location "Planum Australe" "Sol/Mars"
 
 # Approval date: 1976; Last update: Jun 07, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Planum Boreum" "Sol/Mars"
 {
 	LongLat	[ 54.96 87.32 0 ]
@@ -13220,7 +12965,6 @@ Location "Playfair" "Sol/Mars"
 
 # Approval date: Mar 26, 2020; Last update: Mar 27, 2020
 # Origin: River in Bosnia and Herzegovina.
-# Additional info: None
 Location "Pliva Vallis" "Sol/Mars"
 {
 	LongLat	[ 78.35 18.67 0 ]
@@ -13347,7 +13091,6 @@ Location "Poso" "Sol/Mars"
 
 # Approval date: 1991; Last update: Jul 19, 2013
 # Origin: Town in Georgia.
-# Additional info: None
 Location "Poti" "Sol/Mars"
 {
 	LongLat	[ 86.56 -36.31 0 ]
@@ -13366,7 +13109,6 @@ Location "Poynting" "Sol/Mars"
 
 # Approval date: Feb 18, 2016; Last update: Feb 19, 2016
 # Origin: Town in Vietnam.
-# Additional info: None
 Location "Prao" "Sol/Mars"
 {
 	LongLat	[ 56.61 -11.16 0 ]
@@ -13585,7 +13327,6 @@ Location "Pyrrhae Chaos" "Sol/Mars"
 
 # Approval date: Feb 09, 2016; Last update: Feb 13, 2016
 # Origin: Classical martian albedo feature, Pyrrhae.
-# Additional info: None
 Location "Pyrrhae Fossae" "Sol/Mars"
 {
 	LongLat	[ 336.20 -29.20 0 ]
@@ -13604,7 +13345,6 @@ Location "PYRRHAE REGIO" "Sol/Mars"
 
 # Approval date: Sep 15, 2020; Last update: Feb 09, 2021
 # Origin: Town in Greenland.
-# Additional info: None
 Location "Qaqortoq" "Sol/Mars"
 {
 	LongLat	[ 186.06 -43.43 0 ]
@@ -13614,7 +13354,6 @@ Location "Qaqortoq" "Sol/Mars"
 
 # Approval date: Feb 16, 2018; Last update: Feb 19, 2018
 # Origin: Village in Egypt.
-# Additional info: None
 Location "Qara" "Sol/Mars"
 {
 	LongLat	[ 209.70 16.43 0 ]
@@ -13633,7 +13372,6 @@ Location "Qibā" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China (Jiangsu Province).
-# Additional info: None
 Location "Qidu" "Sol/Mars"
 {
 	LongLat	[ 110.26 25.11 0 ]
@@ -13643,7 +13381,6 @@ Location "Qidu" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 15, 2021
 # Origin: Named for nearby crater, Qidu.
-# Additional info: None
 Location "Qidu Fossae" "Sol/Mars"
 {
 	LongLat	[ 110.07 25.08 0 ]
@@ -13689,7 +13426,6 @@ Location "Quorn" "Sol/Mars"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: Town in Lesotho.
-# Additional info: None
 Location "Quthing" "Sol/Mars"
 {
 	LongLat	[ 149.29 0.40 0 ]
@@ -13717,7 +13453,6 @@ Location "Radau" "Sol/Mars"
 
 # Approval date: Sep 29, 2011; Last update: Feb 17, 2012
 # Origin: Town in South Sudan.
-# Additional info: None
 Location "Raga" "Sol/Mars"
 {
 	LongLat	[ 242.42 -48.10 0 ]
@@ -13790,7 +13525,6 @@ Location "Rauch" "Sol/Mars"
 
 # Approval date: Apr 24, 2015; Last update: Apr 24, 2015
 # Origin: Village in Latvia.
-# Additional info: None
 Location "Rauna" "Sol/Mars"
 {
 	LongLat	[ 327.92 35.26 0 ]
@@ -13863,7 +13597,6 @@ Location "Rengo" "Sol/Mars"
 
 # Approval date: Jan 19, 2011; Last update: Jun 29, 2011
 # Origin: Town in Macedonia.
-# Additional info: None
 Location "Resen" "Sol/Mars"
 {
 	LongLat	[ 108.87 -27.94 0 ]
@@ -13882,7 +13615,6 @@ Location "Reull Vallis" "Sol/Mars"
 
 # Approval date: Aug 05, 2013; Last update: Aug 05, 2013
 # Origin: Town in Moscow region, Russia.
-# Additional info: None
 Location "Reutov" "Sol/Mars"
 {
 	LongLat	[ 202.29 -45.07 0 ]
@@ -13946,7 +13678,6 @@ Location "Ribe" "Sol/Mars"
 
 # Approval date: 1973; Last update: Oct 04, 2011
 # Origin: Lewis F.; British meteorologist, chemist (1881-1953).
-# Additional info: None
 Location "Richardson" "Sol/Mars"
 {
 	LongLat	[ 180.14 -72.47 0 ]
@@ -13984,7 +13715,6 @@ Location "Ritchey" "Sol/Mars"
 
 # Approval date: May 16, 2012; Last update: May 16, 2012
 # Origin: Robert Phillip; American geologist (1911-2004).
-# Additional info: None
 Location "Robert Sharp" "Sol/Mars"
 {
 	LongLat	[ 133.42 -4.17 0 ]
@@ -14003,7 +13733,6 @@ Location "Roddenberry" "Sol/Mars"
 
 # Approval date: May 31, 2013; Last update: May 31, 2013
 # Origin: David John; astrogeologist (1932-2002).
-# Additional info: None
 Location "Roddy" "Sol/Mars"
 {
 	LongLat	[ 320.61 -21.65 0 ]
@@ -14013,7 +13742,6 @@ Location "Roddy" "Sol/Mars"
 
 # Approval date: Apr 21, 2021; Last update: Apr 22, 2021
 # Origin: Elizabeth “Pat”; astronomer (1929-2016).
-# Additional info: None
 Location "Roemer" "Sol/Mars"
 {
 	LongLat	[ 8.09 -27.46 0 ]
@@ -14104,7 +13832,6 @@ Location "Rudaux" "Sol/Mars"
 
 # Approval date: Oct 18, 2016; Last update: Oct 18, 2016
 # Origin: Town in Bangladesh.
-# Additional info: None
 Location "Ruhea" "Sol/Mars"
 {
 	LongLat	[ 173.08 -43.26 0 ]
@@ -14267,7 +13994,6 @@ Location "Saheki" "Sol/Mars"
 
 # Approval date: Dec 14, 2020; Last update: Dec 23, 2020
 # Origin: River in Turkey.
-# Additional info: None
 Location "Sakarya Vallis" "Sol/Mars"
 {
 	LongLat	[ 137.33 -5.10 0 ]
@@ -14286,7 +14012,6 @@ Location "Salaga" "Sol/Mars"
 
 # Approval date: Jun 01, 2018; Last update: Jun 01, 2018
 # Origin: Town in Syria.
-# Additional info: None
 Location "Salkhad" "Sol/Mars"
 {
 	LongLat	[ 83.69 -29.85 0 ]
@@ -14431,7 +14156,6 @@ Location "Savannah" "Sol/Mars"
 
 # Approval date: Mar 26, 2020; Last update: Mar 27, 2020
 # Origin: River in Slovenia.
-# Additional info: None
 Location "Sava Vallis" "Sol/Mars"
 {
 	LongLat	[ 77.13 19.09 0 ]
@@ -14576,7 +14300,6 @@ Location "Secchi" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Town in Arizona, USA.
-# Additional info: None
 Location "Sedona" "Sol/Mars"
 {
 	LongLat	[ 77.54 17.84 0 ]
@@ -14595,7 +14318,6 @@ Location "Sefadu" "Sol/Mars"
 
 # Approval date: Apr 18, 2016; Last update: Apr 19, 2016
 # Origin: Village in Serbia.
-# Additional info: None
 Location "Selevac" "Sol/Mars"
 {
 	LongLat	[ 228.93 -37.39 0 ]
@@ -14641,7 +14363,6 @@ Location "Sepik Vallis" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Japan.
-# Additional info: None
 Location "Sera" "Sol/Mars"
 {
 	LongLat	[ 358.95 8.84 0 ]
@@ -14741,7 +14462,6 @@ Location "Sian" "Sol/Mars"
 
 # Approval date: Feb 02, 2017; Last update: Feb 02, 2017
 # Origin: Town in the Republic of Congo (Congo-Brazzaville).
-# Additional info: None
 Location "Sibiti" "Sol/Mars"
 {
 	LongLat	[ 294.74 -12.37 0 ]
@@ -14760,7 +14480,6 @@ Location "Sibu" "Sol/Mars"
 
 # Approval date: Nov 26, 2012; Last update: Nov 26, 2012
 # Origin: Town in Central African Republic.
-# Additional info: None
 Location "Sibut" "Sol/Mars"
 {
 	LongLat	[ 310.65 9.68 0 ]
@@ -14788,7 +14507,6 @@ Location "Silinka Vallis" "Sol/Mars"
 
 # Approval date: Oct 29, 2012; Last update: Oct 29, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Siloe Patera" "Sol/Mars"
 {
 	LongLat	[ 6.55 35.30 0 ]
@@ -14798,7 +14516,6 @@ Location "Siloe Patera" "Sol/Mars"
 
 # Approval date: Dec 03, 2013; Last update: Dec 03, 2013
 # Origin: Classical albedo feature name of Greek origin.
-# Additional info: None
 Location "Simois Colles" "Sol/Mars"
 {
 	LongLat	[ 183.41 -37.72 0 ]
@@ -14808,7 +14525,6 @@ Location "Simois Colles" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 19, 2020
 # Origin: Classical albedo feature name of Greek origin, Simois.
-# Additional info: None
 Location "Simois Mons" "Sol/Mars"
 {
 	LongLat	[ 196.76 -42.67 0 ]
@@ -14837,7 +14553,6 @@ Location "SINAI" "Sol/Mars"
 
 # Approval date: 1988; Last update: May 25, 2016
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Sinai Dorsa" "Sol/Mars"
 {
 	LongLat	[ 281.08 -12.77 0 ]
@@ -14847,7 +14562,6 @@ Location "Sinai Dorsa" "Sol/Mars"
 
 # Approval date: Jan 23, 2012; Last update: Feb 17, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Sinai Fossae" "Sol/Mars"
 {
 	LongLat	[ 281.33 -14.08 0 ]
@@ -14857,7 +14571,6 @@ Location "Sinai Fossae" "Sol/Mars"
 
 # Approval date: 1973; Last update: May 25, 2016
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Sinai Planum" "Sol/Mars"
 {
 	LongLat	[ 272.24 -13.72 0 ]
@@ -14867,7 +14580,6 @@ Location "Sinai Planum" "Sol/Mars"
 
 # Approval date: Aug 18, 2020; Last update: Aug 19, 2020
 # Origin: Classical albedo feature, Sinai.
-# Additional info: None
 Location "Sinai Tholus" "Sol/Mars"
 {
 	LongLat	[ 279.97 -15.54 0 ]
@@ -14940,7 +14652,6 @@ Location "Sirenum Fossae" "Sol/Mars"
 
 # Approval date: Aug 12, 2013; Last update: Aug 12, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Sirenum Mons" "Sol/Mars"
 {
 	LongLat	[ 212.15 -38.22 0 ]
@@ -14950,7 +14661,6 @@ Location "Sirenum Mons" "Sol/Mars"
 
 # Approval date: Aug 12, 2013; Last update: Aug 12, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Sirenum Tholus" "Sol/Mars"
 {
 	LongLat	[ 215.21 -34.64 0 ]
@@ -14960,7 +14670,6 @@ Location "Sirenum Tholus" "Sol/Mars"
 
 # Approval date: 1976; Last update: Jun 07, 2018
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Sisyphi Cavi" "Sol/Mars"
 {
 	LongLat	[ 353.70 -72.20 0 ]
@@ -14979,7 +14688,6 @@ Location "Sisyphi Montes" "Sol/Mars"
 
 # Approval date: 2003; Last update: Jun 10, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Sisyphi Planum" "Sol/Mars"
 {
 	LongLat	[ 6.41 -69.64 0 ]
@@ -15016,7 +14724,6 @@ Location "Sitka" "Sol/Mars"
 
 # Approval date: Mar 20, 2007; Last update: Nov 29, 2010
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Siton Undae" "Sol/Mars"
 {
 	LongLat	[ 297.28 75.55 0 ]
@@ -15026,7 +14733,6 @@ Location "Siton Undae" "Sol/Mars"
 
 # Approval date: Oct 25, 2013; Last update: Oct 25, 2013
 # Origin: Village in Bahrain.
-# Additional info: None
 Location "Sitrah" "Sol/Mars"
 {
 	LongLat	[ 217.72 -59.09 0 ]
@@ -15452,7 +15158,6 @@ Location "SYRIA" "Sol/Mars"
 
 # Approval date: Apr 11, 2015; Last update: Apr 16, 2015
 # Origin: Classical albedo feature name, Syria.
-# Additional info: None
 Location "Syria Colles" "Sol/Mars"
 {
 	LongLat	[ 259.27 -13.46 0 ]
@@ -15535,7 +15240,6 @@ Location "Tader Valles" "Sol/Mars"
 
 # Approval date: 1991; Last update: Feb 10, 2012
 # Origin: Town in the Republic of Korea.
-# Additional info: None
 Location "Taejin" "Sol/Mars"
 {
 	LongLat	[ 85.66 -35.20 0 ]
@@ -15581,7 +15285,6 @@ Location "Tala" "Sol/Mars"
 
 # Approval date: Jul 27, 2015; Last update: Jul 28, 2015
 # Origin: Town in Kyrgyzstan.
-# Additional info: None
 Location "Talas" "Sol/Mars"
 {
 	LongLat	[ 75.37 -35.67 0 ]
@@ -15600,7 +15303,6 @@ Location "Talsi" "Sol/Mars"
 
 # Approval date: Sep 20, 2016; Last update: Sep 20, 2016
 # Origin: Town in Chile.
-# Additional info: None
 Location "Taltal" "Sol/Mars"
 {
 	LongLat	[ 234.21 -39.51 0 ]
@@ -15610,7 +15312,6 @@ Location "Taltal" "Sol/Mars"
 
 # Approval date: Jun 14, 2016; Last update: Jun 14, 2016
 # Origin: Town in Indonesia.
-# Additional info: None
 Location "Talu" "Sol/Mars"
 {
 	LongLat	[ 20.09 -40.35 0 ]
@@ -15656,7 +15357,6 @@ Location "Tanais Fossae" "Sol/Mars"
 
 # Approval date: Mar 05, 2013; Last update: Mar 05, 2013
 # Origin: River in Kenya.
-# Additional info: None
 Location "Tana Vallis" "Sol/Mars"
 {
 	LongLat	[ 332.11 4.78 0 ]
@@ -15738,7 +15438,6 @@ Location "Tarma" "Sol/Mars"
 
 # Approval date: Mar 16, 2017; Last update: Mar 17, 2017
 # Origin: Town in Iran.
-# Additional info: None
 Location "Tarq" "Sol/Mars"
 {
 	LongLat	[ 171.22 -38.10 0 ]
@@ -15748,7 +15447,6 @@ Location "Tarq" "Sol/Mars"
 
 # Approval date: May 06, 2013; Last update: May 06, 2013
 # Origin: Town in Cape Verde.
-# Additional info: None
 Location "Tarrafal" "Sol/Mars"
 {
 	LongLat	[ 340.82 24.26 0 ]
@@ -15767,7 +15465,6 @@ Location "Tarsus" "Sol/Mars"
 
 # Approval date: 1985; Last update: Jun 07, 2018
 # Origin: From albedo feature at 2N, 183W.
-# Additional info: None
 Location "Tartarus Colles" "Sol/Mars"
 {
 	LongLat	[ 175.19 21.24 0 ]
@@ -15858,7 +15555,6 @@ Location "Tecolote" "Sol/Mars"
 
 # Approval date: Jul 08, 2019; Last update: Jul 08, 2019
 # Origin: Town in California, USA.
-# Additional info: None
 Location "Tehachapi" "Sol/Mars"
 {
 	LongLat	[ 329.58 36.57 0 ]
@@ -15958,7 +15654,6 @@ Location "TEMPE TERRA" "Sol/Mars"
 
 # Approval date: 2006; Last update: Jul 24, 2013
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Tenuis Cavus" "Sol/Mars"
 {
 	LongLat	[ 1.39 84.76 0 ]
@@ -16175,7 +15870,6 @@ Location "THYMIAMATA" "Sol/Mars"
 
 # Approval date: Mar 07, 2019; Last update: Mar 08, 2019
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Thymiamata Serpens" "Sol/Mars"
 {
 	LongLat	[ 352.17 10.47 0 ]
@@ -16185,7 +15879,6 @@ Location "Thymiamata Serpens" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Tianzhushan" "Sol/Mars"
 {
 	LongLat	[ 109.93 25.07 0 ]
@@ -16213,7 +15906,6 @@ Location "Tignish" "Sol/Mars"
 
 # Approval date: Jan 11, 2011; Last update: Jan 11, 2011
 # Origin: River in Peru.
-# Additional info: None
 Location "Tigre Valles" "Sol/Mars"
 {
 	LongLat	[ 322.91 -12.02 0 ]
@@ -16358,7 +16050,6 @@ Location "Tiu Valles" "Sol/Mars"
 
 # Approval date: Sep 29, 2011; Last update: Feb 17, 2012
 # Origin: Town in Montenegro.
-# Additional info: None
 Location "Tivat" "Sol/Mars"
 {
 	LongLat	[ 9.53 -45.93 0 ]
@@ -16368,7 +16059,6 @@ Location "Tivat" "Sol/Mars"
 
 # Approval date: Aug 24, 2010; Last update: Nov 17, 2010
 # Origin: Town in Grenada.
-# Additional info: None
 Location "Tivoli" "Sol/Mars"
 {
 	LongLat	[ 100.91 -14.33 0 ]
@@ -16468,7 +16158,6 @@ Location "Tooting" "Sol/Mars"
 
 # Approval date: Feb 16, 2018; Last update: Feb 19, 2018
 # Origin: Town in Serbia.
-# Additional info: None
 Location "Topola" "Sol/Mars"
 {
 	LongLat	[ 267.79 15.83 0 ]
@@ -16814,7 +16503,6 @@ Location "Tyrrhenus Mons" "Sol/Mars"
 
 # Approval date: Aug 05, 2013; Last update: Aug 08, 2013
 # Origin: (Töretam) Township in Kazakhstan.
-# Additional info: None
 Location "Tyuratam" "Sol/Mars"
 {
 	LongLat	[ 202.04 -45.04 0 ]
@@ -16824,7 +16512,6 @@ Location "Tyuratam" "Sol/Mars"
 
 # Approval date: Nov 28, 2016; Last update: Nov 29, 2016
 # Origin: Town in Indonesia.
-# Additional info: None
 Location "Ubud" "Sol/Mars"
 {
 	LongLat	[ 341.68 -10.63 0 ]
@@ -16852,7 +16539,6 @@ Location "Udzha" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: Town in Sweden.
-# Additional info: None
 Location "Ulricehamn" "Sol/Mars"
 {
 	LongLat	[ 76.91 17.95 0 ]
@@ -16907,7 +16593,6 @@ Location "Ulya" "Sol/Mars"
 
 # Approval date: Jul 20, 2012; Last update: Jul 20, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Ulysses Colles" "Sol/Mars"
 {
 	LongLat	[ 236.91 6.14 0 ]
@@ -16973,7 +16658,6 @@ Location "UMBRA" "Sol/Mars"
 
 # Approval date: Jan 17, 2020; Last update: Jan 17, 2020
 # Origin: River in Bosnia and Herzegovina and Croatia.
-# Additional info: None
 Location "Una Vallis" "Sol/Mars"
 {
 	LongLat	[ 77.07 18.29 0 ]
@@ -17039,7 +16723,6 @@ Location "Urk" "Sol/Mars"
 
 # Approval date: Nov 06, 2017; Last update: Nov 06, 2017
 # Origin: Swahili word for night.
-# Additional info: None
 Location "Usiku Cavus" "Sol/Mars"
 {
 	LongLat	[ 263.70 -11.20 0 ]
@@ -17067,7 +16750,6 @@ Location "UTOPIA" "Sol/Mars"
 
 # Approval date: 1973; Last update: Jun 21, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Utopia Planitia" "Sol/Mars"
 {
 	LongLat	[ 117.52 46.74 0 ]
@@ -17114,7 +16796,6 @@ Location "Vaals" "Sol/Mars"
 
 # Approval date: Aug 23, 2010; Last update: Nov 17, 2010
 # Origin: Capital of the Principality of Liechtenstein.
-# Additional info: None
 Location "Vaduz" "Sol/Mars"
 {
 	LongLat	[ 15.79 38.24 0 ]
@@ -17169,7 +16850,6 @@ Location "Varus Valles" "Sol/Mars"
 
 # Approval date: 1973; Last update: Jun 21, 2012
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Vastitas Borealis" "Sol/Mars"
 {
 	LongLat	[ 32.53 87.73 0 ]
@@ -17378,7 +17058,6 @@ Location "Vol'sk" "Sol/Mars"
 
 # Approval date: 1973; Last update: Aug 19, 2021
 # Origin: Theodore; Hungarian-American aeronautical engineer (1881-1963).
-# Additional info: None
 Location "Von Kármán" "Sol/Mars"
 {
 	LongLat	[ 301.30 -64.27 0 ]
@@ -17424,7 +17103,6 @@ Location "Wabash" "Sol/Mars"
 
 # Approval date: Jun 03, 2013; Last update: Jun 03, 2013
 # Origin: Town in Kuwait.
-# Additional info: None
 Location "Wafra" "Sol/Mars"
 {
 	LongLat	[ 148.54 4.25 0 ]
@@ -17578,7 +17256,6 @@ Location "Wells" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Wenjiashi" "Sol/Mars"
 {
 	LongLat	[ 109.44 25.22 0 ]
@@ -17588,7 +17265,6 @@ Location "Wenjiashi" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 15, 2021
 # Origin: Named for nearby crater, Wenjiashi.
-# Additional info: None
 Location "Wenjiashi Mensa" "Sol/Mars"
 {
 	LongLat	[ 109.57 24.81 0 ]
@@ -17598,7 +17274,6 @@ Location "Wenjiashi Mensa" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 15, 2021
 # Origin: Named for nearby crater, Wenjiashi.
-# Additional info: None
 Location "Wenjiashi Tholi" "Sol/Mars"
 {
 	LongLat	[ 109.77 24.75 0 ]
@@ -17779,7 +17454,6 @@ Location "Wukari" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Taiwan.
-# Additional info: None
 Location "Wulai" "Sol/Mars"
 {
 	LongLat	[ 0.99 10.24 0 ]
@@ -17789,7 +17463,6 @@ Location "Wulai" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Wuxing" "Sol/Mars"
 {
 	LongLat	[ 110.10 24.91 0 ]
@@ -17871,7 +17544,6 @@ Location "XANTHE TERRA" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Xibaipo" "Sol/Mars"
 {
 	LongLat	[ 110.11 25.66 0 ]
@@ -17935,7 +17607,6 @@ Location "Yalgoo" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Yangliuqing" "Sol/Mars"
 {
 	LongLat	[ 110.06 24.89 0 ]
@@ -17945,7 +17616,6 @@ Location "Yangliuqing" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Yaodian" "Sol/Mars"
 {
 	LongLat	[ 109.70 25.03 0 ]
@@ -17955,7 +17625,6 @@ Location "Yaodian" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 15, 2021
 # Origin: Named for nearby crater, Yaodian.
-# Additional info: None
 Location "Yaodian Fossae" "Sol/Mars"
 {
 	LongLat	[ 109.84 25.12 0 ]
@@ -17965,7 +17634,6 @@ Location "Yaodian Fossae" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 15, 2021
 # Origin: Named for nearby crater, Yaodian.
-# Additional info: None
 Location "Yaodian Tholus" "Sol/Mars"
 {
 	LongLat	[ 109.86 25.16 0 ]
@@ -18029,7 +17697,6 @@ Location "Yegros" "Sol/Mars"
 
 # Approval date: Aug 31, 2018; Last update: Aug 31, 2018
 # Origin: Town in Mexico.
-# Additional info: None
 Location "Yelapa" "Sol/Mars"
 {
 	LongLat	[ 1.13 3.83 0 ]
@@ -18039,7 +17706,6 @@ Location "Yelapa" "Sol/Mars"
 
 # Approval date: Sep 10, 2012; Last update: Sep 10, 2012
 # Origin: Town in the Northwest Territories, Canada.
-# Additional info: None
 Location "Yellowknife" "Sol/Mars"
 {
 	LongLat	[ 137.44 -4.58 0 ]
@@ -18049,7 +17715,6 @@ Location "Yellowknife" "Sol/Mars"
 
 # Approval date: Feb 16, 2018; Last update: Feb 19, 2018
 # Origin: Town in Nigeria
-# Additional info: None
 Location "Yelwa" "Sol/Mars"
 {
 	LongLat	[ 212.37 31.12 0 ]
@@ -18095,7 +17760,6 @@ Location "Yuty" "Sol/Mars"
 
 # Approval date: Feb 10, 2020; Last update: Feb 10, 2020
 # Origin: Town in Moldova.
-# Additional info: None
 Location "Zaim" "Sol/Mars"
 {
 	LongLat	[ 336.97 18.08 0 ]
@@ -18123,7 +17787,6 @@ Location "Zaranj" "Sol/Mars"
 
 # Approval date: Jun 13, 2011; Last update: Jun 14, 2011
 # Origin: River in Jordan.
-# Additional info: None
 Location "Zarqa Valles" "Sol/Mars"
 {
 	LongLat	[ 80.59 0.32 0 ]
@@ -18151,7 +17814,6 @@ Location "ZEPHYRIA" "Sol/Mars"
 
 # Approval date: Jan 17, 2014; Last update: Jan 17, 2014
 # Origin: Classical albedo feature name.
-# Additional info: None
 Location "Zephyria Fluctus" "Sol/Mars"
 {
 	LongLat	[ 155.53 0.72 0 ]
@@ -18197,7 +17859,6 @@ Location "Zephyrus Fossae" "Sol/Mars"
 
 # Approval date: Oct 16, 2017; Last update: Oct 16, 2017
 # Origin: Greek sky, thunder and lightning god, who ruled as king of the gods of Mount Olympus.
-# Additional info: None
 Location "Zeus Patera" "Sol/Mars"
 {
 	LongLat	[ 227.07 18.39 0 ]
@@ -18225,7 +17886,6 @@ Location "Zhigou" "Sol/Mars"
 
 # Approval date: Dec 03, 2021; Last update: Dec 13, 2021
 # Origin: Town in China.
-# Additional info: None
 Location "Zhouzhuang" "Sol/Mars"
 {
 	LongLat	[ 109.80 24.87 0 ]

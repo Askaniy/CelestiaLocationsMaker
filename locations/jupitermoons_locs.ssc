@@ -2,15 +2,14 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # 4 locations on Amalthea.
 
 # Approval date: 1979; Last update: Sep 10, 2014
 # Origin: Greek mother earth goddess who brought Zeus to Crete.
-# Additional info: None
 Location "Gaea" "Sol/Jupiter/Amalthea"
 {
 	LongLat	[ 90.00 -80.00 0 ]
@@ -20,7 +19,6 @@ Location "Gaea" "Sol/Jupiter/Amalthea"
 
 # Approval date: 1979; Last update: Sep 10, 2014
 # Origin: Greek; mountain where Zeus played as a child.
-# Additional info: None
 Location "Ida Facula" "Sol/Jupiter/Amalthea"
 {
 	LongLat	[ 175.00 20.00 0 ]
@@ -30,7 +28,6 @@ Location "Ida Facula" "Sol/Jupiter/Amalthea"
 
 # Approval date: 1979; Last update: Sep 10, 2014
 # Origin: Greek; area in Crete where Zeus was raised.
-# Additional info: None
 Location "Lyctos Facula" "Sol/Jupiter/Amalthea"
 {
 	LongLat	[ 170.00 -20.00 0 ]
@@ -40,7 +37,6 @@ Location "Lyctos Facula" "Sol/Jupiter/Amalthea"
 
 # Approval date: 1979; Last update: Sep 10, 2014
 # Origin: Greek; goat-god, son of Amalthea and Hermes in some legends, also Zeus' foster brother.
-# Additional info: None
 Location "Pan" "Sol/Jupiter/Amalthea"
 {
 	LongLat	[ 35.00 55.00 0 ]
@@ -1496,7 +1492,6 @@ Location "Rarog Patera" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Dec 01, 2010
 # Origin: Māori sun hero.
-# Additional info: None
 Location "Rata Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 201.26 -36.40 0 ]
@@ -1506,7 +1501,6 @@ Location "Rata Mons" "Sol/Jupiter/Io"
 
 # Approval date: 1997; Last update: Dec 01, 2010
 # Origin: Māori sun hero.
-# Additional info: None
 Location "Rata Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 199.69 -35.60 0 ]
@@ -1796,7 +1790,6 @@ Location "TARSUS REGIO" "Sol/Jupiter/Io"
 
 # Approval date: 2000; Last update: Dec 01, 2010
 # Origin: Māori lightening god.
-# Additional info: None
 Location "Tawhaki Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 76.21 3.39 0 ]
@@ -1806,7 +1799,6 @@ Location "Tawhaki Patera" "Sol/Jupiter/Io"
 
 # Approval date: 2006; Last update: Dec 01, 2010
 # Origin: Māori lightning god.
-# Additional info: None
 Location "Tawhaki Vallis" "Sol/Jupiter/Io"
 {
 	LongLat	[ 72.76 0.31 0 ]
@@ -2287,7 +2279,6 @@ Location "Balor" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Stone row in County Cork, Ireland.
-# Additional info: None
 Location "Beenalaght Fossa" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 82.08 1.20 0 ]
@@ -2297,7 +2288,6 @@ Location "Beenalaght Fossa" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Celtic sun god, equated with Apollo in that character; found mainly in Aquileia (now at NE Italy).
-# Additional info: None
 Location "Belenos Mensa" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 75.08 42.75 0 ]
@@ -2325,7 +2315,6 @@ Location "Boeotia Macula" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Romano-Celtic (Gallic) god of healing identified with several therapeutic springs and mineral baths.
-# Additional info: None
 Location "Borvo Mensa" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 225.31 -0.45 0 ]
@@ -2561,7 +2550,6 @@ Location "Echion Linea" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Stone row in County Kerry, Ireland.
-# Additional info: None
 Location "Eightercua Fossa" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 340.71 6.68 0 ]
@@ -2652,7 +2640,6 @@ Location "Gráinne" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Romano-Celtic (Continental Europe) god of healing associated with medicinal hot springs and hot mineral waters.
-# Additional info: None
 Location "Grannus Mensa" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 225.80 -2.51 0 ]
@@ -2725,7 +2712,6 @@ Location "Kennet Linea" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Stone rows in France (Carnac, Brittany).
-# Additional info: None
 Location "Kerlescan Fossae" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 238.24 3.34 0 ]
@@ -2735,7 +2721,6 @@ Location "Kerlescan Fossae" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Stone rows in France (Carnac, Brittany).
-# Additional info: None
 Location "Kermario Fossae" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 354.36 44.69 0 ]
@@ -2826,7 +2811,6 @@ Location "Math" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Stone row in County Cork, Ireland.
-# Additional info: None
 Location "Maughanasilly Fossa" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 155.19 -34.24 0 ]
@@ -2845,7 +2829,6 @@ Location "Mehen Linea" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: Stone rows in France (Carnac, Brittany).
-# Additional info: None
 Location "Ménec Fossae" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 177.87 -51.98 0 ]
@@ -2891,7 +2874,6 @@ Location "Morvran" "Sol/Jupiter/Europa"
 
 # Approval date: May 28, 2019; Last update: May 28, 2019
 # Origin: In Celtic mythology, a cold sea where the children of Lir (Llyr), transformed into swans, were forced to spend three hundred years.
-# Additional info: None
 Location "Moyle Cavus" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 168.00 -25.00 0 ]
@@ -3255,7 +3237,6 @@ Location "Yelland Linea" "Sol/Jupiter/Europa"
 
 # Approval date: 1985; Last update: Feb 24, 2016
 # Origin: Egyptian town where Osiris was worshipped.
-# Additional info: None
 Location "Abydos Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 153.44 33.33 0 ]
@@ -3265,7 +3246,6 @@ Location "Abydos Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Greek river god; father of Callirrhoe, Ganymede's mother.
-# Additional info: None
 Location "Achelous" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 11.78 61.90 0 ]
@@ -3275,7 +3255,6 @@ Location "Achelous" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian god of thunder.
-# Additional info: None
 Location "Adad" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 358.02 57.43 0 ]
@@ -3285,7 +3264,6 @@ Location "Adad" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian; lost immortality when, at Ea's advice, he refused food of life.
-# Additional info: None
 Location "Adapa" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 31.32 73.08 0 ]
@@ -3295,7 +3273,6 @@ Location "Adapa" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Hunter god in Tyre.
-# Additional info: None
 Location "Agreus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 232.70 15.87 0 ]
@@ -3305,7 +3282,6 @@ Location "Agreus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Tyre; greatest god of Gebal; farmer god.
-# Additional info: None
 Location "Agrotes" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 192.62 60.93 0 ]
@@ -3315,7 +3291,6 @@ Location "Agrotes" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 24, 2016
 # Origin: Egyptian town where Min was worshipped.
-# Additional info: None
 Location "Akhmin Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 189.80 28.30 0 ]
@@ -3325,7 +3300,6 @@ Location "Akhmin Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 22, 2016
 # Origin: Where Marduk's statue was carried each year.
-# Additional info: None
 Location "Akitu Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 194.00 39.00 0 ]
@@ -3335,7 +3309,6 @@ Location "Akitu Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Son of Ba'al, spirit of springs.
-# Additional info: None
 Location "Aleyin" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 134.08 15.14 0 ]
@@ -3345,7 +3318,6 @@ Location "Aleyin" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Phoenician; god of the west.
-# Additional info: None
 Location "Ammura" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 342.35 31.76 0 ]
@@ -3355,7 +3327,6 @@ Location "Ammura" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Theban king of gods.
-# Additional info: None
 Location "Amon" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 220.61 33.69 0 ]
@@ -3365,7 +3336,6 @@ Location "Amon" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: One of the four gods of the dead, son of Horus.
-# Additional info: None
 Location "Amset" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 178.75 -14.41 0 ]
@@ -3385,7 +3355,6 @@ Location "Anat" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Egyptian; first god of Busirus.
-# Additional info: None
 Location "Andjeti" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 161.10 -52.75 0 ]
@@ -3395,7 +3364,6 @@ Location "Andjeti" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Egyptian warrior god.
-# Additional info: None
 Location "Anhur" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 192.32 32.63 0 ]
@@ -3405,7 +3373,6 @@ Location "Anhur" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 22, 2016
 # Origin: Assyro-Babylonian; celestial-world home of Lakhmu and Lakhamu.
-# Additional info: None
 Location "Anshar Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 198.70 18.90 0 ]
@@ -3415,7 +3382,6 @@ Location "Anshar Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Babylonian; wife of Anu.
-# Additional info: None
 Location "Antum" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 218.94 5.09 0 ]
@@ -3425,7 +3391,6 @@ Location "Antum" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Sumerian-Akkadian god of power, of heavens.
-# Additional info: None
 Location "Anu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 344.25 65.24 0 ]
@@ -3435,7 +3400,6 @@ Location "Anu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 13, 2015
 # Origin: Egyptian jackal-headed god who opened the underworld to the dead.
-# Additional info: None
 Location "Anubis" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 128.66 -84.44 0 ]
@@ -3445,7 +3409,6 @@ Location "Anubis" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Gigantic lion-headed bird-like figure, the Sumerian Thunderbird.
-# Additional info: None
 Location "Anzu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 62.73 63.51 0 ]
@@ -3455,7 +3418,6 @@ Location "Anzu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Egyptian gigantic serpent symbolizing chaos or nonexistence.
-# Additional info: None
 Location "Apophis" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 276.16 -8.12 0 ]
@@ -3465,7 +3427,6 @@ Location "Apophis" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 18, 2016
 # Origin: Sumero-Akkadian; primordial ocean.
-# Additional info: None
 Location "Apsu Sulci" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 225.20 -37.50 0 ]
@@ -3475,7 +3436,6 @@ Location "Apsu Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 23, 2016
 # Origin: Greek; Zeus set Ganymede among the stars as the constellation of Aquarius, the water carrier.
-# Additional info: None
 Location "Aquarius Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 4.00 52.40 0 ]
@@ -3485,7 +3445,6 @@ Location "Aquarius Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 14, 2016
 # Origin: Assyrian town where Ishtar was worshipped.
-# Additional info: None
 Location "Arbela Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 4.00 -34.00 0 ]
@@ -3495,7 +3454,6 @@ Location "Arbela Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Semitic-Arab god of fate.
-# Additional info: None
 Location "Ashîma" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 122.98 -39.05 0 ]
@@ -3505,7 +3463,6 @@ Location "Ashîma" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian warrior god.
-# Additional info: None
 Location "Asshur" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 333.48 54.16 0 ]
@@ -3515,7 +3472,6 @@ Location "Asshur" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Exceedingly wise' hero of Akkadian myth, survived the great flood.
-# Additional info: None
 Location "Atra-hasis" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 254.11 22.54 0 ]
@@ -3525,7 +3481,6 @@ Location "Atra-hasis" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian; wife of Shamash.
-# Additional info: None
 Location "Aya" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 322.02 68.34 0 ]
@@ -3535,7 +3490,6 @@ Location "Aya" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Phoenician; Canaanite god.
-# Additional info: None
 Location "Ba'al" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 329.97 24.92 0 ]
@@ -3545,7 +3499,6 @@ Location "Ba'al" "Sol/Jupiter/Ganymede"
 
 # Approval date: Jul 29, 2013; Last update: Feb 18, 2016
 # Origin: Assyro-Babylonian town in the land known as Akkad.
-# Additional info: None
 Location "Babylon Sulci" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 95.50 -22.50 0 ]
@@ -3555,7 +3508,6 @@ Location "Babylon Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 19, 2016
 # Origin: Edward E.; American astronomer (1857-1923).
-# Additional info: None
 Location "BARNARD REGIO" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 11.60 -6.80 0 ]
@@ -3565,7 +3517,6 @@ Location "BARNARD REGIO" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 13, 2015
 # Origin: Goddess who breathed into men the breath of life; daughter of Anu and patroness of Lagash.
-# Additional info: None
 Location "Bau" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 48.67 23.05 0 ]
@@ -3575,7 +3526,6 @@ Location "Bau" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Egyptian god of marriage.
-# Additional info: None
 Location "Bes" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 180.96 -25.48 0 ]
@@ -3585,7 +3535,6 @@ Location "Bes" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Feb 24, 2016
 # Origin: Island where Hapi, Egyptian Nile god, resided.
-# Additional info: None
 Location "Bigeh Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 94.30 29.00 0 ]
@@ -3595,7 +3544,6 @@ Location "Bigeh Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: Jul 29, 2013; Last update: Feb 22, 2016
 # Origin: Akkadian town, location of the Sumerian god Nabu's principal sanctuary.
-# Additional info: None
 Location "Borsippa Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 0.00 -60.00 0 ]
@@ -3605,7 +3553,6 @@ Location "Borsippa Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Mar 02, 2016
 # Origin: Town in Egypt where Bast was worshipped.
-# Additional info: None
 Location "Bubastis Sulci" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 225.00 -81.00 0 ]
@@ -3615,7 +3562,6 @@ Location "Bubastis Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Mar 01, 2016
 # Origin: Town in lower Egypt where Osiris was first installed as local god.
-# Additional info: None
 Location "Busiris Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 215.30 16.00 0 ]
@@ -3625,7 +3571,6 @@ Location "Busiris Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 24, 2016
 # Origin: Swamp where Isis hid Osiris' body.
-# Additional info: None
 Location "Buto Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 203.20 13.30 0 ]
@@ -3635,7 +3580,6 @@ Location "Buto Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 23, 2016
 # Origin: Ancient Phoenician city where Adonis was worshipped.
-# Additional info: None
 Location "Byblus Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 199.70 37.60 0 ]
@@ -3645,7 +3589,6 @@ Location "Byblus Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Phoenician god; inventor of bait, fishing hooks and line, first to sail.
-# Additional info: None
 Location "Chrysor" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 134.34 15.30 0 ]
@@ -3655,7 +3598,6 @@ Location "Chrysor" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Iranian healing god.
-# Additional info: None
 Location "Cisti" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 64.23 -31.60 0 ]
@@ -3665,7 +3607,6 @@ Location "Cisti" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 25, 2016
 # Origin: Early town from which caravans departed.
-# Additional info: None
 Location "Coptos Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 209.00 10.00 0 ]
@@ -3675,7 +3616,6 @@ Location "Coptos Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2006; Last update: Nov 13, 2015
 # Origin: Babylonian sky and health deity, queen of the gods, and mother of Marduk in some accounts.
-# Additional info: None
 Location "Damkina" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 4.88 -30.17 0 ]
@@ -3685,7 +3625,6 @@ Location "Damkina" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Phoenician; mythical hero versed in art of divination.
-# Additional info: None
 Location "Danel" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 21.30 -4.33 0 ]
@@ -3695,7 +3634,6 @@ Location "Danel" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 18, 2016
 # Origin: Greek; where Ganymede was abducted by Zeus disguised as an eagle.
-# Additional info: None
 Location "Dardanus Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 12.70 -31.50 0 ]
@@ -3705,7 +3643,6 @@ Location "Dardanus Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Town where Hathor was chief goddess. (Name changed from Dendera Facula.)
-# Additional info: None
 Location "Dendera" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 255.46 -1.12 0 ]
@@ -3715,7 +3652,6 @@ Location "Dendera" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Egyptian goddess of the dwelling place of the dead.
-# Additional info: None
 Location "Diment" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 351.77 23.14 0 ]
@@ -3725,7 +3661,6 @@ Location "Diment" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 23, 2016
 # Origin: Sumerian holy cosmic chamber of the gods.
-# Additional info: None
 Location "Dukug Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 2.50 83.70 0 ]
@@ -3735,7 +3670,6 @@ Location "Dukug Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Assyro-babylonian god of water, wisdom, and the earth.
-# Additional info: None
 Location "Ea" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 148.73 17.72 0 ]
@@ -3745,7 +3679,6 @@ Location "Ea" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 25, 2016
 # Origin: Egyptian town where Horus was worshipped.
-# Additional info: None
 Location "Edfu Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 147.10 25.70 0 ]
@@ -3755,7 +3688,6 @@ Location "Edfu Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: “;Father of Men“;, existed before the birth of gods.
-# Additional info: None
 Location "El" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 151.36 1.01 0 ]
@@ -3765,7 +3697,6 @@ Location "El" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 18, 2016
 # Origin: Ancient Babylonian seat of sun worship, in present-day Iran.
-# Additional info: None
 Location "Elam Sulci" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 200.00 60.00 0 ]
@@ -3775,7 +3706,6 @@ Location "Elam Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Principal water god of the Apsu.
-# Additional info: None
 Location "Enki Catena" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 13.86 38.84 0 ]
@@ -3785,7 +3715,6 @@ Location "Enki Catena" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1982; Last update: Nov 13, 2015
 # Origin: Friend of Gilgamesh.
-# Additional info: None
 Location "Enkidu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 325.13 -26.61 0 ]
@@ -3795,7 +3724,6 @@ Location "Enkidu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian; nature god of the air, hurricanes, and nature.
-# Additional info: None
 Location "Enlil" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 312.10 55.36 0 ]
@@ -3805,7 +3733,6 @@ Location "Enlil" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 12, 2016
 # Origin: Babylonian moon god.
-# Additional info: None
 Location "En-zu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 168.40 11.59 0 ]
@@ -3815,7 +3742,6 @@ Location "En-zu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 12, 2016
 # Origin: Phoenician god.
-# Additional info: None
 Location "Epigeus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 180.65 22.96 0 ]
@@ -3825,7 +3751,6 @@ Location "Epigeus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 23, 2016
 # Origin: Akkadian town that was built by Marduk.
-# Additional info: None
 Location "Erech Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 179.20 -7.30 0 ]
@@ -3835,7 +3760,6 @@ Location "Erech Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Possible father of Ganymede.
-# Additional info: None
 Location "Erichthonius" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 175.26 -15.32 0 ]
@@ -3845,7 +3769,6 @@ Location "Erichthonius" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Phoenician; divinity of Sidon.
-# Additional info: None
 Location "Eshmun" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 192.12 -17.45 0 ]
@@ -3855,7 +3778,6 @@ Location "Eshmun" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian; asked the eagle for an herb to give him an heir.
-# Additional info: None
 Location "Etana" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 340.35 74.74 0 ]
@@ -3865,7 +3787,6 @@ Location "Etana" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Semitic god of fate or good fortune.
-# Additional info: None
 Location "Gad" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 137.56 -13.56 0 ]
@@ -3875,7 +3796,6 @@ Location "Gad" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 19, 2016
 # Origin: Italian astronomer (1564-1642).
-# Additional info: None
 Location "GALILEO REGIO" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 127.00 45.00 0 ]
@@ -3885,7 +3805,6 @@ Location "GALILEO REGIO" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Heliopolis Earth god.
-# Additional info: None
 Location "Geb" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 182.65 56.41 0 ]
@@ -3895,7 +3814,6 @@ Location "Geb" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Tyre; god of brick making.
-# Additional info: None
 Location "Geinos" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 219.44 18.64 0 ]
@@ -3905,7 +3823,6 @@ Location "Geinos" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian; sought immortality after Enkidu died.
-# Additional info: None
 Location "Gilgamesh" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 124.83 -62.84 0 ]
@@ -3915,7 +3832,6 @@ Location "Gilgamesh" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Sumerian god of summer heat.
-# Additional info: None
 Location "Gir" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 145.75 34.05 0 ]
@@ -3925,7 +3841,6 @@ Location "Gir" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Assyro-Babylonian; health god.
-# Additional info: None
 Location "Gula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 12.30 64.15 0 ]
@@ -3935,7 +3850,6 @@ Location "Gula" "Sol/Jupiter/Ganymede"
 
 # Approval date: Jul 09, 2016; Last update: Jul 11, 2016
 # Origin: Gushkin-Banda, Sumerian patron god of goldsmiths.
-# Additional info: None
 Location "Gushkin" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 45.98 20.75 0 ]
@@ -3945,7 +3859,6 @@ Location "Gushkin" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Tyre; fisherman god.
-# Additional info: None
 Location "Halieus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 167.14 34.45 0 ]
@@ -3955,7 +3868,6 @@ Location "Halieus" "Sol/Jupiter/Ganymede"
 
 # Approval date: Mar 02, 2015; Last update: Nov 13, 2015
 # Origin: Wadi in Egypt, associated with petroglyphs and ancient mining.
-# Additional info: None
 Location "Hammamat Patera" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 318.10 -24.23 0 ]
@@ -3965,7 +3877,6 @@ Location "Hammamat Patera" "Sol/Jupiter/Ganymede"
 
 # Approval date: Mar 02, 2015; Last update: Nov 13, 2015
 # Origin: Wadi in Jordan, associated with red sandstone cliffs and ancient copper mines.
-# Additional info: None
 Location "Hamra Patera" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 171.37 -77.35 0 ]
@@ -3975,7 +3886,6 @@ Location "Hamra Patera" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 13, 2015
 # Origin: Egyptian god of the Nile.
-# Additional info: None
 Location "Hapi" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 212.66 -30.57 0 ]
@@ -3985,7 +3895,6 @@ Location "Hapi" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: “;Horus of the Two Horizons“;, form of Egyptian god Horus who represents the path of the sun.
-# Additional info: None
 Location "Harakhtes" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 100.26 35.95 0 ]
@@ -3995,7 +3904,6 @@ Location "Harakhtes" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Egyptian sky god whose eyes are the sun and the moon, a form of Horus.
-# Additional info: None
 Location "Haroeris" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 296.82 28.53 0 ]
@@ -4005,7 +3913,6 @@ Location "Haroeris" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 18, 2016
 # Origin: Greek; where Ganymede was abducted an eagle.
-# Additional info: None
 Location "Harpagia Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 313.50 -11.80 0 ]
@@ -4015,7 +3922,6 @@ Location "Harpagia Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Egyptian goddess of joy and love.
-# Additional info: None
 Location "Hathor" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 268.74 -66.90 0 ]
@@ -4025,7 +3931,6 @@ Location "Hathor" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Nega god, spirit of forest vegetation.
-# Additional info: None
 Location "Hay-tau" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 133.13 14.44 0 ]
@@ -4035,7 +3940,6 @@ Location "Hay-tau" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Egyptian scorpion goddess.
-# Additional info: None
 Location "Hedetet" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 251.01 -32.91 0 ]
@@ -4045,7 +3949,6 @@ Location "Hedetet" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 25, 2016
 # Origin: Sacred Egyptian city of the sun.
-# Additional info: None
 Location "Heliopolis Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 147.00 18.50 0 ]
@@ -4055,7 +3958,6 @@ Location "Heliopolis Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 25, 2016
 # Origin: Place where Unut was worshipped.
-# Additional info: None
 Location "Hermopolis Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 195.30 22.30 0 ]
@@ -4065,7 +3967,6 @@ Location "Hermopolis Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Egyptian ram-headed god.
-# Additional info: None
 Location "Hershef" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 269.38 47.39 0 ]
@@ -4075,7 +3976,6 @@ Location "Hershef" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 13, 2015
 # Origin: Babylonian terrifying guardian of the cedar forests.
-# Additional info: None
 Location "Humbaba" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 67.31 -55.15 0 ]
@@ -4085,7 +3985,6 @@ Location "Humbaba" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 12, 2016
 # Origin: Sumerian mountain where winds dwell.
-# Additional info: None
 Location "Hursag Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 248.46 -9.49 0 ]
@@ -4095,7 +3994,6 @@ Location "Hursag Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: First Sumerian sky god.
-# Additional info: None
 Location "Ilah" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 160.62 22.00 0 ]
@@ -4105,7 +4003,6 @@ Location "Ilah" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Ganymede's brother.
-# Additional info: None
 Location "Ilus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 110.43 -13.46 0 ]
@@ -4115,7 +4012,6 @@ Location "Ilus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Sumerian goddess of underworld, seen by Enkidu in a dream.
-# Additional info: None
 Location "Irkalla" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 114.84 -32.52 0 ]
@@ -4125,7 +4021,6 @@ Location "Irkalla" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Sumerian god of rain.
-# Additional info: None
 Location "Ishkur" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 8.37 0.37 0 ]
@@ -4135,7 +4030,6 @@ Location "Ishkur" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 12, 2016
 # Origin: Sumerian god of vegetation.
-# Additional info: None
 Location "Isimu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 360.00 8.50 0 ]
@@ -4145,7 +4039,6 @@ Location "Isimu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 13, 2015
 # Origin: Egyptian goddess; wife of Osiris.
-# Additional info: None
 Location "Isis" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 201.20 -67.28 0 ]
@@ -4155,7 +4048,6 @@ Location "Isis" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 13, 2015
 # Origin: Babylonian goddess of justice.
-# Additional info: None
 Location "Kadi" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 178.50 47.68 0 ]
@@ -4165,7 +4057,6 @@ Location "Kadi" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 13, 2015
 # Origin: Egyptian moon god.
-# Additional info: None
 Location "Khensu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 152.93 1.02 0 ]
@@ -4175,7 +4066,6 @@ Location "Khensu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: God of transformations for the Heliopitans.
-# Additional info: None
 Location "Khepri" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 147.56 20.41 0 ]
@@ -4185,7 +4075,6 @@ Location "Khepri" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: Egyptian creation god.
-# Additional info: None
 Location "Khnum Catena" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 349.27 32.90 0 ]
@@ -4195,7 +4084,6 @@ Location "Khnum Catena" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 16, 2015
 # Origin: Egyptian moon god.
-# Additional info: None
 Location "Khonsu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 190.83 -37.51 0 ]
@@ -4205,7 +4093,6 @@ Location "Khonsu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 16, 2015
 # Origin: Assyro-Babylonian; Elamite creator god.
-# Additional info: None
 Location "Khumbam" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 335.35 -24.10 0 ]
@@ -4215,7 +4102,6 @@ Location "Khumbam" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 16, 2015
 # Origin: Assyro-Babylonian; conquered leader of Tiamat's forces whose blood was used to create man.
-# Additional info: None
 Location "Kingu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 227.03 -34.66 0 ]
@@ -4225,7 +4111,6 @@ Location "Kingu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 16, 2015
 # Origin: Assyro-Babylonian; terrestrial progenitor goddess.
-# Additional info: None
 Location "Kishar" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 349.46 72.70 0 ]
@@ -4235,7 +4120,6 @@ Location "Kishar" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Mar 01, 2016
 # Origin: Assyro-Babylonian; terrestrial-world home of Lakhmu and Lakhamu.
-# Additional info: None
 Location "Kishar Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 216.60 -6.40 0 ]
@@ -4245,7 +4129,6 @@ Location "Kishar Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: Assyro-Babylonian god of justice.
-# Additional info: None
 Location "Kittu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 334.60 0.40 0 ]
@@ -4255,7 +4138,6 @@ Location "Kittu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: Sumerian god of brick making.
-# Additional info: None
 Location "Kulla" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 113.87 33.22 0 ]
@@ -4265,7 +4147,6 @@ Location "Kulla" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 16, 2015
 # Origin: Son of Babylonian god Ea.
-# Additional info: None
 Location "Lagamal" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 244.21 64.30 0 ]
@@ -4275,7 +4156,6 @@ Location "Lagamal" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 23, 2016
 # Origin: Early Babylonian town.
-# Additional info: None
 Location "Lagash Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 164.01 -8.99 0 ]
@@ -4285,7 +4165,6 @@ Location "Lagash Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 25, 2016
 # Origin: Dragon monster, or divine natural force produced by Apsu and Tiamat.
-# Additional info: None
 Location "Lakhamu Fossa" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 227.20 -11.70 0 ]
@@ -4304,7 +4183,6 @@ Location "Lakhmu Fossae" "Sol/Jupiter/Ganymede"
 
 # Approval date: Apr 03, 2019; Last update: Apr 03, 2019
 # Origin: In Greek mythology, legendary king of Troy, nephew (or possibly father) of Ganymede.
-# Additional info: None
 Location "Laomedon" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 77.90 20.90 0 ]
@@ -4324,7 +4202,6 @@ Location "Larsa Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: One of the sons of El.
-# Additional info: None
 Location "Latpon" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 171.21 58.74 0 ]
@@ -4334,7 +4211,6 @@ Location "Latpon" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: Sumerian god of the underworld.
-# Additional info: None
 Location "Lugalmeslam" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 193.89 23.72 0 ]
@@ -4344,7 +4220,6 @@ Location "Lugalmeslam" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: Title of Enki as patron of singers; also Babylonian priest.
-# Additional info: None
 Location "Lumha" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 154.23 36.01 0 ]
@@ -4354,7 +4229,6 @@ Location "Lumha" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: Egyptian god of the sense of sight.
-# Additional info: None
 Location "Maa" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 203.63 1.30 0 ]
@@ -4364,7 +4238,6 @@ Location "Maa" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 18, 2016
 # Origin: Simon; German astronomer (1570-1624).
-# Additional info: None
 Location "MARIUS REGIO" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 187.70 2.50 0 ]
@@ -4374,7 +4247,6 @@ Location "MARIUS REGIO" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 23, 2016
 # Origin: Assyro-Babylonian; mountain with twin peaks where sun rose and set.
-# Additional info: None
 Location "Mashu Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 210.00 34.00 0 ]
@@ -4384,7 +4256,6 @@ Location "Mashu Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: Egyptian lion-headed goddess; Anhur's wife.
-# Additional info: None
 Location "Mehit" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 164.39 28.95 0 ]
@@ -4394,7 +4265,6 @@ Location "Mehit" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 16, 2015
 # Origin: Phoenician; divinity of Tyre.
-# Additional info: None
 Location "Melkart" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 186.07 -9.86 0 ]
@@ -4404,7 +4274,6 @@ Location "Melkart" "Sol/Jupiter/Ganymede"
 
 # Approval date: Jul 29, 2013; Last update: Feb 18, 2016
 # Origin: Philibert Jacques; British astronomer (1880-1961).
-# Additional info: None
 Location "MELOTTE REGIO" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 245.00 -12.00 0 ]
@@ -4414,7 +4283,6 @@ Location "MELOTTE REGIO" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 25, 2016
 # Origin: Ancient capitol of lower kingdom.
-# Additional info: None
 Location "Memphis Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 131.91 14.10 0 ]
@@ -4424,7 +4292,6 @@ Location "Memphis Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2006; Last update: Nov 16, 2015
 # Origin: Egyptian lion and war goddess.
-# Additional info: None
 Location "Menhit" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 140.32 -36.31 0 ]
@@ -4434,7 +4301,6 @@ Location "Menhit" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 16, 2015
 # Origin: Egyptian fertility god.
-# Additional info: None
 Location "Min" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 1.26 29.23 0 ]
@@ -4444,7 +4310,6 @@ Location "Min" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: West Semitic god of wind.
-# Additional info: None
 Location "Mir" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 230.30 -3.30 0 ]
@@ -4454,7 +4319,6 @@ Location "Mir" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: Assyro-Babylonian god of law.
-# Additional info: None
 Location "Misharu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 335.89 -4.31 0 ]
@@ -4464,7 +4328,6 @@ Location "Misharu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: Theban war god.
-# Additional info: None
 Location "Mont" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 311.95 44.62 0 ]
@@ -4474,7 +4337,6 @@ Location "Mont" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 16, 2015
 # Origin: Phoenician; spirit of the harvest.
-# Additional info: None
 Location "Mor" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 327.35 30.55 0 ]
@@ -4484,7 +4346,6 @@ Location "Mor" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: Spirit of the harvest, one of the sons of El.
-# Additional info: None
 Location "Mot" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 165.95 9.93 0 ]
@@ -4494,7 +4355,6 @@ Location "Mot" "Sol/Jupiter/Ganymede"
 
 # Approval date: Jul 29, 2013; Last update: Feb 22, 2016
 # Origin: Assyro-Babylonian;  the tumult of the waves at the place where the waters of primordial freshwater ocean Apsu and salt sea Tiamat are mingled.
-# Additional info: None
 Location "Mummu Sulci" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 180.00 -39.00 0 ]
@@ -4504,7 +4364,6 @@ Location "Mummu Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: Mar 02, 2015; Last update: Feb 12, 2016
 # Origin: Wadi in Jordan, proximal to Petra archeological site.
-# Additional info: None
 Location "Musa Patera" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 188.46 -31.35 0 ]
@@ -4514,7 +4373,6 @@ Location "Musa Patera" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: Sumerian male deity; upper parts are human, lower parts a serpent.
-# Additional info: None
 Location "Mush" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 114.77 -15.12 0 ]
@@ -4524,7 +4382,6 @@ Location "Mush" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 18, 2016
 # Origin: Greek; where Ganymede was abducted by an eagle.
-# Additional info: None
 Location "Mysia Sulci" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 7.80 -7.00 0 ]
@@ -4534,7 +4391,6 @@ Location "Mysia Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 16, 2015
 # Origin: Sumerian god of intellectual activity.
-# Additional info: None
 Location "Nabu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 1.19 -45.39 0 ]
@@ -4544,7 +4400,6 @@ Location "Nabu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 16, 2015
 # Origin: Elamite god of light and justice.
-# Additional info: None
 Location "Nah-Hunte" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 85.26 -17.76 0 ]
@@ -4554,7 +4409,6 @@ Location "Nah-Hunte" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 16, 2015
 # Origin: Assyro-Babylonian plague demon.
-# Additional info: None
 Location "Namtar" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 340.70 -58.34 0 ]
@@ -4564,7 +4418,6 @@ Location "Namtar" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 16, 2015
 # Origin: Sumerian moon god; god of wisdom.
-# Additional info: None
 Location "Nanna" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 241.87 -17.61 0 ]
@@ -4574,7 +4427,6 @@ Location "Nanna" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 25, 2016
 # Origin: Goddess of springs and canals, daughter of Enki.
-# Additional info: None
 Location "Nanshe Catena" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 352.90 15.40 0 ]
@@ -4584,7 +4436,6 @@ Location "Nanshe Catena" "Sol/Jupiter/Ganymede"
 
 # Approval date: Mar 02, 2015; Last update: Nov 16, 2015
 # Origin: Wadi in Egypt, site of ancient monasteries, proximal to site of Antoine de Saint-Exupéry’s aircraft crash that inspired the novella “The Little Prince”.
-# Additional info: None
 Location "Natrun Patera" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 183.26 -30.93 0 ]
@@ -4594,7 +4445,6 @@ Location "Natrun Patera" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: Original divine son of the Memphis triad, son of Ptah.
-# Additional info: None
 Location "Nefertum" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 321.04 44.35 0 ]
@@ -4604,7 +4454,6 @@ Location "Nefertum" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 19, 2015
 # Origin: Egyptian god of eternity.
-# Additional info: None
 Location "Neheh" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 62.66 72.13 0 ]
@@ -4614,7 +4463,6 @@ Location "Neheh" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 16, 2015
 # Origin: Egyptian warrior goddess; goddess of domestic arts.
-# Additional info: None
 Location "Neith" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 6.97 29.45 0 ]
@@ -4624,7 +4472,6 @@ Location "Neith" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 16, 2015
 # Origin: Assyro-babylonian king of the underworld.
-# Additional info: None
 Location "Nergal" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 200.33 38.58 0 ]
@@ -4634,7 +4481,6 @@ Location "Nergal" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 18, 2016
 # Origin: Seth Barnes; American astronomer (1891-1963).
-# Additional info: None
 Location "NICHOLSON REGIO" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 6.40 -33.10 0 ]
@@ -4644,7 +4490,6 @@ Location "NICHOLSON REGIO" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 19, 2015
 # Origin: Sumerian grain goddess.
-# Additional info: None
 Location "Nidaba" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 123.43 17.75 0 ]
@@ -4654,7 +4499,6 @@ Location "Nidaba" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 19, 2015
 # Origin: Assyro-Babylonian; god of the fields, war god.
-# Additional info: None
 Location "Nigirsu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 320.57 -58.26 0 ]
@@ -4664,7 +4508,6 @@ Location "Nigirsu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 23, 2016
 # Origin: City where Ishtar was worshipped.
-# Additional info: None
 Location "Nineveh Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 53.00 23.20 0 ]
@@ -4674,7 +4517,6 @@ Location "Nineveh Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 19, 2015
 # Origin: Sumerian vegetation god.
-# Additional info: None
 Location "Ningishzida" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 189.84 14.11 0 ]
@@ -4684,7 +4526,6 @@ Location "Ningishzida" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 19, 2015
 # Origin: Sumerian goddess of brewing.
-# Additional info: None
 Location "Ninkasi" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 48.85 59.21 0 ]
@@ -4694,7 +4535,6 @@ Location "Ninkasi" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 19, 2015
 # Origin: Consort to Ea, Babylonian god of water.
-# Additional info: None
 Location "Ninki" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 120.79 -8.37 0 ]
@@ -4704,7 +4544,6 @@ Location "Ninki" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 19, 2015
 # Origin: Chief Assyrian goddess; Asshur's consort.
-# Additional info: None
 Location "Ninlil" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 118.32 6.27 0 ]
@@ -4714,7 +4553,6 @@ Location "Ninlil" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 19, 2015
 # Origin: Minor Babylonian goddess of wisdom; Gilgamesh's mother.
-# Additional info: None
 Location "Ninsum" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 140.55 -14.35 0 ]
@@ -4724,7 +4562,6 @@ Location "Ninsum" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 23, 2016
 # Origin: Sumerian city.
-# Additional info: None
 Location "Nippur Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 183.35 35.41 0 ]
@@ -4743,7 +4580,6 @@ Location "Nun Sulci" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 19, 2015
 # Origin: Egyptian goddess of the sky.
-# Additional info: None
 Location "Nut" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 269.20 -54.21 0 ]
@@ -4763,7 +4599,6 @@ Location "Ombos" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 19, 2015
 # Origin: Egyptian god of the dead.
-# Additional info: None
 Location "Osiris" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 166.31 -38.00 0 ]
@@ -4773,7 +4608,6 @@ Location "Osiris" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 19, 2016
 # Origin: Charles D.; American astronomer (1867-1951).
-# Additional info: None
 Location "PERRINE REGIO" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 28.00 34.00 0 ]
@@ -4783,7 +4617,6 @@ Location "PERRINE REGIO" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 23, 2016
 # Origin: Temple that was the chief sanctuary of Isis.
-# Additional info: None
 Location "Philae Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 168.20 68.40 0 ]
@@ -4793,7 +4626,6 @@ Location "Philae Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 23, 2016
 # Origin: Greek; where Ganymede and Hebe were worshipped as rain-givers.
-# Additional info: None
 Location "Philus Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 209.90 44.50 0 ]
@@ -4803,7 +4635,6 @@ Location "Philus Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 23, 2016
 # Origin: Greek; kingdom in Asia Minor where Ganymede was born.
-# Additional info: None
 Location "Phrygia Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 20.60 12.00 0 ]
@@ -4813,7 +4644,6 @@ Location "Phrygia Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 19, 2015
 # Origin: Sovereign god of Memphis; patron of artisans.
-# Additional info: None
 Location "Ptah" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 217.05 -65.90 0 ]
@@ -4823,7 +4653,6 @@ Location "Ptah" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 20, 2015
 # Origin: Land east of Egypt where Bes originated. Changed from Punt Facula.
-# Additional info: None
 Location "Punt" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 239.85 -24.89 0 ]
@@ -4833,7 +4662,6 @@ Location "Punt" "Sol/Jupiter/Ganymede"
 
 # Approval date: Mar 02, 2015; Last update: Nov 20, 2015
 # Origin: Wadi in Jordan associated with travels of T. E. Lawrence, petroglyphs,  and several Neolithic sites.
-# Additional info: None
 Location "Rum Patera" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 182.82 -30.66 0 ]
@@ -4843,7 +4671,6 @@ Location "Rum Patera" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 20, 2015
 # Origin: Phoenician; Byblos god.
-# Additional info: None
 Location "Ruti" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 308.65 13.23 0 ]
@@ -4853,7 +4680,6 @@ Location "Ruti" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2006; Last update: Feb 12, 2016
 # Origin: Babylonian goddess of discord and hostility.
-# Additional info: None
 Location "Saltu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 352.77 -14.15 0 ]
@@ -4863,7 +4689,6 @@ Location "Saltu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 20, 2015
 # Origin: Assyro-Babylonian; torch of the gods.
-# Additional info: None
 Location "Sapas" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 33.99 57.45 0 ]
@@ -4873,7 +4698,6 @@ Location "Sapas" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 20, 2015
 # Origin: Wife of Khnum, Egyptian god of the Cataracts.
-# Additional info: None
 Location "Sati" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 12.80 30.84 0 ]
@@ -4883,7 +4707,6 @@ Location "Sati" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 20, 2015
 # Origin: Egyptian crocodile god.
-# Additional info: None
 Location "Sebek" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 356.78 61.25 0 ]
@@ -4893,7 +4716,6 @@ Location "Sebek" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 20, 2015
 # Origin: Mother goddess of the Arameans.
-# Additional info: None
 Location "Seima" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 215.97 17.09 0 ]
@@ -4903,7 +4725,6 @@ Location "Seima" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 20, 2015
 # Origin: Egyptian god of the dead at Memphis.
-# Additional info: None
 Location "Seker" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 345.38 -39.16 0 ]
@@ -4913,7 +4734,6 @@ Location "Seker" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 20, 2015
 # Origin: Tutelary goddess who guarded intestines of the dead.
-# Additional info: None
 Location "Selket" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 105.70 15.03 0 ]
@@ -4923,7 +4743,6 @@ Location "Selket" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 20, 2015
 # Origin: Egyptian healing god.
-# Additional info: None
 Location "Serapis" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 44.11 -12.40 0 ]
@@ -4933,7 +4752,6 @@ Location "Serapis" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 20, 2015
 # Origin: Egyptian god of air.
-# Additional info: None
 Location "Shu" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 356.84 43.16 0 ]
@@ -4943,7 +4761,6 @@ Location "Shu" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Feb 14, 2016
 # Origin: Assyro-Babylonian town on the banks of the Euphrates River where the gods planned the great flood.
-# Additional info: None
 Location "Shuruppak Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 231.75 -19.62 0 ]
@@ -4953,7 +4770,6 @@ Location "Shuruppak Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Mar 09, 2016
 # Origin: Greek; where Ganymede and Hebe were worshipped as rain-givers.
-# Additional info: None
 Location "Sicyon Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 15.30 33.70 0 ]
@@ -4963,7 +4779,6 @@ Location "Sicyon Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 20, 2015
 # Origin: Babylonian moon god.
-# Additional info: None
 Location "Sin" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 357.46 52.94 0 ]
@@ -4973,7 +4788,6 @@ Location "Sin" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 18, 2016
 # Origin: Ancient Babylonian town.
-# Additional info: None
 Location "Sippar Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 170.20 -19.90 0 ]
@@ -4983,7 +4797,6 @@ Location "Sippar Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 25, 2016
 # Origin: Oasis oracle of Zeus-Ammon; visited by Alexander.
-# Additional info: None
 Location "Siwah Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 143.00 7.00 0 ]
@@ -4993,7 +4806,6 @@ Location "Siwah Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 20, 2015
 # Origin: Akkadian youthful god of vegetation; Ishtar's son.
-# Additional info: None
 Location "Tammuz" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 230.76 13.45 0 ]
@@ -5003,7 +4815,6 @@ Location "Tammuz" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 20, 2015
 # Origin: Assyro-Babylonian; Carthaginian goddess.
-# Additional info: None
 Location "Tanit" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 36.62 57.49 0 ]
@@ -5013,7 +4824,6 @@ Location "Tanit" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 20, 2015
 # Origin: Assyro-Babylonian goddess who invented writing with her husband Nabu.
-# Additional info: None
 Location "Tashmetum" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 264.54 -39.72 0 ]
@@ -5023,7 +4833,6 @@ Location "Tashmetum" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1988; Last update: Nov 20, 2015
 # Origin: Egyptian childbirth goddess.
-# Additional info: None
 Location "Ta-urt" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 304.20 27.66 0 ]
@@ -5033,7 +4842,6 @@ Location "Ta-urt" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Feb 25, 2016
 # Origin: Phoenician moon god who battled with Keret in Negeb.
-# Additional info: None
 Location "Terah Catena" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 277.60 7.10 0 ]
@@ -5043,7 +4851,6 @@ Location "Terah Catena" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1994; Last update: Nov 20, 2015
 # Origin: Elamite god of the tempest.
-# Additional info: None
 Location "Teshub" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 279.28 -68.30 0 ]
@@ -5053,7 +4860,6 @@ Location "Teshub" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 25, 2016
 # Origin: Egyptian town where Hatmenit and Osiris were worshipped.
-# Additional info: None
 Location "Tettu Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 160.96 37.60 0 ]
@@ -5063,7 +4869,6 @@ Location "Tettu Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 25, 2016
 # Origin: Ancient capitol of upper kingdom.
-# Additional info: None
 Location "Thebes Facula" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 202.20 7.10 0 ]
@@ -5073,7 +4878,6 @@ Location "Thebes Facula" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Nov 20, 2015
 # Origin: Egyptian moon god; invented all arts and sciences.
-# Additional info: None
 Location "Thoth" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 147.25 -43.22 0 ]
@@ -5083,7 +4887,6 @@ Location "Thoth" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 24, 2016
 # Origin: Assyro-Babylonian; tumultuous sea from which everything was generated.
-# Additional info: None
 Location "Tiamat Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 209.10 4.14 0 ]
@@ -5093,7 +4896,6 @@ Location "Tiamat Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 20, 2015
 # Origin: Greek; father of Ganymede.
-# Additional info: None
 Location "Tros" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 27.26 11.14 0 ]
@@ -5103,7 +4905,6 @@ Location "Tros" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Feb 18, 2016
 # Origin: Sumerian town.
-# Additional info: None
 Location "Umma Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 249.50 4.10 0 ]
@@ -5113,7 +4914,6 @@ Location "Umma Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 20, 2015
 # Origin: Jackal-headed warrior god, god of the dead.
-# Additional info: None
 Location "Upuant" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 319.54 46.40 0 ]
@@ -5123,7 +4923,6 @@ Location "Upuant" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1985; Last update: Feb 18, 2016
 # Origin: Ancient Sumerian seat of moon worship.
-# Additional info: None
 Location "Ur Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 177.50 49.50 0 ]
@@ -5133,7 +4932,6 @@ Location "Ur Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Feb 24, 2016
 # Origin: Babylonian city ruled by Gilgamesh.
-# Additional info: None
 Location "Uruk Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 160.00 3.40 0 ]
@@ -5143,7 +4941,6 @@ Location "Uruk Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 20, 2015
 # Origin: Akkadian god from whom the hero Atra-hasis was created.
-# Additional info: None
 Location "We-ila" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 290.35 -12.36 0 ]
@@ -5153,7 +4950,6 @@ Location "We-ila" "Sol/Jupiter/Ganymede"
 
 # Approval date: 2000; Last update: Nov 20, 2015
 # Origin: Ancient Egyptian jackal deity.
-# Additional info: None
 Location "Wepwawet" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 59.81 -69.89 0 ]
@@ -5163,7 +4959,6 @@ Location "Wepwawet" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Feb 24, 2016
 # Origin: Mayan “;place of fright“;; destination of those who escaped violent death.
-# Additional info: None
 Location "Xibalba Sulcus" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 71.10 43.00 0 ]
@@ -5173,7 +4968,6 @@ Location "Xibalba Sulcus" "Sol/Jupiter/Ganymede"
 
 # Approval date: Mar 02, 2015; Last update: Nov 20, 2015
 # Origin: Wadi in Lebanon,  Neolithic archaeological site.
-# Additional info: None
 Location "Yaroun Patera" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 142.15 -46.65 0 ]
@@ -5183,7 +4977,6 @@ Location "Yaroun Patera" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1997; Last update: Nov 20, 2015
 # Origin: Assyrian supreme deity.
-# Additional info: None
 Location "Zakar" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 333.67 31.28 0 ]
@@ -5193,7 +4986,6 @@ Location "Zakar" "Sol/Jupiter/Ganymede"
 
 # Approval date: 1979; Last update: Nov 20, 2015
 # Origin: Assyro-Babylonian; Sin's messenger who brought dreams to men.
-# Additional info: None
 Location "Zaqar" "Sol/Jupiter/Ganymede"
 {
 	LongLat	[ 37.41 58.16 0 ]
@@ -6548,7 +6340,6 @@ Location "Vidarr" "Sol/Jupiter/Callisto"
 
 # Approval date: Apr 03, 2019; Last update: Apr 03, 2019
 # Origin: In Norse mythology, brother of the god Odin.
-# Additional info: None
 Location "Vili" "Sol/Jupiter/Callisto"
 {
 	LongLat	[ 215.90 32.60 0 ]

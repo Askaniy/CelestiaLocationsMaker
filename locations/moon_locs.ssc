@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # Approval date: Oct 05, 2018; Last update: Feb 05, 2019
@@ -1242,7 +1242,6 @@ Location "Albategnius T" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Male name of German origin (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Albert" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.01 38.32 0 ]
@@ -1864,7 +1863,6 @@ Location "Al-Marrakushi" "Sol/Earth/Moon"
 
 # Approval date: 1976; Last update: Oct 18, 2010
 # Origin: Hawaiian female first name.
-# Additional info: None
 Location "Aloha" "Sol/Earth/Moon"
 {
 	LongLat	[ -53.88 29.79 0 ]
@@ -2838,7 +2836,6 @@ Location "Anville" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Apennine Front" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.68 25.92 0 ]
@@ -3866,7 +3863,6 @@ Location "Armiński K" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Apr 21, 2015
 # Origin: Neil Alden; American astronaut (1930-2012).
-# Additional info: None
 Location "Armstrong" "Sol/Earth/Moon"
 {
 	LongLat	[ 24.94 1.35 0 ]
@@ -4760,7 +4756,6 @@ Location "Babcock K" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Baby Ray" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.42 -9.08 0 ]
@@ -6266,7 +6261,6 @@ Location "Beals" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Bear Mountain" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.77 19.98 0 ]
@@ -6726,7 +6720,6 @@ Location "Beketov" "Sol/Earth/Moon"
 
 # Approval date: 1976; Last update: Nov 30, 2010
 # Origin: Hungarian male name, also Slovak female name.
-# Additional info: None
 Location "Béla" "Sol/Earth/Moon"
 {
 	LongLat	[ 2.27 24.67 0 ]
@@ -6736,7 +6729,6 @@ Location "Béla" "Sol/Earth/Moon"
 
 # Approval date: 1964; Last update: May 04, 2021
 # Origin: Igor V.; Soviet astronomer (1904-1949).
-# Additional info: None
 Location "Bel'kovich" "Sol/Earth/Moon"
 {
 	LongLat	[ 90.15 61.53 0 ]
@@ -6917,7 +6909,6 @@ Location "Belyaev Q" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 04, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Bench" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.43 -3.02 0 ]
@@ -8043,7 +8034,6 @@ Location "Birt L" "Sol/Earth/Moon"
 
 # Approval date: Aug 02, 2010; Last update: Oct 18, 2010
 # Origin: Chinese inventor (c. 990-1051).
-# Additional info: None
 Location "Bi Sheng" "Sol/Earth/Moon"
 {
 	LongLat	[ 148.46 78.35 0 ]
@@ -8343,7 +8333,6 @@ Location "Bliss" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Block" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.42 -3.01 0 ]
@@ -9155,7 +9144,6 @@ Location "Born" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Slavic male name Boris in Russian diminutive form (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Borya" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.01 38.28 0 ]
@@ -9660,7 +9648,6 @@ Location "Bowen" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Bowen-Apollo" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.87 20.27 0 ]
@@ -10165,7 +10152,6 @@ Location "Brianchon T" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Bridge" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.51 26.04 0 ]
@@ -10310,7 +10296,6 @@ Location "Bronk" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Brontë" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.67 20.17 0 ]
@@ -11330,7 +11315,6 @@ Location "Cailleux" "Sol/Earth/Moon"
 
 # Approval date: Aug 02, 2010; Last update: Oct 18, 2010
 # Origin: Chinese inventor (c. 57-121).
-# Additional info: None
 Location "Cai Lun" "Sol/Earth/Moon"
 {
 	LongLat	[ 113.66 80.12 0 ]
@@ -11440,7 +11424,6 @@ Location "Calippus G" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Camelot" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.73 20.19 0 ]
@@ -12611,7 +12594,6 @@ Location "Catena Sumner" "Sol/Earth/Moon"
 
 # Approval date: 1976; Last update: May 22, 2012
 # Origin: Named from nearby crater.
-# Additional info: None
 Location "Catena Sylvester" "Sol/Earth/Moon"
 {
 	LongLat	[ -83.12 79.99 0 ]
@@ -13478,7 +13460,6 @@ Location "Chaffee W" "Sol/Earth/Moon"
 
 # Approval date: 1935; Last update: Dec 10, 2012
 # Origin: James; British astronomer, mathematician, physicist (1803-1882).
-# Additional info: None
 Location "Challis" "Sol/Earth/Moon"
 {
 	LongLat	[ 9.09 79.58 0 ]
@@ -13678,7 +13659,6 @@ Location "Chaplygin" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jan 25, 2018
 # Origin: Sergei Alekseevich; Soviet mathematician, engineer (1869-1942).
-# Additional info: None
 Location "Chaplygin B" "Sol/Earth/Moon"
 {
 	LongLat	[ 151.69 -4.08 0 ]
@@ -13995,7 +13975,6 @@ Location "Chebyshev V" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jan 25, 2018
 # Origin: Pafnuty Lvovich; Russian mathematician (1821-1894).
-# Additional info: None
 Location "Chebyshev Z" "Sol/Earth/Moon"
 {
 	LongLat	[ -132.68 -28.73 0 ]
@@ -14266,7 +14245,6 @@ Location "Cichus N" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Cinco" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.52 -9.10 0 ]
@@ -15041,7 +15019,6 @@ Location "Coblentz" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Cochise" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.84 20.25 0 ]
@@ -15474,7 +15451,6 @@ Location "Condorcet Y" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Dec 15, 2015
 # Origin: Astronaut-named feature, Apollo 14 site.
-# Additional info: None
 Location "Cone" "Sol/Earth/Moon"
 {
 	LongLat	[ -17.43 -3.62 0 ]
@@ -16043,7 +16019,6 @@ Location "Cremona L" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Dec 15, 2015
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Crescent" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.43 -3.00 0 ]
@@ -17845,7 +17820,6 @@ Location "D. Brown" "Sol/Earth/Moon"
 
 # Approval date: 1935; Last update: Nov 22, 2010
 # Origin: Ernst; German cartographer (1840-1923).
-# Additional info: None
 Location "Debes" "Sol/Earth/Moon"
 {
 	LongLat	[ 51.62 29.47 0 ]
@@ -19656,7 +19630,6 @@ Location "Donner" "Sol/Earth/Moon"
 
 # Approval date: Aug 28, 2018; Last update: Aug 28, 2018
 # Origin: Anders Severin; Finnish astronomer (1854-1938).
-# Additional info: None
 Location "Donner M" "Sol/Earth/Moon"
 {
 	LongLat	[ 97.96 -32.17 0 ]
@@ -20323,7 +20296,6 @@ Location "Dorsum Zirkel" "Sol/Earth/Moon"
 
 # Approval date: Jul 26, 2017; Last update: Jul 26, 2017
 # Origin: Astronaut named crater, Apollo 11 site.
-# Additional info: None
 Location "Double" "Sol/Earth/Moon"
 {
 	LongLat	[ 23.47 0.67 0 ]
@@ -20333,7 +20305,6 @@ Location "Double" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 14 site.
-# Additional info: None
 Location "Doublet" "Sol/Earth/Moon"
 {
 	LongLat	[ -17.48 -3.64 0 ]
@@ -20964,7 +20935,6 @@ Location "Dugan X" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Dune" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.66 26.04 0 ]
@@ -21109,7 +21079,6 @@ Location "Dziewulski Q" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Earthlight" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.65 26.06 0 ]
@@ -21119,7 +21088,6 @@ Location "Earthlight" "Sol/Earth/Moon"
 
 # Approval date: Feb 01, 2021; Last update: Feb 02, 2021
 # Origin: Annie Jean; American computer scientist, mathematician, and rocket scientist (1933-2011).
-# Additional info: None
 Location "Easley" "Sol/Earth/Moon"
 {
 	LongLat	[ 87.97 -23.69 0 ]
@@ -21588,7 +21556,6 @@ Location "Einthoven X" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Elbow" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.60 26.03 0 ]
@@ -21751,7 +21718,6 @@ Location "Emden W" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Emory" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.78 20.12 0 ]
@@ -21878,7 +21844,6 @@ Location "Encke Y" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "End" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.51 -8.91 0 ]
@@ -22961,7 +22926,6 @@ Location "Falcon" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Family Mountain" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.34 20.38 0 ]
@@ -23673,7 +23637,6 @@ Location "Fitzgerald Y" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Oct 18, 2010
 # Origin: Armand-Hippolyte-Louis; French physicist (1819-1896).
-# Additional info: None
 Location "Fizeau" "Sol/Earth/Moon"
 {
 	LongLat	[ -134.11 -58.19 0 ]
@@ -23683,7 +23646,6 @@ Location "Fizeau" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Oct 18, 2010
 # Origin: Armand-Hippolyte-Louis; French physicist (1819-1896).
-# Additional info: None
 Location "Fizeau C" "Sol/Earth/Moon"
 {
 	LongLat	[ -128.91 -56.08 0 ]
@@ -23729,7 +23691,6 @@ Location "Fizeau S" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Flag" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.45 -8.97 0 ]
@@ -24009,7 +23970,6 @@ Location "Flamsteed Z" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 14 site.
-# Additional info: None
 Location "Flank" "Sol/Earth/Moon"
 {
 	LongLat	[ -17.44 -3.64 0 ]
@@ -26533,7 +26493,6 @@ Location "Gaston" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Gator" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.55 -8.95 0 ]
@@ -27506,7 +27465,6 @@ Location "Gemma Frisius Z" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Greek-derived male name Gennady in Russian diminutive form (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Gena" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.01 38.27 0 ]
@@ -28219,7 +28177,6 @@ Location "Godin G" "Sol/Earth/Moon"
 
 # Approval date: 1935; Last update: Apr 05, 2011
 # Origin: Hermann; French astronomer of German origin, discoverer of asteroid (21) Lutetia (1802-1866).
-# Additional info: None
 Location "Goldschmidt" "Sol/Earth/Moon"
 {
 	LongLat	[ -3.37 73.04 0 ]
@@ -28644,7 +28601,6 @@ Location "Grigg" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jan 25, 2018
 # Origin: John; New Zealander astronomer (1838-1920).
-# Additional info: None
 Location "Grigg E" "Sol/Earth/Moon"
 {
 	LongLat	[ -125.68 13.51 0 ]
@@ -29069,7 +29025,6 @@ Location "Gruithuisen S" "Sol/Earth/Moon"
 
 # Approval date: Oct 05, 2015; Last update: Oct 05, 2015
 # Origin: Moon palace where Chang-E and Yutu lived in Chinese mythology.
-# Additional info: None
 Location "Guang Han Gong" "Sol/Earth/Moon"
 {
 	LongLat	[ -19.51 44.12 0 ]
@@ -29205,7 +29160,6 @@ Location "Guericke S" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jul 25, 2017
 # Origin: John E.; British volcanologist (1938-2012).
-# Additional info: None
 Location "Guest" "Sol/Earth/Moon"
 {
 	LongLat	[ 117.39 -19.79 0 ]
@@ -30061,7 +30015,6 @@ Location "Hale Q" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Halfway" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.46 -8.97 0 ]
@@ -30170,7 +30123,6 @@ Location "Hall Y" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Halo" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.42 -3.02 0 ]
@@ -30829,7 +30781,6 @@ Location "Hausen" "Sol/Earth/Moon"
 
 # Approval date: Mar 16, 2018; Last update: Mar 16, 2018
 # Origin: Bernard Ray; American lunar scientist (1946-2015).
-# Additional info: None
 Location "Hawke" "Sol/Earth/Moon"
 {
 	LongLat	[ 128.65 -66.61 0 ]
@@ -31037,7 +30988,6 @@ Location "Hayn T" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Head" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.43 -3.01 0 ]
@@ -31390,7 +31340,6 @@ Location "Hedin Z" "Sol/Earth/Moon"
 
 # Approval date: Feb 04, 2019; Last update: Feb 04, 2019
 # Origin: Constellation name in the ancient Chinese star map, which contains the star Altair, also known as Niulang, the cowherd who marries Zhinyu in the Chinese folk tale “The Cowherd and the Weaver Girl.”
-# Additional info: None
 Location "Hegu" "Sol/Earth/Moon"
 {
 	LongLat	[ 177.57 -46.30 0 ]
@@ -32201,7 +32150,6 @@ Location "Henry P" "Sol/Earth/Moon"
 
 # Approval date: Sep 01, 2021; Last update: Sep 01, 2021
 # Origin: Matthew; American polar explorer (1866-1955).
-# Additional info: None
 Location "Henson" "Sol/Earth/Moon"
 {
 	LongLat	[ -130.63 -88.57 0 ]
@@ -33021,7 +32969,6 @@ Location "Hess" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Hess-Apollo" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.75 20.09 0 ]
@@ -33284,7 +33231,6 @@ Location "Hilbert Y" "Sol/Earth/Moon"
 
 # Approval date: Feb 25, 2016; Last update: Feb 29, 2016
 # Origin: Hildegard von Bingen; German writer, composer, mystic and visionary. In Germany she is considered the founder of the scientific study of natural history (1098- 1179).
-# Additional info: None
 Location "Hildegard" "Sol/Earth/Moon"
 {
 	LongLat	[ 127.74 -51.68 0 ]
@@ -34146,7 +34092,6 @@ Location "Hopmann" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Horatio" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.71 20.19 0 ]
@@ -34959,7 +34904,6 @@ Location "Idel'son L" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Norse male name Ingvar adopted as Russian name (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Igor" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.01 38.25 0 ]
@@ -34988,7 +34932,6 @@ Location "Ina" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Index" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.66 26.10 0 ]
@@ -36182,7 +36125,6 @@ Location "J. Herschel N" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Oct 18, 2010
 # Origin: Sir John Frederick William; British astronomer (1792-1871).
-# Additional info: None
 Location "J. Herschel P" "Sol/Earth/Moon"
 {
 	LongLat	[ -33.01 63.61 0 ]
@@ -37743,7 +37685,6 @@ Location "Kirkwood Y" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Kiva" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.45 -8.84 0 ]
@@ -37978,7 +37919,6 @@ Location "Kohlschütter Q" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jan 25, 2018
 # Origin: Arnold; German astronomer (1883-1969).
-# Additional info: None
 Location "Kohlschütter V" "Sol/Earth/Moon"
 {
 	LongLat	[ 151.61 15.41 0 ]
@@ -38006,7 +37946,6 @@ Location "Kolhörster" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Russian male name, diminutive from Greek-derived Nicholas (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Kolya" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.00 38.31 0 ]
@@ -38269,7 +38208,6 @@ Location "Korolev Y" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jan 25, 2018
 # Origin: Sergey Pavlovich; Soviet rocketry scientist (1906-1966).
-# Additional info: None
 Location "Korolev Z" "Sol/Earth/Moon"
 {
 	LongLat	[ -159.48 1.15 0 ]
@@ -38333,7 +38271,6 @@ Location "Kostinskiy W" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Latin-derived male name Konstantin in Russian diminutive form (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Kostya" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.02 38.26 0 ]
@@ -42144,7 +42081,6 @@ Location "Lents (Lenz) J" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Russian male name of Greek origin (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Leonid" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.01 38.31 0 ]
@@ -42154,7 +42090,6 @@ Location "Leonid" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Dec 02, 2019
 # Origin: Aleksey Arkhipovich; Soviet cosmonaut (1934-2019).
-# Additional info: None
 Location "Leonov" "Sol/Earth/Moon"
 {
 	LongLat	[ 148.36 19.07 0 ]
@@ -42398,7 +42333,6 @@ Location "Leuschner Z" "Sol/Earth/Moon"
 
 # Approval date: Mar 29, 2012; Last update: Oct 04, 2019
 # Origin: Russian male name of Hebrew origin.
-# Additional info: None
 Location "Lev" "Sol/Earth/Moon"
 {
 	LongLat	[ 62.21 12.71 0 ]
@@ -43048,7 +42982,6 @@ Location "Liebig J" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Light Mantle" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.53 20.16 0 ]
@@ -43634,7 +43567,6 @@ Location "Litke (Lütke)" "Sol/Earth/Moon"
 
 # Approval date: Jul 26, 2017; Last update: Jul 26, 2017
 # Origin: Astronaut named crater, Apollo 11 site.
-# Additional info: None
 Location "Little West" "Sol/Earth/Moon"
 {
 	LongLat	[ 23.48 0.67 0 ]
@@ -43689,7 +43621,6 @@ Location "Littrow P" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Chinese mathematician during Wei kingdom (about 225-295).
-# Additional info: None
 Location "Liu Hui" "Sol/Earth/Moon"
 {
 	LongLat	[ -52.61 42.88 0 ]
@@ -44995,7 +44926,6 @@ Location "Mach" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Oct 18, 2010
 # Origin: Ernst; Austrian physicist, philosopher (1838-1916).
-# Additional info: None
 Location "Mach H" "Sol/Earth/Moon"
 {
 	LongLat	[ -143.88 14.94 0 ]
@@ -45905,7 +45835,6 @@ Location "Malapert K" "Sol/Earth/Moon"
 
 # Approval date: May 20, 2014; Last update: May 20, 2014
 # Origin: Egor Ivanovich, Russian meteorite researcher (1923-2008).
-# Additional info: None
 Location "Malinkin" "Sol/Earth/Moon"
 {
 	LongLat	[ 75.94 -87.22 0 ]
@@ -46113,7 +46042,6 @@ Location "Mandel'shtam Y" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Feb 01, 2011
 # Origin: Michael Phillip; American astronaut, Space Shuttle Columbia Payload Commander (1959-2003).
-# Additional info: None
 Location "M. Anderson" "Sol/Earth/Moon"
 {
 	LongLat	[ -148.99 -41.21 0 ]
@@ -46699,7 +46627,6 @@ Location "Marco Polo M" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Jul 24, 2013
 # Origin: Italian explorer (1254-1324).
-# Additional info: None
 Location "Marco Polo P" "Sol/Earth/Moon"
 {
 	LongLat	[ -0.32 16.97 0 ]
@@ -47357,7 +47284,6 @@ Location "Marth K" "Sol/Earth/Moon"
 
 # Approval date: Sep 30, 2021; Last update: Sep 30, 2021
 # Origin: Ursula; American planetary geologist (1921-2018).
-# Additional info: None
 Location "Marvin" "Sol/Earth/Moon"
 {
 	LongLat	[ -87.78 -89.13 0 ]
@@ -49620,7 +49546,6 @@ Location "Michelson W" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Middle Crescent" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.44 -3.00 0 ]
@@ -50278,7 +50203,6 @@ Location "Monira" "Sol/Earth/Moon"
 
 # Approval date: 1979; Last update: Oct 01, 2019
 # Origin: Greek female name.
-# Additional info: None
 Location "Mons Agnes" "Sol/Earth/Moon"
 {
 	LongLat	[ 5.33 18.66 0 ]
@@ -50306,7 +50230,6 @@ Location "Mons André" "Sol/Earth/Moon"
 
 # Approval date: 1976; Last update: Oct 18, 2010
 # Origin: Persian male name.
-# Additional info: None
 Location "Mons Ardeshir" "Sol/Earth/Moon"
 {
 	LongLat	[ 121.04 5.03 0 ]
@@ -50424,7 +50347,6 @@ Location "Mons Hansteen" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Named from terrestrial Mount Heng, in Hunan, China.
-# Additional info: None
 Location "Mons Heng" "Sol/Earth/Moon"
 {
 	LongLat	[ -52.12 42.56 0 ]
@@ -50443,7 +50365,6 @@ Location "Mons Herodotus" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Named from terrestrial Mount Hua, in Shaanxi, China.
-# Additional info: None
 Location "Mons Hua" "Sol/Earth/Moon"
 {
 	LongLat	[ -52.26 45.71 0 ]
@@ -50471,7 +50392,6 @@ Location "Mons La Hire" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 20, 2021
 # Origin: Pierre André; French entomologist (1762-1833).
-# Additional info: None
 Location "Mons Latreille" "Sol/Earth/Moon"
 {
 	LongLat	[ 61.92 18.47 0 ]
@@ -50544,7 +50464,6 @@ Location "Mons Rümker" "Sol/Earth/Moon"
 
 # Approval date: Feb 04, 2019; Last update: Feb 04, 2019
 # Origin: Named from terrestrial Mount Tai, in Shandong, China.
-# Additional info: None
 Location "Mons Tai" "Sol/Earth/Moon"
 {
 	LongLat	[ 175.83 -44.56 0 ]
@@ -50681,7 +50600,6 @@ Location "Montes Caucasus" "Sol/Earth/Moon"
 
 # Approval date: 1961; Last update: Jun 05, 2012
 # Origin: Spanish for “;mountain chain.“;
-# Additional info: None
 Location "Montes Cordillera" "Sol/Earth/Moon"
 {
 	LongLat	[ -94.93 -19.44 0 ]
@@ -50754,7 +50672,6 @@ Location "Montes Riphaeus" "Sol/Earth/Moon"
 
 # Approval date: 1964; Last update: Jun 05, 2012
 # Origin: Lawrence; British astronomer (1622-1666).
-# Additional info: None
 Location "Montes Rook" "Sol/Earth/Moon"
 {
 	LongLat	[ -94.95 -19.49 0 ]
@@ -51187,7 +51104,6 @@ Location "Moulton P" "Sol/Earth/Moon"
 
 # Approval date: Jul 26, 2017; Last update: Jul 26, 2017
 # Origin: Astronaut named feature, Apollo 11 site.
-# Additional info: None
 Location "Mount Marilyn" "Sol/Earth/Moon"
 {
 	LongLat	[ 40.00 1.13 0 ]
@@ -51531,7 +51447,6 @@ Location "Nansen A" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Nansen-Apollo" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.52 20.12 0 ]
@@ -52721,7 +52636,6 @@ Location "Nikolaev J" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Russian diminutive form of the Greek-derived male name Nicholas (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Nikolya" "Sol/Earth/Moon"
 {
 	LongLat	[ -34.98 38.20 0 ]
@@ -53056,7 +52970,6 @@ Location "Norman" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "North Complex" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.59 26.25 0 ]
@@ -53066,7 +52979,6 @@ Location "North Complex" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "North Massif" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.72 20.54 0 ]
@@ -53076,7 +52988,6 @@ Location "North Massif" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "North Ray" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.48 -8.82 0 ]
@@ -53672,7 +53583,6 @@ Location "Olcott M" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 14 site.
-# Additional info: None
 Location "Old Nameless" "Sol/Earth/Moon"
 {
 	LongLat	[ -17.42 -3.72 0 ]
@@ -53727,7 +53637,6 @@ Location "Onizuka" "Sol/Earth/Moon"
 
 # Approval date: 1935; Last update: Nov 05, 2012
 # Origin: Friedrich Wilhelm; German astronomer (1794-1863), Otto Moritz; German astronomer (1829-1912).
-# Additional info: None
 Location "Opelt" "Sol/Earth/Moon"
 {
 	LongLat	[ -17.64 -16.32 0 ]
@@ -53845,7 +53754,6 @@ Location "Oppenheimer W" "Sol/Earth/Moon"
 
 # Approval date: 1935; Last update: Oct 04, 2012
 # Origin: Theodor Ritter von; Austrian astronomer (1841-1886).
-# Additional info: None
 Location "Oppolzer" "Sol/Earth/Moon"
 {
 	LongLat	[ -0.45 -1.52 0 ]
@@ -55594,7 +55502,6 @@ Location "Peirescius J" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Chinese geographer, cartographer during Jin dynasty (224-271).
-# Additional info: None
 Location "Pei Xiu" "Sol/Earth/Moon"
 {
 	LongLat	[ -52.75 44.06 0 ]
@@ -55775,7 +55682,6 @@ Location "Perepelkin" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Oct 18, 2010
 # Origin: Yevgenii Yakovlevich; Soviet astrophysicist (1906-1938).
-# Additional info: None
 Location "Perepelkin P" "Sol/Earth/Moon"
 {
 	LongLat	[ 127.29 -12.41 0 ]
@@ -57045,7 +56951,6 @@ Location "Pictet N" "Sol/Earth/Moon"
 
 # Approval date: May 26, 2015; Last update: May 28, 2015
 # Origin: Elisabetta; Italian planetary scientist (1963-2011).
-# Additional info: None
 Location "Pierazzo" "Sol/Earth/Moon"
 {
 	LongLat	[ -100.24 3.30 0 ]
@@ -57281,7 +57186,6 @@ Location "Pingré Z" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Apr 09, 2012
 # Origin: Baron Guido von; Austrian (spacecraft trajectories) astronaut (1880-1966).
-# Additional info: None
 Location "Pirquet" "Sol/Earth/Moon"
 {
 	LongLat	[ 139.93 -20.34 0 ]
@@ -57705,7 +57609,6 @@ Location "Pizzetti W" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Plain" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.64 26.15 0 ]
@@ -58273,7 +58176,6 @@ Location "Plinius B" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Plum" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.45 -8.98 0 ]
@@ -58508,7 +58410,6 @@ Location "Poincaré C" "Sol/Earth/Moon"
 
 # Approval date: Feb 25, 2016; Last update: Feb 29, 2016
 # Origin: Jules Henri; French mathematician, physicist (1854-1912).
-# Additional info: None
 Location "Poincaré E" "Sol/Earth/Moon"
 {
 	LongLat	[ 171.06 -56.59 0 ]
@@ -58518,7 +58419,6 @@ Location "Poincaré E" "Sol/Earth/Moon"
 
 # Approval date: Feb 25, 2016; Last update: Feb 29, 2016
 # Origin: Jules Henri; French mathematician, physicist (1854-1912).
-# Additional info: None
 Location "Poincaré F" "Sol/Earth/Moon"
 {
 	LongLat	[ 168.60 -57.93 0 ]
@@ -59788,7 +59688,6 @@ Location "Posidonius Z" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Powell" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.76 20.16 0 ]
@@ -60518,7 +60417,6 @@ Location "Puiseux H" "Sol/Earth/Moon"
 
 # Approval date: 1976; Last update: Sep 24, 2012
 # Origin: Michael Idvorsky; American physicist and inventor of Serbian origin (1858-1935).
-# Additional info: None
 Location "Pupin" "Sol/Earth/Moon"
 {
 	LongLat	[ -11.00 23.87 0 ]
@@ -61477,7 +61375,6 @@ Location "Ravi" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Ravine" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.56 -8.84 0 ]
@@ -62757,7 +62654,6 @@ Location "Rheita P" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Rhysling" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.62 26.07 0 ]
@@ -63964,7 +63860,6 @@ Location "Rima Krieger" "Sol/Earth/Moon"
 
 # Approval date: Sep 28, 2021; Last update: Oct 06, 2021
 # Origin: Jacques D'Allonville, Chevalier de Louville; French astronomer, mathematician (1671-1732).
-# Additional info: None
 Location "Rima Louville" "Sol/Earth/Moon"
 {
 	LongLat	[ -51.54 47.61 0 ]
@@ -66838,7 +66733,6 @@ Location "Scaliger U" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Scarp" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.59 20.29 0 ]
@@ -68560,7 +68454,6 @@ Location "Scott M" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Sculptured Hills" "Sol/Earth/Moon"
 {
 	LongLat	[ 31.06 20.24 0 ]
@@ -69011,7 +68904,6 @@ Location "Seyfert A" "Sol/Earth/Moon"
 
 # Approval date: 1994; Last update: Sep 11, 2012
 # Origin: Sir Ernest Henry; Irish-born British Antarctic explorer (1874-1922).
-# Additional info: None
 Location "Shackleton" "Sol/Earth/Moon"
 {
 	LongLat	[ 129.78 -89.67 0 ]
@@ -69030,7 +68922,6 @@ Location "Shahinaz" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Shakespeare" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.82 20.24 0 ]
@@ -69112,7 +69003,6 @@ Location "Sharp A" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Sharp-Apollo" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.43 -3.02 0 ]
@@ -69293,7 +69183,6 @@ Location "Sheepshanks C" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Chinese astronomer, mathematician during the Song Dynasty (1031-1095).
-# Additional info: None
 Location "Shen Kuo" "Sol/Earth/Moon"
 {
 	LongLat	[ -49.41 44.00 0 ]
@@ -69303,7 +69192,6 @@ Location "Shen Kuo" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Sherlock" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.81 20.18 0 ]
@@ -69322,7 +69210,6 @@ Location "Sherrington" "Sol/Earth/Moon"
 
 # Approval date: Aug 12, 2019; Last update: Aug 12, 2019
 # Origin: Japanese female first name.
-# Additional info: None
 Location "Shioli" "Sol/Earth/Moon"
 {
 	LongLat	[ 25.23 -13.33 0 ]
@@ -69404,7 +69291,6 @@ Location "Short B" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Shorty" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.63 20.22 0 ]
@@ -69892,7 +69778,6 @@ Location "Sinus Iridum" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Jul 24, 2013
 # Origin: “;Lunik Bay“;-landing area of Luna (Lunik) 2.
-# Additional info: None
 Location "Sinus Lunicus" "Sol/Earth/Moon"
 {
 	LongLat	[ -1.85 32.36 0 ]
@@ -70154,7 +70039,6 @@ Location "Sklodowska Y" "Sol/Earth/Moon"
 
 # Approval date: May 04, 2015; Last update: May 04, 2015
 # Origin: David Charles; American planetary scientist, specialist in optics and detectors (1957-2011).
-# Additional info: None
 Location "Slater" "Sol/Earth/Moon"
 {
 	LongLat	[ 111.29 -88.08 0 ]
@@ -70164,7 +70048,6 @@ Location "Slater" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Slavic male name, diminutive from Vyacheslav (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Slava" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.00 38.23 0 ]
@@ -70220,7 +70103,6 @@ Location "Smithson" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Smoky Mountains" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.51 -8.67 0 ]
@@ -70374,7 +70256,6 @@ Location "Sniadecki Y" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Snowman" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.42 -3.02 0 ]
@@ -70501,7 +70382,6 @@ Location "Sömmering R" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Chinese scientist and encyclopedist during the late Ming Dynasty (1587–1666).
-# Additional info: None
 Location "Song Yingxing" "Sol/Earth/Moon"
 {
 	LongLat	[ -49.65 42.34 0 ]
@@ -70592,7 +70472,6 @@ Location "South C" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut named feature, Apollo 15 site.
-# Additional info: None
 Location "South Cluster" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.71 26.02 0 ]
@@ -70665,7 +70544,6 @@ Location "South M" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut named feature, Apollo 17 site.
-# Additional info: None
 Location "South Massif" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.35 19.91 0 ]
@@ -70675,7 +70553,6 @@ Location "South Massif" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut named feature, Apollo 16 site.
-# Additional info: None
 Location "South Ray" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.38 -9.15 0 ]
@@ -70838,7 +70715,6 @@ Location "Spörer A" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Spot" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.50 -8.98 0 ]
@@ -70848,7 +70724,6 @@ Location "Spot" "Sol/Earth/Moon"
 
 # Approval date: Sep 30, 2021; Last update: Sep 30, 2021
 # Origin: Paul D.; American planetary geologist (1952-2018).
-# Additional info: None
 Location "Spudis" "Sol/Earth/Moon"
 {
 	LongLat	[ -84.61 -89.51 0 ]
@@ -70858,7 +70733,6 @@ Location "Spudis" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Nov 16, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Spur" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.67 25.98 0 ]
@@ -71066,7 +70940,6 @@ Location "Stadius W" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Chinese constellation name, which means ship sailing in the Milky Way.
-# Additional info: None
 Location "Statio Tianchuan" "Sol/Earth/Moon"
 {
 	LongLat	[ -51.92 43.06 0 ]
@@ -71076,7 +70949,6 @@ Location "Statio Tianchuan" "Sol/Earth/Moon"
 
 # Approval date: Feb 04, 2019; Last update: Feb 18, 2019
 # Origin: Ancient Chinese name for the Milky Way, a sky river that separates Niulang and Zhinyu in the Chinese folk tale “The Cowherd and the Weaver Girl.”
-# Additional info: None
 Location "Statio Tianhe" "Sol/Earth/Moon"
 {
 	LongLat	[ 177.60 -45.45 0 ]
@@ -71086,7 +70958,6 @@ Location "Statio Tianhe" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Oct 25, 2010
 # Origin: “;Tranquility Base,“; Apollo 11 landing site.
-# Additional info: None
 Location "Statio Tranquillitatis" "Sol/Earth/Moon"
 {
 	LongLat	[ 23.47 0.67 0 ]
@@ -71312,7 +71183,6 @@ Location "Steno" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Steno-Apollo" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.79 20.15 0 ]
@@ -71557,7 +71427,6 @@ Location "Stewart" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "St. George" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.54 25.96 0 ]
@@ -71963,7 +71832,6 @@ Location "Stoletov Y" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Stone Mountain" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.57 -9.17 0 ]
@@ -72036,7 +71904,6 @@ Location "Störmer Y" "Sol/Earth/Moon"
 
 # Approval date: Nov 05, 2021; Last update: Nov 05, 2021
 # Origin: Anna Isabel Jonas; American geologist (1881-1974).
-# Additional info: None
 Location "Stose" "Sol/Earth/Moon"
 {
 	LongLat	[ 32.13 -86.38 0 ]
@@ -72433,7 +72300,6 @@ Location "Struve M" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Stubby" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.48 -9.09 0 ]
@@ -72659,7 +72525,6 @@ Location "Sundman V" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 12 site.
-# Additional info: None
 Location "Surveyor" "Sol/Earth/Moon"
 {
 	LongLat	[ -23.42 -3.02 0 ]
@@ -72993,7 +72858,6 @@ Location "Tacquet C" "Sol/Earth/Moon"
 
 # Approval date: Oct 05, 2015; Last update: Oct 05, 2015
 # Origin: One of three enclosures in Chinese ancient star map.
-# Additional info: None
 Location "Tai Wei" "Sol/Earth/Moon"
 {
 	LongLat	[ -19.49 44.15 0 ]
@@ -73318,7 +73182,6 @@ Location "Taruntius Z" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Taurus-Littrow Valley" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.79 20.07 0 ]
@@ -73508,7 +73371,6 @@ Location "Tereshkova U" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 15 site.
-# Additional info: None
 Location "Terrace" "Sol/Earth/Moon"
 {
 	LongLat	[ 3.56 26.15 0 ]
@@ -73518,7 +73380,6 @@ Location "Terrace" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Sep 24, 2012
 # Origin: Nikola; American scientist of Serbian origin (1856-1943).
-# Additional info: None
 Location "Tesla" "Sol/Earth/Moon"
 {
 	LongLat	[ 124.73 38.36 0 ]
@@ -73600,7 +73461,6 @@ Location "Thales W" "Sol/Earth/Moon"
 
 # Approval date: Mar 30, 2015; Last update: Dec 21, 2016
 # Origin: Marie; Geologist and oceanographer, created first comprehensive map of the ocean floor and is credited with discovering the Mid-Atlantic Ridge (1920-2006).
-# Additional info: None
 Location "Tharp" "Sol/Earth/Moon"
 {
 	LongLat	[ 145.63 -30.60 0 ]
@@ -73997,7 +73857,6 @@ Location "Thomson W" "Sol/Earth/Moon"
 
 # Approval date: Feb 04, 2019; Last update: Feb 04, 2019
 # Origin: Constellation name in the ancient Chinese star map; means “celestial ford” or “Galaxy’s ferry.”
-# Additional info: None
 Location "Tianjin" "Sol/Earth/Moon"
 {
 	LongLat	[ 178.81 -44.93 0 ]
@@ -74007,7 +73866,6 @@ Location "Tianjin" "Sol/Earth/Moon"
 
 # Approval date: Oct 05, 2015; Last update: Oct 05, 2015
 # Origin: One of three enclosures in Chinese ancient star map.
-# Additional info: None
 Location "Tian Shi" "Sol/Earth/Moon"
 {
 	LongLat	[ -19.45 44.10 0 ]
@@ -74098,7 +73956,6 @@ Location "Tikhov" "Sol/Earth/Moon"
 
 # Approval date: 1970; Last update: Oct 18, 2010
 # Origin: Reinhold; German rocketry scientist (1890-1933).
-# Additional info: None
 Location "Tiling" "Sol/Earth/Moon"
 {
 	LongLat	[ -133.11 -52.85 0 ]
@@ -74117,7 +73974,6 @@ Location "Tiling C" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Oct 18, 2010
 # Origin: Reinhold; German rocketry scientist (1890-1933).
-# Additional info: None
 Location "Tiling D" "Sol/Earth/Moon"
 {
 	LongLat	[ -131.32 -51.94 0 ]
@@ -74568,7 +74424,6 @@ Location "Tolansky" "Sol/Earth/Moon"
 
 # Approval date: Nov 19, 2020; Last update: Nov 19, 2020
 # Origin: Craig; NASA Engineer, LRO Project Manager (1960-2017).
-# Additional info: None
 Location "Tooley" "Sol/Earth/Moon"
 {
 	LongLat	[ 51.31 -88.04 0 ]
@@ -74713,7 +74568,6 @@ Location "Torricelli T" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Tortilla Flat" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.60 20.19 0 ]
@@ -74778,7 +74632,6 @@ Location "Tralles C" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Trap" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.43 -9.05 0 ]
@@ -74788,7 +74641,6 @@ Location "Trap" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Trident" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.77 20.18 0 ]
@@ -74861,7 +74713,6 @@ Location "Triesnecker J" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 14 site.
-# Additional info: None
 Location "Triplet" "Sol/Earth/Moon"
 {
 	LongLat	[ -17.47 -3.65 0 ]
@@ -75033,7 +74884,6 @@ Location "Tsiolkovskiy W" "Sol/Earth/Moon"
 
 # Approval date: 2006; Last update: Oct 18, 2010
 # Origin: Konstantin E.; Soviet physicist (1857-1935).
-# Additional info: None
 Location "Tsiolkovskiy X" "Sol/Earth/Moon"
 {
 	LongLat	[ 126.47 -14.72 0 ]
@@ -75575,7 +75425,6 @@ Location "Väisälä" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Male name Valery of Latin origin in Russian diminutive form (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Valera" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.02 38.29 0 ]
@@ -76019,7 +75868,6 @@ Location "van Rhijn T" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Van Serg" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.83 20.23 0 ]
@@ -76173,7 +76021,6 @@ Location "Vashakidze" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Russian diminutive form of male name Vasily of Greek origin (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Vasya" "Sol/Earth/Moon"
 {
 	LongLat	[ -34.98 38.20 0 ]
@@ -76183,7 +76030,6 @@ Location "Vasya" "Sol/Earth/Moon"
 
 # Approval date: Oct 16, 2019; Last update: Oct 16, 2019
 # Origin: Dorothy; American mathematician (1910-2008).
-# Additional info: None
 Location "Vaughan" "Sol/Earth/Moon"
 {
 	LongLat	[ -171.85 -41.41 0 ]
@@ -76815,7 +76661,6 @@ Location "Vetchinkin Q" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Victory" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.67 20.22 0 ]
@@ -77050,7 +76895,6 @@ Location "Virtanen C" "Sol/Earth/Moon"
 
 # Approval date: May 02, 2017; Last update: May 02, 2017
 # Origin: Artturi Ilmari; Finnish agricultural biochemist; Nobel laureate (1895-1973).
-# Additional info: None
 Location "Virtanen F" "Sol/Earth/Moon"
 {
 	LongLat	[ 177.32 15.79 0 ]
@@ -77295,7 +77139,6 @@ Location "Vitruvius T" "Sol/Earth/Moon"
 
 # Approval date: Jun 14, 2012; Last update: Mar 14, 2018
 # Origin: Latin male name Victor in Russian diminutive form (Lunokhod-1 landing site feature).
-# Additional info: None
 Location "Vitya" "Sol/Earth/Moon"
 {
 	LongLat	[ -35.03 38.27 0 ]
@@ -78171,7 +78014,6 @@ Location "Wargentin P" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jul 25, 2017
 # Origin: Michael J.; American planetary scientist (1951 – 2013).
-# Additional info: None
 Location "Wargo" "Sol/Earth/Moon"
 {
 	LongLat	[ -148.62 27.68 0 ]
@@ -78856,7 +78698,6 @@ Location "Weinek M" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 01, 2019
 # Origin: Astronaut-named feature, Apollo 14 site.
-# Additional info: None
 Location "Weird" "Sol/Earth/Moon"
 {
 	LongLat	[ -17.46 -3.64 0 ]
@@ -78983,7 +78824,6 @@ Location "Werner H" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 17 site.
-# Additional info: None
 Location "Wessex Cleft" "Sol/Earth/Moon"
 {
 	LongLat	[ 30.89 20.34 0 ]
@@ -78993,7 +78833,6 @@ Location "Wessex Cleft" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 11 site.
-# Additional info: None
 Location "West" "Sol/Earth/Moon"
 {
 	LongLat	[ 23.49 0.67 0 ]
@@ -80137,7 +79976,6 @@ Location "Wood S" "Sol/Earth/Moon"
 
 # Approval date: Jul 25, 2017; Last update: Jan 25, 2018
 # Origin: Robert Williams; American physicist (1868-1955).
-# Additional info: None
 Location "Wood T" "Sol/Earth/Moon"
 {
 	LongLat	[ -124.32 43.91 0 ]
@@ -80147,7 +79985,6 @@ Location "Wood T" "Sol/Earth/Moon"
 
 # Approval date: 1973; Last update: Oct 25, 2010
 # Origin: Astronaut-named feature, Apollo 16 site.
-# Additional info: None
 Location "Wreck" "Sol/Earth/Moon"
 {
 	LongLat	[ 15.46 -9.07 0 ]
@@ -80518,7 +80355,6 @@ Location "Xenophon" "Sol/Earth/Moon"
 
 # Approval date: May 19, 2021; Last update: May 19, 2021
 # Origin: Chinese agronomist, astronomer, mathematician during the Ming dynasty (1562-1633).
-# Additional info: None
 Location "Xu Guangqi" "Sol/Earth/Moon"
 {
 	LongLat	[ -51.93 43.06 0 ]
@@ -80592,7 +80428,6 @@ Location "Yerkes E" "Sol/Earth/Moon"
 
 # Approval date: Aug 23, 2018; Last update: Aug 23, 2018
 # Origin: Charles Tyson; American benefactor (1837-1905).
-# Additional info: None
 Location "Yerkes V" "Sol/Earth/Moon"
 {
 	LongLat	[ 50.49 15.24 0 ]
@@ -81241,7 +81076,6 @@ Location "Zernike Z" "Sol/Earth/Moon"
 
 # Approval date: Aug 02, 2010; Last update: Jan 09, 2012
 # Origin: Chinese astronomer (1902-1986).
-# Additional info: None
 Location "Zhang Yuzhe" "Sol/Earth/Moon"
 {
 	LongLat	[ -137.82 -69.07 0 ]
@@ -81361,7 +81195,6 @@ Location "Zinner" "Sol/Earth/Moon"
 
 # Approval date: Oct 05, 2015; Last update: Oct 05, 2015
 # Origin: One of three enclosures in Chinese ancient star map.
-# Additional info: None
 Location "Zi Wei" "Sol/Earth/Moon"
 {
 	LongLat	[ -19.52 44.12 0 ]

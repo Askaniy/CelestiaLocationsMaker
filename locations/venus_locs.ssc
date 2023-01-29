@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # Approval date: 1997; Last update: Oct 01, 2006
@@ -386,7 +386,6 @@ Location "Aisha" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Estonian first name.
-# Additional info: None
 Location "Aita" "Sol/Venus"
 {
 	LongLat	[ -270.70 -8.90 0 ]
@@ -594,7 +593,6 @@ Location "Ale Tholus" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Tatar first name.
-# Additional info: None
 Location "Alima" "Sol/Venus"
 {
 	LongLat	[ -229.20 46.00 0 ]
@@ -604,7 +602,6 @@ Location "Alima" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Osset first name.
-# Additional info: None
 Location "Alimat" "Sol/Venus"
 {
 	LongLat	[ -205.90 29.50 0 ]
@@ -659,7 +656,6 @@ Location "Allatu Corona" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Kazakh first name.
-# Additional info: None
 Location "Alma" "Sol/Venus"
 {
 	LongLat	[ -228.80 2.40 0 ]
@@ -741,7 +737,6 @@ Location "Ama Corona" "Sol/Venus"
 
 # Approval date: 1991; Last update: Aug 27, 2014
 # Origin: Ostrogoth queen (c. 498-535 A.D.). Changed from Amalasthuna.
-# Additional info: None
 Location "Amalasuntha" "Sol/Venus"
 {
 	LongLat	[ -342.40 11.50 0 ]
@@ -931,7 +926,6 @@ Location "Anjea Corona" "Sol/Venus"
 
 # Approval date: Aug 18, 2017; Last update: Aug 23, 2017
 # Origin: Scottish first name of Latin origin.
-# Additional info: None
 Location "Annabelle" "Sol/Venus"
 {
 	LongLat	[ -286.29 4.15 0 ]
@@ -1022,7 +1016,6 @@ Location "Anuket Vallis" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Armenian first name.
-# Additional info: None
 Location "Anush" "Sol/Venus"
 {
 	LongLat	[ -86.50 -14.90 0 ]
@@ -1041,7 +1034,6 @@ Location "Anya" "Sol/Venus"
 
 # Approval date: 2006; Last update: Dec 01, 2010
 # Origin: Māori (New Zealand) goddess of justice.
-# Additional info: None
 Location "Apakura Tholus" "Sol/Venus"
 {
 	LongLat	[ -208.80 -40.30 0 ]
@@ -1241,7 +1233,6 @@ Location "Asintmah Corona" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Armenian first name.
-# Additional info: None
 Location "Asmik" "Sol/Venus"
 {
 	LongLat	[ -166.40 -3.90 0 ]
@@ -1522,7 +1513,6 @@ Location "Awenhai Mons" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Altai first name.
-# Additional info: None
 Location "Ayana" "Sol/Venus"
 {
 	LongLat	[ -175.50 29.20 0 ]
@@ -3562,7 +3552,6 @@ Location "Destinnová Patera" "Sol/Venus"
 
 # Approval date: 1982; Last update: Jul 24, 2012
 # Origin: Czechoslovakian goddess of hunting.
-# Additional info: None
 Location "Devana Chasma" "Sol/Venus"
 {
 	LongLat	[ -283.50 -22.00 0 ]
@@ -4167,7 +4156,6 @@ Location "Elenora" "Sol/Venus"
 
 # Approval date: Dec 16, 2010; Last update: Dec 16, 2010
 # Origin: Cherokee (SE USA) Earth Mother.
-# Additional info: None
 Location "Elihino Corona" "Sol/Venus"
 {
 	LongLat	[ -49.10 37.00 0 ]
@@ -4213,7 +4201,6 @@ Location "Elma" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Latvian first name.
-# Additional info: None
 Location "Elza" "Sol/Venus"
 {
 	LongLat	[ -275.90 34.40 0 ]
@@ -4430,7 +4417,6 @@ Location "Esmeralda" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: First name from Latin.
-# Additional info: None
 Location "Estelle" "Sol/Venus"
 {
 	LongLat	[ -93.70 -1.10 0 ]
@@ -4530,7 +4516,6 @@ Location "Evelyn" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Tatar first name.
-# Additional info: None
 Location "Evika" "Sol/Venus"
 {
 	LongLat	[ -31.40 5.10 0 ]
@@ -5071,7 +5056,6 @@ Location "Galina" "Sol/Venus"
 
 # Approval date: 1994; Last update: May 02, 2013
 # Origin: Beatriz (Beatrix); Spanish professor of Latin, philosophy, and medicine (1473-1535).
-# Additional info: None
 Location "Galindo" "Sol/Venus"
 {
 	LongLat	[ -258.80 23.30 0 ]
@@ -6009,7 +5993,6 @@ Location "Hina Chasma" "Sol/Venus"
 
 # Approval date: 1997; Last update: Dec 01, 2010
 # Origin: Māori tale heroine; swam across Rotorua Lake to her friend.
-# Additional info: None
 Location "Hinemoa Planitia" "Sol/Venus"
 {
 	LongLat	[ -265.00 -5.00 0 ]
@@ -6460,7 +6443,6 @@ Location "Ingrid" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Eskimo first name.
-# Additional info: None
 Location "Inira" "Sol/Venus"
 {
 	LongLat	[ -239.40 43.10 0 ]
@@ -6632,7 +6614,6 @@ Location "Istadoy" "Sol/Venus"
 
 # Approval date: Nov 06, 2019; Last update: Nov 06, 2019
 # Origin: Hattian/Hittite goddess of destiny, who spins the threads of fate.
-# Additional info: None
 Location "Istustaya Tesserae" "Sol/Venus"
 {
 	LongLat	[ -42.23 8.76 0 ]
@@ -7146,7 +7127,6 @@ Location "Juturna Fluctus" "Sol/Venus"
 
 # Approval date: Nov 06, 2019; Last update: Nov 06, 2019
 # Origin: Indian goddess of inauspicious things; sister of Lakshmi.
-# Additional info: None
 Location "Jyestha Tesserae" "Sol/Venus"
 {
 	LongLat	[ -343.41 -65.05 0 ]
@@ -7309,7 +7289,6 @@ Location "Kamui-Huci Corona" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Sakhalin first name.
-# Additional info: None
 Location "Kanik" "Sol/Venus"
 {
 	LongLat	[ -249.90 32.50 0 ]
@@ -7355,7 +7334,6 @@ Location "Karen" "Sol/Venus"
 
 # Approval date: 1997; Last update: Dec 01, 2010
 # Origin: Māori first name.
-# Additional info: None
 Location "Karo" "Sol/Venus"
 {
 	LongLat	[ -37.20 -21.90 0 ]
@@ -7698,7 +7676,6 @@ Location "Kinsei Vallis" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Latvian first name.
-# Additional info: None
 Location "Kiris" "Sol/Venus"
 {
 	LongLat	[ -98.80 -20.90 0 ]
@@ -8473,7 +8450,6 @@ Location "Lehmann" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Estonian first name.
-# Additional info: None
 Location "Leida" "Sol/Venus"
 {
 	LongLat	[ -266.60 23.30 0 ]
@@ -8537,7 +8513,6 @@ Location "Leona" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Wrexie Louise; American assistant to Percival Lowell (1867-1937).
-# Additional info: None
 Location "Leonard" "Sol/Venus"
 {
 	LongLat	[ -185.20 73.80 0 ]
@@ -8709,7 +8684,6 @@ Location "Lindgren Patera" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Latvian first name.
-# Additional info: None
 Location "Lineta" "Sol/Venus"
 {
 	LongLat	[ -354.10 5.00 0 ]
@@ -9124,7 +9098,6 @@ Location "Mahina" "Sol/Venus"
 
 # Approval date: 1994; Last update: Dec 01, 2010
 # Origin: Māori fire goddess.
-# Additional info: None
 Location "Mahuea Tholus" "Sol/Venus"
 {
 	LongLat	[ -164.70 37.50 0 ]
@@ -9296,7 +9269,6 @@ Location "Maram Corona" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Latvian first name.
-# Additional info: None
 Location "Maranda" "Sol/Venus"
 {
 	LongLat	[ -169.70 -4.90 0 ]
@@ -9441,7 +9413,6 @@ Location "Marysya" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Karakal first name.
-# Additional info: None
 Location "Marzhan" "Sol/Venus"
 {
 	LongLat	[ -248.30 58.90 0 ]
@@ -10993,7 +10964,6 @@ Location "Neyterkob Corona" "Sol/Venus"
 
 # Approval date: 1997; Last update: Dec 01, 2010
 # Origin: Māori first name.
-# Additional info: None
 Location "Ngaio" "Sol/Venus"
 {
 	LongLat	[ -61.80 53.30 0 ]
@@ -11302,7 +11272,6 @@ Location "Noreen" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Japanese first name.
-# Additional info: None
 Location "Noriko" "Sol/Venus"
 {
 	LongLat	[ -358.30 5.30 0 ]
@@ -12122,7 +12091,6 @@ Location "Pajan Yan Tholus" "Sol/Venus"
 
 # Approval date: Dec 16, 2010; Last update: Dec 16, 2010
 # Origin: Māori (New Zealand) mother of a highly culturally significant fiber plant, harakeke (“New Zealand flax”), ancestor and wife of Tāne, father of plants.
-# Additional info: None
 Location "Pakoti Corona" "Sol/Venus"
 {
 	LongLat	[ -42.40 38.80 0 ]
@@ -12150,7 +12118,6 @@ Location "Pandrosos Dorsa" "Sol/Venus"
 
 # Approval date: 1994; Last update: Dec 01, 2010
 # Origin: Māori fertility goddess.
-# Additional info: None
 Location "Pani Corona" "Sol/Venus"
 {
 	LongLat	[ -231.50 -19.90 0 ]
@@ -12169,7 +12136,6 @@ Location "Panina Patera" "Sol/Venus"
 
 # Approval date: 2003; Last update: Dec 01, 2010
 # Origin: Māori (New Zealand) goddess of echoes; she gave voice to the first woman Marikoriko.
-# Additional info: None
 Location "Paoro Tholi" "Sol/Venus"
 {
 	LongLat	[ -268.00 -10.50 0 ]
@@ -12179,7 +12145,6 @@ Location "Paoro Tholi" "Sol/Venus"
 
 # Approval date: 1982; Last update: Dec 21, 2011
 # Origin: Nenets (Samoyed) forest witch. (Feature extent expanded in 2001.)
-# Additional info: None
 Location "Parga Chasmata" "Sol/Venus"
 {
 	LongLat	[ -255.00 20.00 0 ]
@@ -12685,7 +12650,6 @@ Location "Pugos Corona" "Sol/Venus"
 
 # Approval date: 1997; Last update: Dec 01, 2010
 # Origin: Māori first name.
-# Additional info: None
 Location "Puhioia" "Sol/Venus"
 {
 	LongLat	[ -69.40 -20.60 0 ]
@@ -13244,7 +13208,6 @@ Location "Romola" "Sol/Venus"
 
 # Approval date: Jul 24, 2012; Last update: Jul 24, 2012
 # Origin: Maori Moon goddess who controls the tides.
-# Additional info: None
 Location "Rona Chasma" "Sol/Venus"
 {
 	LongLat	[ -288.00 -2.50 0 ]
@@ -13425,7 +13388,6 @@ Location "Sabin" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Tatar first name.
-# Additional info: None
 Location "Sabira" "Sol/Venus"
 {
 	LongLat	[ -239.90 5.80 0 ]
@@ -13490,7 +13452,6 @@ Location "Sakwap-mana Mons" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Mari first name.
-# Additional info: None
 Location "Salika" "Sol/Venus"
 {
 	LongLat	[ -97.70 5.00 0 ]
@@ -13833,7 +13794,6 @@ Location "Seiko" "Sol/Venus"
 
 # Approval date: 1997; Last update: May 01, 2015
 # Origin: Tupi/Guarani (Bolivia) fertility goddess.
-# Additional info: None
 Location "Seiusi Corona" "Sol/Venus"
 {
 	LongLat	[ -241.00 62.00 0 ]
@@ -13987,7 +13947,6 @@ Location "Shait Tessera" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Bashkir first name.
-# Additional info: None
 Location "Shakira" "Sol/Venus"
 {
 	LongLat	[ -213.60 -3.00 0 ]
@@ -14231,7 +14190,6 @@ Location "Simbya" "Sol/Venus"
 
 # Approval date: 1991; Last update: Jul 20, 2012
 # Origin: Alla Nikolayevna; Soviet astronomer (1935-1984).
-# Additional info: None
 Location "Simonenko" "Sol/Venus"
 {
 	LongLat	[ -97.60 26.90 0 ]
@@ -14250,7 +14208,6 @@ Location "Simoting Corona" "Sol/Venus"
 
 # Approval date: 1997; Last update: Mar 31, 2020
 # Origin: Itelmen (Kamchatka) Raven's daughter, wife of sky man.
-# Additional info: None
 Location "Sinanevt Dorsa" "Sol/Venus"
 {
 	LongLat	[ -171.00 -66.50 0 ]
@@ -14629,7 +14586,6 @@ Location "Sunrta Corona" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Azeri first name.
-# Additional info: None
 Location "Surija" "Sol/Venus"
 {
 	LongLat	[ -178.20 -5.30 0 ]
@@ -14757,7 +14713,6 @@ Location "Tai-pe Valles" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Osset first name.
-# Additional info: None
 Location "Taira" "Sol/Venus"
 {
 	LongLat	[ -296.80 1.60 0 ]
@@ -14929,7 +14884,6 @@ Location "Taussig" "Sol/Venus"
 
 # Approval date: 1997; Last update: Dec 01, 2010
 # Origin: Māori name for planet Venus.
-# Additional info: None
 Location "Tawera Vallis" "Sol/Venus"
 {
 	LongLat	[ -67.50 11.60 0 ]
@@ -15237,7 +15191,6 @@ Location "Tingoi Vallis" "Sol/Venus"
 
 # Approval date: 1997; Last update: Mar 31, 2020
 # Origin: Koryak (Kamchatka) wife of sky man.
-# Additional info: None
 Location "Tinianavyt Dorsa" "Sol/Venus"
 {
 	LongLat	[ -239.00 51.00 0 ]
@@ -15418,7 +15371,6 @@ Location "Tsetsa" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Georgian first name.
-# Additional info: None
 Location "Tsiala" "Sol/Venus"
 {
 	LongLat	[ -100.00 -2.90 0 ]
@@ -15977,7 +15929,6 @@ Location "Urkuk Dorsa" "Sol/Venus"
 
 # Approval date: 2003; Last update: Dec 01, 2010
 # Origin: Māori sea goddess.
-# Additional info: None
 Location "Urutonga Colles" "Sol/Venus"
 {
 	LongLat	[ -154.00 -10.00 0 ]
@@ -16185,7 +16136,6 @@ Location "Valkyrie Fossae" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Latvian first name.
-# Additional info: None
 Location "Vallija" "Sol/Venus"
 {
 	LongLat	[ -120.00 -26.30 0 ]
@@ -16573,7 +16523,6 @@ Location "Virtus Linea" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Estonian first name.
-# Additional info: None
 Location "Virve" "Sol/Venus"
 {
 	LongLat	[ -346.90 5.10 0 ]
@@ -16809,7 +16758,6 @@ Location "Wharton" "Sol/Venus"
 
 # Approval date: 2000; Last update: Dec 01, 2010
 # Origin: Māori ancestor goddess, great mother.
-# Additional info: None
 Location "Whatitiri Corona" "Sol/Venus"
 {
 	LongLat	[ -140.00 83.00 0 ]
@@ -17675,7 +17623,6 @@ Location "Zhu Shuzhen" "Sol/Venus"
 
 # Approval date: 1994; Last update: Mar 26, 2014
 # Origin: Azeri first name.
-# Additional info: None
 Location "Zija" "Sol/Venus"
 {
 	LongLat	[ -265.00 3.50 0 ]

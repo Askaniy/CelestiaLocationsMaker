@@ -2,8 +2,8 @@
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
-# Date of creation: 04.01.2023
-# Last update: 04.01.2023
+# Date of creation: 29.01.2023
+# Last update: 29.01.2023
 
 
 # 1 locations on Proteus.
@@ -67,7 +67,6 @@ Location "Apep Cavus" "Sol/Neptune/Triton"
 
 # Approval date: 1991; Last update: May 02, 2012
 # Origin: Nama Bushman word for rain.
-# Additional info: None
 Location "Awib Dorsa" "Sol/Neptune/Triton"
 {
 	LongLat	[ -80.00 7.00 0 ]
@@ -203,7 +202,6 @@ Location "Ho Sulci" "Sol/Neptune/Triton"
 
 # Approval date: 1991; Last update: May 02, 2012
 # Origin: Lozi (Zambia) water snake linked with destruction.
-# Additional info: None
 Location "Ilomba" "Sol/Neptune/Triton"
 {
 	LongLat	[ -57.00 14.50 0 ]
@@ -339,7 +337,6 @@ Location "Mahilani" "Sol/Neptune/Triton"
 
 # Approval date: 1991; Last update: May 02, 2012
 # Origin: Ila (Zambia) “;the flooder.“;
-# Additional info: None
 Location "Mangwe Cavus" "Sol/Neptune/Triton"
 {
 	LongLat	[ -343.00 7.00 0 ]
@@ -349,7 +346,6 @@ Location "Mangwe Cavus" "Sol/Neptune/Triton"
 
 # Approval date: 1991; Last update: Mar 22, 2013
 # Origin: Chaga (Tanzania) mythical large fish.
-# Additional info: None
 Location "Mazomba" "Sol/Neptune/Triton"
 {
 	LongLat	[ -63.50 18.50 0 ]
@@ -476,7 +472,6 @@ Location "Slidr Sulci" "Sol/Neptune/Triton"
 
 # Approval date: 1991; Last update: Dec 01, 2010
 # Origin: Māori fishing and sea god.
-# Additional info: None
 Location "Tangaroa" "Sol/Neptune/Triton"
 {
 	LongLat	[ -65.50 25.00 0 ]
@@ -486,7 +481,6 @@ Location "Tangaroa" "Sol/Neptune/Triton"
 
 # Approval date: 1991; Last update: May 02, 2012
 # Origin: Yoruba; river named for willful son of god.
-# Additional info: None
 Location "Tano Sulci" "Sol/Neptune/Triton"
 {
 	LongLat	[ -337.00 -33.50 0 ]
