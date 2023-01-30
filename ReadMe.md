@@ -29,4 +29,4 @@ Run [clm.py](clm.py) in console, customize settings, choose output format (and t
 5. Scroll, choose the `CSV` link;
 6. Save the file to the `data` folder.
 
-The last database update was on January 4, 2023.
+The last database update was on January 29, 2023.

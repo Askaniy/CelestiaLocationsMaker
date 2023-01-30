@@ -69812,7 +69812,7 @@ Location "Sinus Successus" "Sol/Earth/Moon"
 	Type	"SI"	# Sinus, sinūs
 }
 
-# Approval date: Dec 30, 2022; Last update: Jan 03, 2023
+# Approval date: Dec 30, 2022; Last update: Jan 04, 2023
 # Origin: “;Bay of Stickiness.“;
 Location "Sinus Viscositatis" "Sol/Earth/Moon"
 {

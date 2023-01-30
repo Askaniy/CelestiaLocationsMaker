@@ -1,4 +1,4 @@
-# 558 locations on Mercury.
+# 566 locations on Mercury.
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
@@ -438,6 +438,15 @@ Location "Balanchine" "Sol/Mercury"
 	LongLat	[ 184.48 38.47 0 ]
 	Size	38.00
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 11, 2023; Last update: Jan 19, 2023
+# Origin: Polish; a research vessel that performs oceanographic, biological and fishing research in the Baltic Sea since 1993.
+Location "Baltica Rupes" "Sol/Mercury"
+{
+	LongLat	[ 303.48 -4.48 0 ]
+	Size	230.00
+	Type	"RU"	# Rupes, rupēs
 }
 
 # Approval date: 1976; Last update: Oct 07, 2016
@@ -1215,6 +1224,15 @@ Location "Darío" "Sol/Mercury"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Jan 11, 2023; Last update: Jan 18, 2023
+# Origin: Indian; a hydrographic survey vessel that carries out hydrographic, geophysical, and oceanographic surveys in the Indian Ocean since 2001; has been used to investigate historically significant shipwrecks and the submerged remains of the lost city of Poompuhar.
+Location "Darshak Rupēs" "Sol/Mercury"
+{
+	LongLat	[ 47.42 -14.50 0 ]
+	Size	560.00
+	Type	"RU"	# Rupes, rupēs
+}
+
 # Approval date: Jun 18, 2013; Last update: Oct 11, 2016
 # Origin: Jacques-Louis; French painter (1748-1825).
 Location "David" "Sol/Mercury"
@@ -1494,7 +1512,7 @@ Location "Endeavour Rupes" "Sol/Mercury"
 	Type	"RU"	# Rupes, rupēs
 }
 
-# Approval date: Nov 07, 2022; Last update: Nov 08, 2022
+# Approval date: Nov 07, 2022; Last update: Jan 27, 2023
 # Origin: British; a three-masted barquentine lead by Ernest Shackleton on the Imperial Trans-Antarctic Expedition (1914-1917).
 Location "Endurance Rupes" "Sol/Mercury"
 {
@@ -2010,6 +2028,15 @@ Location "Hesiod" "Sol/Mercury"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Jan 11, 2023; Last update: Jan 19, 2023
+# Origin: Spanish; a global research vessel, used since 1991 for studies of geology, geophysics, hydrography, physical and chemical oceanography, marine biology as well as for logistical support to the Spanish Antarctic bases.
+Location "Hesperides Rupes" "Sol/Mercury"
+{
+	LongLat	[ 189.55 -2.98 0 ]
+	Size	374.00
+	Type	"RU"	# Rupes, rupēs
+}
+
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
 Location "HESPERIS" "Sol/Mercury"
@@ -2447,8 +2474,8 @@ Location "Kulthum" "Sol/Mercury"
 # Origin: Utagawa Kunisada; Japanese woodblock printmaker (1786-1864).
 Location "Kunisada" "Sol/Mercury"
 {
-	LongLat	[ 246.98 1.37 0 ]
-	Size	241.45
+	LongLat	[ 247.14 1.36 0 ]
+	Size	241.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -2488,12 +2515,21 @@ Location "La Dauphine Rupes" "Sol/Mercury"
 	Type	"RU"	# Rupes, rupēs
 }
 
+# Approval date: Jan 11, 2023; Last update: Jan 19, 2023
+# Origin: Norwegian; a research vessel that has operated primarily in the Arctic since 1992 for various research purposes, in particular marine biology and oceanography; was used for Mars rover simulations on Svalbard in 2009.
+Location "Lance Rupes" "Sol/Mercury"
+{
+	LongLat	[ 182.60 -4.23 0 ]
+	Size	167.00
+	Type	"RU"	# Rupes, rupēs
+}
+
 # Approval date: Jul 09, 2009; Last update: Oct 11, 2016
 # Origin: Dorothea; American photographer (1895-1965).
 Location "Lange" "Sol/Mercury"
 {
-	LongLat	[ 259.53 6.28 0 ]
-	Size	176.23
+	LongLat	[ 259.59 6.40 0 ]
+	Size	176.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -2789,8 +2825,8 @@ Location "Martins" "Sol/Mercury"
 # Origin: Iwasa; Japanese painter (1578-1650).
 Location "Matabei" "Sol/Mercury"
 {
-	LongLat	[ 13.90 -39.87 0 ]
-	Size	23.52
+	LongLat	[ 14.05 -39.85 0 ]
+	Size	24.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -2798,8 +2834,8 @@ Location "Matabei" "Sol/Mercury"
 # Origin: Henri; French painter and sculptor (1869-1954).
 Location "Matisse" "Sol/Mercury"
 {
-	LongLat	[ 90.05 -23.83 0 ]
-	Size	189.04
+	LongLat	[ 90.19 -23.80 0 ]
+	Size	189.00
 	Type	"AA"	# Crater, craters
 }
 
@@ -3291,6 +3327,15 @@ Location "Pasch" "Sol/Mercury"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Jan 27, 2023; Last update: Jan 27, 2023
+# Origin: Dutch; a research and survey vessel that has performed hydrographic and oceanographic surveys  and sediment sampling since 1990 in the Atlantic (North Sea, Caribbean Sea), Indian, and Pacific Oceans.
+Location "Pelagia Rupes" "Sol/Mercury"
+{
+	LongLat	[ 218.59 15.33 0 ]
+	Size	220.00
+	Type	"RU"	# Rupes, rupēs
+}
+
 # Approval date: 1976; Last update: Mar 07, 2011
 # Origin: Albedo feature; Antoniadi map.
 Location "PENTAS" "Sol/Mercury"
@@ -3497,6 +3542,15 @@ Location "Proust" "Sol/Mercury"
 	LongLat	[ 47.59 19.56 0 ]
 	Size	145.00
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 11, 2023; Last update: Jan 19, 2023
+# Origin: Colombian; a research vessel used for biological, meteorological, chemistry, physics, geology, and oceanographic studies in the Caribbean Sea and Pacific Ocean since 1981.
+Location "Providencia Rupes" "Sol/Mercury"
+{
+	LongLat	[ 233.57 1.94 0 ]
+	Size	310.00
+	Type	"RU"	# Rupes, rupēs
 }
 
 # Approval date: 1976; Last update: Oct 12, 2016
@@ -3938,6 +3992,15 @@ Location "Sei" "Sol/Mercury"
 	LongLat	[ 88.59 -64.61 0 ]
 	Size	137.00
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 11, 2023; Last update: Jan 18, 2023
+# Origin: Turkish; research vessel used mainly in Sea of Marmara since 2010 for high resolution geophysical exploration in shallow waters.
+Location "Selen Rupēs" "Sol/Mercury"
+{
+	LongLat	[ 178.92 -8.11 0 ]
+	Size	246.00
+	Type	"RU"	# Rupes, rupēs
 }
 
 # Approval date: Apr 24, 2012; Last update: Oct 13, 2016
@@ -4733,6 +4796,15 @@ Location "Vazov" "Sol/Mercury"
 	LongLat	[ 212.33 -65.40 0 ]
 	Size	33.00
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 27, 2023; Last update: Jan 27, 2023
+# Origin: Lithuanian; research vessel deployed in the Baltic Sea during 1992-2010 to study the seasonal dynamics of phytoplankton communities and their development.
+Location "Vejas Rupes" "Sol/Mercury"
+{
+	LongLat	[ 162.25 35.71 0 ]
+	Size	35.71
+	Type	"RU"	# Rupes, rupēs
 }
 
 # Approval date: 1979; Last update: Oct 14, 2016

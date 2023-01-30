@@ -1815,8 +1815,8 @@ Location "Argiletum Fossae" "Sol/Saturn/Dione"
 # Origin: Town in Apulia (now Puglia, southern Italy) founded after the Trojan war by Diomedes.
 Location "Arpi Fossae" "Sol/Saturn/Dione"
 {
-	LongLat	[ 119.00 52.00 0 ]
-	Size	425.00
+	LongLat	[ 130.80 47.47 0 ]
+	Size	330.00
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -2024,8 +2024,8 @@ Location "Eumelus" "Sol/Saturn/Dione"
 # Origin: The river on which Sparta stood.
 Location "Eurotas Chasmata" "Sol/Saturn/Dione"
 {
-	LongLat	[ 301.35 4.94 0 ]
-	Size	1000.00
+	LongLat	[ 270.00 18.00 0 ]
+	Size	1200.00
 	Type	"CM"	# Chasma, chasmata
 }
 

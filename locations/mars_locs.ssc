@@ -1,4 +1,4 @@
-# 1991 locations on Mars.
+# 1993 locations on Mars.
 
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
@@ -10113,6 +10113,15 @@ Location "Mariner" "Sol/Mars"
 	Type	"AA"	# Crater, craters
 }
 
+# Approval date: Jan 06, 2023; Last update: Jan 06, 2023
+# Origin: Town in Kenya.
+Location "Marsabit" "Sol/Mars"
+{
+	LongLat	[ 338.97 12.03 0 ]
+	Size	40.00
+	Type	"AA"	# Crater, craters
+}
+
 # Approval date: 1994; Last update: Oct 01, 2006
 # Origin: Spanish word for “;Mars“;.
 Location "Marte Vallis" "Sol/Mars"
@@ -11094,6 +11103,15 @@ Location "Nema" "Sol/Mars"
 	LongLat	[ 307.87 20.70 0 ]
 	Size	14.54
 	Type	"AA"	# Crater, craters
+}
+
+# Approval date: Jan 11, 2023; Last update: Jan 11, 2023
+# Origin: Modern river in Heilongjiang Province, China.
+Location "Nen Valles" "Sol/Mars"
+{
+	LongLat	[ 123.08 0.64 0 ]
+	Size	203.00
+	Type	"VA"	# Vallis, valles
 }
 
 # Approval date: 1976; Last update: Nov 17, 2010
