@@ -20,7 +20,7 @@ Location "Abedin" "Sol/Mercury"
 Location "Abeeso Facula" "Sol/Mercury"
 {
 	LongLat	[ 145.4 21.7 0 ]
-	Size	32.00
+	Size	32
 	Type	"FA"	# Facula, faculae
 }
 
@@ -29,7 +29,7 @@ Location "Abeeso Facula" "Sol/Mercury"
 Location "Abu Nuwas" "Sol/Mercury"
 {
 	LongLat	[ -21.19 17.63 0 ]
-	Size	117.00
+	Size	117
 	Type	"AA"	# Crater, craters
 }
 
@@ -37,8 +37,8 @@ Location "Abu Nuwas" "Sol/Mercury"
 # Origin: Canadian; hydrographic survey and oceanographic research vessel (1913- 1969), used to chart the coastline of Eastern Canada, performed tidal and depth charting.
 Location "Acadia Rupes" "Sol/Mercury"
 {
-	LongLat	[ 31.0 8.17 0 ]
-	Size	191.00
+	LongLat	[ 31 8.17 0 ]
+	Size	191
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -47,7 +47,7 @@ Location "Acadia Rupes" "Sol/Mercury"
 Location "Adventure Rupes" "Sol/Mercury"
 {
 	LongLat	[ -65.3 -65.48 0 ]
-	Size	340.00
+	Size	340
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -56,7 +56,7 @@ Location "Adventure Rupes" "Sol/Mercury"
 Location "Aegaeo Rupes" "Sol/Mercury"
 {
 	LongLat	[ -15.28 -9.19 0 ]
-	Size	222.00
+	Size	222
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -65,7 +65,7 @@ Location "Aegaeo Rupes" "Sol/Mercury"
 Location "Africanus Horton" "Sol/Mercury"
 {
 	LongLat	[ -41.19 -50.96 0 ]
-	Size	140.00
+	Size	140
 	Type	"AA"	# Crater, craters
 }
 
@@ -74,7 +74,7 @@ Location "Africanus Horton" "Sol/Mercury"
 Location "Agwo Facula" "Sol/Mercury"
 {
 	LongLat	[ 146.3 22.4 0 ]
-	Size	50.00
+	Size	50
 	Type	"FA"	# Facula, faculae
 }
 
@@ -83,7 +83,7 @@ Location "Agwo Facula" "Sol/Mercury"
 Location "Ahmad Baba" "Sol/Mercury"
 {
 	LongLat	[ -128.35 58.33 0 ]
-	Size	126.00
+	Size	126
 	Type	"AA"	# Crater, craters
 }
 
@@ -92,7 +92,7 @@ Location "Ahmad Baba" "Sol/Mercury"
 Location "Ailey" "Sol/Mercury"
 {
 	LongLat	[ 177.92 45.58 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -101,7 +101,7 @@ Location "Ailey" "Sol/Mercury"
 Location "Akademik Rupes" "Sol/Mercury"
 {
 	LongLat	[ -161.66 8.14 0 ]
-	Size	265.00
+	Size	265
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -110,7 +110,7 @@ Location "Akademik Rupes" "Sol/Mercury"
 Location "Aksakov" "Sol/Mercury"
 {
 	LongLat	[ -78.74 34.71 0 ]
-	Size	174.00
+	Size	174
 	Type	"AA"	# Crater, craters
 }
 
@@ -119,7 +119,7 @@ Location "Aksakov" "Sol/Mercury"
 Location "Akutagawa" "Sol/Mercury"
 {
 	LongLat	[ -141.09 48.25 0 ]
-	Size	106.00
+	Size	106
 	Type	"AA"	# Crater, craters
 }
 
@@ -137,7 +137,7 @@ Location "Al-Akhtal" "Sol/Mercury"
 Location "Alencar" "Sol/Mercury"
 {
 	LongLat	[ -103.78 -63.64 0 ]
-	Size	106.00
+	Size	106
 	Type	"AA"	# Crater, craters
 }
 
@@ -146,7 +146,7 @@ Location "Alencar" "Sol/Mercury"
 Location "Al-Hamadhani" "Sol/Mercury"
 {
 	LongLat	[ -91.76 39.19 0 ]
-	Size	164.00
+	Size	164
 	Type	"AA"	# Crater, craters
 }
 
@@ -155,7 +155,7 @@ Location "Al-Hamadhani" "Sol/Mercury"
 Location "Al-Jāhiz" "Sol/Mercury"
 {
 	LongLat	[ -21.76 1.36 0 ]
-	Size	83.00
+	Size	83
 	Type	"AA"	# Crater, craters
 }
 
@@ -164,7 +164,7 @@ Location "Al-Jāhiz" "Sol/Mercury"
 Location "Alpha Crucis Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 131.69 -12.48 0 ]
-	Size	511.30
+	Size	511.3
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -191,7 +191,7 @@ Location "Alver" "Sol/Mercury"
 Location "Alvin Rupes" "Sol/Mercury"
 {
 	LongLat	[ 151.28 8.3 0 ]
-	Size	188.00
+	Size	188
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -200,7 +200,7 @@ Location "Alvin Rupes" "Sol/Mercury"
 Location "Amaral" "Sol/Mercury"
 {
 	LongLat	[ 117.82 -26.49 0 ]
-	Size	105.00
+	Size	105
 	Type	"AA"	# Crater, craters
 }
 
@@ -209,7 +209,7 @@ Location "Amaral" "Sol/Mercury"
 Location "Amaru Facula" "Sol/Mercury"
 {
 	LongLat	[ 10.5 -49.8 0 ]
-	Size	45.00
+	Size	45
 	Type	"FA"	# Facula, faculae
 }
 
@@ -218,7 +218,7 @@ Location "Amaru Facula" "Sol/Mercury"
 Location "Amru Al-Qays" "Sol/Mercury"
 {
 	LongLat	[ -176.11 12.43 0 ]
-	Size	47.00
+	Size	47
 	Type	"AA"	# Crater, craters
 }
 
@@ -227,7 +227,7 @@ Location "Amru Al-Qays" "Sol/Mercury"
 Location "Andal" "Sol/Mercury"
 {
 	LongLat	[ -37.71 -47.52 0 ]
-	Size	109.00
+	Size	109
 	Type	"AA"	# Crater, craters
 }
 
@@ -236,7 +236,7 @@ Location "Andal" "Sol/Mercury"
 Location "Aneirin" "Sol/Mercury"
 {
 	LongLat	[ -2.68 -27.47 0 ]
-	Size	467.00
+	Size	467
 	Type	"AA"	# Crater, craters
 }
 
@@ -245,7 +245,7 @@ Location "Aneirin" "Sol/Mercury"
 Location "Angelou" "Sol/Mercury"
 {
 	LongLat	[ -66.71 80.32 0 ]
-	Size	18.00
+	Size	18
 	Type	"AA"	# Crater, craters
 }
 
@@ -272,7 +272,7 @@ Location "Anguissola" "Sol/Mercury"
 Location "Antares Rupes" "Sol/Mercury"
 {
 	LongLat	[ 130.58 18.06 0 ]
-	Size	530.00
+	Size	530
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -281,7 +281,7 @@ Location "Antares Rupes" "Sol/Mercury"
 Location "Antoniadi Dorsum" "Sol/Mercury"
 {
 	LongLat	[ -29.65 27.2 0 ]
-	Size	359.40
+	Size	359.4
 	Type	"DO"	# Dorsum, dorsa
 }
 
@@ -299,7 +299,7 @@ Location "Anyte" "Sol/Mercury"
 Location "Apārangi Planitia" "Sol/Mercury"
 {
 	LongLat	[ 70.62 6.7 0 ]
-	Size	1077.00
+	Size	1077
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -309,7 +309,7 @@ Location "Apārangi Planitia" "Sol/Mercury"
 Location "Apollodorus" "Sol/Mercury"
 {
 	LongLat	[ 163.28 30.54 0 ]
-	Size	41.50
+	Size	41.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -317,7 +317,7 @@ Location "Apollodorus" "Sol/Mercury"
 # Origin: Albedo name for H-5, Hokusai region.
 Location "APOLLONIA" "Sol/Mercury"
 {
-	LongLat	[ 45.0 45.0 0 ]
+	LongLat	[ 45 45 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -346,7 +346,7 @@ Location "Aristoxenus" "Sol/Mercury"
 Location "Arquipelago Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 130.69 7.36 0 ]
-	Size	500.00
+	Size	500
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -355,7 +355,7 @@ Location "Arquipelago Rupēs" "Sol/Mercury"
 Location "Astrea Rupes" "Sol/Mercury"
 {
 	LongLat	[ 115.85 -20.31 0 ]
-	Size	178.00
+	Size	178
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -364,7 +364,7 @@ Location "Astrea Rupes" "Sol/Mercury"
 Location "Astrolabe Rupes" "Sol/Mercury"
 {
 	LongLat	[ -70.9 -42.55 0 ]
-	Size	251.00
+	Size	251
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -373,7 +373,7 @@ Location "Astrolabe Rupes" "Sol/Mercury"
 Location "Aśvaghosa" "Sol/Mercury"
 {
 	LongLat	[ -21.49 10.61 0 ]
-	Size	88.00
+	Size	88
 	Type	"AA"	# Crater, craters
 }
 
@@ -382,7 +382,7 @@ Location "Aśvaghosa" "Sol/Mercury"
 Location "Atget" "Sol/Mercury"
 {
 	LongLat	[ 166.38 25.57 0 ]
-	Size	100.00
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -390,7 +390,7 @@ Location "Atget" "Sol/Mercury"
 # Origin: Albedo name for H-2, Victoria region.
 Location "AURORA" "Sol/Mercury"
 {
-	LongLat	[ -90.0 45.0 0 ]
+	LongLat	[ -90 45 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -399,7 +399,7 @@ Location "AURORA" "Sol/Mercury"
 # Origin: Albedo name for H-15, Bach region.
 Location "AUSTRALIA" "Sol/Mercury"
 {
-	LongLat	[ -0.0 -72.5 0 ]
+	LongLat	[ 0 -72.5 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -418,7 +418,7 @@ Location "Bach" "Sol/Mercury"
 Location "Bagryana" "Sol/Mercury"
 {
 	LongLat	[ 76.27 -3.89 0 ]
-	Size	101.00
+	Size	101
 	Type	"AA"	# Crater, craters
 }
 
@@ -427,7 +427,7 @@ Location "Bagryana" "Sol/Mercury"
 Location "Balagtas" "Sol/Mercury"
 {
 	LongLat	[ -13.9 -22.56 0 ]
-	Size	104.00
+	Size	104
 	Type	"AA"	# Crater, craters
 }
 
@@ -436,7 +436,7 @@ Location "Balagtas" "Sol/Mercury"
 Location "Balanchine" "Sol/Mercury"
 {
 	LongLat	[ 175.52 38.47 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -445,7 +445,7 @@ Location "Balanchine" "Sol/Mercury"
 Location "Baltica Rupes" "Sol/Mercury"
 {
 	LongLat	[ 56.52 -4.48 0 ]
-	Size	230.00
+	Size	230
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -454,7 +454,7 @@ Location "Baltica Rupes" "Sol/Mercury"
 Location "Balzac" "Sol/Mercury"
 {
 	LongLat	[ -144.67 10.62 0 ]
-	Size	67.00
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -463,7 +463,7 @@ Location "Balzac" "Sol/Mercury"
 Location "Baranauskas" "Sol/Mercury"
 {
 	LongLat	[ -39.76 50.73 0 ]
-	Size	36.00
+	Size	36
 	Type	"AA"	# Crater, craters
 }
 
@@ -472,7 +472,7 @@ Location "Baranauskas" "Sol/Mercury"
 Location "Barma" "Sol/Mercury"
 {
 	LongLat	[ -163.49 -40.93 0 ]
-	Size	123.00
+	Size	123
 	Type	"AA"	# Crater, craters
 }
 
@@ -481,7 +481,7 @@ Location "Barma" "Sol/Mercury"
 Location "Barney" "Sol/Mercury"
 {
 	LongLat	[ 59.71 -11.69 0 ]
-	Size	29.00
+	Size	29
 	Type	"AA"	# Crater, craters
 }
 
@@ -490,7 +490,7 @@ Location "Barney" "Sol/Mercury"
 Location "Bartók" "Sol/Mercury"
 {
 	LongLat	[ -135.06 -29.22 0 ]
-	Size	118.00
+	Size	118
 	Type	"AA"	# Crater, craters
 }
 
@@ -499,7 +499,7 @@ Location "Bartók" "Sol/Mercury"
 Location "Bashō" "Sol/Mercury"
 {
 	LongLat	[ -170.45 -32.39 0 ]
-	Size	75.00
+	Size	75
 	Type	"AA"	# Crater, craters
 }
 
@@ -508,7 +508,7 @@ Location "Bashō" "Sol/Mercury"
 Location "Beagle Rupes" "Sol/Mercury"
 {
 	LongLat	[ 100.76 -3.22 0 ]
-	Size	630.00
+	Size	630
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -517,7 +517,7 @@ Location "Beagle Rupes" "Sol/Mercury"
 Location "Bechet" "Sol/Mercury"
 {
 	LongLat	[ -93.66 83.08 0 ]
-	Size	17.60
+	Size	17.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -526,7 +526,7 @@ Location "Bechet" "Sol/Mercury"
 Location "Beckett" "Sol/Mercury"
 {
 	LongLat	[ 111.29 -40.2 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -535,7 +535,7 @@ Location "Beckett" "Sol/Mercury"
 Location "Beethoven" "Sol/Mercury"
 {
 	LongLat	[ -124.21 -20.86 0 ]
-	Size	630.00
+	Size	630
 	Type	"AA"	# Crater, craters
 }
 
@@ -544,7 +544,7 @@ Location "Beethoven" "Sol/Mercury"
 Location "Bek" "Sol/Mercury"
 {
 	LongLat	[ -50.99 21.16 0 ]
-	Size	32.00
+	Size	32
 	Type	"AA"	# Crater, craters
 }
 
@@ -553,7 +553,7 @@ Location "Bek" "Sol/Mercury"
 Location "Belgica Rupes" "Sol/Mercury"
 {
 	LongLat	[ 63.76 -50.45 0 ]
-	Size	425.00
+	Size	425
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -571,7 +571,7 @@ Location "Belinskij" "Sol/Mercury"
 Location "Bellini" "Sol/Mercury"
 {
 	LongLat	[ 87.17 -33.77 0 ]
-	Size	45.00
+	Size	45
 	Type	"AA"	# Crater, craters
 }
 
@@ -580,7 +580,7 @@ Location "Bellini" "Sol/Mercury"
 Location "Bello" "Sol/Mercury"
 {
 	LongLat	[ -120.18 -18.87 0 ]
-	Size	139.00
+	Size	139
 	Type	"AA"	# Crater, craters
 }
 
@@ -589,7 +589,7 @@ Location "Bello" "Sol/Mercury"
 Location "Benoit" "Sol/Mercury"
 {
 	LongLat	[ 104.35 7.48 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -598,7 +598,7 @@ Location "Benoit" "Sol/Mercury"
 Location "Berkel" "Sol/Mercury"
 {
 	LongLat	[ 26.81 -13.73 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -625,7 +625,7 @@ Location "Bernini" "Sol/Mercury"
 Location "Berry" "Sol/Mercury"
 {
 	LongLat	[ 112.73 70.57 0 ]
-	Size	25.00
+	Size	25
 	Type	"AA"	# Crater, craters
 }
 
@@ -634,7 +634,7 @@ Location "Berry" "Sol/Mercury"
 Location "Bibilava Faculae" "Sol/Mercury"
 {
 	LongLat	[ 157.2 16.4 0 ]
-	Size	100.00
+	Size	100
 	Type	"FA"	# Facula, faculae
 }
 
@@ -643,7 +643,7 @@ Location "Bibilava Faculae" "Sol/Mercury"
 Location "Bitin Facula" "Sol/Mercury"
 {
 	LongLat	[ -28.45 -51.55 0 ]
-	Size	39.00
+	Size	39
 	Type	"FA"	# Facula, faculae
 }
 
@@ -679,7 +679,7 @@ Location "Boccaccio" "Sol/Mercury"
 Location "Boethius" "Sol/Mercury"
 {
 	LongLat	[ -73.64 -0.98 0 ]
-	Size	114.00
+	Size	114
 	Type	"AA"	# Crater, craters
 }
 
@@ -687,7 +687,7 @@ Location "Boethius" "Sol/Mercury"
 # Origin: Albedo name for H-1, Borealis region.
 Location "BOREA" "Sol/Mercury"
 {
-	LongLat	[ -0.0 75.0 0 ]
+	LongLat	[ 0 75 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -698,7 +698,7 @@ Location "BOREA" "Sol/Mercury"
 Location "Borealis Planitia" "Sol/Mercury"
 {
 	LongLat	[ 32.6 67.3 0 ]
-	Size	3450.00
+	Size	3450
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -707,7 +707,7 @@ Location "Borealis Planitia" "Sol/Mercury"
 Location "Borobudur Fossae" "Sol/Mercury"
 {
 	LongLat	[ 88.5 -32.77 0 ]
-	Size	395.00
+	Size	395
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -725,7 +725,7 @@ Location "Botticelli" "Sol/Mercury"
 Location "Boznańska" "Sol/Mercury"
 {
 	LongLat	[ -40.75 59.64 0 ]
-	Size	72.00
+	Size	72
 	Type	"AA"	# Crater, craters
 }
 
@@ -734,7 +734,7 @@ Location "Boznańska" "Sol/Mercury"
 Location "Brahms" "Sol/Mercury"
 {
 	LongLat	[ -177.36 58.32 0 ]
-	Size	100.00
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -743,7 +743,7 @@ Location "Brahms" "Sol/Mercury"
 Location "Bramante" "Sol/Mercury"
 {
 	LongLat	[ -61.55 -47.23 0 ]
-	Size	156.00
+	Size	156
 	Type	"AA"	# Crater, craters
 }
 
@@ -752,7 +752,7 @@ Location "Bramante" "Sol/Mercury"
 Location "Brontë" "Sol/Mercury"
 {
 	LongLat	[ -127.06 38.39 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -761,7 +761,7 @@ Location "Brontë" "Sol/Mercury"
 Location "Brooks" "Sol/Mercury"
 {
 	LongLat	[ -168.02 -45.22 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -770,7 +770,7 @@ Location "Brooks" "Sol/Mercury"
 Location "Bruegel" "Sol/Mercury"
 {
 	LongLat	[ -109.46 49.73 0 ]
-	Size	72.00
+	Size	72
 	Type	"AA"	# Crater, craters
 }
 
@@ -788,7 +788,7 @@ Location "Brunelleschi" "Sol/Mercury"
 Location "Budh Planitia" "Sol/Mercury"
 {
 	LongLat	[ -150.46 19.52 0 ]
-	Size	816.00
+	Size	816
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -797,7 +797,7 @@ Location "Budh Planitia" "Sol/Mercury"
 Location "Bunin" "Sol/Mercury"
 {
 	LongLat	[ -141.76 84.47 0 ]
-	Size	37.00
+	Size	37
 	Type	"AA"	# Crater, craters
 }
 
@@ -806,7 +806,7 @@ Location "Bunin" "Sol/Mercury"
 Location "Burke" "Sol/Mercury"
 {
 	LongLat	[ -171.56 85.91 0 ]
-	Size	28.50
+	Size	28.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -815,7 +815,7 @@ Location "Burke" "Sol/Mercury"
 Location "Burns" "Sol/Mercury"
 {
 	LongLat	[ -117.37 54.1 0 ]
-	Size	43.00
+	Size	43
 	Type	"AA"	# Crater, craters
 }
 
@@ -823,7 +823,7 @@ Location "Burns" "Sol/Mercury"
 # Origin: G. G.; English poet (1788-1824).
 Location "Byron" "Sol/Mercury"
 {
-	LongLat	[ -33.0 -8.44 0 ]
+	LongLat	[ -33 -8.44 0 ]
 	Size	106.58
 	Type	"AA"	# Crater, craters
 }
@@ -832,7 +832,7 @@ Location "Byron" "Sol/Mercury"
 # Origin: Albedo name for H-3, Shakespeare region.
 Location "CADUCEATA" "Sol/Mercury"
 {
-	LongLat	[ -135.0 45.0 0 ]
+	LongLat	[ -135 45 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -842,7 +842,7 @@ Location "CADUCEATA" "Sol/Mercury"
 Location "Cahokia Vallis" "Sol/Mercury"
 {
 	LongLat	[ 126.94 65.55 0 ]
-	Size	77.00
+	Size	77
 	Type	"VA"	# Vallis, valles
 }
 
@@ -851,7 +851,7 @@ Location "Cahokia Vallis" "Sol/Mercury"
 Location "Calder" "Sol/Mercury"
 {
 	LongLat	[ 12.75 3.51 0 ]
-	Size	24.00
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -860,7 +860,7 @@ Location "Calder" "Sol/Mercury"
 Location "Callicrates" "Sol/Mercury"
 {
 	LongLat	[ -30.37 -66.51 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -869,7 +869,7 @@ Location "Callicrates" "Sol/Mercury"
 Location "Caloris Montes" "Sol/Mercury"
 {
 	LongLat	[ -174.15 31.46 0 ]
-	Size	1023.00
+	Size	1023
 	Type	"MO"	# Mons, montes
 }
 
@@ -878,7 +878,7 @@ Location "Caloris Montes" "Sol/Mercury"
 Location "Caloris Planitia" "Sol/Mercury"
 {
 	LongLat	[ 161.98 31.65 0 ]
-	Size	1500.00
+	Size	1500
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -887,7 +887,7 @@ Location "Caloris Planitia" "Sol/Mercury"
 Location "Calvino" "Sol/Mercury"
 {
 	LongLat	[ -56.03 -3.99 0 ]
-	Size	67.00
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -896,7 +896,7 @@ Location "Calvino" "Sol/Mercury"
 Location "Calypso Rupes" "Sol/Mercury"
 {
 	LongLat	[ 43.52 19.53 0 ]
-	Size	381.00
+	Size	381
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -905,7 +905,7 @@ Location "Calypso Rupes" "Sol/Mercury"
 Location "Camões" "Sol/Mercury"
 {
 	LongLat	[ -68.39 -71.42 0 ]
-	Size	70.00
+	Size	70
 	Type	"AA"	# Crater, craters
 }
 
@@ -914,7 +914,7 @@ Location "Camões" "Sol/Mercury"
 Location "Canova" "Sol/Mercury"
 {
 	LongLat	[ -3.71 25.6 0 ]
-	Size	46.00
+	Size	46
 	Type	"AA"	# Crater, craters
 }
 
@@ -923,7 +923,7 @@ Location "Canova" "Sol/Mercury"
 Location "Capote" "Sol/Mercury"
 {
 	LongLat	[ 72.41 -21.1 0 ]
-	Size	88.00
+	Size	88
 	Type	"AA"	# Crater, craters
 }
 
@@ -932,7 +932,7 @@ Location "Capote" "Sol/Mercury"
 Location "Caral Vallis" "Sol/Mercury"
 {
 	LongLat	[ 129.29 62.66 0 ]
-	Size	64.00
+	Size	64
 	Type	"VA"	# Vallis, valles
 }
 
@@ -941,7 +941,7 @@ Location "Caral Vallis" "Sol/Mercury"
 Location "Caravaggio" "Sol/Mercury"
 {
 	LongLat	[ 87.24 3.18 0 ]
-	Size	185.00
+	Size	185
 	Type	"AA"	# Crater, craters
 }
 
@@ -959,7 +959,7 @@ Location "Carducci" "Sol/Mercury"
 Location "Carleton" "Sol/Mercury"
 {
 	LongLat	[ 56.6 -52.2 0 ]
-	Size	177.00
+	Size	177
 	Type	"AA"	# Crater, craters
 }
 
@@ -968,7 +968,7 @@ Location "Carleton" "Sol/Mercury"
 Location "Carnegie Rupes" "Sol/Mercury"
 {
 	LongLat	[ -53.25 58.52 0 ]
-	Size	267.00
+	Size	267
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -986,7 +986,7 @@ Location "Carolan" "Sol/Mercury"
 Location "Carrasco Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 141.03 -9.66 0 ]
-	Size	249.00
+	Size	249
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -995,7 +995,7 @@ Location "Carrasco Rupēs" "Sol/Mercury"
 Location "Caruso" "Sol/Mercury"
 {
 	LongLat	[ -76.36 -2.33 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -1004,7 +1004,7 @@ Location "Caruso" "Sol/Mercury"
 Location "Castiglione" "Sol/Mercury"
 {
 	LongLat	[ 87.96 -40.87 0 ]
-	Size	80.00
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -1013,7 +1013,7 @@ Location "Castiglione" "Sol/Mercury"
 Location "Catuilla Planum" "Sol/Mercury"
 {
 	LongLat	[ 114.22 -8.78 0 ]
-	Size	735.00
+	Size	735
 	Type	"PM"	# Planum, plana
 }
 
@@ -1022,7 +1022,7 @@ Location "Catuilla Planum" "Sol/Mercury"
 Location "Catullus" "Sol/Mercury"
 {
 	LongLat	[ -67.55 21.9 0 ]
-	Size	100.20
+	Size	100.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -1040,7 +1040,7 @@ Location "Cervantes" "Sol/Mercury"
 Location "Cézanne" "Sol/Mercury"
 {
 	LongLat	[ -123.69 -8.47 0 ]
-	Size	67.00
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -1049,7 +1049,7 @@ Location "Cézanne" "Sol/Mercury"
 Location "Chaikovskij" "Sol/Mercury"
 {
 	LongLat	[ -50.93 7.86 0 ]
-	Size	171.00
+	Size	171
 	Type	"AA"	# Crater, craters
 }
 
@@ -1058,7 +1058,7 @@ Location "Chaikovskij" "Sol/Mercury"
 Location "Challenger Rupes" "Sol/Mercury"
 {
 	LongLat	[ -109.92 -12.58 0 ]
-	Size	197.00
+	Size	197
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1076,7 +1076,7 @@ Location "Chao Meng-Fu" "Sol/Mercury"
 Location "Chekhov" "Sol/Mercury"
 {
 	LongLat	[ -61.23 -36.2 0 ]
-	Size	194.00
+	Size	194
 	Type	"AA"	# Crater, craters
 }
 
@@ -1094,7 +1094,7 @@ Location "Chesterton" "Sol/Mercury"
 Location "Chiang K'ui" "Sol/Mercury"
 {
 	LongLat	[ -102.8 14.71 0 ]
-	Size	41.00
+	Size	41
 	Type	"AA"	# Crater, craters
 }
 
@@ -1103,7 +1103,7 @@ Location "Chiang K'ui" "Sol/Mercury"
 Location "Chikyu Rupes" "Sol/Mercury"
 {
 	LongLat	[ 100.38 -53.82 0 ]
-	Size	561.00
+	Size	561
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1112,7 +1112,7 @@ Location "Chikyu Rupes" "Sol/Mercury"
 Location "Chŏng Ch'ŏl" "Sol/Mercury"
 {
 	LongLat	[ -117.31 46.87 0 ]
-	Size	143.00
+	Size	143
 	Type	"AA"	# Crater, craters
 }
 
@@ -1121,7 +1121,7 @@ Location "Chŏng Ch'ŏl" "Sol/Mercury"
 Location "Chopin" "Sol/Mercury"
 {
 	LongLat	[ -123.4 -65.45 0 ]
-	Size	131.00
+	Size	131
 	Type	"AA"	# Crater, craters
 }
 
@@ -1130,7 +1130,7 @@ Location "Chopin" "Sol/Mercury"
 Location "Chu Ta" "Sol/Mercury"
 {
 	LongLat	[ -105.66 2.04 0 ]
-	Size	100.00
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -1148,7 +1148,7 @@ Location "Coatl Facula" "Sol/Mercury"
 Location "Coleridge" "Sol/Mercury"
 {
 	LongLat	[ -66.6 -55.67 0 ]
-	Size	112.00
+	Size	112
 	Type	"AA"	# Crater, craters
 }
 
@@ -1157,7 +1157,7 @@ Location "Coleridge" "Sol/Mercury"
 Location "Copland" "Sol/Mercury"
 {
 	LongLat	[ 72.99 37.63 0 ]
-	Size	208.00
+	Size	208
 	Type	"AA"	# Crater, craters
 }
 
@@ -1166,7 +1166,7 @@ Location "Copland" "Sol/Mercury"
 Location "Copley" "Sol/Mercury"
 {
 	LongLat	[ -86.01 -38.63 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -1175,7 +1175,7 @@ Location "Copley" "Sol/Mercury"
 Location "Couperin" "Sol/Mercury"
 {
 	LongLat	[ -151.94 29.74 0 ]
-	Size	80.00
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -1184,7 +1184,7 @@ Location "Couperin" "Sol/Mercury"
 Location "Cunningham" "Sol/Mercury"
 {
 	LongLat	[ 157.07 30.41 0 ]
-	Size	37.00
+	Size	37
 	Type	"AA"	# Crater, craters
 }
 
@@ -1192,7 +1192,7 @@ Location "Cunningham" "Sol/Mercury"
 # Origin: Albedo name for H-14, Debussy region.
 Location "CYLLENE" "Sol/Mercury"
 {
-	LongLat	[ 90.0 -41.0 0 ]
+	LongLat	[ 90 -41 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -1202,7 +1202,7 @@ Location "CYLLENE" "Sol/Mercury"
 Location "Dali" "Sol/Mercury"
 {
 	LongLat	[ 119.74 45.16 0 ]
-	Size	176.00
+	Size	176
 	Type	"AA"	# Crater, craters
 }
 
@@ -1211,7 +1211,7 @@ Location "Dali" "Sol/Mercury"
 Location "Damer" "Sol/Mercury"
 {
 	LongLat	[ -115.81 36.36 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -1220,7 +1220,7 @@ Location "Damer" "Sol/Mercury"
 Location "Darío" "Sol/Mercury"
 {
 	LongLat	[ -9.51 -26.28 0 ]
-	Size	151.00
+	Size	151
 	Type	"AA"	# Crater, craters
 }
 
@@ -1229,7 +1229,7 @@ Location "Darío" "Sol/Mercury"
 Location "Darshak Rupēs" "Sol/Mercury"
 {
 	LongLat	[ -47.42 -14.5 0 ]
-	Size	560.00
+	Size	560
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1238,7 +1238,7 @@ Location "Darshak Rupēs" "Sol/Mercury"
 Location "David" "Sol/Mercury"
 {
 	LongLat	[ 67.87 -17.66 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -1247,7 +1247,7 @@ Location "David" "Sol/Mercury"
 Location "Debussy" "Sol/Mercury"
 {
 	LongLat	[ 12.54 -33.95 0 ]
-	Size	81.00
+	Size	81
 	Type	"AA"	# Crater, craters
 }
 
@@ -1256,7 +1256,7 @@ Location "Debussy" "Sol/Mercury"
 Location "Degas" "Sol/Mercury"
 {
 	LongLat	[ -127.34 37.08 0 ]
-	Size	54.00
+	Size	54
 	Type	"AA"	# Crater, craters
 }
 
@@ -1265,7 +1265,7 @@ Location "Degas" "Sol/Mercury"
 Location "de Graft" "Sol/Mercury"
 {
 	LongLat	[ 1.89 22.05 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -1274,7 +1274,7 @@ Location "de Graft" "Sol/Mercury"
 Location "Delacroix" "Sol/Mercury"
 {
 	LongLat	[ -129.51 -44.32 0 ]
-	Size	158.00
+	Size	158
 	Type	"AA"	# Crater, craters
 }
 
@@ -1282,8 +1282,8 @@ Location "Delacroix" "Sol/Mercury"
 # Origin: Andre; French painter (1880-1954).
 Location "Derain" "Sol/Mercury"
 {
-	LongLat	[ 19.7 -9.0 0 ]
-	Size	167.00
+	LongLat	[ 19.7 -9 0 ]
+	Size	167
 	Type	"AA"	# Crater, craters
 }
 
@@ -1292,7 +1292,7 @@ Location "Derain" "Sol/Mercury"
 Location "Derzhavin" "Sol/Mercury"
 {
 	LongLat	[ -36.93 45.6 0 ]
-	Size	156.00
+	Size	156
 	Type	"AA"	# Crater, craters
 }
 
@@ -1319,7 +1319,7 @@ Location "Dickens" "Sol/Mercury"
 Location "Discovery Rupes" "Sol/Mercury"
 {
 	LongLat	[ -37.24 -54.7 0 ]
-	Size	412.00
+	Size	412
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1328,7 +1328,7 @@ Location "Discovery Rupes" "Sol/Mercury"
 Location "Disney" "Sol/Mercury"
 {
 	LongLat	[ 99.8 -68.15 0 ]
-	Size	113.00
+	Size	113
 	Type	"AA"	# Crater, craters
 }
 
@@ -1337,7 +1337,7 @@ Location "Disney" "Sol/Mercury"
 Location "Dominici" "Sol/Mercury"
 {
 	LongLat	[ -36.49 1.29 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -1346,7 +1346,7 @@ Location "Dominici" "Sol/Mercury"
 Location "Donelaitis" "Sol/Mercury"
 {
 	LongLat	[ 38.42 -52.96 0 ]
-	Size	85.00
+	Size	85
 	Type	"AA"	# Crater, craters
 }
 
@@ -1355,7 +1355,7 @@ Location "Donelaitis" "Sol/Mercury"
 Location "Donne" "Sol/Mercury"
 {
 	LongLat	[ -14.05 2.92 0 ]
-	Size	86.00
+	Size	86
 	Type	"AA"	# Crater, craters
 }
 
@@ -1373,7 +1373,7 @@ Location "Dostoevskij" "Sol/Mercury"
 Location "Dowland" "Sol/Mercury"
 {
 	LongLat	[ 179.3 -53.56 0 ]
-	Size	158.00
+	Size	158
 	Type	"AA"	# Crater, craters
 }
 
@@ -1382,7 +1382,7 @@ Location "Dowland" "Sol/Mercury"
 Location "Driscoll" "Sol/Mercury"
 {
 	LongLat	[ -33.58 30.58 0 ]
-	Size	30.00
+	Size	30
 	Type	"AA"	# Crater, craters
 }
 
@@ -1391,7 +1391,7 @@ Location "Driscoll" "Sol/Mercury"
 Location "Duccio" "Sol/Mercury"
 {
 	LongLat	[ -52.42 58.23 0 ]
-	Size	132.00
+	Size	132
 	Type	"AA"	# Crater, craters
 }
 
@@ -1399,8 +1399,8 @@ Location "Duccio" "Sol/Mercury"
 # Origin: Tu Fu; Chinese poet (712-770).
 Location "Du Fu" "Sol/Mercury"
 {
-	LongLat	[ -93.66 25.0 0 ]
-	Size	33.00
+	LongLat	[ -93.66 25 0 ]
+	Size	33
 	Type	"AA"	# Crater, craters
 }
 
@@ -1409,7 +1409,7 @@ Location "Du Fu" "Sol/Mercury"
 Location "Dürer" "Sol/Mercury"
 {
 	LongLat	[ -118.98 21.51 0 ]
-	Size	195.00
+	Size	195
 	Type	"AA"	# Crater, craters
 }
 
@@ -1418,7 +1418,7 @@ Location "Dürer" "Sol/Mercury"
 Location "Duyfken Rupes" "Sol/Mercury"
 {
 	LongLat	[ -131.93 -20.88 0 ]
-	Size	518.00
+	Size	518
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1427,7 +1427,7 @@ Location "Duyfken Rupes" "Sol/Mercury"
 Location "Dvorák" "Sol/Mercury"
 {
 	LongLat	[ -12.13 -9.4 0 ]
-	Size	75.00
+	Size	75
 	Type	"AA"	# Crater, craters
 }
 
@@ -1436,7 +1436,7 @@ Location "Dvorák" "Sol/Mercury"
 Location "Eastman" "Sol/Mercury"
 {
 	LongLat	[ 125.76 9.52 0 ]
-	Size	67.00
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -1445,7 +1445,7 @@ Location "Eastman" "Sol/Mercury"
 Location "Echegaray" "Sol/Mercury"
 {
 	LongLat	[ -20.22 43.48 0 ]
-	Size	63.00
+	Size	63
 	Type	"AA"	# Crater, craters
 }
 
@@ -1454,7 +1454,7 @@ Location "Echegaray" "Sol/Mercury"
 Location "Egonu" "Sol/Mercury"
 {
 	LongLat	[ 61.48 67.15 0 ]
-	Size	25.00
+	Size	25
 	Type	"AA"	# Crater, craters
 }
 
@@ -1463,7 +1463,7 @@ Location "Egonu" "Sol/Mercury"
 Location "Eitoku" "Sol/Mercury"
 {
 	LongLat	[ -157.18 -21.8 0 ]
-	Size	101.00
+	Size	101
 	Type	"AA"	# Crater, craters
 }
 
@@ -1472,7 +1472,7 @@ Location "Eitoku" "Sol/Mercury"
 Location "Ejo Faculae" "Sol/Mercury"
 {
 	LongLat	[ 159.5 14.5 0 ]
-	Size	115.00
+	Size	115
 	Type	"FA"	# Facula, faculae
 }
 
@@ -1481,7 +1481,7 @@ Location "Ejo Faculae" "Sol/Mercury"
 Location "Ellington" "Sol/Mercury"
 {
 	LongLat	[ 26.1 -12.88 0 ]
-	Size	216.00
+	Size	216
 	Type	"AA"	# Crater, craters
 }
 
@@ -1490,7 +1490,7 @@ Location "Ellington" "Sol/Mercury"
 Location "Eltanin Rupes" "Sol/Mercury"
 {
 	LongLat	[ 90.6 -74.99 0 ]
-	Size	370.00
+	Size	370
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1499,7 +1499,7 @@ Location "Eltanin Rupes" "Sol/Mercury"
 Location "Eminescu" "Sol/Mercury"
 {
 	LongLat	[ 114.21 10.66 0 ]
-	Size	129.00
+	Size	129
 	Type	"AA"	# Crater, craters
 }
 
@@ -1508,7 +1508,7 @@ Location "Eminescu" "Sol/Mercury"
 Location "Endeavour Rupes" "Sol/Mercury"
 {
 	LongLat	[ -31.38 38.36 0 ]
-	Size	61.00
+	Size	61
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1517,7 +1517,7 @@ Location "Endeavour Rupes" "Sol/Mercury"
 Location "Endurance Rupes" "Sol/Mercury"
 {
 	LongLat	[ 142.19 21.6 0 ]
-	Size	237.00
+	Size	237
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1526,7 +1526,7 @@ Location "Endurance Rupes" "Sol/Mercury"
 Location "Enheduanna" "Sol/Mercury"
 {
 	LongLat	[ -33.59 48.34 0 ]
-	Size	105.00
+	Size	105
 	Type	"AA"	# Crater, craters
 }
 
@@ -1553,7 +1553,7 @@ Location "Enterprise Rupes" "Sol/Mercury"
 Location "Enwonwu" "Sol/Mercury"
 {
 	LongLat	[ 121.96 -10.01 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -1561,8 +1561,8 @@ Location "Enwonwu" "Sol/Mercury"
 # Origin: O.; Olavdah, West Africa (Benin) slave, writer (c. 1750-1797).
 Location "Equiano" "Sol/Mercury"
 {
-	LongLat	[ -30.59 -40.0 0 ]
-	Size	102.00
+	LongLat	[ -30.59 -40 0 ]
+	Size	102
 	Type	"AA"	# Crater, craters
 }
 
@@ -1571,7 +1571,7 @@ Location "Equiano" "Sol/Mercury"
 Location "Erté" "Sol/Mercury"
 {
 	LongLat	[ -117.33 27.44 0 ]
-	Size	48.50
+	Size	48.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1580,7 +1580,7 @@ Location "Erté" "Sol/Mercury"
 Location "Faulkner" "Sol/Mercury"
 {
 	LongLat	[ 76.97 8.08 0 ]
-	Size	168.00
+	Size	168
 	Type	"AA"	# Crater, craters
 }
 
@@ -1589,7 +1589,7 @@ Location "Faulkner" "Sol/Mercury"
 Location "Fet" "Sol/Mercury"
 {
 	LongLat	[ 179.78 -4.72 0 ]
-	Size	79.00
+	Size	79
 	Type	"AA"	# Crater, craters
 }
 
@@ -1598,7 +1598,7 @@ Location "Fet" "Sol/Mercury"
 Location "Firdousi" "Sol/Mercury"
 {
 	LongLat	[ 65.32 3.47 0 ]
-	Size	98.00
+	Size	98
 	Type	"AA"	# Crater, craters
 }
 
@@ -1607,7 +1607,7 @@ Location "Firdousi" "Sol/Mercury"
 Location "Flaiano" "Sol/Mercury"
 {
 	LongLat	[ -76.73 -21.29 0 ]
-	Size	43.00
+	Size	43
 	Type	"AA"	# Crater, craters
 }
 
@@ -1616,7 +1616,7 @@ Location "Flaiano" "Sol/Mercury"
 Location "Flaubert" "Sol/Mercury"
 {
 	LongLat	[ -72.7 -13.83 0 ]
-	Size	95.00
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -1625,7 +1625,7 @@ Location "Flaubert" "Sol/Mercury"
 Location "Fonteyn" "Sol/Mercury"
 {
 	LongLat	[ 95.51 32.82 0 ]
-	Size	29.00
+	Size	29
 	Type	"AA"	# Crater, craters
 }
 
@@ -1634,7 +1634,7 @@ Location "Fonteyn" "Sol/Mercury"
 Location "Fram Rupes" "Sol/Mercury"
 {
 	LongLat	[ -93.2 -57.68 0 ]
-	Size	156.00
+	Size	156
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1652,7 +1652,7 @@ Location "Fuller" "Sol/Mercury"
 Location "Futabatei" "Sol/Mercury"
 {
 	LongLat	[ -83.52 -16.05 0 ]
-	Size	57.00
+	Size	57
 	Type	"AA"	# Crater, craters
 }
 
@@ -1661,7 +1661,7 @@ Location "Futabatei" "Sol/Mercury"
 Location "Gainsborough" "Sol/Mercury"
 {
 	LongLat	[ 175.48 -35.73 0 ]
-	Size	95.00
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -1670,7 +1670,7 @@ Location "Gainsborough" "Sol/Mercury"
 # Additional info: Name corrected from Pleias Gallia.
 Location "GALLIA" "Sol/Mercury"
 {
-	LongLat	[ -120.0 40.0 0 ]
+	LongLat	[ -120 40 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -1680,7 +1680,7 @@ Location "GALLIA" "Sol/Mercury"
 Location "Gata Facula" "Sol/Mercury"
 {
 	LongLat	[ 38.6 -52.9 0 ]
-	Size	55.00
+	Size	55
 	Type	"FA"	# Facula, faculae
 }
 
@@ -1689,7 +1689,7 @@ Location "Gata Facula" "Sol/Mercury"
 Location "Gaudí" "Sol/Mercury"
 {
 	LongLat	[ 69.16 76.9 0 ]
-	Size	81.00
+	Size	81
 	Type	"AA"	# Crater, craters
 }
 
@@ -1698,7 +1698,7 @@ Location "Gaudí" "Sol/Mercury"
 Location "Gauguin" "Sol/Mercury"
 {
 	LongLat	[ -100.01 66.36 0 ]
-	Size	70.00
+	Size	70
 	Type	"AA"	# Crater, craters
 }
 
@@ -1707,7 +1707,7 @@ Location "Gauguin" "Sol/Mercury"
 Location "Geddes" "Sol/Mercury"
 {
 	LongLat	[ -29.72 27.17 0 ]
-	Size	84.00
+	Size	84
 	Type	"AA"	# Crater, craters
 }
 
@@ -1716,7 +1716,7 @@ Location "Geddes" "Sol/Mercury"
 Location "Ghiberti" "Sol/Mercury"
 {
 	LongLat	[ -80.15 -48.55 0 ]
-	Size	110.00
+	Size	110
 	Type	"AA"	# Crater, craters
 }
 
@@ -1725,7 +1725,7 @@ Location "Ghiberti" "Sol/Mercury"
 Location "Giambologna" "Sol/Mercury"
 {
 	LongLat	[ -124.11 -42.58 0 ]
-	Size	69.00
+	Size	69
 	Type	"AA"	# Crater, craters
 }
 
@@ -1734,7 +1734,7 @@ Location "Giambologna" "Sol/Mercury"
 Location "Gibran" "Sol/Mercury"
 {
 	LongLat	[ -111.44 35.73 0 ]
-	Size	106.00
+	Size	106
 	Type	"AA"	# Crater, craters
 }
 
@@ -1743,7 +1743,7 @@ Location "Gibran" "Sol/Mercury"
 Location "Giotto" "Sol/Mercury"
 {
 	LongLat	[ -56.48 12.46 0 ]
-	Size	144.00
+	Size	144
 	Type	"AA"	# Crater, craters
 }
 
@@ -1752,7 +1752,7 @@ Location "Giotto" "Sol/Mercury"
 Location "Gjöa Rupes" "Sol/Mercury"
 {
 	LongLat	[ -158.5 -66.89 0 ]
-	Size	237.90
+	Size	237.9
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1761,7 +1761,7 @@ Location "Gjöa Rupes" "Sol/Mercury"
 Location "Glinka" "Sol/Mercury"
 {
 	LongLat	[ -112.55 14.83 0 ]
-	Size	89.00
+	Size	89
 	Type	"AA"	# Crater, craters
 }
 
@@ -1770,7 +1770,7 @@ Location "Glinka" "Sol/Mercury"
 Location "Gluck" "Sol/Mercury"
 {
 	LongLat	[ -18.78 37.95 0 ]
-	Size	100.00
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -1788,7 +1788,7 @@ Location "Goethe" "Sol/Mercury"
 Location "Gogol" "Sol/Mercury"
 {
 	LongLat	[ -147.46 -28.26 0 ]
-	Size	79.00
+	Size	79
 	Type	"AA"	# Crater, craters
 }
 
@@ -1798,7 +1798,7 @@ Location "Gogol" "Sol/Mercury"
 Location "Goldstone Catena" "Sol/Mercury"
 {
 	LongLat	[ -32.02 -15.62 0 ]
-	Size	102.00
+	Size	102
 	Type	"CA"	# Catena, catenae
 }
 
@@ -1807,7 +1807,7 @@ Location "Goldstone Catena" "Sol/Mercury"
 Location "Gordimer" "Sol/Mercury"
 {
 	LongLat	[ -170.9 87.73 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -1816,7 +1816,7 @@ Location "Gordimer" "Sol/Mercury"
 Location "Goya" "Sol/Mercury"
 {
 	LongLat	[ -152.29 -6.79 0 ]
-	Size	138.00
+	Size	138
 	Type	"AA"	# Crater, craters
 }
 
@@ -1825,7 +1825,7 @@ Location "Goya" "Sol/Mercury"
 Location "Grainger" "Sol/Mercury"
 {
 	LongLat	[ 104.81 -44.09 0 ]
-	Size	113.00
+	Size	113
 	Type	"AA"	# Crater, craters
 }
 
@@ -1834,7 +1834,7 @@ Location "Grainger" "Sol/Mercury"
 Location "Grieg" "Sol/Mercury"
 {
 	LongLat	[ -15.36 52.49 0 ]
-	Size	59.00
+	Size	59
 	Type	"AA"	# Crater, craters
 }
 
@@ -1843,7 +1843,7 @@ Location "Grieg" "Sol/Mercury"
 Location "Grifo Rupes" "Sol/Mercury"
 {
 	LongLat	[ 5.38 7.9 0 ]
-	Size	783.00
+	Size	783
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1861,7 +1861,7 @@ Location "Grotell" "Sol/Mercury"
 Location "Guido d'Arezzo" "Sol/Mercury"
 {
 	LongLat	[ -18.53 -38.41 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -1870,7 +1870,7 @@ Location "Guido d'Arezzo" "Sol/Mercury"
 Location "Hafiz" "Sol/Mercury"
 {
 	LongLat	[ 79.56 19.5 0 ]
-	Size	280.00
+	Size	280
 	Type	"AA"	# Crater, craters
 }
 
@@ -1879,7 +1879,7 @@ Location "Hafiz" "Sol/Mercury"
 Location "Hals" "Sol/Mercury"
 {
 	LongLat	[ -114.99 -54.96 0 ]
-	Size	93.00
+	Size	93
 	Type	"AA"	# Crater, craters
 }
 
@@ -1888,7 +1888,7 @@ Location "Hals" "Sol/Mercury"
 Location "Handel" "Sol/Mercury"
 {
 	LongLat	[ -34.38 3.53 0 ]
-	Size	138.00
+	Size	138
 	Type	"AA"	# Crater, craters
 }
 
@@ -1897,7 +1897,7 @@ Location "Handel" "Sol/Mercury"
 Location "Han Kan" "Sol/Mercury"
 {
 	LongLat	[ -146.4 -72.13 0 ]
-	Size	50.00
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -1906,7 +1906,7 @@ Location "Han Kan" "Sol/Mercury"
 Location "Harunobu" "Sol/Mercury"
 {
 	LongLat	[ -140.93 14.88 0 ]
-	Size	107.00
+	Size	107
 	Type	"AA"	# Crater, craters
 }
 
@@ -1915,7 +1915,7 @@ Location "Harunobu" "Sol/Mercury"
 Location "Hauptmann" "Sol/Mercury"
 {
 	LongLat	[ 179.59 -23.7 0 ]
-	Size	118.00
+	Size	118
 	Type	"AA"	# Crater, craters
 }
 
@@ -1924,7 +1924,7 @@ Location "Hauptmann" "Sol/Mercury"
 Location "Havu Facula" "Sol/Mercury"
 {
 	LongLat	[ -28.45 -52.22 0 ]
-	Size	23.00
+	Size	23
 	Type	"FA"	# Facula, faculae
 }
 
@@ -1933,7 +1933,7 @@ Location "Havu Facula" "Sol/Mercury"
 Location "Hawthorne" "Sol/Mercury"
 {
 	LongLat	[ -115.34 -51.31 0 ]
-	Size	120.00
+	Size	120
 	Type	"AA"	# Crater, craters
 }
 
@@ -1942,7 +1942,7 @@ Location "Hawthorne" "Sol/Mercury"
 Location "Haydn" "Sol/Mercury"
 {
 	LongLat	[ -71.64 -27.22 0 ]
-	Size	251.00
+	Size	251
 	Type	"AA"	# Crater, craters
 }
 
@@ -1952,7 +1952,7 @@ Location "Haydn" "Sol/Mercury"
 Location "Haystack Catena" "Sol/Mercury"
 {
 	LongLat	[ -46.48 4.42 0 ]
-	Size	274.00
+	Size	274
 	Type	"CA"	# Catena, catenae
 }
 
@@ -1961,7 +1961,7 @@ Location "Haystack Catena" "Sol/Mercury"
 Location "Heaney" "Sol/Mercury"
 {
 	LongLat	[ 122.29 -33.77 0 ]
-	Size	125.00
+	Size	125
 	Type	"AA"	# Crater, craters
 }
 
@@ -1970,7 +1970,7 @@ Location "Heaney" "Sol/Mercury"
 Location "Heemskerck Rupes" "Sol/Mercury"
 {
 	LongLat	[ -124.31 27.3 0 ]
-	Size	320.00
+	Size	320
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1979,7 +1979,7 @@ Location "Heemskerck Rupes" "Sol/Mercury"
 Location "Heine" "Sol/Mercury"
 {
 	LongLat	[ -124.88 32.46 0 ]
-	Size	73.00
+	Size	73
 	Type	"AA"	# Crater, craters
 }
 
@@ -1987,7 +1987,7 @@ Location "Heine" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "HELIOCAMINUS" "Sol/Mercury"
 {
-	LongLat	[ -170.0 40.0 0 ]
+	LongLat	[ -170 40 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -1997,7 +1997,7 @@ Location "HELIOCAMINUS" "Sol/Mercury"
 Location "Hemingway" "Sol/Mercury"
 {
 	LongLat	[ -3.13 17.38 0 ]
-	Size	126.00
+	Size	126
 	Type	"AA"	# Crater, craters
 }
 
@@ -2006,7 +2006,7 @@ Location "Hemingway" "Sol/Mercury"
 Location "Henri" "Sol/Mercury"
 {
 	LongLat	[ 152.98 79.68 0 ]
-	Size	163.80
+	Size	163.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -2015,7 +2015,7 @@ Location "Henri" "Sol/Mercury"
 Location "Hero Rupes" "Sol/Mercury"
 {
 	LongLat	[ -171.7 -58.72 0 ]
-	Size	456.00
+	Size	456
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2024,7 +2024,7 @@ Location "Hero Rupes" "Sol/Mercury"
 Location "Hesiod" "Sol/Mercury"
 {
 	LongLat	[ -34.25 -58.27 0 ]
-	Size	101.00
+	Size	101
 	Type	"AA"	# Crater, craters
 }
 
@@ -2033,7 +2033,7 @@ Location "Hesiod" "Sol/Mercury"
 Location "Hesperides Rupes" "Sol/Mercury"
 {
 	LongLat	[ 170.45 -2.98 0 ]
-	Size	374.00
+	Size	374
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2041,7 +2041,7 @@ Location "Hesperides Rupes" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "HESPERIS" "Sol/Mercury"
 {
-	LongLat	[ 5.0 -45.0 0 ]
+	LongLat	[ 5 -45 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -2051,7 +2051,7 @@ Location "HESPERIS" "Sol/Mercury"
 Location "Hiroshige" "Sol/Mercury"
 {
 	LongLat	[ -26.96 -13.34 0 ]
-	Size	138.00
+	Size	138
 	Type	"AA"	# Crater, craters
 }
 
@@ -2060,7 +2060,7 @@ Location "Hiroshige" "Sol/Mercury"
 Location "Hitomaro" "Sol/Mercury"
 {
 	LongLat	[ -15.65 -16.07 0 ]
-	Size	105.00
+	Size	105
 	Type	"AA"	# Crater, craters
 }
 
@@ -2069,7 +2069,7 @@ Location "Hitomaro" "Sol/Mercury"
 Location "Hodgkins" "Sol/Mercury"
 {
 	LongLat	[ 17.97 29.12 0 ]
-	Size	19.00
+	Size	19
 	Type	"AA"	# Crater, craters
 }
 
@@ -2078,7 +2078,7 @@ Location "Hodgkins" "Sol/Mercury"
 Location "Hokusai" "Sol/Mercury"
 {
 	LongLat	[ 16.65 57.84 0 ]
-	Size	114.00
+	Size	114
 	Type	"AA"	# Crater, craters
 }
 
@@ -2087,7 +2087,7 @@ Location "Hokusai" "Sol/Mercury"
 Location "Holbein" "Sol/Mercury"
 {
 	LongLat	[ -29.84 36.16 0 ]
-	Size	115.00
+	Size	115
 	Type	"AA"	# Crater, craters
 }
 
@@ -2096,7 +2096,7 @@ Location "Holbein" "Sol/Mercury"
 Location "Holberg" "Sol/Mercury"
 {
 	LongLat	[ -59.57 -67.37 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -2105,7 +2105,7 @@ Location "Holberg" "Sol/Mercury"
 Location "Holst" "Sol/Mercury"
 {
 	LongLat	[ 44.96 -17.42 0 ]
-	Size	170.00
+	Size	170
 	Type	"AA"	# Crater, craters
 }
 
@@ -2114,7 +2114,7 @@ Location "Holst" "Sol/Mercury"
 Location "Homer" "Sol/Mercury"
 {
 	LongLat	[ -36.62 -1.3 0 ]
-	Size	319.00
+	Size	319
 	Type	"AA"	# Crater, craters
 }
 
@@ -2123,7 +2123,7 @@ Location "Homer" "Sol/Mercury"
 Location "Hopper" "Sol/Mercury"
 {
 	LongLat	[ -55.96 -12.44 0 ]
-	Size	36.00
+	Size	36
 	Type	"AA"	# Crater, craters
 }
 
@@ -2132,7 +2132,7 @@ Location "Hopper" "Sol/Mercury"
 Location "Horace" "Sol/Mercury"
 {
 	LongLat	[ -50.02 -69.34 0 ]
-	Size	56.00
+	Size	56
 	Type	"AA"	# Crater, craters
 }
 
@@ -2141,7 +2141,7 @@ Location "Horace" "Sol/Mercury"
 Location "Hovnatanian" "Sol/Mercury"
 {
 	LongLat	[ 172.71 -7.68 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -2150,7 +2150,7 @@ Location "Hovnatanian" "Sol/Mercury"
 Location "Hugo" "Sol/Mercury"
 {
 	LongLat	[ -48.49 39.61 0 ]
-	Size	206.00
+	Size	206
 	Type	"AA"	# Crater, craters
 }
 
@@ -2169,7 +2169,7 @@ Location "Hun Kal" "Sol/Mercury"
 Location "Hurley" "Sol/Mercury"
 {
 	LongLat	[ -6.99 -87.36 0 ]
-	Size	67.00
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -2178,7 +2178,7 @@ Location "Hurley" "Sol/Mercury"
 Location "Ibab Facula" "Sol/Mercury"
 {
 	LongLat	[ 160.8 14.5 0 ]
-	Size	13.00
+	Size	13
 	Type	"FA"	# Facula, faculae
 }
 
@@ -2187,7 +2187,7 @@ Location "Ibab Facula" "Sol/Mercury"
 Location "Ibsen" "Sol/Mercury"
 {
 	LongLat	[ -35.89 -24.35 0 ]
-	Size	159.00
+	Size	159
 	Type	"AA"	# Crater, craters
 }
 
@@ -2205,7 +2205,7 @@ Location "Ictinus" "Sol/Mercury"
 Location "Imhotep" "Sol/Mercury"
 {
 	LongLat	[ -37.48 -17.97 0 ]
-	Size	159.00
+	Size	159
 	Type	"AA"	# Crater, craters
 }
 
@@ -2214,7 +2214,7 @@ Location "Imhotep" "Sol/Mercury"
 Location "Investigator Rupes" "Sol/Mercury"
 {
 	LongLat	[ 136.04 -25.39 0 ]
-	Size	390.00
+	Size	390
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2222,8 +2222,8 @@ Location "Investigator Rupes" "Sol/Mercury"
 # Origin: Zulu and Xhosa (South Africa) word for snake.
 Location "Inyoka Faculae" "Sol/Mercury"
 {
-	LongLat	[ 162.3 14.0 0 ]
-	Size	130.00
+	LongLat	[ 162.3 14 0 ]
+	Size	130
 	Type	"FA"	# Facula, faculae
 }
 
@@ -2232,7 +2232,7 @@ Location "Inyoka Faculae" "Sol/Mercury"
 Location "Ives" "Sol/Mercury"
 {
 	LongLat	[ -111.99 -32.87 0 ]
-	Size	18.00
+	Size	18
 	Type	"AA"	# Crater, craters
 }
 
@@ -2241,7 +2241,7 @@ Location "Ives" "Sol/Mercury"
 Location "Izquierdo" "Sol/Mercury"
 {
 	LongLat	[ 107.04 -1.66 0 ]
-	Size	174.00
+	Size	174
 	Type	"AA"	# Crater, craters
 }
 
@@ -2250,7 +2250,7 @@ Location "Izquierdo" "Sol/Mercury"
 Location "Janáček" "Sol/Mercury"
 {
 	LongLat	[ -154.85 55.72 0 ]
-	Size	47.00
+	Size	47
 	Type	"AA"	# Crater, craters
 }
 
@@ -2259,7 +2259,7 @@ Location "Janáček" "Sol/Mercury"
 Location "Jiménez" "Sol/Mercury"
 {
 	LongLat	[ -152.31 81.83 0 ]
-	Size	27.00
+	Size	27
 	Type	"AA"	# Crater, craters
 }
 
@@ -2268,7 +2268,7 @@ Location "Jiménez" "Sol/Mercury"
 Location "Jobim" "Sol/Mercury"
 {
 	LongLat	[ -66.88 32.45 0 ]
-	Size	167.00
+	Size	167
 	Type	"AA"	# Crater, craters
 }
 
@@ -2277,7 +2277,7 @@ Location "Jobim" "Sol/Mercury"
 Location "Jókai" "Sol/Mercury"
 {
 	LongLat	[ -138.45 71.93 0 ]
-	Size	93.00
+	Size	93
 	Type	"AA"	# Crater, craters
 }
 
@@ -2286,7 +2286,7 @@ Location "Jókai" "Sol/Mercury"
 Location "Joplin" "Sol/Mercury"
 {
 	LongLat	[ 25.51 -38.56 0 ]
-	Size	139.00
+	Size	139
 	Type	"AA"	# Crater, craters
 }
 
@@ -2295,7 +2295,7 @@ Location "Joplin" "Sol/Mercury"
 Location "Josetsu" "Sol/Mercury"
 {
 	LongLat	[ -134.93 83.58 0 ]
-	Size	30.00
+	Size	30
 	Type	"AA"	# Crater, craters
 }
 
@@ -2304,7 +2304,7 @@ Location "Josetsu" "Sol/Mercury"
 Location "Judah Ha-Levi" "Sol/Mercury"
 {
 	LongLat	[ -108.01 10.79 0 ]
-	Size	85.00
+	Size	85
 	Type	"AA"	# Crater, craters
 }
 
@@ -2313,7 +2313,7 @@ Location "Judah Ha-Levi" "Sol/Mercury"
 Location "Kainan Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 29.2 -29.8 0 ]
-	Size	325.00
+	Size	325
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2322,7 +2322,7 @@ Location "Kainan Rupēs" "Sol/Mercury"
 Location "Kālidāsā" "Sol/Mercury"
 {
 	LongLat	[ -179.82 -18.21 0 ]
-	Size	160.00
+	Size	160
 	Type	"AA"	# Crater, craters
 }
 
@@ -2331,7 +2331,7 @@ Location "Kālidāsā" "Sol/Mercury"
 Location "Kandinsky" "Sol/Mercury"
 {
 	LongLat	[ 78.78 87.89 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -2340,7 +2340,7 @@ Location "Kandinsky" "Sol/Mercury"
 Location "Karsh" "Sol/Mercury"
 {
 	LongLat	[ 78.85 -35.49 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -2358,7 +2358,7 @@ Location "Keats" "Sol/Mercury"
 Location "Kenkō" "Sol/Mercury"
 {
 	LongLat	[ -16.16 -21.35 0 ]
-	Size	105.00
+	Size	105
 	Type	"AA"	# Crater, craters
 }
 
@@ -2367,7 +2367,7 @@ Location "Kenkō" "Sol/Mercury"
 Location "Kerouac" "Sol/Mercury"
 {
 	LongLat	[ 129.1 25.21 0 ]
-	Size	110.00
+	Size	110
 	Type	"AA"	# Crater, craters
 }
 
@@ -2376,7 +2376,7 @@ Location "Kerouac" "Sol/Mercury"
 Location "Kertész" "Sol/Mercury"
 {
 	LongLat	[ 146.08 27.37 0 ]
-	Size	32.00
+	Size	32
 	Type	"AA"	# Crater, craters
 }
 
@@ -2385,7 +2385,7 @@ Location "Kertész" "Sol/Mercury"
 Location "Khansa" "Sol/Mercury"
 {
 	LongLat	[ -51.94 -58.95 0 ]
-	Size	113.00
+	Size	113
 	Type	"AA"	# Crater, craters
 }
 
@@ -2394,7 +2394,7 @@ Location "Khansa" "Sol/Mercury"
 Location "Kipling" "Sol/Mercury"
 {
 	LongLat	[ 72.02 -19.37 0 ]
-	Size	164.00
+	Size	164
 	Type	"AA"	# Crater, craters
 }
 
@@ -2403,7 +2403,7 @@ Location "Kipling" "Sol/Mercury"
 Location "Kirby" "Sol/Mercury"
 {
 	LongLat	[ -151.32 82.96 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -2412,7 +2412,7 @@ Location "Kirby" "Sol/Mercury"
 Location "Kobro" "Sol/Mercury"
 {
 	LongLat	[ 81.22 -82.16 0 ]
-	Size	54.00
+	Size	54
 	Type	"AA"	# Crater, craters
 }
 
@@ -2421,7 +2421,7 @@ Location "Kobro" "Sol/Mercury"
 Location "Kofi" "Sol/Mercury"
 {
 	LongLat	[ 117.87 56.75 0 ]
-	Size	136.00
+	Size	136
 	Type	"AA"	# Crater, craters
 }
 
@@ -2430,7 +2430,7 @@ Location "Kofi" "Sol/Mercury"
 Location "Komeda" "Sol/Mercury"
 {
 	LongLat	[ 90.47 -82.74 0 ]
-	Size	54.00
+	Size	54
 	Type	"AA"	# Crater, craters
 }
 
@@ -2439,7 +2439,7 @@ Location "Komeda" "Sol/Mercury"
 Location "Kōshō" "Sol/Mercury"
 {
 	LongLat	[ -139.87 59.93 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -2448,7 +2448,7 @@ Location "Kōshō" "Sol/Mercury"
 Location "Kuan Han-Ch'ing" "Sol/Mercury"
 {
 	LongLat	[ -53.67 29.44 0 ]
-	Size	143.00
+	Size	143
 	Type	"AA"	# Crater, craters
 }
 
@@ -2457,7 +2457,7 @@ Location "Kuan Han-Ch'ing" "Sol/Mercury"
 Location "Kuiper" "Sol/Mercury"
 {
 	LongLat	[ -31.32 -11.34 0 ]
-	Size	62.00
+	Size	62
 	Type	"AA"	# Crater, craters
 }
 
@@ -2466,7 +2466,7 @@ Location "Kuiper" "Sol/Mercury"
 Location "Kulthum" "Sol/Mercury"
 {
 	LongLat	[ 93.53 50.72 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -2475,7 +2475,7 @@ Location "Kulthum" "Sol/Mercury"
 Location "Kunisada" "Sol/Mercury"
 {
 	LongLat	[ 112.86 1.36 0 ]
-	Size	241.00
+	Size	241
 	Type	"AA"	# Crater, craters
 }
 
@@ -2484,7 +2484,7 @@ Location "Kunisada" "Sol/Mercury"
 Location "Kuniyoshi" "Sol/Mercury"
 {
 	LongLat	[ -37.49 -57.87 0 ]
-	Size	27.00
+	Size	27
 	Type	"AA"	# Crater, craters
 }
 
@@ -2493,7 +2493,7 @@ Location "Kuniyoshi" "Sol/Mercury"
 Location "Kurosawa" "Sol/Mercury"
 {
 	LongLat	[ -21.49 -52.44 0 ]
-	Size	152.00
+	Size	152
 	Type	"AA"	# Crater, craters
 }
 
@@ -2502,7 +2502,7 @@ Location "Kurosawa" "Sol/Mercury"
 Location "Kyōsai" "Sol/Mercury"
 {
 	LongLat	[ 4.86 25.15 0 ]
-	Size	39.00
+	Size	39
 	Type	"AA"	# Crater, craters
 }
 
@@ -2511,7 +2511,7 @@ Location "Kyōsai" "Sol/Mercury"
 Location "La Dauphine Rupes" "Sol/Mercury"
 {
 	LongLat	[ -26.62 66.3 0 ]
-	Size	252.00
+	Size	252
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2520,7 +2520,7 @@ Location "La Dauphine Rupes" "Sol/Mercury"
 Location "Lance Rupes" "Sol/Mercury"
 {
 	LongLat	[ 177.4 -4.23 0 ]
-	Size	167.00
+	Size	167
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2529,7 +2529,7 @@ Location "Lance Rupes" "Sol/Mercury"
 Location "Lange" "Sol/Mercury"
 {
 	LongLat	[ 100.41 6.4 0 ]
-	Size	176.00
+	Size	176
 	Type	"AA"	# Crater, craters
 }
 
@@ -2538,7 +2538,7 @@ Location "Lange" "Sol/Mercury"
 Location "Larrocha" "Sol/Mercury"
 {
 	LongLat	[ -69.83 43.29 0 ]
-	Size	196.00
+	Size	196
 	Type	"AA"	# Crater, craters
 }
 
@@ -2556,7 +2556,7 @@ Location "Laxness" "Sol/Mercury"
 Location "Legend Rupes" "Sol/Mercury"
 {
 	LongLat	[ 14.47 -17.62 0 ]
-	Size	209.00
+	Size	209
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2565,7 +2565,7 @@ Location "Legend Rupes" "Sol/Mercury"
 Location "L’Engle" "Sol/Mercury"
 {
 	LongLat	[ 69.62 -86.63 0 ]
-	Size	62.00
+	Size	62
 	Type	"AA"	# Crater, craters
 }
 
@@ -2574,7 +2574,7 @@ Location "L’Engle" "Sol/Mercury"
 Location "Lennon" "Sol/Mercury"
 {
 	LongLat	[ 41.18 -36.41 0 ]
-	Size	95.00
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -2592,7 +2592,7 @@ Location "Leopardi" "Sol/Mercury"
 Location "Lermontov" "Sol/Mercury"
 {
 	LongLat	[ -48.94 15.24 0 ]
-	Size	166.00
+	Size	166
 	Type	"AA"	# Crater, craters
 }
 
@@ -2601,7 +2601,7 @@ Location "Lermontov" "Sol/Mercury"
 Location "Lessing" "Sol/Mercury"
 {
 	LongLat	[ -90.34 -28.5 0 ]
-	Size	95.00
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -2610,7 +2610,7 @@ Location "Lessing" "Sol/Mercury"
 Location "Liang K'ai" "Sol/Mercury"
 {
 	LongLat	[ 175.84 -39.89 0 ]
-	Size	145.00
+	Size	145
 	Type	"AA"	# Crater, craters
 }
 
@@ -2619,7 +2619,7 @@ Location "Liang K'ai" "Sol/Mercury"
 Location "Li Ch'ing-Chao" "Sol/Mercury"
 {
 	LongLat	[ -71.17 -77.96 0 ]
-	Size	69.00
+	Size	69
 	Type	"AA"	# Crater, craters
 }
 
@@ -2627,7 +2627,7 @@ Location "Li Ch'ing-Chao" "Sol/Mercury"
 # Origin: Albedo name for H-4, Raditladi region.
 Location "LIGURIA" "Sol/Mercury"
 {
-	LongLat	[ 135.0 45.0 0 ]
+	LongLat	[ 135 45 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -2637,7 +2637,7 @@ Location "LIGURIA" "Sol/Mercury"
 Location "Li Po" "Sol/Mercury"
 {
 	LongLat	[ -35.69 17.1 0 ]
-	Size	126.00
+	Size	126
 	Type	"AA"	# Crater, craters
 }
 
@@ -2655,7 +2655,7 @@ Location "Lismer" "Sol/Mercury"
 Location "Liszt" "Sol/Mercury"
 {
 	LongLat	[ -168.34 -16.13 0 ]
-	Size	79.00
+	Size	79
 	Type	"AA"	# Crater, craters
 }
 
@@ -2664,7 +2664,7 @@ Location "Liszt" "Sol/Mercury"
 Location "Lorde" "Sol/Mercury"
 {
 	LongLat	[ -49.57 -69.12 0 ]
-	Size	45.00
+	Size	45
 	Type	"AA"	# Crater, craters
 }
 
@@ -2682,7 +2682,7 @@ Location "Lovecraft" "Sol/Mercury"
 Location "Lugus Planitia" "Sol/Mercury"
 {
 	LongLat	[ -98.66 -6.24 0 ]
-	Size	574.00
+	Size	574
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -2691,7 +2691,7 @@ Location "Lugus Planitia" "Sol/Mercury"
 Location "Lu Hsun" "Sol/Mercury"
 {
 	LongLat	[ -23.76 -0.01 0 ]
-	Size	96.00
+	Size	96
 	Type	"AA"	# Crater, craters
 }
 
@@ -2700,7 +2700,7 @@ Location "Lu Hsun" "Sol/Mercury"
 Location "Lysippus" "Sol/Mercury"
 {
 	LongLat	[ -132.75 1.03 0 ]
-	Size	155.00
+	Size	155
 	Type	"AA"	# Crater, craters
 }
 
@@ -2709,7 +2709,7 @@ Location "Lysippus" "Sol/Mercury"
 Location "Machaut" "Sol/Mercury"
 {
 	LongLat	[ -82.37 -2.05 0 ]
-	Size	104.00
+	Size	104
 	Type	"AA"	# Crater, craters
 }
 
@@ -2718,7 +2718,7 @@ Location "Machaut" "Sol/Mercury"
 Location "Ma Chih-Yuan" "Sol/Mercury"
 {
 	LongLat	[ -78.01 -60.01 0 ]
-	Size	197.00
+	Size	197
 	Type	"AA"	# Crater, craters
 }
 
@@ -2726,8 +2726,8 @@ Location "Ma Chih-Yuan" "Sol/Mercury"
 # Origin: Hausa (Niger and Nigeria) word for snake.
 Location "Maciji Facula" "Sol/Mercury"
 {
-	LongLat	[ 164.0 14.9 0 ]
-	Size	29.00
+	LongLat	[ 164 14.9 0 ]
+	Size	29
 	Type	"FA"	# Facula, faculae
 }
 
@@ -2736,7 +2736,7 @@ Location "Maciji Facula" "Sol/Mercury"
 Location "MacNicol" "Sol/Mercury"
 {
 	LongLat	[ 4.05 -68.19 0 ]
-	Size	42.00
+	Size	42
 	Type	"AA"	# Crater, craters
 }
 
@@ -2745,7 +2745,7 @@ Location "MacNicol" "Sol/Mercury"
 Location "Magritte" "Sol/Mercury"
 {
 	LongLat	[ 121.63 -72.78 0 ]
-	Size	149.00
+	Size	149
 	Type	"AA"	# Crater, craters
 }
 
@@ -2754,7 +2754,7 @@ Location "Magritte" "Sol/Mercury"
 Location "Mahler" "Sol/Mercury"
 {
 	LongLat	[ -18.82 -19.68 0 ]
-	Size	104.00
+	Size	104
 	Type	"AA"	# Crater, craters
 }
 
@@ -2772,7 +2772,7 @@ Location "Mansart" "Sol/Mercury"
 Location "Mansur" "Sol/Mercury"
 {
 	LongLat	[ -163.61 47.41 0 ]
-	Size	95.00
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -2781,7 +2781,7 @@ Location "Mansur" "Sol/Mercury"
 Location "March" "Sol/Mercury"
 {
 	LongLat	[ -176.3 30.95 0 ]
-	Size	83.00
+	Size	83
 	Type	"AA"	# Crater, craters
 }
 
@@ -2790,7 +2790,7 @@ Location "March" "Sol/Mercury"
 Location "Mark Twain" "Sol/Mercury"
 {
 	LongLat	[ -138.28 -10.91 0 ]
-	Size	142.00
+	Size	142
 	Type	"AA"	# Crater, craters
 }
 
@@ -2808,7 +2808,7 @@ Location "Martí" "Sol/Mercury"
 Location "Martial" "Sol/Mercury"
 {
 	LongLat	[ -178.33 68.47 0 ]
-	Size	51.00
+	Size	51
 	Type	"AA"	# Crater, craters
 }
 
@@ -2816,8 +2816,8 @@ Location "Martial" "Sol/Mercury"
 # Origin: Maria, Brazilian sculptor (1894-1973).
 Location "Martins" "Sol/Mercury"
 {
-	LongLat	[ 55.07 -8.0 0 ]
-	Size	12.40
+	LongLat	[ 55.07 -8 0 ]
+	Size	12.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2826,7 +2826,7 @@ Location "Martins" "Sol/Mercury"
 Location "Matabei" "Sol/Mercury"
 {
 	LongLat	[ -14.05 -39.85 0 ]
-	Size	24.00
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -2835,7 +2835,7 @@ Location "Matabei" "Sol/Mercury"
 Location "Matisse" "Sol/Mercury"
 {
 	LongLat	[ -90.19 -23.8 0 ]
-	Size	189.00
+	Size	189
 	Type	"AA"	# Crater, craters
 }
 
@@ -2844,7 +2844,7 @@ Location "Matisse" "Sol/Mercury"
 Location "Mearcair Planitia" "Sol/Mercury"
 {
 	LongLat	[ 132.1 31.4 0 ]
-	Size	1175.00
+	Size	1175
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -2853,7 +2853,7 @@ Location "Mearcair Planitia" "Sol/Mercury"
 Location "Melville" "Sol/Mercury"
 {
 	LongLat	[ -9.89 22.01 0 ]
-	Size	146.00
+	Size	146
 	Type	"AA"	# Crater, craters
 }
 
@@ -2862,7 +2862,7 @@ Location "Melville" "Sol/Mercury"
 Location "Mena" "Sol/Mercury"
 {
 	LongLat	[ -124.73 -0.17 0 ]
-	Size	15.00
+	Size	15
 	Type	"AA"	# Crater, craters
 }
 
@@ -2871,7 +2871,7 @@ Location "Mena" "Sol/Mercury"
 Location "Mendelssohn" "Sol/Mercury"
 {
 	LongLat	[ 102.32 70.31 0 ]
-	Size	291.00
+	Size	291
 	Type	"AA"	# Crater, craters
 }
 
@@ -2880,7 +2880,7 @@ Location "Mendelssohn" "Sol/Mercury"
 Location "Mendes Pinto" "Sol/Mercury"
 {
 	LongLat	[ -17.57 -61.65 0 ]
-	Size	192.00
+	Size	192
 	Type	"AA"	# Crater, craters
 }
 
@@ -2889,7 +2889,7 @@ Location "Mendes Pinto" "Sol/Mercury"
 Location "Meteor Rupēs" "Sol/Mercury"
 {
 	LongLat	[ 14.3 -47.7 0 ]
-	Size	990.00
+	Size	990
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2898,7 +2898,7 @@ Location "Meteor Rupēs" "Sol/Mercury"
 Location "Michelangelo" "Sol/Mercury"
 {
 	LongLat	[ -109.69 -44.92 0 ]
-	Size	230.00
+	Size	230
 	Type	"AA"	# Crater, craters
 }
 
@@ -2907,7 +2907,7 @@ Location "Michelangelo" "Sol/Mercury"
 Location "Mickiewicz" "Sol/Mercury"
 {
 	LongLat	[ -103.23 23.15 0 ]
-	Size	103.00
+	Size	103
 	Type	"AA"	# Crater, craters
 }
 
@@ -2916,7 +2916,7 @@ Location "Mickiewicz" "Sol/Mercury"
 Location "Milton" "Sol/Mercury"
 {
 	LongLat	[ -175.06 -26.13 0 ]
-	Size	180.00
+	Size	180
 	Type	"AA"	# Crater, craters
 }
 
@@ -2925,7 +2925,7 @@ Location "Milton" "Sol/Mercury"
 Location "Mirni Rupes" "Sol/Mercury"
 {
 	LongLat	[ -39.01 -38.54 0 ]
-	Size	258.00
+	Size	258
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -2934,7 +2934,7 @@ Location "Mirni Rupes" "Sol/Mercury"
 Location "Mistral" "Sol/Mercury"
 {
 	LongLat	[ -54.67 4.7 0 ]
-	Size	102.00
+	Size	102
 	Type	"AA"	# Crater, craters
 }
 
@@ -2943,7 +2943,7 @@ Location "Mistral" "Sol/Mercury"
 Location "Mofolo" "Sol/Mercury"
 {
 	LongLat	[ -28.22 -37.68 0 ]
-	Size	103.00
+	Size	103
 	Type	"AA"	# Crater, craters
 }
 
@@ -2952,7 +2952,7 @@ Location "Mofolo" "Sol/Mercury"
 Location "Molière" "Sol/Mercury"
 {
 	LongLat	[ -17.71 15.4 0 ]
-	Size	139.00
+	Size	139
 	Type	"AA"	# Crater, craters
 }
 
@@ -2961,7 +2961,7 @@ Location "Molière" "Sol/Mercury"
 Location "Monet" "Sol/Mercury"
 {
 	LongLat	[ -9.77 44.23 0 ]
-	Size	203.00
+	Size	203
 	Type	"AA"	# Crater, craters
 }
 
@@ -2970,7 +2970,7 @@ Location "Monet" "Sol/Mercury"
 Location "Monk" "Sol/Mercury"
 {
 	LongLat	[ 63.81 66.08 0 ]
-	Size	12.00
+	Size	12
 	Type	"AA"	# Crater, craters
 }
 
@@ -2979,7 +2979,7 @@ Location "Monk" "Sol/Mercury"
 Location "Monteverdi" "Sol/Mercury"
 {
 	LongLat	[ -81.01 64.49 0 ]
-	Size	134.00
+	Size	134
 	Type	"AA"	# Crater, craters
 }
 
@@ -2988,7 +2988,7 @@ Location "Monteverdi" "Sol/Mercury"
 Location "Moody" "Sol/Mercury"
 {
 	LongLat	[ 144.85 -13.21 0 ]
-	Size	83.00
+	Size	83
 	Type	"AA"	# Crater, craters
 }
 
@@ -2997,7 +2997,7 @@ Location "Moody" "Sol/Mercury"
 Location "Morrison" "Sol/Mercury"
 {
 	LongLat	[ 127.43 79.66 0 ]
-	Size	35.00
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -3006,7 +3006,7 @@ Location "Morrison" "Sol/Mercury"
 Location "Mozart" "Sol/Mercury"
 {
 	LongLat	[ 169.41 7.75 0 ]
-	Size	241.00
+	Size	241
 	Type	"AA"	# Crater, craters
 }
 
@@ -3015,7 +3015,7 @@ Location "Mozart" "Sol/Mercury"
 Location "Munch" "Sol/Mercury"
 {
 	LongLat	[ 152.82 40.48 0 ]
-	Size	57.00
+	Size	57
 	Type	"AA"	# Crater, craters
 }
 
@@ -3024,7 +3024,7 @@ Location "Munch" "Sol/Mercury"
 Location "Munkácsy" "Sol/Mercury"
 {
 	LongLat	[ 101.14 21.95 0 ]
-	Size	193.00
+	Size	193
 	Type	"AA"	# Crater, craters
 }
 
@@ -3033,7 +3033,7 @@ Location "Munkácsy" "Sol/Mercury"
 Location "Murasaki" "Sol/Mercury"
 {
 	LongLat	[ -30.4 -12.54 0 ]
-	Size	132.00
+	Size	132
 	Type	"AA"	# Crater, craters
 }
 
@@ -3042,7 +3042,7 @@ Location "Murasaki" "Sol/Mercury"
 Location "Mussorgskij" "Sol/Mercury"
 {
 	LongLat	[ -97.65 32.82 0 ]
-	Size	115.00
+	Size	115
 	Type	"AA"	# Crater, craters
 }
 
@@ -3051,7 +3051,7 @@ Location "Mussorgskij" "Sol/Mercury"
 Location "Myron" "Sol/Mercury"
 {
 	LongLat	[ -84.86 71.21 0 ]
-	Size	25.00
+	Size	25
 	Type	"AA"	# Crater, craters
 }
 
@@ -3060,7 +3060,7 @@ Location "Myron" "Sol/Mercury"
 Location "Nabokov" "Sol/Mercury"
 {
 	LongLat	[ 55.76 -14.56 0 ]
-	Size	166.00
+	Size	166
 	Type	"AA"	# Crater, craters
 }
 
@@ -3069,7 +3069,7 @@ Location "Nabokov" "Sol/Mercury"
 Location "Nairne" "Sol/Mercury"
 {
 	LongLat	[ 1.59 -70.34 0 ]
-	Size	56.00
+	Size	56
 	Type	"AA"	# Crater, craters
 }
 
@@ -3078,7 +3078,7 @@ Location "Nairne" "Sol/Mercury"
 Location "Nākahi Facula" "Sol/Mercury"
 {
 	LongLat	[ 17.8 -52.7 0 ]
-	Size	64.00
+	Size	64
 	Type	"FA"	# Facula, faculae
 }
 
@@ -3087,7 +3087,7 @@ Location "Nākahi Facula" "Sol/Mercury"
 Location "Namatjira" "Sol/Mercury"
 {
 	LongLat	[ -33.04 58.82 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -3096,7 +3096,7 @@ Location "Namatjira" "Sol/Mercury"
 Location "Nampeyo" "Sol/Mercury"
 {
 	LongLat	[ -49.96 -40.33 0 ]
-	Size	49.00
+	Size	49
 	Type	"AA"	# Crater, craters
 }
 
@@ -3104,8 +3104,8 @@ Location "Nampeyo" "Sol/Mercury"
 # Origin: Irish word for snake.
 Location "Nathair Facula" "Sol/Mercury"
 {
-	LongLat	[ 64.5 36.0 0 ]
-	Size	270.00
+	LongLat	[ 64.5 36 0 ]
+	Size	270
 	Type	"FA"	# Facula, faculae
 }
 
@@ -3114,7 +3114,7 @@ Location "Nathair Facula" "Sol/Mercury"
 Location "Nautilus Rupes" "Sol/Mercury"
 {
 	LongLat	[ 66.67 -28.23 0 ]
-	Size	348.00
+	Size	348
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3123,7 +3123,7 @@ Location "Nautilus Rupes" "Sol/Mercury"
 Location "Navoi" "Sol/Mercury"
 {
 	LongLat	[ 160.41 58.82 0 ]
-	Size	69.00
+	Size	69
 	Type	"AA"	# Crater, craters
 }
 
@@ -3133,7 +3133,7 @@ Location "Navoi" "Sol/Mercury"
 Location "Nāwahī" "Sol/Mercury"
 {
 	LongLat	[ 145.26 35.88 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -3142,7 +3142,7 @@ Location "Nāwahī" "Sol/Mercury"
 Location "Neidr Facula" "Sol/Mercury"
 {
 	LongLat	[ 57.3 35.9 0 ]
-	Size	90.00
+	Size	90
 	Type	"FA"	# Facula, faculae
 }
 
@@ -3152,7 +3152,7 @@ Location "Neidr Facula" "Sol/Mercury"
 Location "Neruda" "Sol/Mercury"
 {
 	LongLat	[ 125.79 -52.66 0 ]
-	Size	112.00
+	Size	112
 	Type	"AA"	# Crater, craters
 }
 
@@ -3161,7 +3161,7 @@ Location "Neruda" "Sol/Mercury"
 Location "Nervo" "Sol/Mercury"
 {
 	LongLat	[ -179.89 42.7 0 ]
-	Size	66.00
+	Size	66
 	Type	"AA"	# Crater, craters
 }
 
@@ -3170,7 +3170,7 @@ Location "Nervo" "Sol/Mercury"
 Location "Neumann" "Sol/Mercury"
 {
 	LongLat	[ -34.56 -37.22 0 ]
-	Size	122.00
+	Size	122
 	Type	"AA"	# Crater, craters
 }
 
@@ -3179,7 +3179,7 @@ Location "Neumann" "Sol/Mercury"
 Location "Nizāmī" "Sol/Mercury"
 {
 	LongLat	[ -166.71 70.46 0 ]
-	Size	77.00
+	Size	77
 	Type	"AA"	# Crater, craters
 }
 
@@ -3188,7 +3188,7 @@ Location "Nizāmī" "Sol/Mercury"
 Location "Nureyev" "Sol/Mercury"
 {
 	LongLat	[ -173.13 11.68 0 ]
-	Size	16.00
+	Size	16
 	Type	"AA"	# Crater, craters
 }
 
@@ -3197,7 +3197,7 @@ Location "Nureyev" "Sol/Mercury"
 Location "Nzoka Facula" "Sol/Mercury"
 {
 	LongLat	[ 165.3 15.4 0 ]
-	Size	20.00
+	Size	20
 	Type	"FA"	# Facula, faculae
 }
 
@@ -3206,7 +3206,7 @@ Location "Nzoka Facula" "Sol/Mercury"
 Location "Odin Planitia" "Sol/Mercury"
 {
 	LongLat	[ -169.86 23.6 0 ]
-	Size	473.00
+	Size	473
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -3215,7 +3215,7 @@ Location "Odin Planitia" "Sol/Mercury"
 Location "Ōkyo" "Sol/Mercury"
 {
 	LongLat	[ -74.66 -70.05 0 ]
-	Size	66.00
+	Size	66
 	Type	"AA"	# Crater, craters
 }
 
@@ -3224,7 +3224,7 @@ Location "Ōkyo" "Sol/Mercury"
 Location "Orm Faculae" "Sol/Mercury"
 {
 	LongLat	[ -59.68 26.58 0 ]
-	Size	125.00
+	Size	125
 	Type	"FA"	# Facula, faculae
 }
 
@@ -3233,7 +3233,7 @@ Location "Orm Faculae" "Sol/Mercury"
 Location "Oskison" "Sol/Mercury"
 {
 	LongLat	[ 145.24 60.36 0 ]
-	Size	122.00
+	Size	122
 	Type	"AA"	# Crater, craters
 }
 
@@ -3242,7 +3242,7 @@ Location "Oskison" "Sol/Mercury"
 Location "Otaared Planitia" "Sol/Mercury"
 {
 	LongLat	[ 22.39 18.26 0 ]
-	Size	470.00
+	Size	470
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -3251,7 +3251,7 @@ Location "Otaared Planitia" "Sol/Mercury"
 Location "Ovid" "Sol/Mercury"
 {
 	LongLat	[ -20.23 -69.77 0 ]
-	Size	41.00
+	Size	41
 	Type	"AA"	# Crater, craters
 }
 
@@ -3260,7 +3260,7 @@ Location "Ovid" "Sol/Mercury"
 Location "Paestum Vallis" "Sol/Mercury"
 {
 	LongLat	[ 126.04 60.28 0 ]
-	Size	96.00
+	Size	96
 	Type	"VA"	# Vallis, valles
 }
 
@@ -3269,7 +3269,7 @@ Location "Paestum Vallis" "Sol/Mercury"
 Location "Pahinui" "Sol/Mercury"
 {
 	LongLat	[ 146.79 -28.16 0 ]
-	Size	54.00
+	Size	54
 	Type	"AA"	# Crater, craters
 }
 
@@ -3278,7 +3278,7 @@ Location "Pahinui" "Sol/Mercury"
 Location "Palmer Rupes" "Sol/Mercury"
 {
 	LongLat	[ -106.28 -26.07 0 ]
-	Size	274.00
+	Size	274
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3296,7 +3296,7 @@ Location "Pampu Facula" "Sol/Mercury"
 Location "Pantheon Fossae" "Sol/Mercury"
 {
 	LongLat	[ 162.83 30.19 0 ]
-	Size	311.00
+	Size	311
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -3305,7 +3305,7 @@ Location "Pantheon Fossae" "Sol/Mercury"
 Location "Papsukkal Planitia" "Sol/Mercury"
 {
 	LongLat	[ 88.37 -16.25 0 ]
-	Size	810.00
+	Size	810
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -3314,7 +3314,7 @@ Location "Papsukkal Planitia" "Sol/Mercury"
 Location "Paramour Rupes" "Sol/Mercury"
 {
 	LongLat	[ 147.46 -0.08 0 ]
-	Size	616.00
+	Size	616
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3323,7 +3323,7 @@ Location "Paramour Rupes" "Sol/Mercury"
 Location "Pasch" "Sol/Mercury"
 {
 	LongLat	[ 134.75 46.12 0 ]
-	Size	37.00
+	Size	37
 	Type	"AA"	# Crater, craters
 }
 
@@ -3332,7 +3332,7 @@ Location "Pasch" "Sol/Mercury"
 Location "Pelagia Rupes" "Sol/Mercury"
 {
 	LongLat	[ 141.41 15.33 0 ]
-	Size	220.00
+	Size	220
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3340,7 +3340,7 @@ Location "Pelagia Rupes" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "PENTAS" "Sol/Mercury"
 {
-	LongLat	[ 50.0 5.0 0 ]
+	LongLat	[ 50 5 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -3350,7 +3350,7 @@ Location "PENTAS" "Sol/Mercury"
 Location "Petipa" "Sol/Mercury"
 {
 	LongLat	[ 21.05 11.54 0 ]
-	Size	12.00
+	Size	12
 	Type	"AA"	# Crater, craters
 }
 
@@ -3359,7 +3359,7 @@ Location "Petipa" "Sol/Mercury"
 Location "Petőfi" "Sol/Mercury"
 {
 	LongLat	[ 119.35 -83.55 0 ]
-	Size	61.00
+	Size	61
 	Type	"AA"	# Crater, craters
 }
 
@@ -3368,7 +3368,7 @@ Location "Petőfi" "Sol/Mercury"
 Location "Petrarch" "Sol/Mercury"
 {
 	LongLat	[ -26.29 -30.52 0 ]
-	Size	167.00
+	Size	167
 	Type	"AA"	# Crater, craters
 }
 
@@ -3377,7 +3377,7 @@ Location "Petrarch" "Sol/Mercury"
 Location "Petronius" "Sol/Mercury"
 {
 	LongLat	[ -40.51 86.06 0 ]
-	Size	36.00
+	Size	36
 	Type	"AA"	# Crater, craters
 }
 
@@ -3385,7 +3385,7 @@ Location "Petronius" "Sol/Mercury"
 # Origin: Albedo name for H-8, Tolstoj region.
 Location "PHAETHONTIAS" "Sol/Mercury"
 {
-	LongLat	[ -167.0 0.0 0 ]
+	LongLat	[ -167 0 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -3395,7 +3395,7 @@ Location "PHAETHONTIAS" "Sol/Mercury"
 Location "Phidias" "Sol/Mercury"
 {
 	LongLat	[ -149.73 8.97 0 ]
-	Size	168.00
+	Size	168
 	Type	"AA"	# Crater, craters
 }
 
@@ -3404,7 +3404,7 @@ Location "Phidias" "Sol/Mercury"
 Location "Philoxenus" "Sol/Mercury"
 {
 	LongLat	[ -111.75 -8.68 0 ]
-	Size	87.00
+	Size	87
 	Type	"AA"	# Crater, craters
 }
 
@@ -3413,7 +3413,7 @@ Location "Philoxenus" "Sol/Mercury"
 Location "Picasso" "Sol/Mercury"
 {
 	LongLat	[ 50.24 3.44 0 ]
-	Size	134.00
+	Size	134
 	Type	"AA"	# Crater, craters
 }
 
@@ -3421,7 +3421,7 @@ Location "Picasso" "Sol/Mercury"
 # Origin: Albedo name for H-10, Derain region.
 Location "PIERIA" "Sol/Mercury"
 {
-	LongLat	[ 90.0 0.0 0 ]
+	LongLat	[ 90 0 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -3431,7 +3431,7 @@ Location "PIERIA" "Sol/Mercury"
 Location "Pigalle" "Sol/Mercury"
 {
 	LongLat	[ -9.64 -37.65 0 ]
-	Size	153.00
+	Size	153
 	Type	"AA"	# Crater, craters
 }
 
@@ -3440,7 +3440,7 @@ Location "Pigalle" "Sol/Mercury"
 Location "Plath" "Sol/Mercury"
 {
 	LongLat	[ -38.84 37.86 0 ]
-	Size	35.00
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -3449,7 +3449,7 @@ Location "Plath" "Sol/Mercury"
 # Additional info: Name corrected from Pleias Gallia.
 Location "PLEIAS" "Sol/Mercury"
 {
-	LongLat	[ -140.0 15.0 0 ]
+	LongLat	[ -140 15 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -3459,7 +3459,7 @@ Location "PLEIAS" "Sol/Mercury"
 Location "Po Chü-I" "Sol/Mercury"
 {
 	LongLat	[ -165.28 -6.94 0 ]
-	Size	70.00
+	Size	70
 	Type	"AA"	# Crater, craters
 }
 
@@ -3468,7 +3468,7 @@ Location "Po Chü-I" "Sol/Mercury"
 Location "Poe" "Sol/Mercury"
 {
 	LongLat	[ 159.1 43.76 0 ]
-	Size	77.00
+	Size	77
 	Type	"AA"	# Crater, craters
 }
 
@@ -3477,7 +3477,7 @@ Location "Poe" "Sol/Mercury"
 Location "Polygnotus" "Sol/Mercury"
 {
 	LongLat	[ -69.26 -0.13 0 ]
-	Size	124.00
+	Size	124
 	Type	"AA"	# Crater, craters
 }
 
@@ -3486,7 +3486,7 @@ Location "Polygnotus" "Sol/Mercury"
 Location "Popova" "Sol/Mercury"
 {
 	LongLat	[ -66.73 -34.72 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -3504,7 +3504,7 @@ Location "Pourquoi-Pas Rupes" "Sol/Mercury"
 Location "Po Ya" "Sol/Mercury"
 {
 	LongLat	[ -20.17 -45.92 0 ]
-	Size	101.00
+	Size	101
 	Type	"AA"	# Crater, craters
 }
 
@@ -3513,7 +3513,7 @@ Location "Po Ya" "Sol/Mercury"
 Location "Praxiteles" "Sol/Mercury"
 {
 	LongLat	[ -60.28 27.11 0 ]
-	Size	198.00
+	Size	198
 	Type	"AA"	# Crater, craters
 }
 
@@ -3522,7 +3522,7 @@ Location "Praxiteles" "Sol/Mercury"
 Location "Prokofiev" "Sol/Mercury"
 {
 	LongLat	[ 62.92 85.77 0 ]
-	Size	112.00
+	Size	112
 	Type	"AA"	# Crater, craters
 }
 
@@ -3531,7 +3531,7 @@ Location "Prokofiev" "Sol/Mercury"
 Location "Protea Rupes" "Sol/Mercury"
 {
 	LongLat	[ 156.99 -9.36 0 ]
-	Size	147.00
+	Size	147
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3540,7 +3540,7 @@ Location "Protea Rupes" "Sol/Mercury"
 Location "Proust" "Sol/Mercury"
 {
 	LongLat	[ -47.59 19.56 0 ]
-	Size	145.00
+	Size	145
 	Type	"AA"	# Crater, craters
 }
 
@@ -3549,7 +3549,7 @@ Location "Proust" "Sol/Mercury"
 Location "Providencia Rupes" "Sol/Mercury"
 {
 	LongLat	[ 126.43 1.94 0 ]
-	Size	310.00
+	Size	310
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3558,7 +3558,7 @@ Location "Providencia Rupes" "Sol/Mercury"
 Location "Puccini" "Sol/Mercury"
 {
 	LongLat	[ -45.32 -65.39 0 ]
-	Size	76.00
+	Size	76
 	Type	"AA"	# Crater, craters
 }
 
@@ -3576,7 +3576,7 @@ Location "Purcell" "Sol/Mercury"
 Location "Pushkin" "Sol/Mercury"
 {
 	LongLat	[ -20.73 -65.79 0 ]
-	Size	232.00
+	Size	232
 	Type	"AA"	# Crater, craters
 }
 
@@ -3585,7 +3585,7 @@ Location "Pushkin" "Sol/Mercury"
 Location "Qi Baishi" "Sol/Mercury"
 {
 	LongLat	[ 164.37 -4.31 0 ]
-	Size	15.00
+	Size	15
 	Type	"AA"	# Crater, craters
 }
 
@@ -3594,7 +3594,7 @@ Location "Qi Baishi" "Sol/Mercury"
 Location "Qiu Ying" "Sol/Mercury"
 {
 	LongLat	[ -85.7 82.67 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -3603,7 +3603,7 @@ Location "Qiu Ying" "Sol/Mercury"
 Location "Rabelais" "Sol/Mercury"
 {
 	LongLat	[ -61.81 -60.53 0 ]
-	Size	154.00
+	Size	154
 	Type	"AA"	# Crater, craters
 }
 
@@ -3612,7 +3612,7 @@ Location "Rabelais" "Sol/Mercury"
 Location "Rachmaninoff" "Sol/Mercury"
 {
 	LongLat	[ 57.37 27.66 0 ]
-	Size	305.00
+	Size	305
 	Type	"AA"	# Crater, craters
 }
 
@@ -3621,7 +3621,7 @@ Location "Rachmaninoff" "Sol/Mercury"
 Location "Raden Saleh" "Sol/Mercury"
 {
 	LongLat	[ 158.83 2.07 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -3630,7 +3630,7 @@ Location "Raden Saleh" "Sol/Mercury"
 Location "Raditladi" "Sol/Mercury"
 {
 	LongLat	[ 119.06 27.15 0 ]
-	Size	258.00
+	Size	258
 	Type	"AA"	# Crater, craters
 }
 
@@ -3639,7 +3639,7 @@ Location "Raditladi" "Sol/Mercury"
 Location "Rajnis" "Sol/Mercury"
 {
 	LongLat	[ -96.21 4.36 0 ]
-	Size	80.00
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -3648,7 +3648,7 @@ Location "Rajnis" "Sol/Mercury"
 Location "Rameau" "Sol/Mercury"
 {
 	LongLat	[ -37.24 -54.58 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -3657,7 +3657,7 @@ Location "Rameau" "Sol/Mercury"
 Location "Raphael" "Sol/Mercury"
 {
 	LongLat	[ -76.35 -20.42 0 ]
-	Size	342.00
+	Size	342
 	Type	"AA"	# Crater, craters
 }
 
@@ -3666,7 +3666,7 @@ Location "Raphael" "Sol/Mercury"
 Location "Ravel" "Sol/Mercury"
 {
 	LongLat	[ -38.19 -12.01 0 ]
-	Size	78.00
+	Size	78
 	Type	"AA"	# Crater, craters
 }
 
@@ -3675,7 +3675,7 @@ Location "Ravel" "Sol/Mercury"
 Location "Remarque" "Sol/Mercury"
 {
 	LongLat	[ -6.46 84.94 0 ]
-	Size	25.90
+	Size	25.9
 	Type	"AA"	# Crater, craters
 }
 
@@ -3684,7 +3684,7 @@ Location "Remarque" "Sol/Mercury"
 Location "Rembrandt" "Sol/Mercury"
 {
 	LongLat	[ 87.87 -32.89 0 ]
-	Size	716.00
+	Size	716
 	Type	"AA"	# Crater, craters
 }
 
@@ -3693,7 +3693,7 @@ Location "Rembrandt" "Sol/Mercury"
 Location "Renoir" "Sol/Mercury"
 {
 	LongLat	[ -52.01 -18.34 0 ]
-	Size	220.00
+	Size	220
 	Type	"AA"	# Crater, craters
 }
 
@@ -3702,7 +3702,7 @@ Location "Renoir" "Sol/Mercury"
 Location "Repin" "Sol/Mercury"
 {
 	LongLat	[ -63.33 -19.12 0 ]
-	Size	95.00
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -3711,7 +3711,7 @@ Location "Repin" "Sol/Mercury"
 Location "Resolution Rupes" "Sol/Mercury"
 {
 	LongLat	[ -50.66 -63.25 0 ]
-	Size	139.00
+	Size	139
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3720,7 +3720,7 @@ Location "Resolution Rupes" "Sol/Mercury"
 Location "Riemenschneider" "Sol/Mercury"
 {
 	LongLat	[ -99.95 -52.75 0 ]
-	Size	183.00
+	Size	183
 	Type	"AA"	# Crater, craters
 }
 
@@ -3738,7 +3738,7 @@ Location "Rikyū" "Sol/Mercury"
 Location "Rilke" "Sol/Mercury"
 {
 	LongLat	[ -12.57 -44.81 0 ]
-	Size	82.00
+	Size	82
 	Type	"AA"	# Crater, craters
 }
 
@@ -3747,7 +3747,7 @@ Location "Rilke" "Sol/Mercury"
 Location "Rimbaud" "Sol/Mercury"
 {
 	LongLat	[ -148.9 -63.62 0 ]
-	Size	78.00
+	Size	78
 	Type	"AA"	# Crater, craters
 }
 
@@ -3756,7 +3756,7 @@ Location "Rimbaud" "Sol/Mercury"
 Location "Rivera" "Sol/Mercury"
 {
 	LongLat	[ 32.18 69.29 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -3765,7 +3765,7 @@ Location "Rivera" "Sol/Mercury"
 Location "Rizal" "Sol/Mercury"
 {
 	LongLat	[ -146.98 82.48 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -3774,7 +3774,7 @@ Location "Rizal" "Sol/Mercury"
 Location "Rodin" "Sol/Mercury"
 {
 	LongLat	[ -18.89 21.72 0 ]
-	Size	230.00
+	Size	230
 	Type	"AA"	# Crater, craters
 }
 
@@ -3792,7 +3792,7 @@ Location "Roerich" "Sol/Mercury"
 Location "Rubens" "Sol/Mercury"
 {
 	LongLat	[ -77.99 60.58 0 ]
-	Size	158.00
+	Size	158
 	Type	"AA"	# Crater, craters
 }
 
@@ -3801,7 +3801,7 @@ Location "Rubens" "Sol/Mercury"
 Location "Rublev" "Sol/Mercury"
 {
 	LongLat	[ -157.08 -15.12 0 ]
-	Size	129.00
+	Size	129
 	Type	"AA"	# Crater, craters
 }
 
@@ -3810,7 +3810,7 @@ Location "Rublev" "Sol/Mercury"
 Location "Rūdaki" "Sol/Mercury"
 {
 	LongLat	[ -51.76 -3.97 0 ]
-	Size	124.00
+	Size	124
 	Type	"AA"	# Crater, craters
 }
 
@@ -3819,7 +3819,7 @@ Location "Rūdaki" "Sol/Mercury"
 Location "Rude" "Sol/Mercury"
 {
 	LongLat	[ -79.29 -33.22 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -3828,7 +3828,7 @@ Location "Rude" "Sol/Mercury"
 Location "Rūmī" "Sol/Mercury"
 {
 	LongLat	[ -105.3 -24.2 0 ]
-	Size	75.00
+	Size	75
 	Type	"AA"	# Crater, craters
 }
 
@@ -3837,7 +3837,7 @@ Location "Rūmī" "Sol/Mercury"
 Location "Rustaveli" "Sol/Mercury"
 {
 	LongLat	[ 82.74 52.41 0 ]
-	Size	200.00
+	Size	200
 	Type	"AA"	# Crater, craters
 }
 
@@ -3846,7 +3846,7 @@ Location "Rustaveli" "Sol/Mercury"
 Location "Ruysch" "Sol/Mercury"
 {
 	LongLat	[ 94.12 -10.7 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -3864,7 +3864,7 @@ Location "Sadī" "Sol/Mercury"
 Location "Saikaku" "Sol/Mercury"
 {
 	LongLat	[ -177.97 71.96 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -3873,7 +3873,7 @@ Location "Saikaku" "Sol/Mercury"
 Location "Sanai" "Sol/Mercury"
 {
 	LongLat	[ -6.99 -13.37 0 ]
-	Size	490.00
+	Size	490
 	Type	"AA"	# Crater, craters
 }
 
@@ -3882,7 +3882,7 @@ Location "Sanai" "Sol/Mercury"
 Location "Sander" "Sol/Mercury"
 {
 	LongLat	[ 154.56 42.43 0 ]
-	Size	47.00
+	Size	47
 	Type	"AA"	# Crater, craters
 }
 
@@ -3890,8 +3890,8 @@ Location "Sander" "Sol/Mercury"
 # Origin: Spanish; Columbus' flagship, first voyage to America, 1492.
 Location "Santa María Rupes" "Sol/Mercury"
 {
-	LongLat	[ -20.0 5.81 0 ]
-	Size	227.00
+	LongLat	[ -20 5.81 0 ]
+	Size	227
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -3900,7 +3900,7 @@ Location "Santa María Rupes" "Sol/Mercury"
 Location "Sapkota" "Sol/Mercury"
 {
 	LongLat	[ -132.79 86.09 0 ]
-	Size	27.40
+	Size	27.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3909,7 +3909,7 @@ Location "Sapkota" "Sol/Mercury"
 Location "Sarmiento" "Sol/Mercury"
 {
 	LongLat	[ 170.42 -29.27 0 ]
-	Size	95.00
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -3918,7 +3918,7 @@ Location "Sarmiento" "Sol/Mercury"
 Location "Sarpa Facula" "Sol/Mercury"
 {
 	LongLat	[ -30.87 -53.07 0 ]
-	Size	39.00
+	Size	39
 	Type	"FA"	# Facula, faculae
 }
 
@@ -3927,7 +3927,7 @@ Location "Sarpa Facula" "Sol/Mercury"
 Location "Savage" "Sol/Mercury"
 {
 	LongLat	[ 93.41 -8.59 0 ]
-	Size	93.00
+	Size	93
 	Type	"AA"	# Crater, craters
 }
 
@@ -3936,7 +3936,7 @@ Location "Savage" "Sol/Mercury"
 Location "Sayat-Nova" "Sol/Mercury"
 {
 	LongLat	[ -122.7 -27.98 0 ]
-	Size	146.00
+	Size	146
 	Type	"AA"	# Crater, craters
 }
 
@@ -3945,7 +3945,7 @@ Location "Sayat-Nova" "Sol/Mercury"
 Location "Scarlatti" "Sol/Mercury"
 {
 	LongLat	[ -101.16 40.7 0 ]
-	Size	132.00
+	Size	132
 	Type	"AA"	# Crater, craters
 }
 
@@ -3954,7 +3954,7 @@ Location "Scarlatti" "Sol/Mercury"
 Location "Schiaparelli Dorsum" "Sol/Mercury"
 {
 	LongLat	[ -164.3 23.26 0 ]
-	Size	374.00
+	Size	374
 	Type	"DO"	# Dorsum, dorsa
 }
 
@@ -3963,7 +3963,7 @@ Location "Schiaparelli Dorsum" "Sol/Mercury"
 Location "Schoenberg" "Sol/Mercury"
 {
 	LongLat	[ -136.08 -16.06 0 ]
-	Size	28.00
+	Size	28
 	Type	"AA"	# Crater, craters
 }
 
@@ -3972,7 +3972,7 @@ Location "Schoenberg" "Sol/Mercury"
 Location "Schubert" "Sol/Mercury"
 {
 	LongLat	[ -54.26 -43.21 0 ]
-	Size	190.00
+	Size	190
 	Type	"AA"	# Crater, craters
 }
 
@@ -3990,7 +3990,7 @@ Location "Scopas" "Sol/Mercury"
 Location "Sei" "Sol/Mercury"
 {
 	LongLat	[ -88.59 -64.61 0 ]
-	Size	137.00
+	Size	137
 	Type	"AA"	# Crater, craters
 }
 
@@ -3999,7 +3999,7 @@ Location "Sei" "Sol/Mercury"
 Location "Selen Rupēs" "Sol/Mercury"
 {
 	LongLat	[ -178.92 -8.11 0 ]
-	Size	246.00
+	Size	246
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4008,7 +4008,7 @@ Location "Selen Rupēs" "Sol/Mercury"
 Location "Seuss" "Sol/Mercury"
 {
 	LongLat	[ 33.16 7.65 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -4017,7 +4017,7 @@ Location "Seuss" "Sol/Mercury"
 Location "Shakespeare" "Sol/Mercury"
 {
 	LongLat	[ -152.25 48.1 0 ]
-	Size	399.00
+	Size	399
 	Type	"AA"	# Crater, craters
 }
 
@@ -4026,7 +4026,7 @@ Location "Shakespeare" "Sol/Mercury"
 Location "Shelley" "Sol/Mercury"
 {
 	LongLat	[ -128.27 -47.69 0 ]
-	Size	171.00
+	Size	171
 	Type	"AA"	# Crater, craters
 }
 
@@ -4035,7 +4035,7 @@ Location "Shelley" "Sol/Mercury"
 Location "Sher-Gil" "Sol/Mercury"
 {
 	LongLat	[ 134.74 -45.26 0 ]
-	Size	77.00
+	Size	77
 	Type	"AA"	# Crater, craters
 }
 
@@ -4044,7 +4044,7 @@ Location "Sher-Gil" "Sol/Mercury"
 Location "Shevchenko" "Sol/Mercury"
 {
 	LongLat	[ -46.02 -53.64 0 ]
-	Size	143.00
+	Size	143
 	Type	"AA"	# Crater, craters
 }
 
@@ -4053,7 +4053,7 @@ Location "Shevchenko" "Sol/Mercury"
 Location "Sholem Aleichem" "Sol/Mercury"
 {
 	LongLat	[ -90.48 50.92 0 ]
-	Size	196.00
+	Size	196
 	Type	"AA"	# Crater, craters
 }
 
@@ -4062,7 +4062,7 @@ Location "Sholem Aleichem" "Sol/Mercury"
 Location "Sibelius" "Sol/Mercury"
 {
 	LongLat	[ -145.37 -49.5 0 ]
-	Size	94.00
+	Size	94
 	Type	"AA"	# Crater, craters
 }
 
@@ -4071,7 +4071,7 @@ Location "Sibelius" "Sol/Mercury"
 Location "Sihtu Planitia" "Sol/Mercury"
 {
 	LongLat	[ -55.57 -2.82 0 ]
-	Size	565.00
+	Size	565
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4080,7 +4080,7 @@ Location "Sihtu Planitia" "Sol/Mercury"
 Location "Simonides" "Sol/Mercury"
 {
 	LongLat	[ -44.85 -29.13 0 ]
-	Size	87.00
+	Size	87
 	Type	"AA"	# Crater, craters
 }
 
@@ -4089,7 +4089,7 @@ Location "Simonides" "Sol/Mercury"
 Location "Sinan" "Sol/Mercury"
 {
 	LongLat	[ -30.59 15.46 0 ]
-	Size	134.00
+	Size	134
 	Type	"AA"	# Crater, craters
 }
 
@@ -4098,7 +4098,7 @@ Location "Sinan" "Sol/Mercury"
 Location "Slang Faculae" "Sol/Mercury"
 {
 	LongLat	[ -179.3 24.5 0 ]
-	Size	204.00
+	Size	204
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4107,7 +4107,7 @@ Location "Slang Faculae" "Sol/Mercury"
 Location "Smetana" "Sol/Mercury"
 {
 	LongLat	[ -70.17 -48.25 0 ]
-	Size	191.00
+	Size	191
 	Type	"AA"	# Crater, craters
 }
 
@@ -4116,7 +4116,7 @@ Location "Smetana" "Sol/Mercury"
 Location "Snorri" "Sol/Mercury"
 {
 	LongLat	[ -83.24 -9.17 0 ]
-	Size	21.00
+	Size	21
 	Type	"AA"	# Crater, craters
 }
 
@@ -4125,8 +4125,8 @@ Location "Snorri" "Sol/Mercury"
 # Additional info: Origin was changed from “;Messenger god.“; on 02/17/2017.
 Location "Sobkou Planitia" "Sol/Mercury"
 {
-	LongLat	[ -128.02 39.0 0 ]
-	Size	1128.00
+	LongLat	[ -128.02 39 0 ]
+	Size	1128
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4134,7 +4134,7 @@ Location "Sobkou Planitia" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO ADMETEI" "Sol/Mercury"
 {
-	LongLat	[ -90.0 55.0 0 ]
+	LongLat	[ -90 55 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4143,7 +4143,7 @@ Location "SOLITUDO ADMETEI" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO ALARUM" "Sol/Mercury"
 {
-	LongLat	[ 70.0 -15.0 0 ]
+	LongLat	[ 70 -15 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4152,7 +4152,7 @@ Location "SOLITUDO ALARUM" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO APHRODITES" "Sol/Mercury"
 {
-	LongLat	[ 70.0 25.0 0 ]
+	LongLat	[ 70 25 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4162,7 +4162,7 @@ Location "SOLITUDO APHRODITES" "Sol/Mercury"
 # Additional info: Name corrected from Sinus Argiphontae.
 Location "SOLITUDO ARGIPHONTAE" "Sol/Mercury"
 {
-	LongLat	[ 25.0 -10.0 0 ]
+	LongLat	[ 25 -10 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4171,7 +4171,7 @@ Location "SOLITUDO ARGIPHONTAE" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO ATLANTIS" "Sol/Mercury"
 {
-	LongLat	[ 150.0 -35.0 0 ]
+	LongLat	[ 150 -35 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4180,7 +4180,7 @@ Location "SOLITUDO ATLANTIS" "Sol/Mercury"
 # Origin: Albedo name for H-9, Eminescu region.
 Location "SOLITUDO CRIOPHORI" "Sol/Mercury"
 {
-	LongLat	[ 130.0 0.0 0 ]
+	LongLat	[ 130 0 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4189,7 +4189,7 @@ Location "SOLITUDO CRIOPHORI" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO HELII" "Sol/Mercury"
 {
-	LongLat	[ -180.0 -10.0 0 ]
+	LongLat	[ -180 -10 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4198,7 +4198,7 @@ Location "SOLITUDO HELII" "Sol/Mercury"
 # Origin: Albedo name for H-11, Discovery region.
 Location "SOLITUDO HERMAE TRISMEGISTI" "Sol/Mercury"
 {
-	LongLat	[ -45.0 -45.0 0 ]
+	LongLat	[ -45 -45 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4207,7 +4207,7 @@ Location "SOLITUDO HERMAE TRISMEGISTI" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO HORARUM" "Sol/Mercury"
 {
-	LongLat	[ -115.0 25.0 0 ]
+	LongLat	[ -115 25 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4216,7 +4216,7 @@ Location "SOLITUDO HORARUM" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO IOVIS" "Sol/Mercury"
 {
-	LongLat	[ -0.0 0.0 0 ]
+	LongLat	[ 0 0 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4225,7 +4225,7 @@ Location "SOLITUDO IOVIS" "Sol/Mercury"
 # Origin: Albedo name for H-7, Beethoven region.
 Location "SOLITUDO LYCAONIS" "Sol/Mercury"
 {
-	LongLat	[ -107.0 0.0 0 ]
+	LongLat	[ -107 0 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4234,7 +4234,7 @@ Location "SOLITUDO LYCAONIS" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO MAIAE" "Sol/Mercury"
 {
-	LongLat	[ -155.0 -15.0 0 ]
+	LongLat	[ -155 -15 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4243,7 +4243,7 @@ Location "SOLITUDO MAIAE" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO MARTIS" "Sol/Mercury"
 {
-	LongLat	[ -100.0 -35.0 0 ]
+	LongLat	[ -100 -35 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4252,7 +4252,7 @@ Location "SOLITUDO MARTIS" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO NEPTUNI" "Sol/Mercury"
 {
-	LongLat	[ -150.0 30.0 0 ]
+	LongLat	[ -150 30 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4261,7 +4261,7 @@ Location "SOLITUDO NEPTUNI" "Sol/Mercury"
 # Origin: Albedo name for H-13, Neruda region.
 Location "SOLITUDO PERSEPHONES" "Sol/Mercury"
 {
-	LongLat	[ 135.0 -41.0 0 ]
+	LongLat	[ 135 -41 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4270,7 +4270,7 @@ Location "SOLITUDO PERSEPHONES" "Sol/Mercury"
 # Origin: Albedo feature; Antoniadi map.
 Location "SOLITUDO PHOENICIS" "Sol/Mercury"
 {
-	LongLat	[ 135.0 25.0 0 ]
+	LongLat	[ 135 25 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4279,7 +4279,7 @@ Location "SOLITUDO PHOENICIS" "Sol/Mercury"
 # Origin: Albedo name for H-12, Michelangelo region.
 Location "SOLITUDO PROMETHEI" "Sol/Mercury"
 {
-	LongLat	[ -142.5 -45.0 0 ]
+	LongLat	[ -142.5 -45 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4289,7 +4289,7 @@ Location "SOLITUDO PROMETHEI" "Sol/Mercury"
 Location "Sophocles" "Sol/Mercury"
 {
 	LongLat	[ -146.04 -6.95 0 ]
-	Size	142.00
+	Size	142
 	Type	"AA"	# Crater, craters
 }
 
@@ -4298,7 +4298,7 @@ Location "Sophocles" "Sol/Mercury"
 Location "Sor Juana" "Sol/Mercury"
 {
 	LongLat	[ -25.59 50.51 0 ]
-	Size	102.00
+	Size	102
 	Type	"AA"	# Crater, craters
 }
 
@@ -4307,7 +4307,7 @@ Location "Sor Juana" "Sol/Mercury"
 Location "Sōseki" "Sol/Mercury"
 {
 	LongLat	[ -38.77 39.31 0 ]
-	Size	92.00
+	Size	92
 	Type	"AA"	# Crater, craters
 }
 
@@ -4316,7 +4316,7 @@ Location "Sōseki" "Sol/Mercury"
 Location "Sōtatsu" "Sol/Mercury"
 {
 	LongLat	[ -18.17 -48.73 0 ]
-	Size	157.00
+	Size	157
 	Type	"AA"	# Crater, craters
 }
 
@@ -4325,7 +4325,7 @@ Location "Sōtatsu" "Sol/Mercury"
 Location "Sousa" "Sol/Mercury"
 {
 	LongLat	[ 0.63 46.69 0 ]
-	Size	138.00
+	Size	138
 	Type	"AA"	# Crater, craters
 }
 
@@ -4334,7 +4334,7 @@ Location "Sousa" "Sol/Mercury"
 Location "Soya Rupes" "Sol/Mercury"
 {
 	LongLat	[ 66.63 -6.47 0 ]
-	Size	372.00
+	Size	372
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4343,7 +4343,7 @@ Location "Soya Rupes" "Sol/Mercury"
 Location "Spitteler" "Sol/Mercury"
 {
 	LongLat	[ -60.26 -69.18 0 ]
-	Size	67.00
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -4352,7 +4352,7 @@ Location "Spitteler" "Sol/Mercury"
 Location "Steichen" "Sol/Mercury"
 {
 	LongLat	[ 77.04 -12.79 0 ]
-	Size	196.00
+	Size	196
 	Type	"AA"	# Crater, craters
 }
 
@@ -4361,7 +4361,7 @@ Location "Steichen" "Sol/Mercury"
 Location "Stevenson" "Sol/Mercury"
 {
 	LongLat	[ -143.88 2.05 0 ]
-	Size	134.00
+	Size	134
 	Type	"AA"	# Crater, craters
 }
 
@@ -4370,7 +4370,7 @@ Location "Stevenson" "Sol/Mercury"
 Location "Stieglitz" "Sol/Mercury"
 {
 	LongLat	[ 67.63 72.54 0 ]
-	Size	100.00
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -4379,7 +4379,7 @@ Location "Stieglitz" "Sol/Mercury"
 Location "Stilbon Planitia" "Sol/Mercury"
 {
 	LongLat	[ 150.39 57.54 0 ]
-	Size	1550.00
+	Size	1550
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4388,7 +4388,7 @@ Location "Stilbon Planitia" "Sol/Mercury"
 Location "Strauss" "Sol/Mercury"
 {
 	LongLat	[ 74.47 70.42 0 ]
-	Size	17.00
+	Size	17
 	Type	"AA"	# Crater, craters
 }
 
@@ -4397,7 +4397,7 @@ Location "Strauss" "Sol/Mercury"
 Location "Stravinsky" "Sol/Mercury"
 {
 	LongLat	[ -78.9 51.95 0 ]
-	Size	129.00
+	Size	129
 	Type	"AA"	# Crater, craters
 }
 
@@ -4406,7 +4406,7 @@ Location "Stravinsky" "Sol/Mercury"
 Location "Strindberg" "Sol/Mercury"
 {
 	LongLat	[ -136.67 53.41 0 ]
-	Size	189.00
+	Size	189
 	Type	"AA"	# Crater, craters
 }
 
@@ -4415,7 +4415,7 @@ Location "Strindberg" "Sol/Mercury"
 Location "Suge Facula" "Sol/Mercury"
 {
 	LongLat	[ 59.6 26.1 0 ]
-	Size	32.00
+	Size	32
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4424,7 +4424,7 @@ Location "Suge Facula" "Sol/Mercury"
 Location "Suisei Planitia" "Sol/Mercury"
 {
 	LongLat	[ -147.81 60.88 0 ]
-	Size	569.00
+	Size	569
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4442,7 +4442,7 @@ Location "Sullivan" "Sol/Mercury"
 Location "Sūr Dās" "Sol/Mercury"
 {
 	LongLat	[ -93.57 -46.98 0 ]
-	Size	131.00
+	Size	131
 	Type	"AA"	# Crater, craters
 }
 
@@ -4451,7 +4451,7 @@ Location "Sūr Dās" "Sol/Mercury"
 Location "Surikov" "Sol/Mercury"
 {
 	LongLat	[ -124.9 -36.98 0 ]
-	Size	224.00
+	Size	224
 	Type	"AA"	# Crater, craters
 }
 
@@ -4469,7 +4469,7 @@ Location "Sveinsdóttir" "Sol/Mercury"
 Location "Takanobu" "Sol/Mercury"
 {
 	LongLat	[ -108.56 30.66 0 ]
-	Size	72.00
+	Size	72
 	Type	"AA"	# Crater, craters
 }
 
@@ -4478,7 +4478,7 @@ Location "Takanobu" "Sol/Mercury"
 Location "Takayoshi" "Sol/Mercury"
 {
 	LongLat	[ -163.82 -37.23 0 ]
-	Size	136.00
+	Size	136
 	Type	"AA"	# Crater, craters
 }
 
@@ -4487,7 +4487,7 @@ Location "Takayoshi" "Sol/Mercury"
 Location "Tangaroa Rupes" "Sol/Mercury"
 {
 	LongLat	[ -173.27 1.04 0 ]
-	Size	273.00
+	Size	273
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4496,7 +4496,7 @@ Location "Tangaroa Rupes" "Sol/Mercury"
 Location "Tansen" "Sol/Mercury"
 {
 	LongLat	[ -71.67 4.11 0 ]
-	Size	27.00
+	Size	27
 	Type	"AA"	# Crater, craters
 }
 
@@ -4514,7 +4514,7 @@ Location "Terror Rupes" "Sol/Mercury"
 Location "Thākur" "Sol/Mercury"
 {
 	LongLat	[ -64.57 -3.05 0 ]
-	Size	111.00
+	Size	111
 	Type	"AA"	# Crater, craters
 }
 
@@ -4523,7 +4523,7 @@ Location "Thākur" "Sol/Mercury"
 Location "Theophanes" "Sol/Mercury"
 {
 	LongLat	[ -142.78 -5.02 0 ]
-	Size	46.00
+	Size	46
 	Type	"AA"	# Crater, craters
 }
 
@@ -4532,7 +4532,7 @@ Location "Theophanes" "Sol/Mercury"
 Location "Thoreau" "Sol/Mercury"
 {
 	LongLat	[ -132.64 5.94 0 ]
-	Size	72.00
+	Size	72
 	Type	"AA"	# Crater, craters
 }
 
@@ -4541,7 +4541,7 @@ Location "Thoreau" "Sol/Mercury"
 Location "Thueban Facula" "Sol/Mercury"
 {
 	LongLat	[ 159.5 48.7 0 ]
-	Size	25.00
+	Size	25
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4550,7 +4550,7 @@ Location "Thueban Facula" "Sol/Mercury"
 Location "Timgad Vallis" "Sol/Mercury"
 {
 	LongLat	[ 116.44 60.88 0 ]
-	Size	116.00
+	Size	116
 	Type	"VA"	# Vallis, valles
 }
 
@@ -4559,7 +4559,7 @@ Location "Timgad Vallis" "Sol/Mercury"
 Location "Tintoretto" "Sol/Mercury"
 {
 	LongLat	[ -22.95 -47.99 0 ]
-	Size	94.00
+	Size	94
 	Type	"AA"	# Crater, craters
 }
 
@@ -4569,7 +4569,7 @@ Location "Tintoretto" "Sol/Mercury"
 Location "Tir Planitia" "Sol/Mercury"
 {
 	LongLat	[ -176.69 -1.04 0 ]
-	Size	754.00
+	Size	754
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4578,7 +4578,7 @@ Location "Tir Planitia" "Sol/Mercury"
 Location "Titian" "Sol/Mercury"
 {
 	LongLat	[ -42.53 -3.69 0 ]
-	Size	109.00
+	Size	109
 	Type	"AA"	# Crater, craters
 }
 
@@ -4587,7 +4587,7 @@ Location "Titian" "Sol/Mercury"
 Location "Tolkien" "Sol/Mercury"
 {
 	LongLat	[ 148.92 88.82 0 ]
-	Size	50.00
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -4596,7 +4596,7 @@ Location "Tolkien" "Sol/Mercury"
 Location "Tolstoj" "Sol/Mercury"
 {
 	LongLat	[ -164.64 -16.23 0 ]
-	Size	355.00
+	Size	355
 	Type	"AA"	# Crater, craters
 }
 
@@ -4605,7 +4605,7 @@ Location "Tolstoj" "Sol/Mercury"
 Location "To Ngoc Van" "Sol/Mercury"
 {
 	LongLat	[ -111.7 52.49 0 ]
-	Size	71.00
+	Size	71
 	Type	"AA"	# Crater, craters
 }
 
@@ -4613,8 +4613,8 @@ Location "To Ngoc Van" "Sol/Mercury"
 # Origin: Pamela Lyndon (born Helen Lyndon Goff); Australian-born British writer best known for Mary Poppins series of children’s books (1899-1996).
 Location "Travers" "Sol/Mercury"
 {
-	LongLat	[ 30.9 -28.0 0 ]
-	Size	164.00
+	LongLat	[ 30.9 -28 0 ]
+	Size	164
 	Type	"AA"	# Crater, craters
 }
 
@@ -4622,7 +4622,7 @@ Location "Travers" "Sol/Mercury"
 # Origin: Albedo name for H-6, Kuiper region.
 Location "TRICRENA" "Sol/Mercury"
 {
-	LongLat	[ -36.0 0.0 0 ]
+	LongLat	[ -36 0 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4632,7 +4632,7 @@ Location "TRICRENA" "Sol/Mercury"
 Location "Tryggvadóttir" "Sol/Mercury"
 {
 	LongLat	[ -171.56 89.55 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -4641,7 +4641,7 @@ Location "Tryggvadóttir" "Sol/Mercury"
 Location "Ts'ai Wen-Chi" "Sol/Mercury"
 {
 	LongLat	[ -23.15 23.47 0 ]
-	Size	124.00
+	Size	124
 	Type	"AA"	# Crater, craters
 }
 
@@ -4650,7 +4650,7 @@ Location "Ts'ai Wen-Chi" "Sol/Mercury"
 Location "Ts'ao Chan" "Sol/Mercury"
 {
 	LongLat	[ -142.35 -13.31 0 ]
-	Size	110.00
+	Size	110
 	Type	"AA"	# Crater, craters
 }
 
@@ -4659,7 +4659,7 @@ Location "Ts'ao Chan" "Sol/Mercury"
 Location "Tsurayuki" "Sol/Mercury"
 {
 	LongLat	[ -20.34 -62.99 0 ]
-	Size	83.00
+	Size	83
 	Type	"AA"	# Crater, craters
 }
 
@@ -4677,7 +4677,7 @@ Location "Tung Yüan" "Sol/Mercury"
 Location "Turgenev" "Sol/Mercury"
 {
 	LongLat	[ -136.26 65.68 0 ]
-	Size	136.00
+	Size	136
 	Type	"AA"	# Crater, craters
 }
 
@@ -4686,7 +4686,7 @@ Location "Turgenev" "Sol/Mercury"
 Location "Turms Planitia" "Sol/Mercury"
 {
 	LongLat	[ 9.19 -31.05 0 ]
-	Size	622.00
+	Size	622
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4695,7 +4695,7 @@ Location "Turms Planitia" "Sol/Mercury"
 Location "Tyagaraja" "Sol/Mercury"
 {
 	LongLat	[ -148.9 3.89 0 ]
-	Size	97.00
+	Size	97
 	Type	"AA"	# Crater, craters
 }
 
@@ -4704,7 +4704,7 @@ Location "Tyagaraja" "Sol/Mercury"
 Location "Ular Facula" "Sol/Mercury"
 {
 	LongLat	[ -29.95 -55.1 0 ]
-	Size	41.00
+	Size	41
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4713,7 +4713,7 @@ Location "Ular Facula" "Sol/Mercury"
 Location "Unity Rupes" "Sol/Mercury"
 {
 	LongLat	[ 84.8 27.16 0 ]
-	Size	350.00
+	Size	350
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4722,7 +4722,7 @@ Location "Unity Rupes" "Sol/Mercury"
 Location "Unkei" "Sol/Mercury"
 {
 	LongLat	[ -62.6 -31.79 0 ]
-	Size	121.00
+	Size	121
 	Type	"AA"	# Crater, craters
 }
 
@@ -4731,7 +4731,7 @@ Location "Unkei" "Sol/Mercury"
 Location "Ustad Isa" "Sol/Mercury"
 {
 	LongLat	[ -166.11 -31.91 0 ]
-	Size	138.00
+	Size	138
 	Type	"AA"	# Crater, craters
 }
 
@@ -4740,7 +4740,7 @@ Location "Ustad Isa" "Sol/Mercury"
 Location "Utaridi Planitia" "Sol/Mercury"
 {
 	LongLat	[ 89.83 -65.5 0 ]
-	Size	930.00
+	Size	930
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4749,7 +4749,7 @@ Location "Utaridi Planitia" "Sol/Mercury"
 Location "Vālmiki" "Sol/Mercury"
 {
 	LongLat	[ -141.41 -23.58 0 ]
-	Size	210.00
+	Size	210
 	Type	"AA"	# Crater, craters
 }
 
@@ -4767,7 +4767,7 @@ Location "Van Dijck" "Sol/Mercury"
 Location "Van Eyck" "Sol/Mercury"
 {
 	LongLat	[ -159.43 43.22 0 ]
-	Size	271.00
+	Size	271
 	Type	"AA"	# Crater, craters
 }
 
@@ -4776,7 +4776,7 @@ Location "Van Eyck" "Sol/Mercury"
 Location "van Gogh" "Sol/Mercury"
 {
 	LongLat	[ -138.68 -76.88 0 ]
-	Size	99.00
+	Size	99
 	Type	"AA"	# Crater, craters
 }
 
@@ -4785,7 +4785,7 @@ Location "van Gogh" "Sol/Mercury"
 Location "Varma" "Sol/Mercury"
 {
 	LongLat	[ -18.97 80.04 0 ]
-	Size	30.00
+	Size	30
 	Type	"AA"	# Crater, craters
 }
 
@@ -4794,7 +4794,7 @@ Location "Varma" "Sol/Mercury"
 Location "Vazov" "Sol/Mercury"
 {
 	LongLat	[ 147.67 -65.4 0 ]
-	Size	33.00
+	Size	33
 	Type	"AA"	# Crater, craters
 }
 
@@ -4812,7 +4812,7 @@ Location "Vejas Rupes" "Sol/Mercury"
 Location "Velázquez" "Sol/Mercury"
 {
 	LongLat	[ -55.43 37.59 0 ]
-	Size	128.00
+	Size	128
 	Type	"AA"	# Crater, craters
 }
 
@@ -4821,7 +4821,7 @@ Location "Velázquez" "Sol/Mercury"
 Location "Verdi" "Sol/Mercury"
 {
 	LongLat	[ -169.71 64.36 0 ]
-	Size	145.00
+	Size	145
 	Type	"AA"	# Crater, craters
 }
 
@@ -4830,7 +4830,7 @@ Location "Verdi" "Sol/Mercury"
 Location "Veronese" "Sol/Mercury"
 {
 	LongLat	[ -55.95 5.3 0 ]
-	Size	45.00
+	Size	45
 	Type	"AA"	# Crater, craters
 }
 
@@ -4839,7 +4839,7 @@ Location "Veronese" "Sol/Mercury"
 Location "Victoria Rupes" "Sol/Mercury"
 {
 	LongLat	[ -34.16 52.71 0 ]
-	Size	347.00
+	Size	347
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4848,7 +4848,7 @@ Location "Victoria Rupes" "Sol/Mercury"
 Location "Vieira da Silva" "Sol/Mercury"
 {
 	LongLat	[ -123.41 1.54 0 ]
-	Size	274.00
+	Size	274
 	Type	"AA"	# Crater, craters
 }
 
@@ -4857,7 +4857,7 @@ Location "Vieira da Silva" "Sol/Mercury"
 Location "Villa-Lobos" "Sol/Mercury"
 {
 	LongLat	[ 6.79 5.27 0 ]
-	Size	67.00
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -4866,7 +4866,7 @@ Location "Villa-Lobos" "Sol/Mercury"
 Location "Vincente" "Sol/Mercury"
 {
 	LongLat	[ -142.96 -56.75 0 ]
-	Size	108.00
+	Size	108
 	Type	"AA"	# Crater, craters
 }
 
@@ -4875,7 +4875,7 @@ Location "Vincente" "Sol/Mercury"
 Location "Vivaldi" "Sol/Mercury"
 {
 	LongLat	[ -85.92 13.76 0 ]
-	Size	213.00
+	Size	213
 	Type	"AA"	# Crater, craters
 }
 
@@ -4884,7 +4884,7 @@ Location "Vivaldi" "Sol/Mercury"
 Location "Vlaminck" "Sol/Mercury"
 {
 	LongLat	[ -13.51 28.48 0 ]
-	Size	82.00
+	Size	82
 	Type	"AA"	# Crater, craters
 }
 
@@ -4902,7 +4902,7 @@ Location "Vonnegut" "Sol/Mercury"
 Location "Vostok Rupes" "Sol/Mercury"
 {
 	LongLat	[ -19.6 -37.88 0 ]
-	Size	124.00
+	Size	124
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -4911,7 +4911,7 @@ Location "Vostok Rupes" "Sol/Mercury"
 Location "Vyāsa" "Sol/Mercury"
 {
 	LongLat	[ -84.62 49.79 0 ]
-	Size	297.00
+	Size	297
 	Type	"AA"	# Crater, craters
 }
 
@@ -4920,7 +4920,7 @@ Location "Vyāsa" "Sol/Mercury"
 Location "Wagner" "Sol/Mercury"
 {
 	LongLat	[ -114.78 -68.25 0 ]
-	Size	134.00
+	Size	134
 	Type	"AA"	# Crater, craters
 }
 
@@ -4929,7 +4929,7 @@ Location "Wagner" "Sol/Mercury"
 Location "Wang Meng" "Sol/Mercury"
 {
 	LongLat	[ -104.12 8.53 0 ]
-	Size	165.00
+	Size	165
 	Type	"AA"	# Crater, craters
 }
 
@@ -4938,7 +4938,7 @@ Location "Wang Meng" "Sol/Mercury"
 Location "Warhol" "Sol/Mercury"
 {
 	LongLat	[ -6.27 -2.55 0 ]
-	Size	91.00
+	Size	91
 	Type	"AA"	# Crater, craters
 }
 
@@ -4947,7 +4947,7 @@ Location "Warhol" "Sol/Mercury"
 Location "Waters" "Sol/Mercury"
 {
 	LongLat	[ -105.45 -8.96 0 ]
-	Size	15.00
+	Size	15
 	Type	"AA"	# Crater, craters
 }
 
@@ -4965,7 +4965,7 @@ Location "Wen Tianxiang" "Sol/Mercury"
 Location "Wergeland" "Sol/Mercury"
 {
 	LongLat	[ -56.36 -37.93 0 ]
-	Size	42.00
+	Size	42
 	Type	"AA"	# Crater, craters
 }
 
@@ -4974,7 +4974,7 @@ Location "Wergeland" "Sol/Mercury"
 Location "Whitman" "Sol/Mercury"
 {
 	LongLat	[ -111.64 41.4 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -4983,7 +4983,7 @@ Location "Whitman" "Sol/Mercury"
 Location "Wren" "Sol/Mercury"
 {
 	LongLat	[ -35.95 24.84 0 ]
-	Size	204.00
+	Size	204
 	Type	"AA"	# Crater, craters
 }
 
@@ -4992,7 +4992,7 @@ Location "Wren" "Sol/Mercury"
 Location "Xiao Zhao" "Sol/Mercury"
 {
 	LongLat	[ 123.84 10.58 0 ]
-	Size	24.00
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -5001,7 +5001,7 @@ Location "Xiao Zhao" "Sol/Mercury"
 Location "Xuelong Rupes" "Sol/Mercury"
 {
 	LongLat	[ 177.13 57.27 0 ]
-	Size	390.00
+	Size	390
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -5010,7 +5010,7 @@ Location "Xuelong Rupes" "Sol/Mercury"
 Location "Yamada" "Sol/Mercury"
 {
 	LongLat	[ 136.16 82.54 0 ]
-	Size	17.10
+	Size	17.1
 	Type	"AA"	# Crater, craters
 }
 
@@ -5019,7 +5019,7 @@ Location "Yamada" "Sol/Mercury"
 Location "Yeats" "Sol/Mercury"
 {
 	LongLat	[ -35.03 9.44 0 ]
-	Size	92.00
+	Size	92
 	Type	"AA"	# Crater, craters
 }
 
@@ -5028,7 +5028,7 @@ Location "Yeats" "Sol/Mercury"
 Location "Yelcho Rupes" "Sol/Mercury"
 {
 	LongLat	[ 135.89 23.54 0 ]
-	Size	63.00
+	Size	63
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -5046,7 +5046,7 @@ Location "Yinshe Facula" "Sol/Mercury"
 Location "Yoshikawa" "Sol/Mercury"
 {
 	LongLat	[ 106.03 81.21 0 ]
-	Size	30.00
+	Size	30
 	Type	"AA"	# Crater, craters
 }
 
@@ -5055,7 +5055,7 @@ Location "Yoshikawa" "Sol/Mercury"
 Location "Yun Sǒn-Do" "Sol/Mercury"
 {
 	LongLat	[ -110.08 -73.49 0 ]
-	Size	76.00
+	Size	76
 	Type	"AA"	# Crater, craters
 }
 
@@ -5064,7 +5064,7 @@ Location "Yun Sǒn-Do" "Sol/Mercury"
 Location "Zapiola Rupes" "Sol/Mercury"
 {
 	LongLat	[ -44.02 72.36 0 ]
-	Size	89.00
+	Size	89
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -5073,7 +5073,7 @@ Location "Zapiola Rupes" "Sol/Mercury"
 Location "Zarya Rupes" "Sol/Mercury"
 {
 	LongLat	[ -20.42 -42.73 0 ]
-	Size	128.00
+	Size	128
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -5082,7 +5082,7 @@ Location "Zarya Rupes" "Sol/Mercury"
 Location "Zeami" "Sol/Mercury"
 {
 	LongLat	[ -147.41 -2.96 0 ]
-	Size	129.00
+	Size	129
 	Type	"AA"	# Crater, craters
 }
 
@@ -5091,7 +5091,7 @@ Location "Zeami" "Sol/Mercury"
 Location "Zeehaen Rupes" "Sol/Mercury"
 {
 	LongLat	[ -158.15 49.64 0 ]
-	Size	164.00
+	Size	164
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -5100,7 +5100,7 @@ Location "Zeehaen Rupes" "Sol/Mercury"
 Location "Zmija Facula" "Sol/Mercury"
 {
 	LongLat	[ 92.25 -37.35 0 ]
-	Size	34.70
+	Size	34.7
 	Type	"FA"	# Facula, faculae
 }
 
@@ -5109,6 +5109,6 @@ Location "Zmija Facula" "Sol/Mercury"
 Location "Zola" "Sol/Mercury"
 {
 	LongLat	[ -178.25 49.75 0 ]
-	Size	70.00
+	Size	70
 	Type	"AA"	# Crater, craters
 }

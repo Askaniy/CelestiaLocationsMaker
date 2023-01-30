@@ -52,8 +52,11 @@ no_list = ("n", "f", "0")
 
 # SSC writer
 
-def proper_round(num):
-    return num
+def rround(num):
+    if int(num) == num:
+        return int(num)
+    else:
+        return round(num, 7)
 
 def reader(request):
     global zero_size_counter
@@ -121,10 +124,11 @@ def reader(request):
                     lat *= -1
                 if invert_long:
                     long *= -1
-                location += f'\tLongLat\t[ {round(long, 7)} {round(lat, 7)} 0 ]\n'
+                location += f'\tLongLat\t[ {rround(long)} {rround(lat)} 0 ]\n'
             
             # Size/Importance
-            if float(data["Diameter"]) == 0:
+            diameter = float(data["Diameter"])
+            if diameter == 0:
                 zero_size_counter += 1
                 if data["Feature Type Code"] == "AL":
                     location += f'\tImportance\t20\n'
@@ -133,7 +137,7 @@ def reader(request):
                 else:
                     location += f'\tSize\t10\n'
             else:
-                location += f'\tSize\t{data["Diameter"]}\n'
+                location += f'\tSize\t{rround(diameter)}\n'
             
             # Type
             if celestia16 and data["Feature Type Code"] not in celestia16supports:

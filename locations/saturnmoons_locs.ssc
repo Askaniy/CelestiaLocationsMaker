@@ -73,7 +73,7 @@ Location "Phoibe" "Sol/Saturn/Janus"
 Location "Accolon" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 175.59 -70.56 0 ]
-	Size	48.00
+	Size	48
 	Type	"AA"	# Crater, craters
 }
 
@@ -82,7 +82,7 @@ Location "Accolon" "Sol/Saturn/Mimas"
 Location "Arthur" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 163.96 -35.4 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -90,8 +90,8 @@ Location "Arthur" "Sol/Saturn/Mimas"
 # Origin: Arthurian paradise.
 Location "Avalon Chasma" "Sol/Saturn/Mimas"
 {
-	LongLat	[ -147.0 35.0 0 ]
-	Size	120.00
+	LongLat	[ -147 35 0 ]
+	Size	120
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -100,7 +100,7 @@ Location "Avalon Chasma" "Sol/Saturn/Mimas"
 Location "Balin" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -82.51 14.71 0 ]
-	Size	35.00
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -109,7 +109,7 @@ Location "Balin" "Sol/Saturn/Mimas"
 Location "Ban" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -160.75 43.93 0 ]
-	Size	37.00
+	Size	37
 	Type	"AA"	# Crater, craters
 }
 
@@ -118,7 +118,7 @@ Location "Ban" "Sol/Saturn/Mimas"
 Location "Bedivere" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -149.42 9.57 0 ]
-	Size	25.00
+	Size	25
 	Type	"AA"	# Crater, craters
 }
 
@@ -127,7 +127,7 @@ Location "Bedivere" "Sol/Saturn/Mimas"
 Location "Bors" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -172.3 41.82 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -135,8 +135,8 @@ Location "Bors" "Sol/Saturn/Mimas"
 # Origin: Home of the Round Table assemblage.
 Location "Camelot Chasma" "Sol/Saturn/Mimas"
 {
-	LongLat	[ -23.4 -43.0 0 ]
-	Size	150.00
+	LongLat	[ -23.4 -43 0 ]
+	Size	150
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -145,7 +145,7 @@ Location "Camelot Chasma" "Sol/Saturn/Mimas"
 Location "Dagonet" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 98.38 47.84 0 ]
-	Size	28.00
+	Size	28
 	Type	"AA"	# Crater, craters
 }
 
@@ -154,7 +154,7 @@ Location "Dagonet" "Sol/Saturn/Mimas"
 Location "Dynas" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -80.71 2.35 0 ]
-	Size	35.00
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -162,8 +162,8 @@ Location "Dynas" "Sol/Saturn/Mimas"
 # Origin: Daughter of King Pelles, lover of Sir Launcelot and mother, by him, of Sir Galahad.
 Location "Elaine" "Sol/Saturn/Mimas"
 {
-	LongLat	[ -107.0 46.33 0 ]
-	Size	21.00
+	LongLat	[ -107 46.33 0 ]
+	Size	21
 	Type	"AA"	# Crater, craters
 }
 
@@ -172,7 +172,7 @@ Location "Elaine" "Sol/Saturn/Mimas"
 Location "Gaheris" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 61.81 -44.57 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -181,7 +181,7 @@ Location "Gaheris" "Sol/Saturn/Mimas"
 Location "Galahad" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -145.31 -45.32 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -190,7 +190,7 @@ Location "Galahad" "Sol/Saturn/Mimas"
 Location "Gareth" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 72.22 -43.06 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -199,7 +199,7 @@ Location "Gareth" "Sol/Saturn/Mimas"
 Location "Gawain" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 98.92 -58.54 0 ]
-	Size	27.00
+	Size	27
 	Type	"AA"	# Crater, craters
 }
 
@@ -208,7 +208,7 @@ Location "Gawain" "Sol/Saturn/Mimas"
 Location "Gwynevere" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 36.3 -17.6 0 ]
-	Size	42.00
+	Size	42
 	Type	"AA"	# Crater, craters
 }
 
@@ -217,7 +217,7 @@ Location "Gwynevere" "Sol/Saturn/Mimas"
 Location "Herschel" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -111.76 -1.38 0 ]
-	Size	139.00
+	Size	139
 	Type	"AA"	# Crater, craters
 }
 
@@ -226,7 +226,7 @@ Location "Herschel" "Sol/Saturn/Mimas"
 Location "Igraine" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 128.79 -41.99 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -235,7 +235,7 @@ Location "Igraine" "Sol/Saturn/Mimas"
 Location "Iseult" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -33.78 -47.24 0 ]
-	Size	21.00
+	Size	21
 	Type	"AA"	# Crater, craters
 }
 
@@ -244,7 +244,7 @@ Location "Iseult" "Sol/Saturn/Mimas"
 Location "Kay" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -120.54 44.61 0 ]
-	Size	24.00
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -253,7 +253,7 @@ Location "Kay" "Sol/Saturn/Mimas"
 Location "Lamerok" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 70.82 -62.27 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -262,7 +262,7 @@ Location "Lamerok" "Sol/Saturn/Mimas"
 Location "Launcelot" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 31.51 -9.46 0 ]
-	Size	30.00
+	Size	30
 	Type	"AA"	# Crater, craters
 }
 
@@ -271,7 +271,7 @@ Location "Launcelot" "Sol/Saturn/Mimas"
 Location "Lot" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 128.4 -31.46 0 ]
-	Size	22.00
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -280,7 +280,7 @@ Location "Lot" "Sol/Saturn/Mimas"
 Location "Lucas" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 139.65 40.75 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -289,7 +289,7 @@ Location "Lucas" "Sol/Saturn/Mimas"
 Location "Marhaus" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -0.06 -8.96 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -298,7 +298,7 @@ Location "Marhaus" "Sol/Saturn/Mimas"
 Location "Mark" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 51.68 -26.28 0 ]
-	Size	20.80
+	Size	20.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -307,7 +307,7 @@ Location "Mark" "Sol/Saturn/Mimas"
 Location "Melyodas" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -77.19 -74.93 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -316,7 +316,7 @@ Location "Melyodas" "Sol/Saturn/Mimas"
 Location "Merlin" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 140.99 -38.43 0 ]
-	Size	37.00
+	Size	37
 	Type	"AA"	# Crater, craters
 }
 
@@ -325,7 +325,7 @@ Location "Merlin" "Sol/Saturn/Mimas"
 Location "Modred" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 140.32 4.15 0 ]
-	Size	26.00
+	Size	26
 	Type	"AA"	# Crater, craters
 }
 
@@ -334,7 +334,7 @@ Location "Modred" "Sol/Saturn/Mimas"
 Location "Morgan" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 115.02 24.21 0 ]
-	Size	43.00
+	Size	43
 	Type	"AA"	# Crater, craters
 }
 
@@ -343,7 +343,7 @@ Location "Morgan" "Sol/Saturn/Mimas"
 Location "Nero" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 52.7 -0.36 0 ]
-	Size	22.00
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -351,8 +351,8 @@ Location "Nero" "Sol/Saturn/Mimas"
 # Origin: Shook by a Titan in the war between Titans and Olympians.
 Location "Oeta Chasma" "Sol/Saturn/Mimas"
 {
-	LongLat	[ -122.7 19.0 0 ]
-	Size	110.00
+	LongLat	[ -122.7 19 0 ]
+	Size	110
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -361,7 +361,7 @@ Location "Oeta Chasma" "Sol/Saturn/Mimas"
 Location "Ossa Chasma" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 56.25 -23.56 0 ]
-	Size	95.00
+	Size	95
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -370,8 +370,8 @@ Location "Ossa Chasma" "Sol/Saturn/Mimas"
 # Additional info: Defines 162 degrees longitude on Mimas.
 Location "Palomides" "Sol/Saturn/Mimas"
 {
-	LongLat	[ -162.0 3.39 0 ]
-	Size	10.00
+	LongLat	[ -162 3.39 0 ]
+	Size	10
 	Type	"AA"	# Crater, craters
 }
 
@@ -380,7 +380,7 @@ Location "Palomides" "Sol/Saturn/Mimas"
 Location "Pangea Chasma" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 19.59 -28.12 0 ]
-	Size	150.00
+	Size	150
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -389,7 +389,7 @@ Location "Pangea Chasma" "Sol/Saturn/Mimas"
 Location "Pelion Chasma" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 109.92 -25.31 0 ]
-	Size	100.00
+	Size	100
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -398,7 +398,7 @@ Location "Pelion Chasma" "Sol/Saturn/Mimas"
 Location "Pellinore" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -135.45 29.76 0 ]
-	Size	36.00
+	Size	36
 	Type	"AA"	# Crater, craters
 }
 
@@ -407,7 +407,7 @@ Location "Pellinore" "Sol/Saturn/Mimas"
 Location "Percivale" "Sol/Saturn/Mimas"
 {
 	LongLat	[ -178.86 -3.01 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -416,7 +416,7 @@ Location "Percivale" "Sol/Saturn/Mimas"
 Location "Royns" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 12.51 32.46 0 ]
-	Size	22.10
+	Size	22.1
 	Type	"AA"	# Crater, craters
 }
 
@@ -425,8 +425,8 @@ Location "Royns" "Sol/Saturn/Mimas"
 # Additional info: Name changed from Tintagil Chasma 7/13/2010.
 Location "Tintagil Catena" "Sol/Saturn/Mimas"
 {
-	LongLat	[ 125.0 -58.0 0 ]
-	Size	130.00
+	LongLat	[ 125 -58 0 ]
+	Size	130
 	Type	"CA"	# Catena, catenae
 }
 
@@ -434,8 +434,8 @@ Location "Tintagil Catena" "Sol/Saturn/Mimas"
 # Origin: Saved Iseult; fell in love with her.
 Location "Tristram" "Sol/Saturn/Mimas"
 {
-	LongLat	[ -26.0 -52.32 0 ]
-	Size	20.00
+	LongLat	[ -26 -52.32 0 ]
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -444,7 +444,7 @@ Location "Tristram" "Sol/Saturn/Mimas"
 Location "Uther" "Sol/Saturn/Mimas"
 {
 	LongLat	[ 109.83 -35.16 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -483,7 +483,7 @@ Location "Aladdin" "Sol/Saturn/Enceladus"
 Location "Al-Bakbuk" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 168.38 5.26 0 ]
-	Size	9.20
+	Size	9.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -492,7 +492,7 @@ Location "Al-Bakbuk" "Sol/Saturn/Enceladus"
 Location "Alexandria Sulcus" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -137.56 -75.63 0 ]
-	Size	111.00
+	Size	111
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -501,7 +501,7 @@ Location "Alexandria Sulcus" "Sol/Saturn/Enceladus"
 Location "Al-Fakik" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 53.45 35.52 0 ]
-	Size	15.20
+	Size	15.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -537,7 +537,7 @@ Location "Al-Kuz" "Sol/Saturn/Enceladus"
 Location "Al-Medinah Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 1.4 -50.7 0 ]
-	Size	117.50
+	Size	117.5
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -555,7 +555,7 @@ Location "Al-Mustazi" "Sol/Saturn/Enceladus"
 Location "Al-Yaman Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 168.2 9.7 0 ]
-	Size	177.90
+	Size	177.9
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -564,7 +564,7 @@ Location "Al-Yaman Sulci" "Sol/Saturn/Enceladus"
 Location "Anbar Fossae" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 36.68 -8.76 0 ]
-	Size	165.00
+	Size	165
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -573,7 +573,7 @@ Location "Anbar Fossae" "Sol/Saturn/Enceladus"
 Location "Andalús Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -79.1 29.1 0 ]
-	Size	162.00
+	Size	162
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -600,7 +600,7 @@ Location "Aziz" "Sol/Saturn/Enceladus"
 Location "Baghdad Sulcus" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 129.46 -86.91 0 ]
-	Size	176.00
+	Size	176
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -618,7 +618,7 @@ Location "Bahman" "Sol/Saturn/Enceladus"
 Location "Bassorah Fossa" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -19.9 39.8 0 ]
-	Size	75.00
+	Size	75
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -635,8 +635,8 @@ Location "Behram" "Sol/Saturn/Enceladus"
 # Origin: Place in the tale “;Prince Ahmad and the Fairy Peri Banu.“;
 Location "Bishangarh Fossae" "Sol/Saturn/Enceladus"
 {
-	LongLat	[ 134.2 -24.0 0 ]
-	Size	163.00
+	LongLat	[ 134.2 -24 0 ]
+	Size	163
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -654,7 +654,7 @@ Location "Bulak Sulcus" "Sol/Saturn/Enceladus"
 Location "Cairo Sulcus" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -154.48 -81.62 0 ]
-	Size	165.00
+	Size	165
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -663,7 +663,7 @@ Location "Cairo Sulcus" "Sol/Saturn/Enceladus"
 Location "Camphor Sulcus" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -149.4 -70.78 0 ]
-	Size	77.00
+	Size	77
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -672,7 +672,7 @@ Location "Camphor Sulcus" "Sol/Saturn/Enceladus"
 Location "Cashmere Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 63.94 -52.07 0 ]
-	Size	260.00
+	Size	260
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -681,7 +681,7 @@ Location "Cashmere Sulci" "Sol/Saturn/Enceladus"
 Location "Cufa Dorsa" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 73.83 3.19 0 ]
-	Size	90.00
+	Size	90
 	Type	"DO"	# Dorsum, dorsa
 }
 
@@ -699,7 +699,7 @@ Location "Dalilah" "Sol/Saturn/Enceladus"
 Location "Damascus Sulcus" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 74.13 -80.59 0 ]
-	Size	125.00
+	Size	125
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -708,7 +708,7 @@ Location "Damascus Sulcus" "Sol/Saturn/Enceladus"
 Location "Daryabar Fossa" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -5.42 9.65 0 ]
-	Size	200.00
+	Size	200
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -717,7 +717,7 @@ Location "Daryabar Fossa" "Sol/Saturn/Enceladus"
 Location "Diyar Planitia" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 108.05 -13.4 0 ]
-	Size	325.00
+	Size	325
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -735,7 +735,7 @@ Location "Duban" "Sol/Saturn/Enceladus"
 Location "Dunyazad" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 157.96 41.51 0 ]
-	Size	30.80
+	Size	30.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -744,7 +744,7 @@ Location "Dunyazad" "Sol/Saturn/Enceladus"
 Location "Ebony Dorsum" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 79.46 5.74 0 ]
-	Size	70.00
+	Size	70
 	Type	"DO"	# Dorsum, dorsa
 }
 
@@ -771,7 +771,7 @@ Location "Ghanim" "Sol/Saturn/Enceladus"
 Location "Gharib" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 118.85 81.12 0 ]
-	Size	26.00
+	Size	26
 	Type	"AA"	# Crater, craters
 }
 
@@ -779,8 +779,8 @@ Location "Gharib" "Sol/Saturn/Enceladus"
 # Origin: City in the tale “;The Man's Dispute with the Learned Woman of the Relative Excellence of the Male and Female.“;
 Location "Hamah Sulci" "Sol/Saturn/Enceladus"
 {
-	LongLat	[ 54.0 27.26 0 ]
-	Size	164.00
+	LongLat	[ 54 27.26 0 ]
+	Size	164
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -789,7 +789,7 @@ Location "Hamah Sulci" "Sol/Saturn/Enceladus"
 Location "Harran Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 114.07 26.39 0 ]
-	Size	291.00
+	Size	291
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -816,7 +816,7 @@ Location "Hassan" "Sol/Saturn/Enceladus"
 Location "Hisham" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 79.59 48.25 0 ]
-	Size	21.40
+	Size	21.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -825,7 +825,7 @@ Location "Hisham" "Sol/Saturn/Enceladus"
 Location "Isbanir Fossa" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 1.74 11.3 0 ]
-	Size	170.00
+	Size	170
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -852,7 +852,7 @@ Location "Ja’afar" "Sol/Saturn/Enceladus"
 Location "Jansha" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -157.4 -30.65 0 ]
-	Size	10.80
+	Size	10.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -887,8 +887,8 @@ Location "Kasim" "Sol/Saturn/Enceladus"
 # Origin: Place in the tale “;How Abu Hasan Brake Wind.“;
 Location "Kaukabán Fossae" "Sol/Saturn/Enceladus"
 {
-	LongLat	[ 94.0 33.0 0 ]
-	Size	83.40
+	LongLat	[ 94 33 0 ]
+	Size	83.4
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -896,8 +896,8 @@ Location "Kaukabán Fossae" "Sol/Saturn/Enceladus"
 # Origin: Place (province) in the tale “;Ali Shar and Zumurrud.“;
 Location "Khorasan Fossa" "Sol/Saturn/Enceladus"
 {
-	LongLat	[ 123.13 -19.0 0 ]
-	Size	290.00
+	LongLat	[ 123.13 -19 0 ]
+	Size	290
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -906,7 +906,7 @@ Location "Khorasan Fossa" "Sol/Saturn/Enceladus"
 Location "Khusrau" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 174.14 -4.1 0 ]
-	Size	12.40
+	Size	12.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -915,7 +915,7 @@ Location "Khusrau" "Sol/Saturn/Enceladus"
 Location "Labtayt Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 73.92 -27.69 0 ]
-	Size	162.00
+	Size	162
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -923,8 +923,8 @@ Location "Labtayt Sulci" "Sol/Saturn/Enceladus"
 # Origin: City in the tale “How Abu Hasan brake wind.”
 Location "Láhej Sulci" "Sol/Saturn/Enceladus"
 {
-	LongLat	[ 58.0 -10.89 0 ]
-	Size	150.00
+	LongLat	[ 58 -10.89 0 ]
+	Size	150
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -942,7 +942,7 @@ Location "Ma’aruf" "Sol/Saturn/Enceladus"
 Location "Makran Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -135.8 -54.4 0 ]
-	Size	170.50
+	Size	170.5
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -968,8 +968,8 @@ Location "Masrur" "Sol/Saturn/Enceladus"
 # Origin: City in the tale “;History of Al-Hajjaj Bin Yusuf and the Young Sayyid.“;
 Location "Misr Sulci" "Sol/Saturn/Enceladus"
 {
-	LongLat	[ 160.3 18.0 0 ]
-	Size	109.80
+	LongLat	[ 160.3 18 0 ]
+	Size	109.8
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -978,7 +978,7 @@ Location "Misr Sulci" "Sol/Saturn/Enceladus"
 Location "Morgiana" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 163.83 31.75 0 ]
-	Size	15.40
+	Size	15.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -987,7 +987,7 @@ Location "Morgiana" "Sol/Saturn/Enceladus"
 Location "Mosul Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 23.27 -58.1 0 ]
-	Size	60.00
+	Size	60
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -1105,8 +1105,8 @@ Location "Samaria Rupes" "Sol/Saturn/Enceladus"
 # Origin: Country ruled over by Zaman, brother of Shahryar.
 Location "Samarkand Sulci" "Sol/Saturn/Enceladus"
 {
-	LongLat	[ 32.5 30.0 0 ]
-	Size	360.00
+	LongLat	[ 32.5 30 0 ]
+	Size	360
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -1115,7 +1115,7 @@ Location "Samarkand Sulci" "Sol/Saturn/Enceladus"
 Location "Sarandib Planitia" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 48.18 10.23 0 ]
-	Size	165.00
+	Size	165
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -1133,7 +1133,7 @@ Location "Shahrazad" "Sol/Saturn/Enceladus"
 Location "Shahryar" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 133.31 57.71 0 ]
-	Size	24.00
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -1142,7 +1142,7 @@ Location "Shahryar" "Sol/Saturn/Enceladus"
 Location "Shakashik" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 178.74 -17.59 0 ]
-	Size	8.50
+	Size	8.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1151,7 +1151,7 @@ Location "Shakashik" "Sol/Saturn/Enceladus"
 Location "Sharrkan" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 58.09 16.42 0 ]
-	Size	4.30
+	Size	4.3
 	Type	"AA"	# Crater, craters
 }
 
@@ -1160,7 +1160,7 @@ Location "Sharrkan" "Sol/Saturn/Enceladus"
 Location "Shiraz Sulcus" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -39.4 -57.2 0 ]
-	Size	80.00
+	Size	80
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -1187,7 +1187,7 @@ Location "Sindbad" "Sol/Saturn/Enceladus"
 Location "Sind Sulci" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -107.3 -16.4 0 ]
-	Size	116.00
+	Size	116
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -1205,7 +1205,7 @@ Location "Yunan" "Sol/Saturn/Enceladus"
 Location "Zaynab" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ -26.97 69.52 0 ]
-	Size	23.80
+	Size	23.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1214,7 +1214,7 @@ Location "Zaynab" "Sol/Saturn/Enceladus"
 Location "Zumurrud" "Sol/Saturn/Enceladus"
 {
 	LongLat	[ 177.95 -22.23 0 ]
-	Size	20.80
+	Size	20.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1226,7 +1226,7 @@ Location "Zumurrud" "Sol/Saturn/Enceladus"
 Location "Achilles" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 35.62 0.6 0 ]
-	Size	58.60
+	Size	58.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -1235,7 +1235,7 @@ Location "Achilles" "Sol/Saturn/Tethys"
 Location "Aietes" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -6.23 -41.44 0 ]
-	Size	91.00
+	Size	91
 	Type	"AA"	# Crater, craters
 }
 
@@ -1243,8 +1243,8 @@ Location "Aietes" "Sol/Saturn/Tethys"
 # Origin: Greek hero second only to Achilles.
 Location "Ajax" "Sol/Saturn/Tethys"
 {
-	LongLat	[ 78.0 -28.41 0 ]
-	Size	88.00
+	LongLat	[ 78 -28.41 0 ]
+	Size	88
 	Type	"AA"	# Crater, craters
 }
 
@@ -1253,7 +1253,7 @@ Location "Ajax" "Sol/Saturn/Tethys"
 Location "Alcinous" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 147.39 30.31 0 ]
-	Size	50.00
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -1262,7 +1262,7 @@ Location "Alcinous" "Sol/Saturn/Tethys"
 Location "Amphinomus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -128.7 -14.87 0 ]
-	Size	13.60
+	Size	13.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -1271,7 +1271,7 @@ Location "Amphinomus" "Sol/Saturn/Tethys"
 Location "Anticleia" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -32.37 51.31 0 ]
-	Size	100.70
+	Size	100.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -1280,7 +1280,7 @@ Location "Anticleia" "Sol/Saturn/Tethys"
 Location "Antinous" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 73.85 -59.89 0 ]
-	Size	138.00
+	Size	138
 	Type	"AA"	# Crater, craters
 }
 
@@ -1289,8 +1289,8 @@ Location "Antinous" "Sol/Saturn/Tethys"
 # Additional info: Defines 299 degrees longitude on Tethys.
 Location "Arete" "Sol/Saturn/Tethys"
 {
-	LongLat	[ 61.0 -4.67 0 ]
-	Size	13.00
+	LongLat	[ 61 -4.67 0 ]
+	Size	13
 	Type	"AA"	# Crater, craters
 }
 
@@ -1299,7 +1299,7 @@ Location "Arete" "Sol/Saturn/Tethys"
 Location "Circe" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -54.66 -12.6 0 ]
-	Size	79.00
+	Size	79
 	Type	"AA"	# Crater, craters
 }
 
@@ -1308,7 +1308,7 @@ Location "Circe" "Sol/Saturn/Tethys"
 Location "Demodocus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -18.21 -59.37 0 ]
-	Size	125.00
+	Size	125
 	Type	"AA"	# Crater, craters
 }
 
@@ -1326,7 +1326,7 @@ Location "Diomedes" "Sol/Saturn/Tethys"
 Location "Dolius" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 149.67 -30.15 0 ]
-	Size	190.00
+	Size	190
 	Type	"AA"	# Crater, craters
 }
 
@@ -1335,7 +1335,7 @@ Location "Dolius" "Sol/Saturn/Tethys"
 Location "Elpenor" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 96.31 53.43 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -1344,7 +1344,7 @@ Location "Elpenor" "Sol/Saturn/Tethys"
 Location "Euanthes" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 121.09 7.86 0 ]
-	Size	33.00
+	Size	33
 	Type	"AA"	# Crater, craters
 }
 
@@ -1353,7 +1353,7 @@ Location "Euanthes" "Sol/Saturn/Tethys"
 Location "Eumaeus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -51.12 23.1 0 ]
-	Size	30.00
+	Size	30
 	Type	"AA"	# Crater, craters
 }
 
@@ -1362,7 +1362,7 @@ Location "Eumaeus" "Sol/Saturn/Tethys"
 Location "Eupithes" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -171.21 18.71 0 ]
-	Size	22.30
+	Size	22.3
 	Type	"AA"	# Crater, craters
 }
 
@@ -1371,7 +1371,7 @@ Location "Eupithes" "Sol/Saturn/Tethys"
 Location "Eurycleia" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 113.5 52.54 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -1380,7 +1380,7 @@ Location "Eurycleia" "Sol/Saturn/Tethys"
 Location "Eurylochus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -27.68 -5.07 0 ]
-	Size	44.80
+	Size	44.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1388,8 +1388,8 @@ Location "Eurylochus" "Sol/Saturn/Tethys"
 # Origin: One of the two leading suitors of Penelope, killed by Odysseus.
 Location "Eurymachus" "Sol/Saturn/Tethys"
 {
-	LongLat	[ -65.0 -35.65 0 ]
-	Size	38.40
+	LongLat	[ -65 -35.65 0 ]
+	Size	38.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -1398,7 +1398,7 @@ Location "Eurymachus" "Sol/Saturn/Tethys"
 Location "Halius" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -4.96 44.4 0 ]
-	Size	29.50
+	Size	29.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1407,7 +1407,7 @@ Location "Halius" "Sol/Saturn/Tethys"
 Location "Hermione" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -148.69 -38.4 0 ]
-	Size	68.20
+	Size	68.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -1416,7 +1416,7 @@ Location "Hermione" "Sol/Saturn/Tethys"
 Location "Icarius" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 54.15 -5.89 0 ]
-	Size	54.40
+	Size	54.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -1424,8 +1424,8 @@ Location "Icarius" "Sol/Saturn/Tethys"
 # Origin: Ithacan beggar.
 Location "Irus" "Sol/Saturn/Tethys"
 {
-	LongLat	[ 115.19 -27.0 0 ]
-	Size	26.50
+	LongLat	[ 115.19 -27 0 ]
+	Size	26.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1433,8 +1433,8 @@ Location "Irus" "Sol/Saturn/Tethys"
 # Origin: An Ionian island, home of Odysseus.
 Location "Ithaca Chasma" "Sol/Saturn/Tethys"
 {
-	LongLat	[ -6.1 -14.0 0 ]
-	Size	1219.00
+	LongLat	[ -6.1 -14 0 ]
+	Size	1219
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -1452,7 +1452,7 @@ Location "Laertes" "Sol/Saturn/Tethys"
 Location "Leocritus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -118.66 21.53 0 ]
-	Size	12.50
+	Size	12.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1461,7 +1461,7 @@ Location "Leocritus" "Sol/Saturn/Tethys"
 Location "Leucothea" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -123.84 -4.26 0 ]
-	Size	13.80
+	Size	13.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1470,7 +1470,7 @@ Location "Leucothea" "Sol/Saturn/Tethys"
 Location "Maron" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -119.33 2.52 0 ]
-	Size	11.80
+	Size	11.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1479,7 +1479,7 @@ Location "Maron" "Sol/Saturn/Tethys"
 Location "Medon" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -143.31 25.5 0 ]
-	Size	18.70
+	Size	18.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -1488,7 +1488,7 @@ Location "Medon" "Sol/Saturn/Tethys"
 Location "Melanthius" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 167.39 -58.5 0 ]
-	Size	250.00
+	Size	250
 	Type	"AA"	# Crater, craters
 }
 
@@ -1497,7 +1497,7 @@ Location "Melanthius" "Sol/Saturn/Tethys"
 Location "Mentor" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -44.16 0.25 0 ]
-	Size	62.00
+	Size	62
 	Type	"AA"	# Crater, craters
 }
 
@@ -1506,7 +1506,7 @@ Location "Mentor" "Sol/Saturn/Tethys"
 Location "Naubolos" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 54.82 -72.19 0 ]
-	Size	54.50
+	Size	54.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1514,8 +1514,8 @@ Location "Naubolos" "Sol/Saturn/Tethys"
 # Origin: Daughter of Alcinous who advised Odysseus.
 Location "Nausicaa" "Sol/Saturn/Tethys"
 {
-	LongLat	[ -5.0 84.4 0 ]
-	Size	69.00
+	LongLat	[ -5 84.4 0 ]
+	Size	69
 	Type	"AA"	# Crater, craters
 }
 
@@ -1524,7 +1524,7 @@ Location "Nausicaa" "Sol/Saturn/Tethys"
 Location "Neleus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -25.72 -19.38 0 ]
-	Size	37.60
+	Size	37.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -1532,8 +1532,8 @@ Location "Neleus" "Sol/Saturn/Tethys"
 # Origin: A wise old king.
 Location "Nestor" "Sol/Saturn/Tethys"
 {
-	LongLat	[ -64.81 -54.0 0 ]
-	Size	38.20
+	LongLat	[ -64.81 -54 0 ]
+	Size	38.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -1542,7 +1542,7 @@ Location "Nestor" "Sol/Saturn/Tethys"
 Location "Odysseus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -128.89 32.82 0 ]
-	Size	445.00
+	Size	445
 	Type	"AA"	# Crater, craters
 }
 
@@ -1551,7 +1551,7 @@ Location "Odysseus" "Sol/Saturn/Tethys"
 Location "Oenops" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -93.44 28.13 0 ]
-	Size	25.70
+	Size	25.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -1559,8 +1559,8 @@ Location "Oenops" "Sol/Saturn/Tethys"
 # Origin: Island home of Calypso.
 Location "Ogygia Chasma" "Sol/Saturn/Tethys"
 {
-	LongLat	[ -95.2 56.0 0 ]
-	Size	120.00
+	LongLat	[ -95.2 56 0 ]
+	Size	120
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -1569,7 +1569,7 @@ Location "Ogygia Chasma" "Sol/Saturn/Tethys"
 Location "Ormenus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -43.85 -20.39 0 ]
-	Size	39.80
+	Size	39.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1578,7 +1578,7 @@ Location "Ormenus" "Sol/Saturn/Tethys"
 Location "Penelope" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 110.78 -10.83 0 ]
-	Size	207.50
+	Size	207.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1586,8 +1586,8 @@ Location "Penelope" "Sol/Saturn/Tethys"
 # Origin: Mother of Nausithous.
 Location "Periboea" "Sol/Saturn/Tethys"
 {
-	LongLat	[ -34.86 8.0 0 ]
-	Size	51.00
+	LongLat	[ -34.86 8 0 ]
+	Size	51
 	Type	"AA"	# Crater, craters
 }
 
@@ -1596,7 +1596,7 @@ Location "Periboea" "Sol/Saturn/Tethys"
 Location "Phemius" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 73.78 11.32 0 ]
-	Size	75.90
+	Size	75.9
 	Type	"AA"	# Crater, craters
 }
 
@@ -1605,7 +1605,7 @@ Location "Phemius" "Sol/Saturn/Tethys"
 Location "Philoetius" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 175.29 2.32 0 ]
-	Size	28.30
+	Size	28.3
 	Type	"AA"	# Crater, craters
 }
 
@@ -1614,7 +1614,7 @@ Location "Philoetius" "Sol/Saturn/Tethys"
 Location "Polycaste" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -86.41 1.38 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -1623,7 +1623,7 @@ Location "Polycaste" "Sol/Saturn/Tethys"
 Location "Polyphemus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 77.02 -3.48 0 ]
-	Size	73.00
+	Size	73
 	Type	"AA"	# Crater, craters
 }
 
@@ -1632,7 +1632,7 @@ Location "Polyphemus" "Sol/Saturn/Tethys"
 Location "Poseidon" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -101.3 -55.71 0 ]
-	Size	63.00
+	Size	63
 	Type	"AA"	# Crater, craters
 }
 
@@ -1641,7 +1641,7 @@ Location "Poseidon" "Sol/Saturn/Tethys"
 Location "Rhexenor" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -65.22 -75.63 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -1650,7 +1650,7 @@ Location "Rhexenor" "Sol/Saturn/Tethys"
 Location "Salmoneus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 24.82 -1.77 0 ]
-	Size	93.00
+	Size	93
 	Type	"AA"	# Crater, craters
 }
 
@@ -1658,8 +1658,8 @@ Location "Salmoneus" "Sol/Saturn/Tethys"
 # Origin: Island of the Phaeacians visited by Odysseus on his way home.
 Location "Scheria Montes" "Sol/Saturn/Tethys"
 {
-	LongLat	[ -131.0 30.0 0 ]
-	Size	185.00
+	LongLat	[ -131 30 0 ]
+	Size	185
 	Type	"MO"	# Mons, montes
 }
 
@@ -1668,7 +1668,7 @@ Location "Scheria Montes" "Sol/Saturn/Tethys"
 Location "Teiresias" "Sol/Saturn/Tethys"
 {
 	LongLat	[ -0.83 60.39 0 ]
-	Size	14.50
+	Size	14.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1676,8 +1676,8 @@ Location "Teiresias" "Sol/Saturn/Tethys"
 # Origin: Son of Odysseus.
 Location "Telemachus" "Sol/Saturn/Tethys"
 {
-	LongLat	[ 20.62 54.0 0 ]
-	Size	92.00
+	LongLat	[ 20.62 54 0 ]
+	Size	92
 	Type	"AA"	# Crater, craters
 }
 
@@ -1686,7 +1686,7 @@ Location "Telemachus" "Sol/Saturn/Tethys"
 Location "Telemus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 3.11 -34.53 0 ]
-	Size	320.00
+	Size	320
 	Type	"AA"	# Crater, craters
 }
 
@@ -1695,7 +1695,7 @@ Location "Telemus" "Sol/Saturn/Tethys"
 Location "Theoclymenus" "Sol/Saturn/Tethys"
 {
 	LongLat	[ 154.37 -14.43 0 ]
-	Size	34.30
+	Size	34.3
 	Type	"AA"	# Crater, craters
 }
 
@@ -1707,7 +1707,7 @@ Location "Theoclymenus" "Sol/Saturn/Tethys"
 Location "Acestes" "Sol/Saturn/Dione"
 {
 	LongLat	[ 116.63 50.1 0 ]
-	Size	108.00
+	Size	108
 	Type	"AA"	# Crater, craters
 }
 
@@ -1716,7 +1716,7 @@ Location "Acestes" "Sol/Saturn/Dione"
 Location "Adrastus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -46.57 -61.66 0 ]
-	Size	38.50
+	Size	38.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1725,7 +1725,7 @@ Location "Adrastus" "Sol/Saturn/Dione"
 Location "Aeneas" "Sol/Saturn/Dione"
 {
 	LongLat	[ -46.27 25.89 0 ]
-	Size	161.00
+	Size	161
 	Type	"AA"	# Crater, craters
 }
 
@@ -1734,7 +1734,7 @@ Location "Aeneas" "Sol/Saturn/Dione"
 Location "Alcander" "Sol/Saturn/Dione"
 {
 	LongLat	[ 64.51 -52.89 0 ]
-	Size	120.00
+	Size	120
 	Type	"AA"	# Crater, craters
 }
 
@@ -1743,7 +1743,7 @@ Location "Alcander" "Sol/Saturn/Dione"
 Location "Allecto" "Sol/Saturn/Dione"
 {
 	LongLat	[ 135.44 -7.73 0 ]
-	Size	106.00
+	Size	106
 	Type	"AA"	# Crater, craters
 }
 
@@ -1752,7 +1752,7 @@ Location "Allecto" "Sol/Saturn/Dione"
 Location "Amastrus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 122.97 -9.96 0 ]
-	Size	62.40
+	Size	62.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -1762,7 +1762,7 @@ Location "Amastrus" "Sol/Saturn/Dione"
 Location "Amata" "Sol/Saturn/Dione"
 {
 	LongLat	[ 80.19 5.17 0 ]
-	Size	76.00
+	Size	76
 	Type	"AA"	# Crater, craters
 }
 
@@ -1771,7 +1771,7 @@ Location "Amata" "Sol/Saturn/Dione"
 Location "Amycus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -88.62 -37.52 0 ]
-	Size	27.30
+	Size	27.3
 	Type	"AA"	# Crater, craters
 }
 
@@ -1779,8 +1779,8 @@ Location "Amycus" "Sol/Saturn/Dione"
 # Origin: Aeneas' father.
 Location "Anchises" "Sol/Saturn/Dione"
 {
-	LongLat	[ -65.0 -34.0 0 ]
-	Size	47.00
+	LongLat	[ -65 -34 0 ]
+	Size	47
 	Type	"AA"	# Crater, craters
 }
 
@@ -1789,7 +1789,7 @@ Location "Anchises" "Sol/Saturn/Dione"
 Location "Anna" "Sol/Saturn/Dione"
 {
 	LongLat	[ -89.96 -63.38 0 ]
-	Size	14.20
+	Size	14.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -1797,8 +1797,8 @@ Location "Anna" "Sol/Saturn/Dione"
 # Origin: Nephew of Priam. He escaped the fall of Troy and reached Italy before Aeneas, where he founded Padua.
 Location "Antenor" "Sol/Saturn/Dione"
 {
-	LongLat	[ -11.54 -7.0 0 ]
-	Size	81.00
+	LongLat	[ -11.54 -7 0 ]
+	Size	81
 	Type	"AA"	# Crater, craters
 }
 
@@ -1807,7 +1807,7 @@ Location "Antenor" "Sol/Saturn/Dione"
 Location "Argiletum Fossae" "Sol/Saturn/Dione"
 {
 	LongLat	[ -32.1 65.18 0 ]
-	Size	224.00
+	Size	224
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1816,7 +1816,7 @@ Location "Argiletum Fossae" "Sol/Saturn/Dione"
 Location "Arpi Fossae" "Sol/Saturn/Dione"
 {
 	LongLat	[ -130.8 47.47 0 ]
-	Size	330.00
+	Size	330
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1825,7 +1825,7 @@ Location "Arpi Fossae" "Sol/Saturn/Dione"
 Location "Ascanius" "Sol/Saturn/Dione"
 {
 	LongLat	[ 127.82 33.43 0 ]
-	Size	98.00
+	Size	98
 	Type	"AA"	# Crater, craters
 }
 
@@ -1834,7 +1834,7 @@ Location "Ascanius" "Sol/Saturn/Dione"
 Location "Assaracus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -8.79 32.65 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -1842,8 +1842,8 @@ Location "Assaracus" "Sol/Saturn/Dione"
 # Origin: River in the Apulian territory of Diomedes, now called the Ofanto.
 Location "Aufidus Catena" "Sol/Saturn/Dione"
 {
-	LongLat	[ 63.6 -78.0 0 ]
-	Size	275.00
+	LongLat	[ 63.6 -78 0 ]
+	Size	275
 	Type	"CA"	# Catena, catenae
 }
 
@@ -1852,7 +1852,7 @@ Location "Aufidus Catena" "Sol/Saturn/Dione"
 Location "Aulestes" "Sol/Saturn/Dione"
 {
 	LongLat	[ -147.73 9.9 0 ]
-	Size	50.00
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -1861,7 +1861,7 @@ Location "Aulestes" "Sol/Saturn/Dione"
 Location "Aurunca Chasmata" "Sol/Saturn/Dione"
 {
 	LongLat	[ 93.3 11.56 0 ]
-	Size	290.00
+	Size	290
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -1870,7 +1870,7 @@ Location "Aurunca Chasmata" "Sol/Saturn/Dione"
 Location "Butes" "Sol/Saturn/Dione"
 {
 	LongLat	[ -46.4 65.72 0 ]
-	Size	35.00
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -1879,7 +1879,7 @@ Location "Butes" "Sol/Saturn/Dione"
 Location "Caieta" "Sol/Saturn/Dione"
 {
 	LongLat	[ -79.63 -24.71 0 ]
-	Size	50.00
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -1888,7 +1888,7 @@ Location "Caieta" "Sol/Saturn/Dione"
 Location "Camilla" "Sol/Saturn/Dione"
 {
 	LongLat	[ -60.61 -4.36 0 ]
-	Size	31.90
+	Size	31.9
 	Type	"AA"	# Crater, craters
 }
 
@@ -1898,7 +1898,7 @@ Location "Camilla" "Sol/Saturn/Dione"
 Location "Carthage Fossae" "Sol/Saturn/Dione"
 {
 	LongLat	[ 23.25 11.93 0 ]
-	Size	500.00
+	Size	500
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1908,7 +1908,7 @@ Location "Carthage Fossae" "Sol/Saturn/Dione"
 Location "Cassandra" "Sol/Saturn/Dione"
 {
 	LongLat	[ 113.78 -39.84 0 ]
-	Size	13.00
+	Size	13
 	Type	"AA"	# Crater, craters
 }
 
@@ -1917,7 +1917,7 @@ Location "Cassandra" "Sol/Saturn/Dione"
 Location "Catillus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 84.7 -2.38 0 ]
-	Size	42.20
+	Size	42.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -1926,7 +1926,7 @@ Location "Catillus" "Sol/Saturn/Dione"
 Location "Clusium Fossae" "Sol/Saturn/Dione"
 {
 	LongLat	[ 58.46 39.27 0 ]
-	Size	260.00
+	Size	260
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1935,7 +1935,7 @@ Location "Clusium Fossae" "Sol/Saturn/Dione"
 Location "Coras" "Sol/Saturn/Dione"
 {
 	LongLat	[ 91.55 0.39 0 ]
-	Size	43.00
+	Size	43
 	Type	"AA"	# Crater, craters
 }
 
@@ -1944,7 +1944,7 @@ Location "Coras" "Sol/Saturn/Dione"
 Location "Cretheus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -88.53 -43.35 0 ]
-	Size	29.00
+	Size	29
 	Type	"AA"	# Crater, craters
 }
 
@@ -1953,7 +1953,7 @@ Location "Cretheus" "Sol/Saturn/Dione"
 Location "Creusa" "Sol/Saturn/Dione"
 {
 	LongLat	[ -76.32 49.19 0 ]
-	Size	36.20
+	Size	36.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -1962,7 +1962,7 @@ Location "Creusa" "Sol/Saturn/Dione"
 Location "Daucus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 58.86 -15.38 0 ]
-	Size	80.00
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -1971,7 +1971,7 @@ Location "Daucus" "Sol/Saturn/Dione"
 Location "Dercennus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 80.07 29.75 0 ]
-	Size	86.20
+	Size	86.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -1980,7 +1980,7 @@ Location "Dercennus" "Sol/Saturn/Dione"
 Location "Dido" "Sol/Saturn/Dione"
 {
 	LongLat	[ -18.82 -23.97 0 ]
-	Size	122.00
+	Size	122
 	Type	"AA"	# Crater, craters
 }
 
@@ -1988,8 +1988,8 @@ Location "Dido" "Sol/Saturn/Dione"
 # Origin: Coastal town of Sicily where Aeneas found a safe harbor during a raging storm, and where Anchises died.
 Location "Drepanum Chasma" "Sol/Saturn/Dione"
 {
-	LongLat	[ 95.0 -46.0 0 ]
-	Size	360.00
+	LongLat	[ 95 -46 0 ]
+	Size	360
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -1998,7 +1998,7 @@ Location "Drepanum Chasma" "Sol/Saturn/Dione"
 Location "Entellus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 149.46 -10.93 0 ]
-	Size	63.00
+	Size	63
 	Type	"AA"	# Crater, craters
 }
 
@@ -2006,8 +2006,8 @@ Location "Entellus" "Sol/Saturn/Dione"
 # Origin: Superhuman son of the goddess Feronia.
 Location "Erulus" "Sol/Saturn/Dione"
 {
-	LongLat	[ -104.76 -35.0 0 ]
-	Size	120.00
+	LongLat	[ -104.76 -35 0 ]
+	Size	120
 	Type	"AA"	# Crater, craters
 }
 
@@ -2016,7 +2016,7 @@ Location "Erulus" "Sol/Saturn/Dione"
 Location "Eumelus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -65.96 -0.1 0 ]
-	Size	35.10
+	Size	35.1
 	Type	"AA"	# Crater, craters
 }
 
@@ -2024,8 +2024,8 @@ Location "Eumelus" "Sol/Saturn/Dione"
 # Origin: The river on which Sparta stood.
 Location "Eurotas Chasmata" "Sol/Saturn/Dione"
 {
-	LongLat	[ 90.0 18.0 0 ]
-	Size	1200.00
+	LongLat	[ 90 18 0 ]
+	Size	1200
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2033,8 +2033,8 @@ Location "Eurotas Chasmata" "Sol/Saturn/Dione"
 # Origin: A Trojan companion of Aeneas, friend of Nisus.
 Location "Euryalus" "Sol/Saturn/Dione"
 {
-	LongLat	[ -0.0 -74.36 0 ]
-	Size	35.00
+	LongLat	[ 0 -74.36 0 ]
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -2042,8 +2042,8 @@ Location "Euryalus" "Sol/Saturn/Dione"
 # Origin: Son of Mercury by Carmentis, ally of Aeneas against the Latins, mythical king of Arcadia, founded and ruled Pallanteum, built on the future site of Rome.
 Location "Evander" "Sol/Saturn/Dione"
 {
-	LongLat	[ -145.0 -57.0 0 ]
-	Size	350.00
+	LongLat	[ -145 -57 0 ]
+	Size	350
 	Type	"AA"	# Crater, craters
 }
 
@@ -2052,7 +2052,7 @@ Location "Evander" "Sol/Saturn/Dione"
 Location "Fadus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 134.82 -35.94 0 ]
-	Size	47.00
+	Size	47
 	Type	"AA"	# Crater, craters
 }
 
@@ -2060,8 +2060,8 @@ Location "Fadus" "Sol/Saturn/Dione"
 # Origin: Town in Latium near Rome.
 Location "Fidena Fossae" "Sol/Saturn/Dione"
 {
-	LongLat	[ -96.0 0.66 0 ]
-	Size	550.00
+	LongLat	[ -96 0.66 0 ]
+	Size	550
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -2070,7 +2070,7 @@ Location "Fidena Fossae" "Sol/Saturn/Dione"
 Location "Galaesus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 63.75 46.77 0 ]
-	Size	79.00
+	Size	79
 	Type	"AA"	# Crater, craters
 }
 
@@ -2088,7 +2088,7 @@ Location "Haemon" "Sol/Saturn/Dione"
 Location "Halys" "Sol/Saturn/Dione"
 {
 	LongLat	[ -53.72 -59.17 0 ]
-	Size	35.20
+	Size	35.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2097,7 +2097,7 @@ Location "Halys" "Sol/Saturn/Dione"
 Location "Helorus Fossa" "Sol/Saturn/Dione"
 {
 	LongLat	[ -76.48 -31.84 0 ]
-	Size	105.00
+	Size	105
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -2106,7 +2106,7 @@ Location "Helorus Fossa" "Sol/Saturn/Dione"
 Location "Herbesus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -156.11 34.68 0 ]
-	Size	58.40
+	Size	58.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2115,7 +2115,7 @@ Location "Herbesus" "Sol/Saturn/Dione"
 Location "Himella Fossa" "Sol/Saturn/Dione"
 {
 	LongLat	[ 23.45 -45.6 0 ]
-	Size	147.00
+	Size	147
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -2124,7 +2124,7 @@ Location "Himella Fossa" "Sol/Saturn/Dione"
 Location "Iasus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 114.08 -22.13 0 ]
-	Size	54.00
+	Size	54
 	Type	"AA"	# Crater, craters
 }
 
@@ -2133,7 +2133,7 @@ Location "Iasus" "Sol/Saturn/Dione"
 Location "Ilia" "Sol/Saturn/Dione"
 {
 	LongLat	[ 13.73 -0.5 0 ]
-	Size	52.40
+	Size	52.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2142,7 +2142,7 @@ Location "Ilia" "Sol/Saturn/Dione"
 Location "Italus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -76.41 -18.47 0 ]
-	Size	35.70
+	Size	35.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -2151,7 +2151,7 @@ Location "Italus" "Sol/Saturn/Dione"
 Location "Janiculum Dorsa" "Sol/Saturn/Dione"
 {
 	LongLat	[ -144.1 24.6 0 ]
-	Size	900.00
+	Size	900
 	Type	"DO"	# Dorsum, dorsa
 }
 
@@ -2160,7 +2160,7 @@ Location "Janiculum Dorsa" "Sol/Saturn/Dione"
 Location "Lagus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -102.95 -13.56 0 ]
-	Size	77.00
+	Size	77
 	Type	"AA"	# Crater, craters
 }
 
@@ -2169,7 +2169,7 @@ Location "Lagus" "Sol/Saturn/Dione"
 Location "Lamyrus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 104.39 53.67 0 ]
-	Size	61.00
+	Size	61
 	Type	"AA"	# Crater, craters
 }
 
@@ -2178,7 +2178,7 @@ Location "Lamyrus" "Sol/Saturn/Dione"
 Location "Larides" "Sol/Saturn/Dione"
 {
 	LongLat	[ 48.58 7.17 0 ]
-	Size	29.00
+	Size	29
 	Type	"AA"	# Crater, craters
 }
 
@@ -2187,7 +2187,7 @@ Location "Larides" "Sol/Saturn/Dione"
 Location "Larissa Chasma" "Sol/Saturn/Dione"
 {
 	LongLat	[ -69.5 28.98 0 ]
-	Size	150.00
+	Size	150
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2196,7 +2196,7 @@ Location "Larissa Chasma" "Sol/Saturn/Dione"
 Location "Latagus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -26.46 14.65 0 ]
-	Size	41.00
+	Size	41
 	Type	"AA"	# Crater, craters
 }
 
@@ -2204,8 +2204,8 @@ Location "Latagus" "Sol/Saturn/Dione"
 # Origin: King of Latium, husband of Amata.
 Location "Latinus" "Sol/Saturn/Dione"
 {
-	LongLat	[ 159.0 52.19 0 ]
-	Size	130.00
+	LongLat	[ 159 52.19 0 ]
+	Size	130
 	Type	"AA"	# Crater, craters
 }
 
@@ -2213,8 +2213,8 @@ Location "Latinus" "Sol/Saturn/Dione"
 # Origin: The Trojans' promised land in Italy.
 Location "Latium Chasma" "Sol/Saturn/Dione"
 {
-	LongLat	[ -63.93 20.0 0 ]
-	Size	360.00
+	LongLat	[ -63.93 20 0 ]
+	Size	360
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2223,7 +2223,7 @@ Location "Latium Chasma" "Sol/Saturn/Dione"
 Location "Lausus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -22.76 34.81 0 ]
-	Size	23.50
+	Size	23.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -2231,8 +2231,8 @@ Location "Lausus" "Sol/Saturn/Dione"
 # Origin: Soldier of Turnus, brother of Lucagus.
 Location "Liger" "Sol/Saturn/Dione"
 {
-	LongLat	[ -126.63 24.0 0 ]
-	Size	53.00
+	LongLat	[ -126.63 24 0 ]
+	Size	53
 	Type	"AA"	# Crater, craters
 }
 
@@ -2241,7 +2241,7 @@ Location "Liger" "Sol/Saturn/Dione"
 Location "Lucagus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -131.25 22.15 0 ]
-	Size	45.70
+	Size	45.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -2250,7 +2250,7 @@ Location "Lucagus" "Sol/Saturn/Dione"
 Location "Magus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -24.35 18.44 0 ]
-	Size	45.80
+	Size	45.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -2258,8 +2258,8 @@ Location "Magus" "Sol/Saturn/Dione"
 # Origin: An Etruscan ally of Aeneas.
 Location "Massicus" "Sol/Saturn/Dione"
 {
-	LongLat	[ -55.39 -35.0 0 ]
-	Size	39.00
+	LongLat	[ -55.39 -35 0 ]
+	Size	39
 	Type	"AA"	# Crater, craters
 }
 
@@ -2267,8 +2267,8 @@ Location "Massicus" "Sol/Saturn/Dione"
 # Origin: A Rutulian, charioteer of Turnus.
 Location "Metiscus" "Sol/Saturn/Dione"
 {
-	LongLat	[ -93.29 6.0 0 ]
-	Size	43.80
+	LongLat	[ -93.29 6 0 ]
+	Size	43.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -2276,8 +2276,8 @@ Location "Metiscus" "Sol/Saturn/Dione"
 # Origin: Etruscan king, ally of Turnus, father of Lausus.
 Location "Mezentius" "Sol/Saturn/Dione"
 {
-	LongLat	[ 177.0 19.16 0 ]
-	Size	51.00
+	LongLat	[ 177 19.16 0 ]
+	Size	51
 	Type	"AA"	# Crater, craters
 }
 
@@ -2286,7 +2286,7 @@ Location "Mezentius" "Sol/Saturn/Dione"
 Location "Murranus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -90.73 12.82 0 ]
-	Size	56.80
+	Size	56.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -2294,8 +2294,8 @@ Location "Murranus" "Sol/Saturn/Dione"
 # Origin: Trojan companion of Aeneas, friend of Euryalus.
 Location "Nisus" "Sol/Saturn/Dione"
 {
-	LongLat	[ 25.0 -68.18 0 ]
-	Size	35.00
+	LongLat	[ 25 -68.18 0 ]
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -2304,7 +2304,7 @@ Location "Nisus" "Sol/Saturn/Dione"
 Location "Oebalus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 8.4 44.47 0 ]
-	Size	35.70
+	Size	35.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -2313,7 +2313,7 @@ Location "Oebalus" "Sol/Saturn/Dione"
 Location "Pactolus Catena" "Sol/Saturn/Dione"
 {
 	LongLat	[ 32.85 8.79 0 ]
-	Size	180.00
+	Size	180
 	Type	"CA"	# Catena, catenae
 }
 
@@ -2323,7 +2323,7 @@ Location "Pactolus Catena" "Sol/Saturn/Dione"
 Location "Padua Chasmata" "Sol/Saturn/Dione"
 {
 	LongLat	[ 112.83 17.7 0 ]
-	Size	1025.00
+	Size	1025
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2331,8 +2331,8 @@ Location "Padua Chasmata" "Sol/Saturn/Dione"
 # Origin: An Etruscan killed by Camilla.
 Location "Pagasus" "Sol/Saturn/Dione"
 {
-	LongLat	[ 119.0 -3.0 0 ]
-	Size	67.00
+	LongLat	[ 119 -3 0 ]
+	Size	67
 	Type	"AA"	# Crater, craters
 }
 
@@ -2341,8 +2341,8 @@ Location "Pagasus" "Sol/Saturn/Dione"
 # Additional info: Descriptor term changed to plural (chasmata) and coordinates and size changed 3/17/2008.
 Location "Palatine Chasmata" "Sol/Saturn/Dione"
 {
-	LongLat	[ 44.0 -48.0 0 ]
-	Size	1100.00
+	LongLat	[ 44 -48 0 ]
+	Size	1100
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2351,8 +2351,8 @@ Location "Palatine Chasmata" "Sol/Saturn/Dione"
 # Additional info: Defines 63 degrees longitude on Dione. This name was mistakenly applied to a larger crater (4.0S, 61.4W, 33 km), but was moved back to the longitude-defining crater (also a RAND control point crater) on Jan. 11, 2008.
 Location "Palinurus" "Sol/Saturn/Dione"
 {
-	LongLat	[ -63.0 -3.3 0 ]
-	Size	11.90
+	LongLat	[ -63 -3.3 0 ]
+	Size	11.9
 	Type	"AA"	# Crater, craters
 }
 
@@ -2361,7 +2361,7 @@ Location "Palinurus" "Sol/Saturn/Dione"
 Location "Pantagias Catenae" "Sol/Saturn/Dione"
 {
 	LongLat	[ -141.7 -15.3 0 ]
-	Size	200.00
+	Size	200
 	Type	"CA"	# Catena, catenae
 }
 
@@ -2370,7 +2370,7 @@ Location "Pantagias Catenae" "Sol/Saturn/Dione"
 Location "Petelia Fossae" "Sol/Saturn/Dione"
 {
 	LongLat	[ -82.43 -8.16 0 ]
-	Size	225.00
+	Size	225
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -2379,7 +2379,7 @@ Location "Petelia Fossae" "Sol/Saturn/Dione"
 Location "Phaleris" "Sol/Saturn/Dione"
 {
 	LongLat	[ -166.58 -77.4 0 ]
-	Size	44.00
+	Size	44
 	Type	"AA"	# Crater, craters
 }
 
@@ -2388,7 +2388,7 @@ Location "Phaleris" "Sol/Saturn/Dione"
 Location "Phorbas" "Sol/Saturn/Dione"
 {
 	LongLat	[ -131.29 81.2 0 ]
-	Size	69.30
+	Size	69.3
 	Type	"AA"	# Crater, craters
 }
 
@@ -2397,7 +2397,7 @@ Location "Phorbas" "Sol/Saturn/Dione"
 Location "Prytanis" "Sol/Saturn/Dione"
 {
 	LongLat	[ 72.6 -46.25 0 ]
-	Size	96.00
+	Size	96
 	Type	"AA"	# Crater, craters
 }
 
@@ -2406,7 +2406,7 @@ Location "Prytanis" "Sol/Saturn/Dione"
 Location "Remus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -31.9 -13.58 0 ]
-	Size	62.00
+	Size	62
 	Type	"AA"	# Crater, craters
 }
 
@@ -2415,7 +2415,7 @@ Location "Remus" "Sol/Saturn/Dione"
 Location "Ripheus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -36.8 -56.47 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -2424,7 +2424,7 @@ Location "Ripheus" "Sol/Saturn/Dione"
 Location "Romulus" "Sol/Saturn/Dione"
 {
 	LongLat	[ -26.85 -8.15 0 ]
-	Size	90.70
+	Size	90.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -2433,7 +2433,7 @@ Location "Romulus" "Sol/Saturn/Dione"
 Location "Sabinus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 173.34 -43.65 0 ]
-	Size	88.00
+	Size	88
 	Type	"AA"	# Crater, craters
 }
 
@@ -2442,7 +2442,7 @@ Location "Sabinus" "Sol/Saturn/Dione"
 Location "Sagaris" "Sol/Saturn/Dione"
 {
 	LongLat	[ -104.2 4.93 0 ]
-	Size	53.00
+	Size	53
 	Type	"AA"	# Crater, craters
 }
 
@@ -2451,7 +2451,7 @@ Location "Sagaris" "Sol/Saturn/Dione"
 Location "Salius" "Sol/Saturn/Dione"
 {
 	LongLat	[ 178.27 65.09 0 ]
-	Size	44.00
+	Size	44
 	Type	"AA"	# Crater, craters
 }
 
@@ -2460,7 +2460,7 @@ Location "Salius" "Sol/Saturn/Dione"
 Location "Silvius" "Sol/Saturn/Dione"
 {
 	LongLat	[ 27.74 -32.7 0 ]
-	Size	74.00
+	Size	74
 	Type	"AA"	# Crater, craters
 }
 
@@ -2469,7 +2469,7 @@ Location "Silvius" "Sol/Saturn/Dione"
 Location "Sulmo" "Sol/Saturn/Dione"
 {
 	LongLat	[ 26.5 55.92 0 ]
-	Size	56.00
+	Size	56
 	Type	"AA"	# Crater, craters
 }
 
@@ -2478,7 +2478,7 @@ Location "Sulmo" "Sol/Saturn/Dione"
 Location "Telon" "Sol/Saturn/Dione"
 {
 	LongLat	[ -97.2 -16.2 0 ]
-	Size	39.70
+	Size	39.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -2486,8 +2486,8 @@ Location "Telon" "Sol/Saturn/Dione"
 # Origin: A Trojan, killed by Camilla.
 Location "Tereus" "Sol/Saturn/Dione"
 {
-	LongLat	[ 115.0 -2.6 0 ]
-	Size	45.00
+	LongLat	[ 115 -2.6 0 ]
+	Size	45
 	Type	"AA"	# Crater, craters
 }
 
@@ -2495,7 +2495,7 @@ Location "Tereus" "Sol/Saturn/Dione"
 # Origin: A Rutulian, member of Turnus’ army, son of Daucus, twin brother of Larides.
 Location "Thymber" "Sol/Saturn/Dione"
 {
-	LongLat	[ 50.85 14.0 0 ]
+	LongLat	[ 50.85 14 0 ]
 	Size	27.29
 	Type	"AA"	# Crater, craters
 }
@@ -2504,8 +2504,8 @@ Location "Thymber" "Sol/Saturn/Dione"
 # Origin: Ancient town of Italy (modern name Tivoli) not far from Rome on the river Anio.
 Location "Tibur Chasmata" "Sol/Saturn/Dione"
 {
-	LongLat	[ -69.3 60.0 0 ]
-	Size	156.00
+	LongLat	[ -69.3 60 0 ]
+	Size	156
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2514,7 +2514,7 @@ Location "Tibur Chasmata" "Sol/Saturn/Dione"
 Location "Tiburtus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 170.27 29.11 0 ]
-	Size	59.00
+	Size	59
 	Type	"AA"	# Crater, craters
 }
 
@@ -2523,7 +2523,7 @@ Location "Tiburtus" "Sol/Saturn/Dione"
 Location "Turnus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 14.69 15.59 0 ]
-	Size	101.00
+	Size	101
 	Type	"AA"	# Crater, craters
 }
 
@@ -2532,7 +2532,7 @@ Location "Turnus" "Sol/Saturn/Dione"
 Location "Tyrrhus" "Sol/Saturn/Dione"
 {
 	LongLat	[ 72.1 24.7 0 ]
-	Size	49.10
+	Size	49.1
 	Type	"AA"	# Crater, craters
 }
 
@@ -2541,7 +2541,7 @@ Location "Tyrrhus" "Sol/Saturn/Dione"
 Location "Volcens" "Sol/Saturn/Dione"
 {
 	LongLat	[ 91.49 -13.84 0 ]
-	Size	74.00
+	Size	74
 	Type	"AA"	# Crater, craters
 }
 
@@ -2562,7 +2562,7 @@ Location "Aananin" "Sol/Saturn/Rhea"
 Location "Abassi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -146.5 -21.3 0 ]
-	Size	87.20
+	Size	87.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2589,7 +2589,7 @@ Location "Agunua" "Sol/Saturn/Rhea"
 Location "Ambat" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 58.3 -76.4 0 ]
-	Size	42.90
+	Size	42.9
 	Type	"AA"	# Crater, craters
 }
 
@@ -2607,7 +2607,7 @@ Location "Ameta" "Sol/Saturn/Rhea"
 Location "Amma" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 77.3 -26.4 0 ]
-	Size	31.40
+	Size	31.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2616,7 +2616,7 @@ Location "Amma" "Sol/Saturn/Rhea"
 Location "Amotken" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 157.3 0.7 0 ]
-	Size	64.60
+	Size	64.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -2624,8 +2624,8 @@ Location "Amotken" "Sol/Saturn/Rhea"
 # Origin: Spider in Ashanti (Ghana) mythology, who created the sun, moon, stars, and mankind.
 Location "Anansi" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 146.4 -63.0 0 ]
-	Size	49.00
+	LongLat	[ 146.4 -63 0 ]
+	Size	49
 	Type	"AA"	# Crater, craters
 }
 
@@ -2633,8 +2633,8 @@ Location "Anansi" "Sol/Saturn/Rhea"
 # Origin: Eskimo/Inuit (N. Canada) supreme being who created everything, father of the sea goddess Sedna.
 Location "Anguta" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 170.0 25.7 0 ]
-	Size	46.70
+	LongLat	[ 170 25.7 0 ]
+	Size	46.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -2651,8 +2651,8 @@ Location "Arunaka" "Sol/Saturn/Rhea"
 # Origin: Taino (Puerto Rico) mother goddess, the “First-In-Existence.”
 Location "Atabei" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 109.3 16.0 0 ]
-	Size	30.40
+	LongLat	[ 109.3 16 0 ]
+	Size	30.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2669,8 +2669,8 @@ Location "Atum" "Sol/Saturn/Rhea"
 # Origin: Underworld in mythology of Cook Islands (Polynesia), home for mother of Vatea, the ancestor of gods and humans.
 Location "Avaiki Chasmata" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 81.0 25.0 0 ]
-	Size	580.00
+	LongLat	[ 81 25 0 ]
+	Size	580
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2679,7 +2679,7 @@ Location "Avaiki Chasmata" "Sol/Saturn/Rhea"
 Location "Awonawilona" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -150.3 -37.3 0 ]
-	Size	49.80
+	Size	49.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -2714,8 +2714,8 @@ Location "Burkhan" "Sol/Saturn/Rhea"
 # Origin: Jivaro (Peru) wife of the creator god Kumpara.
 Location "Chingaso" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -106.0 -17.1 0 ]
-	Size	47.80
+	LongLat	[ -106 -17.1 0 ]
+	Size	47.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -2732,8 +2732,8 @@ Location "Con" "Sol/Saturn/Rhea"
 # Origin: Mythical ancestor of Korean nation, son of creator god.
 Location "Dangun" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 152.0 7.2 0 ]
-	Size	77.50
+	LongLat	[ 152 7.2 0 ]
+	Size	77.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -2750,8 +2750,8 @@ Location "Djuli" "Sol/Saturn/Rhea"
 # Origin: Mosetene (N. Bolivia) creator of the earth and men.
 Location "Dohitt" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -74.1 -18.0 0 ]
-	Size	93.40
+	LongLat	[ -74.1 -18 0 ]
+	Size	93.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2760,7 +2760,7 @@ Location "Dohitt" "Sol/Saturn/Rhea"
 Location "Dotet" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 155.3 -45.9 0 ]
-	Size	40.40
+	Size	40.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2769,7 +2769,7 @@ Location "Dotet" "Sol/Saturn/Rhea"
 Location "Ehecatl" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -175.6 -54.7 0 ]
-	Size	93.60
+	Size	93.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -2786,8 +2786,8 @@ Location "Ellyay" "Sol/Saturn/Rhea"
 # Origin: Maasai (Tanzania, Kenya) creator god and the ruler of rains.
 Location "Enkai" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 113.7 38.0 0 ]
-	Size	48.40
+	LongLat	[ 113.7 38 0 ]
+	Size	48.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -2795,7 +2795,7 @@ Location "Enkai" "Sol/Saturn/Rhea"
 # Origin: Mande; his sacrificial killing in heaven atoned for his twin Pemba's sin; purified Earth.
 Location "Faro" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -114.0 45.3 0 ]
+	LongLat	[ -114 45.3 0 ]
 	Size	150
 	Type	"AA"	# Crater, craters
 }
@@ -2805,7 +2805,7 @@ Location "Faro" "Sol/Saturn/Rhea"
 Location "Fatu" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -176.1 7.7 0 ]
-	Size	88.00
+	Size	88
 	Type	"AA"	# Crater, craters
 }
 
@@ -2814,7 +2814,7 @@ Location "Fatu" "Sol/Saturn/Rhea"
 Location "Fuxi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -124.2 -5.5 0 ]
-	Size	47.20
+	Size	47.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2822,8 +2822,8 @@ Location "Fuxi" "Sol/Saturn/Rhea"
 # Origin: Vault above the sky in Cherokee (SE USA) myths, where anything that was alive lived before the creation of Earth.
 Location "Galunlati Chasmata" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 70.0 38.0 0 ]
-	Size	740.00
+	LongLat	[ 70 38 0 ]
+	Size	740
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -2832,7 +2832,7 @@ Location "Galunlati Chasmata" "Sol/Saturn/Rhea"
 Location "Gborogboro" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -162.2 -12.7 0 ]
-	Size	62.50
+	Size	62.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -2840,8 +2840,8 @@ Location "Gborogboro" "Sol/Saturn/Rhea"
 # Origin: Algonquin (Great Lakes area, Canada and USA) creator of plants, animals andhumans; son of the Great Earth Mother.
 Location "Glooskap" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -57.2 -35.0 0 ]
-	Size	63.20
+	LongLat	[ -57.2 -35 0 ]
+	Size	63.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2849,8 +2849,8 @@ Location "Glooskap" "Sol/Saturn/Rhea"
 # Origin: Georgian (Caucasus) god, founder and keeper of the world order.
 Location "Gmerti" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 167.4 -52.0 0 ]
-	Size	57.20
+	LongLat	[ 167.4 -52 0 ]
+	Size	57.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2858,8 +2858,8 @@ Location "Gmerti" "Sol/Saturn/Rhea"
 # Origin: Mayan creator god.
 Location "Gucumatz" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -175.8 37.0 0 ]
-	Size	68.60
+	LongLat	[ -175.8 37 0 ]
+	Size	68.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -2885,8 +2885,8 @@ Location "Haoso" "Sol/Saturn/Rhea"
 # Origin: Beautiful land created by Persian god Ahura Mazda (Ormazd); modern Kandahar, Afghanistan.
 Location "Harahvaiti Fossa" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -171.0 -36.0 0 ]
-	Size	190.00
+	LongLat	[ -171 -36 0 ]
+	Size	190
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -2904,7 +2904,7 @@ Location "Heller" "Sol/Saturn/Rhea"
 Location "Huracan" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 171.5 53.2 0 ]
-	Size	71.20
+	Size	71.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2913,7 +2913,7 @@ Location "Huracan" "Sol/Saturn/Rhea"
 Location "Imberombera" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 143.3 -33.3 0 ]
-	Size	47.20
+	Size	47.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2921,8 +2921,8 @@ Location "Imberombera" "Sol/Saturn/Rhea"
 # Origin: Kafir (Nuristan, NE Afghanistan) supreme god, creator of gods and people.
 Location "Imra" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -134.2 19.0 0 ]
-	Size	28.00
+	LongLat	[ -134.2 19 0 ]
+	Size	28
 	Type	"AA"	# Crater, craters
 }
 
@@ -2931,7 +2931,7 @@ Location "Imra" "Sol/Saturn/Rhea"
 Location "Inktomi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -112.1 -14.1 0 ]
-	Size	47.20
+	Size	47.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2940,7 +2940,7 @@ Location "Inktomi" "Sol/Saturn/Rhea"
 Location "Inmar" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 58.4 -2.3 0 ]
-	Size	54.80
+	Size	54.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -2957,8 +2957,8 @@ Location "Iraca" "Sol/Saturn/Rhea"
 # Origin: Yaruro (Venezuela) jaguar god, creator of the river waters.
 Location "Itciai" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 11.0 -17.8 0 ]
-	Size	39.20
+	LongLat	[ 11 -17.8 0 ]
+	Size	39.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -2993,8 +2993,8 @@ Location "Jumo" "Sol/Saturn/Rhea"
 # Origin: Shilluk (S. Sudan) creator god.
 Location "Juok" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -155.0 37.6 0 ]
-	Size	73.80
+	LongLat	[ -155 37.6 0 ]
+	Size	73.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3003,7 +3003,7 @@ Location "Juok" "Sol/Saturn/Rhea"
 Location "Kanobo" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -37.4 -63.8 0 ]
-	Size	75.80
+	Size	75.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3021,7 +3021,7 @@ Location "Karora" "Sol/Saturn/Rhea"
 Location "Karusakaibo" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 139.3 -14.2 0 ]
-	Size	43.40
+	Size	43.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3039,7 +3039,7 @@ Location "Khado" "Sol/Saturn/Rhea"
 Location "Khutsau" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 153.1 44.5 0 ]
-	Size	52.40
+	Size	52.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3057,7 +3057,7 @@ Location "Kiho" "Sol/Saturn/Rhea"
 Location "Kirinyaga Linea" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -128.8 -1.8 0 ]
-	Size	400.00
+	Size	400
 	Type	"LI"	# Linea, lineae
 }
 
@@ -3065,8 +3065,8 @@ Location "Kirinyaga Linea" "Sol/Saturn/Rhea"
 # Origin: Nganasan (Taymyr Peninsula Samoyed, Russia) mythical mountain range, the first land to appear from the primordial waters after creation. The first man and woman were placed on it.
 Location "Koykamou Catena" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 116.0 -70.0 0 ]
-	Size	110.00
+	LongLat	[ 116 -70 0 ]
+	Size	110
 	Type	"CA"	# Catena, catenae
 }
 
@@ -3075,7 +3075,7 @@ Location "Koykamou Catena" "Sol/Saturn/Rhea"
 Location "Kuksu" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 71.3 25.3 0 ]
-	Size	34.60
+	Size	34.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3083,8 +3083,8 @@ Location "Kuksu" "Sol/Saturn/Rhea"
 # Origin: Yaruro (Venezuela) moon goddess, creator of all things.
 Location "Kuma" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 82.8 10.0 0 ]
-	Size	50.00
+	LongLat	[ 82.8 10 0 ]
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -3102,8 +3102,8 @@ Location "Kumpara" "Sol/Saturn/Rhea"
 # Additional info: Previously Kun Lun Chasma.
 Location "Kunlun Linea" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 52.0 45.0 0 ]
-	Size	180.00
+	LongLat	[ 52 45 0 ]
+	Size	180
 	Type	"LI"	# Linea, lineae
 }
 
@@ -3112,7 +3112,7 @@ Location "Kunlun Linea" "Sol/Saturn/Rhea"
 Location "Kurkyl" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -113.7 -39.9 0 ]
-	Size	57.10
+	Size	57.1
 	Type	"AA"	# Crater, craters
 }
 
@@ -3130,7 +3130,7 @@ Location "Leza" "Sol/Saturn/Rhea"
 Location "Ligoupup" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -46.2 -14.5 0 ]
-	Size	78.80
+	Size	78.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3147,8 +3147,8 @@ Location "Lowa" "Sol/Saturn/Rhea"
 # Origin: Nias Island (W. Indonesia) sky god, creator of humans.
 Location "Lowalangi" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 110.0 -36.5 0 ]
-	Size	53.00
+	LongLat	[ 110 -36.5 0 ]
+	Size	53
 	Type	"AA"	# Crater, craters
 }
 
@@ -3157,7 +3157,7 @@ Location "Lowalangi" "Sol/Saturn/Rhea"
 Location "Luli" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 116.9 46.5 0 ]
-	Size	52.40
+	Size	52.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3165,8 +3165,8 @@ Location "Luli" "Sol/Saturn/Rhea"
 # Origin: Igorot (Luzon Island, Philippines) Great Spirit, created humans from cut reeds.
 Location "Lumawig" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -136.5 58.0 0 ]
-	Size	49.80
+	LongLat	[ -136.5 58 0 ]
+	Size	49.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3175,7 +3175,7 @@ Location "Lumawig" "Sol/Saturn/Rhea"
 Location "Madumda" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -64.8 -36.9 0 ]
-	Size	82.60
+	Size	82.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3184,7 +3184,7 @@ Location "Madumda" "Sol/Saturn/Rhea"
 Location "Maheo" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 78.3 31.6 0 ]
-	Size	29.80
+	Size	29.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3201,8 +3201,8 @@ Location "Malunga" "Sol/Saturn/Rhea"
 # Origin: Nanai (Amur River area, E. Siberia, Russia) goddess who created the Asian continent and Sakhalin Island. For this action, she was killed by her husband and world creator, Khado.
 Location "Mamaldi" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 176.0 14.0 0 ]
-	Size	480.00
+	LongLat	[ 176 14 0 ]
+	Size	480
 	Type	"AA"	# Crater, craters
 }
 
@@ -3220,7 +3220,7 @@ Location "Manoid" "Sol/Saturn/Rhea"
 Location "Mbir" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 48.1 46.6 0 ]
-	Size	46.00
+	Size	46
 	Type	"AA"	# Crater, craters
 }
 
@@ -3238,7 +3238,7 @@ Location "Melo" "Sol/Saturn/Rhea"
 Location "Mouru Catena" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 16.5 48.5 0 ]
-	Size	80.00
+	Size	80
 	Type	"CA"	# Catena, catenae
 }
 
@@ -3256,7 +3256,7 @@ Location "Mubai" "Sol/Saturn/Rhea"
 Location "Mumbi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -131.2 -1.9 0 ]
-	Size	67.20
+	Size	67.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -3265,7 +3265,7 @@ Location "Mumbi" "Sol/Saturn/Rhea"
 Location "Nainema" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 13.6 25.5 0 ]
-	Size	53.80
+	Size	53.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3274,7 +3274,7 @@ Location "Nainema" "Sol/Saturn/Rhea"
 Location "Napi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -174.8 26.9 0 ]
-	Size	55.80
+	Size	55.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3283,7 +3283,7 @@ Location "Napi" "Sol/Saturn/Rhea"
 Location "Nareau" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 118.1 -24.9 0 ]
-	Size	73.60
+	Size	73.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3292,7 +3292,7 @@ Location "Nareau" "Sol/Saturn/Rhea"
 Location "Ndu" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 68.7 -22.4 0 ]
-	Size	33.40
+	Size	33.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3300,8 +3300,8 @@ Location "Ndu" "Sol/Saturn/Rhea"
 # Origin: Arikara (N. Dakota, USA) creation spirit, great sky chief.
 Location "Nishanu" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -129.0 -9.0 0 ]
-	Size	103.40
+	LongLat	[ -129 -9 0 ]
+	Size	103.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3309,8 +3309,8 @@ Location "Nishanu" "Sol/Saturn/Rhea"
 # Origin: Mordvinian (Volga River Finns, Russia) supreme god, creator of the sky and theEarth.
 Location "Nishke" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -49.0 3.8 0 ]
-	Size	74.20
+	LongLat	[ -49 3.8 0 ]
+	Size	74.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -3318,7 +3318,7 @@ Location "Nishke" "Sol/Saturn/Rhea"
 # Origin: Nenets and Selkup (Samoyed) god of heaven.
 Location "Num" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -92.7 24.0 0 ]
+	LongLat	[ -92.7 24 0 ]
 	Size	50
 	Type	"AA"	# Crater, craters
 }
@@ -3327,8 +3327,8 @@ Location "Num" "Sol/Saturn/Rhea"
 # Origin: Fang (Gabon) sky god and creator of all things.
 Location "Nzame" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -24.9 9.0 0 ]
-	Size	119.40
+	LongLat	[ -24.9 9 0 ]
+	Size	119.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3337,7 +3337,7 @@ Location "Nzame" "Sol/Saturn/Rhea"
 Location "Obatala" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 90.3 -1.1 0 ]
-	Size	67.20
+	Size	67.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -3346,7 +3346,7 @@ Location "Obatala" "Sol/Saturn/Rhea"
 Location "Olorun" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -155.4 24.7 0 ]
-	Size	58.40
+	Size	58.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3355,7 +3355,7 @@ Location "Olorun" "Sol/Saturn/Rhea"
 Location "Onokoro Catenae" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 31.5 -44.7 0 ]
-	Size	240.00
+	Size	240
 	Type	"CA"	# Catena, catenae
 }
 
@@ -3373,7 +3373,7 @@ Location "Ormazd" "Sol/Saturn/Rhea"
 Location "Pachacamac" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -83.7 -23.4 0 ]
-	Size	46.80
+	Size	46.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3390,8 +3390,8 @@ Location "Pan Ku" "Sol/Saturn/Rhea"
 # Origin: Nuristan (NE Afghanistan) river in which Bagisht, the creator of people, was born by the mother goddess Disani.
 Location "Parun Fossa" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -152.0 -46.5 0 ]
-	Size	120.00
+	LongLat	[ -152 -46.5 0 ]
+	Size	120
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -3399,7 +3399,7 @@ Location "Parun Fossa" "Sol/Saturn/Rhea"
 # Origin: Negrito (Malay Peninsula) god who created first men.
 Location "Pedn" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 8.3 46.0 0 ]
+	LongLat	[ 8.3 46 0 ]
 	Size	100
 	Type	"AA"	# Crater, craters
 }
@@ -3409,7 +3409,7 @@ Location "Pedn" "Sol/Saturn/Rhea"
 Location "Pokoh" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 33.6 -71.7 0 ]
-	Size	45.20
+	Size	45.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -3418,7 +3418,7 @@ Location "Pokoh" "Sol/Saturn/Rhea"
 Location "Pouliuli" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 75.6 -16.9 0 ]
-	Size	59.80
+	Size	59.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3427,7 +3427,7 @@ Location "Pouliuli" "Sol/Saturn/Rhea"
 Location "Powehiwehi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 79.6 -8.2 0 ]
-	Size	271.20
+	Size	271.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -3436,8 +3436,8 @@ Location "Powehiwehi" "Sol/Saturn/Rhea"
 # Additional info: Previously Pu Chou Chasma.
 Location "Puchou Catenae" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -87.0 32.0 0 ]
-	Size	620.00
+	LongLat	[ -87 32 0 ]
+	Size	620
 	Type	"CA"	# Catena, catenae
 }
 
@@ -3445,8 +3445,8 @@ Location "Puchou Catenae" "Sol/Saturn/Rhea"
 # Origin: Mount in Igorot (Luzon Island, Philippines) mythology, on the peak of which the palace of creator god Lumawig is located.
 Location "Pulag Chasma" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 93.5 -33.0 0 ]
-	Size	190.00
+	LongLat	[ 93.5 -33 0 ]
+	Size	190
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -3455,7 +3455,7 @@ Location "Pulag Chasma" "Sol/Saturn/Rhea"
 Location "Puntan" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 67.6 33.9 0 ]
-	Size	33.00
+	Size	33
 	Type	"AA"	# Crater, craters
 }
 
@@ -3464,7 +3464,7 @@ Location "Puntan" "Sol/Saturn/Rhea"
 Location "Purusa" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -167.8 -21.2 0 ]
-	Size	96.70
+	Size	96.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -3481,8 +3481,8 @@ Location "Qat" "Sol/Saturn/Rhea"
 # Origin: Cuebo (Columbia) god who created creeks and rocks, and stocked streams with fish.
 Location "Quwai" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -66.0 19.6 0 ]
-	Size	38.80
+	LongLat	[ -66 19.6 0 ]
+	Size	38.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3491,7 +3491,7 @@ Location "Quwai" "Sol/Saturn/Rhea"
 Location "Samni" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -90.7 -47.7 0 ]
-	Size	101.40
+	Size	101.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3500,7 +3500,7 @@ Location "Samni" "Sol/Saturn/Rhea"
 Location "Seveki" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -164.7 12.9 0 ]
-	Size	89.10
+	Size	89.1
 	Type	"AA"	# Crater, craters
 }
 
@@ -3509,7 +3509,7 @@ Location "Seveki" "Sol/Saturn/Rhea"
 Location "Shedi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 13.2 -53.5 0 ]
-	Size	47.60
+	Size	47.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3517,7 +3517,7 @@ Location "Shedi" "Sol/Saturn/Rhea"
 # Origin: Buriat (Siberia) devil who creates.
 Location "Sholmo" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 13.6 12.0 0 ]
+	LongLat	[ 13.6 12 0 ]
 	Size	50
 	Type	"AA"	# Crater, craters
 }
@@ -3527,7 +3527,7 @@ Location "Sholmo" "Sol/Saturn/Rhea"
 Location "Shuzanghu" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -10.3 -74.9 0 ]
-	Size	47.80
+	Size	47.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3536,7 +3536,7 @@ Location "Shuzanghu" "Sol/Saturn/Rhea"
 Location "Singbonga" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -146.9 -54.8 0 ]
-	Size	60.80
+	Size	60.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3554,7 +3554,7 @@ Location "Taaroa" "Sol/Saturn/Rhea"
 Location "Talapas" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 18.2 -16.7 0 ]
-	Size	51.60
+	Size	51.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3563,7 +3563,7 @@ Location "Talapas" "Sol/Saturn/Rhea"
 Location "Tane" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -57.4 -12.5 0 ]
-	Size	82.60
+	Size	82.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3571,8 +3571,8 @@ Location "Tane" "Sol/Saturn/Rhea"
 # Origin: Lapcha (Nepal) god who created the first man and woman from the ice of mountain glaciers.
 Location "Tasheting" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -55.5 -59.0 0 ]
-	Size	60.80
+	LongLat	[ -55.5 -59 0 ]
+	Size	60.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3581,7 +3581,7 @@ Location "Tasheting" "Sol/Saturn/Rhea"
 Location "Tawa" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -175.2 17.9 0 ]
-	Size	62.20
+	Size	62.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -3589,8 +3589,8 @@ Location "Tawa" "Sol/Saturn/Rhea"
 # Origin: Holy mountain in Korean mythology, where creator god came onto the earth.
 Location "Thebeksan Catena" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -174.0 -39.5 0 ]
-	Size	220.00
+	LongLat	[ -174 -39.5 0 ]
+	Size	220
 	Type	"CA"	# Catena, catenae
 }
 
@@ -3626,7 +3626,7 @@ Location "Tirawa" "Sol/Saturn/Rhea"
 # Additional info: Defines 340 degrees longitude on Rhea.
 Location "Tore" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 20.0 0.0 0 ]
+	LongLat	[ 20 0 0 ]
 	Size	30
 	Type	"AA"	# Crater, craters
 }
@@ -3635,7 +3635,7 @@ Location "Tore" "Sol/Saturn/Rhea"
 # Origin: Ostyak (western Siberia) sky god.
 Location "Torom" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 17.0 -72.5 0 ]
+	LongLat	[ 17 -72.5 0 ]
 	Size	150
 	Type	"AA"	# Crater, craters
 }
@@ -3644,8 +3644,8 @@ Location "Torom" "Sol/Saturn/Rhea"
 # Origin: Japanese moon god, born from the right eye of the primeval god Izanagi.
 Location "Tsuki-Yomi" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -43.8 35.0 0 ]
-	Size	35.00
+	LongLat	[ -43.8 35 0 ]
+	Size	35
 	Type	"AA"	# Crater, craters
 }
 
@@ -3654,7 +3654,7 @@ Location "Tsuki-Yomi" "Sol/Saturn/Rhea"
 Location "Tulpar" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -158.6 56.1 0 ]
-	Size	70.40
+	Size	70.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -3662,8 +3662,8 @@ Location "Tulpar" "Sol/Saturn/Rhea"
 # Origin: Ceram (Molucca Islands, Indonesia) sun god and personification of the sky, took part in creation.
 Location "Tuwale" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 117.6 -78.0 0 ]
-	Size	59.60
+	LongLat	[ 117.6 -78 0 ]
+	Size	59.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3681,7 +3681,7 @@ Location "Uku" "Sol/Saturn/Rhea"
 Location "Utleygon" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 165.1 -20.1 0 ]
-	Size	58.20
+	Size	58.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -3689,8 +3689,8 @@ Location "Utleygon" "Sol/Saturn/Rhea"
 # Origin: Father of gods and humans in Cook Islands mythology (Polynesia).
 Location "Vatea" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -150.4 16.0 0 ]
-	Size	96.60
+	LongLat	[ -150.4 16 0 ]
+	Size	96.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -3698,8 +3698,8 @@ Location "Vatea" "Sol/Saturn/Rhea"
 # Origin: River in Cuebo (Columbia) myths, where the Cuebo people were born.
 Location "Vaupas Chasma" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 100.0 -35.0 0 ]
-	Size	280.00
+	LongLat	[ 100 -35 0 ]
+	Size	280
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -3708,7 +3708,7 @@ Location "Vaupas Chasma" "Sol/Saturn/Rhea"
 Location "Wak" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 165.7 29.6 0 ]
-	Size	57.80
+	Size	57.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3717,7 +3717,7 @@ Location "Wak" "Sol/Saturn/Rhea"
 Location "Wakonda" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 90.3 48.6 0 ]
-	Size	123.00
+	Size	123
 	Type	"AA"	# Crater, craters
 }
 
@@ -3726,7 +3726,7 @@ Location "Wakonda" "Sol/Saturn/Rhea"
 Location "Wende" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 133.6 -56.3 0 ]
-	Size	83.00
+	Size	83
 	Type	"AA"	# Crater, craters
 }
 
@@ -3734,7 +3734,7 @@ Location "Wende" "Sol/Saturn/Rhea"
 # Origin: Korean creator of all things.
 Location "Whanin" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -115.0 66.9 0 ]
+	LongLat	[ -115 66.9 0 ]
 	Size	100
 	Type	"AA"	# Crater, craters
 }
@@ -3744,7 +3744,7 @@ Location "Whanin" "Sol/Saturn/Rhea"
 Location "Woyengi" "Sol/Saturn/Rhea"
 {
 	LongLat	[ 65.5 13.7 0 ]
-	Size	43.00
+	Size	43
 	Type	"AA"	# Crater, craters
 }
 
@@ -3752,8 +3752,8 @@ Location "Woyengi" "Sol/Saturn/Rhea"
 # Origin: Krachi (Ghana) primeval sky god, mate of mother earth.
 Location "Wulbari" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -88.9 67.0 0 ]
-	Size	33.00
+	LongLat	[ -88.9 67 0 ]
+	Size	33
 	Type	"AA"	# Crater, craters
 }
 
@@ -3761,8 +3761,8 @@ Location "Wulbari" "Sol/Saturn/Rhea"
 # Origin: Place where Kakadu (N. Australia) creator goddess Imberombera landed after crossing the sea (modern Malay Bay). There he met the giant Wuraka, ancestor of all peoples.
 Location "Wungaran Catenae" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -79.0 22.5 0 ]
-	Size	350.00
+	LongLat	[ -79 22.5 0 ]
+	Size	350
 	Type	"CA"	# Catena, catenae
 }
 
@@ -3770,7 +3770,7 @@ Location "Wungaran Catenae" "Sol/Saturn/Rhea"
 # Origin: Kakadu (Australia) ancestor of all people; a giant.
 Location "Wuraka" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -4.0 25.1 0 ]
+	LongLat	[ -4 25.1 0 ]
 	Size	30
 	Type	"AA"	# Crater, craters
 }
@@ -3789,7 +3789,7 @@ Location "Xamba" "Sol/Saturn/Rhea"
 Location "Xowalaci" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -56.3 2.4 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -3797,7 +3797,7 @@ Location "Xowalaci" "Sol/Saturn/Rhea"
 # Origin: Bushman creator.
 Location "Xu" "Sol/Saturn/Rhea"
 {
-	LongLat	[ -71.9 55.0 0 ]
+	LongLat	[ -71.9 55 0 ]
 	Size	50
 	Type	"AA"	# Crater, craters
 }
@@ -3806,8 +3806,8 @@ Location "Xu" "Sol/Saturn/Rhea"
 # Origin: Lodge of the North Wind in Klamath (NW USA) myth, where the creator god Kemush slept during the creation of the world.
 Location "Yamsi Chasmata" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 79.5 -28.0 0 ]
-	Size	380.00
+	LongLat	[ 79.5 -28 0 ]
+	Size	380
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -3815,8 +3815,8 @@ Location "Yamsi Chasmata" "Sol/Saturn/Rhea"
 # Origin: The Great Raven, creator and cultural hero in Tlingit (SE Alaska) myths.
 Location "Yehl" "Sol/Saturn/Rhea"
 {
-	LongLat	[ 37.6 38.0 0 ]
-	Size	36.80
+	LongLat	[ 37.6 38 0 ]
+	Size	36.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3834,7 +3834,7 @@ Location "Yu-Ti" "Sol/Saturn/Rhea"
 Location "Zicum" "Sol/Saturn/Rhea"
 {
 	LongLat	[ -111.2 -50.9 0 ]
-	Size	76.80
+	Size	76.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -3845,7 +3845,7 @@ Location "Zicum" "Sol/Saturn/Rhea"
 # Origin: Egyptian abode of the blessed dead.
 Location "AARU" "Sol/Saturn/Titan"
 {
-	LongLat	[ 20.0 10.0 0 ]
+	LongLat	[ 20 10 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -3855,7 +3855,7 @@ Location "AARU" "Sol/Saturn/Titan"
 Location "Abaya Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -45.55 73.17 0 ]
-	Size	65.00
+	Size	65
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -3863,7 +3863,7 @@ Location "Abaya Lacus" "Sol/Saturn/Titan"
 # Origin: Melanesian afterworld where life is easier than on Earth.
 Location "ADIRI" "Sol/Saturn/Titan"
 {
-	LongLat	[ 150.0 -10.0 0 ]
+	LongLat	[ 150 -10 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -3873,7 +3873,7 @@ Location "ADIRI" "Sol/Saturn/Titan"
 Location "Afekan" "Sol/Saturn/Titan"
 {
 	LongLat	[ 159.7 25.8 0 ]
-	Size	115.00
+	Size	115
 	Type	"AA"	# Crater, craters
 }
 
@@ -3882,7 +3882,7 @@ Location "Afekan" "Sol/Saturn/Titan"
 Location "Akmena Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -55.6 85.1 0 ]
-	Size	35.60
+	Size	35.6
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -3891,7 +3891,7 @@ Location "Akmena Lacus" "Sol/Saturn/Titan"
 Location "Albano Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 123.6 65.9 0 ]
-	Size	6.20
+	Size	6.2
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -3899,8 +3899,8 @@ Location "Albano Lacus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; IV Anbus, home of Tibana, an apologist for Socratic Christianity.
 Location "Anbus Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 145.0 39.2 0 ]
-	Size	120.00
+	LongLat	[ 145 39.2 0 ]
+	Size	120
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -3908,8 +3908,8 @@ Location "Anbus Labyrinthus" "Sol/Saturn/Titan"
 # Origin: Name of a mountain range from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
 Location "Angmar Montes" "Sol/Saturn/Titan"
 {
-	LongLat	[ 138.1 -10.0 0 ]
-	Size	230.00
+	LongLat	[ 138.1 -10 0 ]
+	Size	230
 	Type	"MO"	# Mons, montes
 }
 
@@ -3918,7 +3918,7 @@ Location "Angmar Montes" "Sol/Saturn/Titan"
 Location "Annecy Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -128.9 76.8 0 ]
-	Size	20.00
+	Size	20
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -3927,8 +3927,8 @@ Location "Annecy Lacus" "Sol/Saturn/Titan"
 # Additional info: Changed ET from Netherlands Antilles (10/02/2018) because that country no longer exists.
 Location "Antilia Faculae" "Sol/Saturn/Titan"
 {
-	LongLat	[ 173.0 -11.0 0 ]
-	Size	260.00
+	LongLat	[ 173 -11 0 ]
+	Size	260
 	Type	"FA"	# Facula, faculae
 }
 
@@ -3937,7 +3937,7 @@ Location "Antilia Faculae" "Sol/Saturn/Titan"
 Location "Apanohuaya Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 62.76 84.29 0 ]
-	Size	64.00
+	Size	64
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -3946,7 +3946,7 @@ Location "Apanohuaya Flumen" "Sol/Saturn/Titan"
 Location "Ara Fluctus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -118.4 39.8 0 ]
-	Size	70.00
+	Size	70
 	Type	"FL"	# Fluctus, fluctūs
 }
 
@@ -3955,7 +3955,7 @@ Location "Ara Fluctus" "Sol/Saturn/Titan"
 Location "Arala Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -124.9 78.1 0 ]
-	Size	12.30
+	Size	12.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -3963,8 +3963,8 @@ Location "Arala Lacus" "Sol/Saturn/Titan"
 # Origin: Fjord in Iceland.
 Location "Arnar Sinus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 38.0 72.6 0 ]
-	Size	101.00
+	LongLat	[ 38 72.6 0 ]
+	Size	101
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -3972,8 +3972,8 @@ Location "Arnar Sinus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; home of the Fremen, a group of fictional people whose culture revolves around preservation and conservation of water, which is a rare commodity on the planet.
 Location "Arrakis Planitia" "Sol/Saturn/Titan"
 {
-	LongLat	[ -117.0 -78.4 0 ]
-	Size	337.40
+	LongLat	[ -117 -78.4 0 ]
+	Size	337.4
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -3981,8 +3981,8 @@ Location "Arrakis Planitia" "Sol/Saturn/Titan"
 # Origin: Daughter of Elrond; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
 Location "Arwen Colles" "Sol/Saturn/Titan"
 {
-	LongLat	[ 100.0 -7.5 0 ]
-	Size	64.00
+	LongLat	[ 100 -7.5 0 ]
+	Size	64
 	Type	"CO"	# Collis, colles
 }
 
@@ -3991,7 +3991,7 @@ Location "Arwen Colles" "Sol/Saturn/Titan"
 Location "Atacama Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 132.4 68.2 0 ]
-	Size	35.90
+	Size	35.9
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -4000,7 +4000,7 @@ Location "Atacama Lacuna" "Sol/Saturn/Titan"
 Location "Atitlán Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 121.2 69.3 0 ]
-	Size	13.70
+	Size	13.7
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4009,7 +4009,7 @@ Location "Atitlán Lacus" "Sol/Saturn/Titan"
 Location "Aura Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 133.14 13.79 0 ]
-	Size	490.00
+	Size	490
 	Type	"UN"	# Unda, undae
 }
 
@@ -4018,7 +4018,7 @@ Location "Aura Undae" "Sol/Saturn/Titan"
 Location "Avacha Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 24.57 82.87 0 ]
-	Size	51.00
+	Size	51
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4026,7 +4026,7 @@ Location "Avacha Sinus" "Sol/Saturn/Titan"
 # Origin: Mythical land from which the Aztecs believed they migrated.
 Location "AZTLAN" "Sol/Saturn/Titan"
 {
-	LongLat	[ -20.0 -10.0 0 ]
+	LongLat	[ -20 -10 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4035,8 +4035,8 @@ Location "AZTLAN" "Sol/Saturn/Titan"
 # Origin: Mayan rain god.
 Location "Bacab Virgae" "Sol/Saturn/Titan"
 {
-	LongLat	[ -151.0 -19.0 0 ]
-	Size	485.00
+	LongLat	[ -151 -19 0 ]
+	Size	485
 	Type	"VI"	# Virga, virgae
 }
 
@@ -4045,7 +4045,7 @@ Location "Bacab Virgae" "Sol/Saturn/Titan"
 Location "Baffin Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 15.38 80.35 0 ]
-	Size	110.00
+	Size	110
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4054,7 +4054,7 @@ Location "Baffin Sinus" "Sol/Saturn/Titan"
 Location "Balaton Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -87.5 82.9 0 ]
-	Size	35.60
+	Size	35.6
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4062,8 +4062,8 @@ Location "Balaton Lacus" "Sol/Saturn/Titan"
 # Origin: Bayta Darell, fictional character in Isaac Asimov's Foundation Series, wife of the Trader Tran Darell and grandmother of famous author Arcadia “Arcady” Darell.
 Location "Bayta Fretum" "Sol/Saturn/Titan"
 {
-	LongLat	[ 48.8 73.0 0 ]
-	Size	165.00
+	LongLat	[ 48.8 73 0 ]
+	Size	165
 	Type	"FT"	# Fretum, freta
 }
 
@@ -4072,7 +4072,7 @@ Location "Bayta Fretum" "Sol/Saturn/Titan"
 Location "Bazaruto Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -16.1 11.6 0 ]
-	Size	215.00
+	Size	215
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4081,7 +4081,7 @@ Location "Bazaruto Facula" "Sol/Saturn/Titan"
 Location "Beag" "Sol/Saturn/Titan"
 {
 	LongLat	[ -169.55 -34.74 0 ]
-	Size	27.00
+	Size	27
 	Type	"AA"	# Crater, craters
 }
 
@@ -4089,7 +4089,7 @@ Location "Beag" "Sol/Saturn/Titan"
 # Origin: Malay afterworld reached by a flower-lined bridge.
 Location "BELET" "Sol/Saturn/Titan"
 {
-	LongLat	[ 105.0 -5.0 0 ]
+	LongLat	[ 105 -5 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4099,7 +4099,7 @@ Location "BELET" "Sol/Saturn/Titan"
 Location "Bermoothes Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 42.9 67.1 0 ]
-	Size	124.00
+	Size	124
 	Type	"IN"	# Insula, insulae
 }
 
@@ -4108,7 +4108,7 @@ Location "Bermoothes Insula" "Sol/Saturn/Titan"
 Location "Bilbo Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ -38.56 -4.23 0 ]
-	Size	164.00
+	Size	164
 	Type	"CO"	# Collis, colles
 }
 
@@ -4117,7 +4117,7 @@ Location "Bilbo Colles" "Sol/Saturn/Titan"
 Location "Bimini Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 54.6 73.3 0 ]
-	Size	39.00
+	Size	39
 	Type	"IN"	# Insula, insulae
 }
 
@@ -4126,7 +4126,7 @@ Location "Bimini Insula" "Sol/Saturn/Titan"
 Location "Bolsena Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -10.28 75.75 0 ]
-	Size	101.00
+	Size	101
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4135,7 +4135,7 @@ Location "Bolsena Lacus" "Sol/Saturn/Titan"
 Location "Boni Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 14.62 78.69 0 ]
-	Size	54.00
+	Size	54
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4143,8 +4143,8 @@ Location "Boni Sinus" "Sol/Saturn/Titan"
 # Origin: Greek god of the north wind.
 Location "Boreas Undae" "Sol/Saturn/Titan"
 {
-	LongLat	[ 145.0 -6.0 0 ]
-	Size	260.00
+	LongLat	[ 145 -6 0 ]
+	Size	260
 	Type	"UN"	# Unda, undae
 }
 
@@ -4153,7 +4153,7 @@ Location "Boreas Undae" "Sol/Saturn/Titan"
 Location "Bralgu Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 108.5 76.2 0 ]
-	Size	55.00
+	Size	55
 	Type	"IN"	# Insula, insulae
 }
 
@@ -4162,7 +4162,7 @@ Location "Bralgu Insulae" "Sol/Saturn/Titan"
 Location "Brienz Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -43.8 85.3 0 ]
-	Size	50.60
+	Size	50.6
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4171,7 +4171,7 @@ Location "Brienz Lacus" "Sol/Saturn/Titan"
 Location "Buada Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -129.6 76.4 0 ]
-	Size	10.30
+	Size	10.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4180,7 +4180,7 @@ Location "Buada Lacus" "Sol/Saturn/Titan"
 Location "Buyan Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 114.9 77.3 0 ]
-	Size	48.00
+	Size	48
 	Type	"IN"	# Insula, insulae
 }
 
@@ -4189,7 +4189,7 @@ Location "Buyan Insula" "Sol/Saturn/Titan"
 Location "Buzzell Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 97.3 -66.3 0 ]
-	Size	870.00
+	Size	870
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4197,8 +4197,8 @@ Location "Buzzell Planitia" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; the original home of the House Atriedes, a fictional noble family.
 Location "Caladan Planitia" "Sol/Saturn/Titan"
 {
-	LongLat	[ 134.0 31.0 0 ]
-	Size	2800.00
+	LongLat	[ 134 31 0 ]
+	Size	2800
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4207,7 +4207,7 @@ Location "Caladan Planitia" "Sol/Saturn/Titan"
 Location "Cardiel Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 153.5 70.2 0 ]
-	Size	22.00
+	Size	22
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4215,8 +4215,8 @@ Location "Cardiel Lacus" "Sol/Saturn/Titan"
 # Origin: Lake in New York, USA.
 Location "Cayuga Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 130.0 69.8 0 ]
-	Size	22.70
+	LongLat	[ 130 69.8 0 ]
+	Size	22.7
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4225,7 +4225,7 @@ Location "Cayuga Lacus" "Sol/Saturn/Titan"
 Location "Celadon Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ -28.8 -73.7 0 ]
-	Size	160.00
+	Size	160
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -4234,7 +4234,7 @@ Location "Celadon Flumina" "Sol/Saturn/Titan"
 Location "Cerknica Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ -175.56 71.12 0 ]
-	Size	96.00
+	Size	96
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -4242,8 +4242,8 @@ Location "Cerknica Lacuna" "Sol/Saturn/Titan"
 # Origin: Lake in Malawi and Mozambique.
 Location "Chilwa Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -131.3 75.0 0 ]
-	Size	19.80
+	LongLat	[ -131.3 75 0 ]
+	Size	19.8
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4251,7 +4251,7 @@ Location "Chilwa Lacus" "Sol/Saturn/Titan"
 # Origin: Chinese Buddhist paradise where those who attain salvation will live in unalloyed happiness.
 Location "CHING-TU" "Sol/Saturn/Titan"
 {
-	LongLat	[ 155.0 -30.0 0 ]
+	LongLat	[ 155 -30 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4260,8 +4260,8 @@ Location "CHING-TU" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series, known for its musical instruments.
 Location "Chusuk Planitia" "Sol/Saturn/Titan"
 {
-	LongLat	[ -23.5 -5.0 0 ]
-	Size	125.00
+	LongLat	[ -23.5 -5 0 ]
+	Size	125
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4270,7 +4270,7 @@ Location "Chusuk Planitia" "Sol/Saturn/Titan"
 Location "Coats Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -29.2 -11.1 0 ]
-	Size	80.00
+	Size	80
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4278,8 +4278,8 @@ Location "Coats Facula" "Sol/Saturn/Titan"
 # Origin: Roman abstract divinity of harmony.
 Location "CONCORDIA REGIO" "Sol/Saturn/Titan"
 {
-	LongLat	[ 119.0 -20.0 0 ]
-	Size	1500.00
+	LongLat	[ 119 -20 0 ]
+	Size	1500
 	Type	"RE"	# Regio, regiones
 }
 
@@ -4287,8 +4287,8 @@ Location "CONCORDIA REGIO" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; site of Battle of Corrin.
 Location "Corrin Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -31.0 -66.0 0 ]
-	Size	280.00
+	LongLat	[ -31 -66 0 ]
+	Size	280
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4297,7 +4297,7 @@ Location "Corrin Labyrinthus" "Sol/Saturn/Titan"
 Location "Crete Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -150.1 9.4 0 ]
-	Size	680.00
+	Size	680
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4306,7 +4306,7 @@ Location "Crete Facula" "Sol/Saturn/Titan"
 Location "Crveno Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 175.09 -79.55 0 ]
-	Size	41.00
+	Size	41
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4314,7 +4314,7 @@ Location "Crveno Lacus" "Sol/Saturn/Titan"
 # Origin: Sumerian garden of paradise, primeval land of bliss.
 Location "DILMUN" "Sol/Saturn/Titan"
 {
-	LongLat	[ -175.0 15.0 0 ]
+	LongLat	[ -175 15 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4323,8 +4323,8 @@ Location "DILMUN" "Sol/Saturn/Titan"
 # Origin: Lake in Angola.
 Location "Dilolo Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -125.0 76.2 0 ]
-	Size	18.30
+	LongLat	[ -125 76.2 0 ]
+	Size	18.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4333,7 +4333,7 @@ Location "Dilolo Lacus" "Sol/Saturn/Titan"
 Location "Dingle Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 23.56 81.36 0 ]
-	Size	80.00
+	Size	80
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4342,7 +4342,7 @@ Location "Dingle Sinus" "Sol/Saturn/Titan"
 Location "Dolmed Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 143.2 -11.6 0 ]
-	Size	400.00
+	Size	400
 	Type	"MO"	# Mons, montes
 }
 
@@ -4351,7 +4351,7 @@ Location "Dolmed Montes" "Sol/Saturn/Titan"
 Location "Doom Mons" "Sol/Saturn/Titan"
 {
 	LongLat	[ -40.42 -14.65 0 ]
-	Size	63.00
+	Size	63
 	Type	"MO"	# Mons, montes
 }
 
@@ -4360,7 +4360,7 @@ Location "Doom Mons" "Sol/Saturn/Titan"
 Location "Dridzis Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -131.3 78.9 0 ]
-	Size	50.00
+	Size	50
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4368,8 +4368,8 @@ Location "Dridzis Lacus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; useful for its agricultural contributions to the Imperium.
 Location "Ecaz Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -36.7 -83.0 0 ]
-	Size	360.00
+	LongLat	[ -36.7 -83 0 ]
+	Size	360
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4378,7 +4378,7 @@ Location "Ecaz Labyrinthus" "Sol/Saturn/Titan"
 Location "Echoriath Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 146.2 -7.4 0 ]
-	Size	930.00
+	Size	930
 	Type	"MO"	# Mons, montes
 }
 
@@ -4386,8 +4386,8 @@ Location "Echoriath Montes" "Sol/Saturn/Titan"
 # Origin: Norse goddess of healing and peace.
 Location "Eir Macula" "Sol/Saturn/Titan"
 {
-	LongLat	[ -114.7 -24.0 0 ]
-	Size	145.00
+	LongLat	[ -114.7 -24 0 ]
+	Size	145
 	Type	"MA"	# Macula, maculae
 }
 
@@ -4396,7 +4396,7 @@ Location "Eir Macula" "Sol/Saturn/Titan"
 Location "Elba Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -1.2 -10.8 0 ]
-	Size	250.00
+	Size	250
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4405,7 +4405,7 @@ Location "Elba Facula" "Sol/Saturn/Titan"
 Location "Elivagar Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ -78.5 19.3 0 ]
-	Size	260.00
+	Size	260
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -4413,8 +4413,8 @@ Location "Elivagar Flumina" "Sol/Saturn/Titan"
 # Origin: Greek goddess of happiness and hope.
 Location "Elpis Macula" "Sol/Saturn/Titan"
 {
-	LongLat	[ -27.0 31.2 0 ]
-	Size	500.00
+	LongLat	[ -27 31.2 0 ]
+	Size	500
 	Type	"MA"	# Macula, maculae
 }
 
@@ -4423,7 +4423,7 @@ Location "Elpis Macula" "Sol/Saturn/Titan"
 Location "Enriquillo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 122.41 71.4 0 ]
-	Size	47.00
+	Size	47
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4432,7 +4432,7 @@ Location "Enriquillo Lacus" "Sol/Saturn/Titan"
 Location "Erebor Mons" "Sol/Saturn/Titan"
 {
 	LongLat	[ -36.23 -4.97 0 ]
-	Size	50.00
+	Size	50
 	Type	"MO"	# Mons, montes
 }
 
@@ -4441,7 +4441,7 @@ Location "Erebor Mons" "Sol/Saturn/Titan"
 Location "Eurus Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 149.7 -7.5 0 ]
-	Size	220.00
+	Size	220
 	Type	"UN"	# Unda, undae
 }
 
@@ -4450,7 +4450,7 @@ Location "Eurus Undae" "Sol/Saturn/Titan"
 Location "Eyre Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 134.9 72.6 0 ]
-	Size	25.40
+	Size	25.4
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -4459,7 +4459,7 @@ Location "Eyre Lacuna" "Sol/Saturn/Titan"
 Location "Fagaloa Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 39.5 82.9 0 ]
-	Size	33.00
+	Size	33
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4467,8 +4467,8 @@ Location "Fagaloa Sinus" "Sol/Saturn/Titan"
 # Origin: Wise man of nobility; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
 Location "Faramir Colles" "Sol/Saturn/Titan"
 {
-	LongLat	[ -153.8 4.0 0 ]
-	Size	82.00
+	LongLat	[ -153.8 4 0 ]
+	Size	82
 	Type	"CO"	# Collis, colles
 }
 
@@ -4477,7 +4477,7 @@ Location "Faramir Colles" "Sol/Saturn/Titan"
 Location "Feia Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -64.41 73.7 0 ]
-	Size	47.00
+	Size	47
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4485,7 +4485,7 @@ Location "Feia Lacus" "Sol/Saturn/Titan"
 # Origin: In Norse mythology, magnificent mansion of Frigga, to which she invited all married couples who had led virtuous lives on Earth to enjoy each other's company forever.
 Location "FENSAL" "Sol/Saturn/Titan"
 {
-	LongLat	[ -30.0 5.0 0 ]
+	LongLat	[ -30 5 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -4495,7 +4495,7 @@ Location "FENSAL" "Sol/Saturn/Titan"
 Location "Flensborg Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 64.7 64.9 0 ]
-	Size	115.00
+	Size	115
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4503,8 +4503,8 @@ Location "Flensborg Sinus" "Sol/Saturn/Titan"
 # Origin: Lake in Portugal, Azores.
 Location "Fogo Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -98.0 81.9 0 ]
-	Size	32.30
+	LongLat	[ -98 81.9 0 ]
+	Size	32.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4513,7 +4513,7 @@ Location "Fogo Lacus" "Sol/Saturn/Titan"
 Location "Forseti" "Sol/Saturn/Titan"
 {
 	LongLat	[ -10.4 25.53 0 ]
-	Size	145.00
+	Size	145
 	Type	"AA"	# Crater, craters
 }
 
@@ -4522,7 +4522,7 @@ Location "Forseti" "Sol/Saturn/Titan"
 Location "Freeman Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 148.9 73.6 0 ]
-	Size	26.00
+	Size	26
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4531,7 +4531,7 @@ Location "Freeman Lacus" "Sol/Saturn/Titan"
 Location "Fundy Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 44.36 83.26 0 ]
-	Size	91.00
+	Size	91
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4540,7 +4540,7 @@ Location "Fundy Sinus" "Sol/Saturn/Titan"
 Location "Gabes Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 70.4 67.6 0 ]
-	Size	147.00
+	Size	147
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4548,8 +4548,8 @@ Location "Gabes Sinus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; the name for the planet Giedi Prime after the fall of House Harkonnen.
 Location "Gammu Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 110.0 -77.9 0 ]
-	Size	115.00
+	LongLat	[ 110 -77.9 0 ]
+	Size	115
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4557,8 +4557,8 @@ Location "Gammu Labyrinthus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; third planet of Niushe, noted for its hedonistic culture.
 Location "Gamont Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -75.0 56.8 0 ]
-	Size	130.00
+	LongLat	[ -75 56.8 0 ]
+	Size	130
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4567,7 +4567,7 @@ Location "Gamont Labyrinthus" "Sol/Saturn/Titan"
 Location "Gandalf Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ 150.46 14.61 0 ]
-	Size	102.00
+	Size	102
 	Type	"CO"	# Collis, colles
 }
 
@@ -4575,8 +4575,8 @@ Location "Gandalf Colles" "Sol/Saturn/Titan"
 # Origin: Hindu god of good fortune and wisdom.
 Location "Ganesa Macula" "Sol/Saturn/Titan"
 {
-	LongLat	[ -87.3 50.0 0 ]
-	Size	160.00
+	LongLat	[ -87.3 50 0 ]
+	Size	160
 	Type	"MA"	# Macula, maculae
 }
 
@@ -4585,7 +4585,7 @@ Location "Ganesa Macula" "Sol/Saturn/Titan"
 Location "Gansireed Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 120.7 -69.3 0 ]
-	Size	300.00
+	Size	300
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4593,8 +4593,8 @@ Location "Gansireed Labyrinthus" "Sol/Saturn/Titan"
 # Origin: Iranian paradise where the souls of faithful men dwell.
 Location "GAROTMAN TERRA" "Sol/Saturn/Titan"
 {
-	LongLat	[ 12.0 -13.5 0 ]
-	Size	970.00
+	LongLat	[ 12 -13.5 0 ]
+	Size	970
 	Type	"TA"	# Terra, terrae
 }
 
@@ -4603,7 +4603,7 @@ Location "GAROTMAN TERRA" "Sol/Saturn/Titan"
 Location "Gatun Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -178.04 72.79 0 ]
-	Size	67.00
+	Size	67
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4612,7 +4612,7 @@ Location "Gatun Lacus" "Sol/Saturn/Titan"
 Location "Genetaska Macula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 163.7 23.5 0 ]
-	Size	24.00
+	Size	24
 	Type	"MA"	# Macula, maculae
 }
 
@@ -4621,7 +4621,7 @@ Location "Genetaska Macula" "Sol/Saturn/Titan"
 Location "Genova Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 33.39 80.11 0 ]
-	Size	125.00
+	Size	125
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -4639,7 +4639,7 @@ Location "Giedi Planitia" "Sol/Saturn/Titan"
 Location "Gihon Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 144.45 76.81 0 ]
-	Size	225.00
+	Size	225
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -4647,8 +4647,8 @@ Location "Gihon Flumen" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; home of House Ginaz.
 Location "Ginaz Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 98.3 83.0 0 ]
-	Size	160.00
+	LongLat	[ 98.3 83 0 ]
+	Size	160
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4657,7 +4657,7 @@ Location "Ginaz Labyrinthus" "Sol/Saturn/Titan"
 Location "Gram Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 152.1 -9.9 0 ]
-	Size	260.00
+	Size	260
 	Type	"MO"	# Mons, montes
 }
 
@@ -4666,7 +4666,7 @@ Location "Gram Montes" "Sol/Saturn/Titan"
 Location "Grasmere Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -103.1 72.3 0 ]
-	Size	33.30
+	Size	33.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4675,7 +4675,7 @@ Location "Grasmere Lacus" "Sol/Saturn/Titan"
 Location "Grumman Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -106.8 -35.3 0 ]
-	Size	540.00
+	Size	540
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4684,7 +4684,7 @@ Location "Grumman Labyrinthus" "Sol/Saturn/Titan"
 Location "Guabonito" "Sol/Saturn/Titan"
 {
 	LongLat	[ -150.8 -10.9 0 ]
-	Size	55.00
+	Size	55
 	Type	"LG"	# Large ringed feature
 }
 
@@ -4693,7 +4693,7 @@ Location "Guabonito" "Sol/Saturn/Titan"
 Location "Hagal Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 15.05 -60.59 0 ]
-	Size	435.00
+	Size	435
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -4702,7 +4702,7 @@ Location "Hagal Planitia" "Sol/Saturn/Titan"
 Location "Hammar Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 51.71 48.6 0 ]
-	Size	200.00
+	Size	200
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4710,8 +4710,8 @@ Location "Hammar Lacus" "Sol/Saturn/Titan"
 # Origin: Son of Haldir, a ruler of the fictional Folk of Haleth; character from Middle-earth, the fictional setting in fantasy novels by J.R.R. Tolkien.
 Location "Handir Colles" "Sol/Saturn/Titan"
 {
-	LongLat	[ 3.32 10.0 0 ]
-	Size	100.00
+	LongLat	[ 3.32 10 0 ]
+	Size	100
 	Type	"CO"	# Collis, colles
 }
 
@@ -4720,7 +4720,7 @@ Location "Handir Colles" "Sol/Saturn/Titan"
 Location "Hano" "Sol/Saturn/Titan"
 {
 	LongLat	[ 14.9 40.3 0 ]
-	Size	100.00
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -4729,7 +4729,7 @@ Location "Hano" "Sol/Saturn/Titan"
 Location "Hardin Fretum" "Sol/Saturn/Titan"
 {
 	LongLat	[ 42.2 57.3 0 ]
-	Size	246.00
+	Size	246
 	Type	"FT"	# Fretum, freta
 }
 
@@ -4738,7 +4738,7 @@ Location "Hardin Fretum" "Sol/Saturn/Titan"
 Location "Harmonthep Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -101.4 -72.3 0 ]
-	Size	363.00
+	Size	363
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4747,7 +4747,7 @@ Location "Harmonthep Labyrinthus" "Sol/Saturn/Titan"
 Location "Hawaiki Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 32.93 84.32 0 ]
-	Size	35.00
+	Size	35
 	Type	"IN"	# Insula, insulae
 }
 
@@ -4755,8 +4755,8 @@ Location "Hawaiki Insulae" "Sol/Saturn/Titan"
 # Origin: Egyptian female personification of happiness.
 Location "HETPET REGIO" "Sol/Saturn/Titan"
 {
-	LongLat	[ 68.0 -22.0 0 ]
-	Size	1080.00
+	LongLat	[ 68 -22 0 ]
+	Size	1080
 	Type	"RE"	# Regio, regiones
 }
 
@@ -4765,7 +4765,7 @@ Location "HETPET REGIO" "Sol/Saturn/Titan"
 Location "Hlawga Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -103.6 76.6 0 ]
-	Size	40.30
+	Size	40.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4773,8 +4773,8 @@ Location "Hlawga Lacus" "Sol/Saturn/Titan"
 # Origin: Arabian rain god.
 Location "Hobal Virga" "Sol/Saturn/Titan"
 {
-	LongLat	[ -166.0 -35.0 0 ]
-	Size	1075.00
+	LongLat	[ -166 -35 0 ]
+	Size	1075
 	Type	"VI"	# Virga, virgae
 }
 
@@ -4782,8 +4782,8 @@ Location "Hobal Virga" "Sol/Saturn/Titan"
 # Origin: One of the seven gods of happiness in Japanese Buddhism. He is the god of contentment, good fortune, cheerfulness, and he is always smiling.
 Location "Hotei Arcus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -79.0 -28.0 0 ]
-	Size	600.00
+	LongLat	[ -79 -28 0 ]
+	Size	600
 	Type	"AR"	# Arcus, arcūs
 }
 
@@ -4791,8 +4791,8 @@ Location "Hotei Arcus" "Sol/Saturn/Titan"
 # Origin: One of the seven gods of happiness in Japanese Buddhism. He is the god of contentment, good fortune, and cheerfulness, and he is always smiling.
 Location "HOTEI REGIO" "Sol/Saturn/Titan"
 {
-	LongLat	[ -78.0 -26.0 0 ]
-	Size	500.00
+	LongLat	[ -78 -26 0 ]
+	Size	500
 	Type	"RE"	# Regio, regiones
 }
 
@@ -4801,7 +4801,7 @@ Location "HOTEI REGIO" "Sol/Saturn/Titan"
 Location "Hubur Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 167.15 -70.24 0 ]
-	Size	84.00
+	Size	84
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -4809,8 +4809,8 @@ Location "Hubur Flumen" "Sol/Saturn/Titan"
 # Origin: Legendary island in the marshes of southern Iraq.
 Location "Hufaidh Insulae" "Sol/Saturn/Titan"
 {
-	LongLat	[ 39.7 67.0 0 ]
-	Size	152.00
+	LongLat	[ 39.7 67 0 ]
+	Size	152
 	Type	"IN"	# Insula, insulae
 }
 
@@ -4819,7 +4819,7 @@ Location "Hufaidh Insulae" "Sol/Saturn/Titan"
 Location "Ihotry Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -137.2 76.1 0 ]
-	Size	37.50
+	Size	37.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4828,7 +4828,7 @@ Location "Ihotry Lacus" "Sol/Saturn/Titan"
 Location "Imogene Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -111.8 71.1 0 ]
-	Size	38.00
+	Size	38
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4836,7 +4836,7 @@ Location "Imogene Lacus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; home of House Thorvald.
 Location "Ipyr Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 71.0 86.24 0 ]
+	LongLat	[ 71 86.24 0 ]
 	Size	76.97
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
@@ -4846,7 +4846,7 @@ Location "Ipyr Labyrinthus" "Sol/Saturn/Titan"
 Location "Irensaga Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 147.29 -5.68 0 ]
-	Size	194.00
+	Size	194
 	Type	"MO"	# Mons, montes
 }
 
@@ -4854,8 +4854,8 @@ Location "Irensaga Montes" "Sol/Saturn/Titan"
 # Origin: Intermittent lake (shott) in Tunisia.
 Location "Jerid Lacuna" "Sol/Saturn/Titan"
 {
-	LongLat	[ 139.0 66.7 0 ]
-	Size	42.60
+	LongLat	[ 139 66.7 0 ]
+	Size	42.6
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -4863,8 +4863,8 @@ Location "Jerid Lacuna" "Sol/Saturn/Titan"
 # Origin: Lake in China.
 Location "Jingpo Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 24.0 73.0 0 ]
-	Size	240.00
+	LongLat	[ 24 73 0 ]
+	Size	240
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4873,7 +4873,7 @@ Location "Jingpo Lacus" "Sol/Saturn/Titan"
 Location "Junction Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 144.7 -47.7 0 ]
-	Size	484.00
+	Size	484
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4882,7 +4882,7 @@ Location "Junction Labyrinthus" "Sol/Saturn/Titan"
 Location "Junín Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 123.1 66.9 0 ]
-	Size	6.30
+	Size	6.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4891,7 +4891,7 @@ Location "Junín Lacus" "Sol/Saturn/Titan"
 Location "Kaitain Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 11.34 52.37 0 ]
-	Size	196.00
+	Size	196
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4899,8 +4899,8 @@ Location "Kaitain Labyrinthus" "Sol/Saturn/Titan"
 # Origin: NW Australian rainbow serpent, bringer of rain.
 Location "Kalseru Virga" "Sol/Saturn/Titan"
 {
-	LongLat	[ -137.0 -36.0 0 ]
-	Size	630.00
+	LongLat	[ -137 -36 0 ]
+	Size	630
 	Type	"VI"	# Virga, virgae
 }
 
@@ -4909,7 +4909,7 @@ Location "Kalseru Virga" "Sol/Saturn/Titan"
 Location "Karakul Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -56.6 86.3 0 ]
-	Size	18.40
+	Size	18.4
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4918,7 +4918,7 @@ Location "Karakul Lacus" "Sol/Saturn/Titan"
 Location "Karesos Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 165.25 -70.9 0 ]
-	Size	83.00
+	Size	83
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -4927,7 +4927,7 @@ Location "Karesos Flumen" "Sol/Saturn/Titan"
 Location "Kayangan Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 157.83 -86.3 0 ]
-	Size	6.20
+	Size	6.2
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4935,8 +4935,8 @@ Location "Kayangan Lacus" "Sol/Saturn/Titan"
 # Origin: French subantarctic island.
 Location "Kerguelen Facula" "Sol/Saturn/Titan"
 {
-	LongLat	[ -151.0 -5.4 0 ]
-	Size	135.00
+	LongLat	[ -151 -5.4 0 ]
+	Size	135
 	Type	"FA"	# Facula, faculae
 }
 
@@ -4944,8 +4944,8 @@ Location "Kerguelen Facula" "Sol/Saturn/Titan"
 # Origin: Lake on the border between Rwanda and The Democratic Republic of the Congo.
 Location "Kivu Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -121.0 87.0 0 ]
-	Size	77.50
+	LongLat	[ -121 87 0 ]
+	Size	77.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4954,7 +4954,7 @@ Location "Kivu Lacus" "Sol/Saturn/Titan"
 Location "Koitere Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -36.14 79.4 0 ]
-	Size	68.00
+	Size	68
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -4962,8 +4962,8 @@ Location "Koitere Lacus" "Sol/Saturn/Titan"
 # Origin: River of lamentations in the Greek underworld, Hades.
 Location "Kokytos Flumina" "Sol/Saturn/Titan"
 {
-	LongLat	[ 105.0 72.21 0 ]
-	Size	305.00
+	LongLat	[ 105 72.21 0 ]
+	Size	305
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -4971,8 +4971,8 @@ Location "Kokytos Flumina" "Sol/Saturn/Titan"
 # Origin: Fabulous sea monster in the Norwegian seas, said to be a mile and a half in circumference and to cause a whirlpool when it dives.
 Location "KRAKEN MARE" "Sol/Saturn/Titan"
 {
-	LongLat	[ 50.0 68.0 0 ]
-	Size	1170.00
+	LongLat	[ 50 68 0 ]
+	Size	1170
 	Type	"ME"	# Mare, maria
 }
 
@@ -4981,7 +4981,7 @@ Location "KRAKEN MARE" "Sol/Saturn/Titan"
 Location "Krocylea Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 57.6 69.1 0 ]
-	Size	74.00
+	Size	74
 	Type	"IN"	# Insula, insulae
 }
 
@@ -4990,7 +4990,7 @@ Location "Krocylea Insulae" "Sol/Saturn/Titan"
 Location "Kronin Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -96.27 -35.7 0 ]
-	Size	270.00
+	Size	270
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -4998,8 +4998,8 @@ Location "Kronin Labyrinthus" "Sol/Saturn/Titan"
 # Origin: Lakota and Oglala (South Dakota, USA) god of wisdom.
 Location "Ksa" "Sol/Saturn/Titan"
 {
-	LongLat	[ -65.4 14.0 0 ]
-	Size	29.00
+	LongLat	[ -65.4 14 0 ]
+	Size	29
 	Type	"AA"	# Crater, craters
 }
 
@@ -5008,7 +5008,7 @@ Location "Ksa" "Sol/Saturn/Titan"
 Location "Kumbaru Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 56.2 56.8 0 ]
-	Size	122.00
+	Size	122
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5016,8 +5016,8 @@ Location "Kumbaru Sinus" "Sol/Saturn/Titan"
 # Origin: Intermittent lake on the border of India and Pakistan.
 Location "Kutch Lacuna" "Sol/Saturn/Titan"
 {
-	LongLat	[ 143.0 88.4 0 ]
-	Size	175.00
+	LongLat	[ 143 88.4 0 ]
+	Size	175
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -5026,7 +5026,7 @@ Location "Kutch Lacuna" "Sol/Saturn/Titan"
 Location "Ladoga Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -26.1 74.8 0 ]
-	Size	110.00
+	Size	110
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5035,7 +5035,7 @@ Location "Ladoga Lacus" "Sol/Saturn/Titan"
 Location "Lagdo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -125.7 75.5 0 ]
-	Size	37.80
+	Size	37.8
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5043,8 +5043,8 @@ Location "Lagdo Lacus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; a center for Bene Gesserit education, also where Miles Teg is trained as a Mentat.
 Location "Lampadas Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -124.0 -81.8 0 ]
-	Size	445.00
+	LongLat	[ -124 -81.8 0 ]
+	Size	445
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5052,8 +5052,8 @@ Location "Lampadas Labyrinthus" "Sol/Saturn/Titan"
 # Origin: Lake in the Philippines.
 Location "Lanao Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 142.3 71.0 0 ]
-	Size	34.50
+	LongLat	[ 142.3 71 0 ]
+	Size	34.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5062,7 +5062,7 @@ Location "Lanao Lacus" "Sol/Saturn/Titan"
 Location "Lankiveil Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -149.5 -48.2 0 ]
-	Size	450.00
+	Size	450
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5071,7 +5071,7 @@ Location "Lankiveil Labyrinthus" "Sol/Saturn/Titan"
 Location "Leilah Fluctus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -77.8 50.5 0 ]
-	Size	190.00
+	Size	190
 	Type	"FL"	# Fluctus, fluctūs
 }
 
@@ -5079,8 +5079,8 @@ Location "Leilah Fluctus" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; where Miles Teg retires, also the home planet of his Bene Gesserit mother, Lady Janet Roxbrough.
 Location "Lernaeus Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -138.0 -83.4 0 ]
-	Size	167.00
+	LongLat	[ -138 -83.4 0 ]
+	Size	167
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5089,7 +5089,7 @@ Location "Lernaeus Labyrinthus" "Sol/Saturn/Titan"
 Location "Letas Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -88.2 81.3 0 ]
-	Size	23.70
+	Size	23.7
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5098,7 +5098,7 @@ Location "Letas Lacus" "Sol/Saturn/Titan"
 Location "LIGEIA MARE" "Sol/Saturn/Titan"
 {
 	LongLat	[ 112.1 79.7 0 ]
-	Size	500.00
+	Size	500
 	Type	"ME"	# Mare, maria
 }
 
@@ -5107,7 +5107,7 @@ Location "LIGEIA MARE" "Sol/Saturn/Titan"
 Location "Lithui Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ -112.56 84.68 0 ]
-	Size	200.00
+	Size	200
 	Type	"MO"	# Mons, montes
 }
 
@@ -5116,7 +5116,7 @@ Location "Lithui Montes" "Sol/Saturn/Titan"
 Location "Logtak Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 133.9 70.8 0 ]
-	Size	14.30
+	Size	14.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5125,7 +5125,7 @@ Location "Logtak Lacus" "Sol/Saturn/Titan"
 Location "Luin Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ -36.26 81.98 0 ]
-	Size	156.00
+	Size	156
 	Type	"MO"	# Mons, montes
 }
 
@@ -5134,7 +5134,7 @@ Location "Luin Montes" "Sol/Saturn/Titan"
 Location "Lulworth Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 43.12 67.19 0 ]
-	Size	24.00
+	Size	24
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5143,7 +5143,7 @@ Location "Lulworth Sinus" "Sol/Saturn/Titan"
 Location "Mackay Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -97.53 78.32 0 ]
-	Size	180.00
+	Size	180
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5152,7 +5152,7 @@ Location "Mackay Lacus" "Sol/Saturn/Titan"
 Location "Maizuru Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 7.47 78.9 0 ]
-	Size	92.00
+	Size	92
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5161,7 +5161,7 @@ Location "Maizuru Sinus" "Sol/Saturn/Titan"
 Location "Manza Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 13.9 79.29 0 ]
-	Size	37.00
+	Size	37
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5170,7 +5170,7 @@ Location "Manza Sinus" "Sol/Saturn/Titan"
 Location "Maracaibo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -127.7 75.3 0 ]
-	Size	20.40
+	Size	20.4
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5179,7 +5179,7 @@ Location "Maracaibo Lacus" "Sol/Saturn/Titan"
 Location "Mayda Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 47.8 79.1 0 ]
-	Size	168.00
+	Size	168
 	Type	"IN"	# Insula, insulae
 }
 
@@ -5188,7 +5188,7 @@ Location "Mayda Insula" "Sol/Saturn/Titan"
 Location "Melrhir Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 147.4 64.9 0 ]
-	Size	23.00
+	Size	23
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -5197,7 +5197,7 @@ Location "Melrhir Lacuna" "Sol/Saturn/Titan"
 Location "Menrva" "Sol/Saturn/Titan"
 {
 	LongLat	[ -87.2 20.1 0 ]
-	Size	392.00
+	Size	392
 	Type	"AA"	# Crater, craters
 }
 
@@ -5206,7 +5206,7 @@ Location "Menrva" "Sol/Saturn/Titan"
 Location "Merlock Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 148.2 -8.9 0 ]
-	Size	200.00
+	Size	200
 	Type	"MO"	# Mons, montes
 }
 
@@ -5215,7 +5215,7 @@ Location "Merlock Montes" "Sol/Saturn/Titan"
 Location "Meropis Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 46.32 83.85 0 ]
-	Size	30.00
+	Size	30
 	Type	"IN"	# Insula, insulae
 }
 
@@ -5223,7 +5223,7 @@ Location "Meropis Insula" "Sol/Saturn/Titan"
 # Origin: Oasis of happiness in the African desert, from an Italian legend.
 Location "MEZZORAMIA" "Sol/Saturn/Titan"
 {
-	LongLat	[ -0.0 -70.0 0 ]
+	LongLat	[ 0 -70 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -5233,7 +5233,7 @@ Location "MEZZORAMIA" "Sol/Saturn/Titan"
 Location "Mindanao Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -174.2 -6.6 0 ]
-	Size	210.00
+	Size	210
 	Type	"FA"	# Facula, faculae
 }
 
@@ -5242,7 +5242,7 @@ Location "Mindanao Facula" "Sol/Saturn/Titan"
 Location "Mindolluin Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 151.04 -3.3 0 ]
-	Size	340.00
+	Size	340
 	Type	"MO"	# Mons, montes
 }
 
@@ -5251,7 +5251,7 @@ Location "Mindolluin Montes" "Sol/Saturn/Titan"
 Location "Misty Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ -62.44 56.8 0 ]
-	Size	73.00
+	Size	73
 	Type	"MO"	# Mons, montes
 }
 
@@ -5260,7 +5260,7 @@ Location "Misty Montes" "Sol/Saturn/Titan"
 Location "Mithrim Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ -127.42 -2.16 0 ]
-	Size	147.00
+	Size	147
 	Type	"MO"	# Mons, montes
 }
 
@@ -5269,7 +5269,7 @@ Location "Mithrim Montes" "Sol/Saturn/Titan"
 Location "Mohini Fluctus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -38.53 -11.78 0 ]
-	Size	347.00
+	Size	347
 	Type	"FL"	# Fluctus, fluctūs
 }
 
@@ -5278,7 +5278,7 @@ Location "Mohini Fluctus" "Sol/Saturn/Titan"
 Location "Momoy" "Sol/Saturn/Titan"
 {
 	LongLat	[ -44.6 11.6 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -5287,7 +5287,7 @@ Location "Momoy" "Sol/Saturn/Titan"
 Location "Montego Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -130.92 80.76 0 ]
-	Size	83.00
+	Size	83
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5296,7 +5296,7 @@ Location "Montego Sinus" "Sol/Saturn/Titan"
 Location "Moray Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 78.6 76.6 0 ]
-	Size	204.00
+	Size	204
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5305,7 +5305,7 @@ Location "Moray Sinus" "Sol/Saturn/Titan"
 Location "Moria Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 169.55 15.05 0 ]
-	Size	107.00
+	Size	107
 	Type	"MO"	# Mons, montes
 }
 
@@ -5314,7 +5314,7 @@ Location "Moria Montes" "Sol/Saturn/Titan"
 Location "Müggel Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 156.5 84.44 0 ]
-	Size	170.00
+	Size	170
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5323,7 +5323,7 @@ Location "Müggel Lacus" "Sol/Saturn/Titan"
 Location "Muritan Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 140.8 -68.8 0 ]
-	Size	200.00
+	Size	200
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5332,7 +5332,7 @@ Location "Muritan Labyrinthus" "Sol/Saturn/Titan"
 Location "Muzhwi Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -126.3 74.8 0 ]
-	Size	36.00
+	Size	36
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5341,7 +5341,7 @@ Location "Muzhwi Lacus" "Sol/Saturn/Titan"
 Location "Mweru Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -131.8 71.9 0 ]
-	Size	20.60
+	Size	20.6
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5350,7 +5350,7 @@ Location "Mweru Lacus" "Sol/Saturn/Titan"
 Location "Mystis" "Sol/Saturn/Titan"
 {
 	LongLat	[ 165.14 0.07 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -5359,7 +5359,7 @@ Location "Mystis" "Sol/Saturn/Titan"
 Location "Mývatn Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -135.28 78.19 0 ]
-	Size	55.00
+	Size	55
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5367,8 +5367,8 @@ Location "Mývatn Lacus" "Sol/Saturn/Titan"
 # Origin: Intermittent lake in Kenya.
 Location "Nakuru Lacuna" "Sol/Saturn/Titan"
 {
-	LongLat	[ -94.0 65.81 0 ]
-	Size	188.00
+	LongLat	[ -94 65.81 0 ]
+	Size	188
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -5377,7 +5377,7 @@ Location "Nakuru Lacuna" "Sol/Saturn/Titan"
 Location "Naraj Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -35.8 -74.2 0 ]
-	Size	115.00
+	Size	115
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5386,7 +5386,7 @@ Location "Naraj Labyrinthus" "Sol/Saturn/Titan"
 Location "Nath" "Sol/Saturn/Titan"
 {
 	LongLat	[ -7.7 -30.5 0 ]
-	Size	95.00
+	Size	95
 	Type	"LG"	# Large ringed feature
 }
 
@@ -5395,7 +5395,7 @@ Location "Nath" "Sol/Saturn/Titan"
 Location "Neagh Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -32.16 81.11 0 ]
-	Size	98.00
+	Size	98
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5404,7 +5404,7 @@ Location "Neagh Lacus" "Sol/Saturn/Titan"
 Location "Negra Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -128.9 75.5 0 ]
-	Size	15.30
+	Size	15.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5413,7 +5413,7 @@ Location "Negra Lacus" "Sol/Saturn/Titan"
 Location "Ngami Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 146.1 66.7 0 ]
-	Size	37.20
+	Size	37.2
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -5421,8 +5421,8 @@ Location "Ngami Lacuna" "Sol/Saturn/Titan"
 # Origin: Indian archipelago.
 Location "Nicobar Faculae" "Sol/Saturn/Titan"
 {
-	LongLat	[ -159.0 2.0 0 ]
-	Size	575.00
+	LongLat	[ -159 2 0 ]
+	Size	575
 	Type	"FA"	# Facula, faculae
 }
 
@@ -5431,7 +5431,7 @@ Location "Nicobar Faculae" "Sol/Saturn/Titan"
 Location "Nicoya Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 108.8 74.8 0 ]
-	Size	130.00
+	Size	130
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5440,7 +5440,7 @@ Location "Nicoya Sinus" "Sol/Saturn/Titan"
 Location "Nimloth Colles" "Sol/Saturn/Titan"
 {
 	LongLat	[ -151.3 11.86 0 ]
-	Size	90.00
+	Size	90
 	Type	"CO"	# Collis, colles
 }
 
@@ -5449,7 +5449,7 @@ Location "Nimloth Colles" "Sol/Saturn/Titan"
 Location "Niushe Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -88.1 75.1 0 ]
-	Size	222.00
+	Size	222
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5457,8 +5457,8 @@ Location "Niushe Labyrinthus" "Sol/Saturn/Titan"
 # Origin: Greek god of the south or southwest wind.
 Location "Notus Undae" "Sol/Saturn/Titan"
 {
-	LongLat	[ 148.9 -10.0 0 ]
-	Size	530.00
+	LongLat	[ 148.9 -10 0 ]
+	Size	530
 	Type	"UN"	# Unda, undae
 }
 
@@ -5466,8 +5466,8 @@ Location "Notus Undae" "Sol/Saturn/Titan"
 # Origin: Hawaiian island.
 Location "Oahu Facula" "Sol/Saturn/Titan"
 {
-	LongLat	[ -166.7 5.0 0 ]
-	Size	465.00
+	LongLat	[ -166.7 5 0 ]
+	Size	465
 	Type	"FA"	# Facula, faculae
 }
 
@@ -5476,7 +5476,7 @@ Location "Oahu Facula" "Sol/Saturn/Titan"
 Location "OCHUMARE REGIO" "Sol/Saturn/Titan"
 {
 	LongLat	[ 11.9 10.4 0 ]
-	Size	939.00
+	Size	939
 	Type	"RE"	# Regio, regiones
 }
 
@@ -5485,7 +5485,7 @@ Location "OCHUMARE REGIO" "Sol/Saturn/Titan"
 Location "Ohrid Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 138.1 71.8 0 ]
-	Size	17.30
+	Size	17.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5493,8 +5493,8 @@ Location "Ohrid Lacus" "Sol/Saturn/Titan"
 # Origin: Bay in New Zealand.
 Location "Okahu Sinus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 78.0 73.7 0 ]
-	Size	141.00
+	LongLat	[ 78 73.7 0 ]
+	Size	141
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5503,7 +5503,7 @@ Location "Okahu Sinus" "Sol/Saturn/Titan"
 Location "Olomega Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -122.2 78.7 0 ]
-	Size	15.70
+	Size	15.7
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5512,7 +5512,7 @@ Location "Olomega Lacus" "Sol/Saturn/Titan"
 Location "Omacatl Macula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -37.2 17.6 0 ]
-	Size	225.00
+	Size	225
 	Type	"MA"	# Macula, maculae
 }
 
@@ -5521,7 +5521,7 @@ Location "Omacatl Macula" "Sol/Saturn/Titan"
 Location "Oneida Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -131.83 76.14 0 ]
-	Size	51.00
+	Size	51
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5530,7 +5530,7 @@ Location "Oneida Lacus" "Sol/Saturn/Titan"
 Location "Onogoro Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 48.3 83.28 0 ]
-	Size	15.00
+	Size	15
 	Type	"IN"	# Insula, insulae
 }
 
@@ -5538,8 +5538,8 @@ Location "Onogoro Insula" "Sol/Saturn/Titan"
 # Origin: Lake on the border between Canada and the United States.
 Location "Ontario Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 177.0 -72.0 0 ]
-	Size	235.00
+	LongLat	[ 177 -72 0 ]
+	Size	235
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5548,7 +5548,7 @@ Location "Ontario Lacus" "Sol/Saturn/Titan"
 Location "Orog Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ -172.06 70.85 0 ]
-	Size	42.00
+	Size	42
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -5556,8 +5556,8 @@ Location "Orog Lacuna" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; home to a Bene Gesserit Keep, attacked by the Honored Matres.
 Location "Palma Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -31.0 -72.4 0 ]
-	Size	69.00
+	LongLat	[ -31 -72.4 0 ]
+	Size	69
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5566,7 +5566,7 @@ Location "Palma Labyrinthus" "Sol/Saturn/Titan"
 Location "Patos Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 135.2 77.2 0 ]
-	Size	103.00
+	Size	103
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5574,8 +5574,8 @@ Location "Patos Sinus" "Sol/Saturn/Titan"
 # Origin: Aymara (Peru, Bolivia) goddess of the moon, education and knowledge.
 Location "Paxsi" "Sol/Saturn/Titan"
 {
-	LongLat	[ 18.8 5.0 0 ]
-	Size	120.00
+	LongLat	[ 18.8 5 0 ]
+	Size	120
 	Type	"LG"	# Large ringed feature
 }
 
@@ -5584,7 +5584,7 @@ Location "Paxsi" "Sol/Saturn/Titan"
 Location "Penglai Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 51.3 72.2 0 ]
-	Size	94.00
+	Size	94
 	Type	"IN"	# Insula, insulae
 }
 
@@ -5592,8 +5592,8 @@ Location "Penglai Insula" "Sol/Saturn/Titan"
 # Origin: Lithuanian supreme god, ruler of rain, thunder, and lightning.
 Location "Perkunas Virgae" "Sol/Saturn/Titan"
 {
-	LongLat	[ -162.0 -27.0 0 ]
-	Size	980.00
+	LongLat	[ -162 -27 0 ]
+	Size	980
 	Type	"VI"	# Virga, virgae
 }
 
@@ -5601,8 +5601,8 @@ Location "Perkunas Virgae" "Sol/Saturn/Titan"
 # Origin: Lake in Nepal.
 Location "Phewa Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -124.0 72.2 0 ]
-	Size	12.00
+	LongLat	[ -124 72.2 0 ]
+	Size	12
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5611,7 +5611,7 @@ Location "Phewa Lacus" "Sol/Saturn/Titan"
 Location "Pielinen Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -179.66 71.34 0 ]
-	Size	88.00
+	Size	88
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5620,7 +5620,7 @@ Location "Pielinen Lacus" "Sol/Saturn/Titan"
 Location "Planctae Insulae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 108.7 77.5 0 ]
-	Size	64.00
+	Size	64
 	Type	"IN"	# Insula, insulae
 }
 
@@ -5629,7 +5629,7 @@ Location "Planctae Insulae" "Sol/Saturn/Titan"
 Location "Polaznik Macula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 79.6 -41.1 0 ]
-	Size	346.90
+	Size	346.9
 	Type	"MA"	# Macula, maculae
 }
 
@@ -5637,8 +5637,8 @@ Location "Polaznik Macula" "Sol/Saturn/Titan"
 # Origin: East Slavic god of matrimonial happiness.
 Location "Polelya Macula" "Sol/Saturn/Titan"
 {
-	LongLat	[ -56.0 50.0 0 ]
-	Size	175.00
+	LongLat	[ -56 50 0 ]
+	Size	175
 	Type	"MA"	# Macula, maculae
 }
 
@@ -5646,8 +5646,8 @@ Location "Polelya Macula" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; third planet of Epsilon Alangue, considered by many Zensunni Wanderers as their planet of origin.
 Location "Poritrin Planitia" "Sol/Saturn/Titan"
 {
-	LongLat	[ -24.0 48.0 0 ]
-	Size	1900.00
+	LongLat	[ -24 48 0 ]
+	Size	1900
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -5656,7 +5656,7 @@ Location "Poritrin Planitia" "Sol/Saturn/Titan"
 Location "Prespa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -135.7 73.1 0 ]
-	Size	43.70
+	Size	43.7
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5665,7 +5665,7 @@ Location "Prespa Lacus" "Sol/Saturn/Titan"
 Location "Puget Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 118.9 82.4 0 ]
-	Size	93.00
+	Size	93
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5674,7 +5674,7 @@ Location "Puget Sinus" "Sol/Saturn/Titan"
 Location "PUNGA MARE" "Sol/Saturn/Titan"
 {
 	LongLat	[ 20.3 85.1 0 ]
-	Size	380.00
+	Size	380
 	Type	"ME"	# Mare, maria
 }
 
@@ -5683,7 +5683,7 @@ Location "PUNGA MARE" "Sol/Saturn/Titan"
 Location "Qinghai Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -51.5 83.4 0 ]
-	Size	44.30
+	Size	44.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5692,7 +5692,7 @@ Location "Qinghai Lacus" "Sol/Saturn/Titan"
 Location "Quilotoa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -120.1 80.3 0 ]
-	Size	11.80
+	Size	11.8
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5700,7 +5700,7 @@ Location "Quilotoa Lacus" "Sol/Saturn/Titan"
 # Origin: Legendary city in the American Southwest; site of a fabulous treasure sought by Coronado and other explorers.
 Location "QUIVIRA" "Sol/Saturn/Titan"
 {
-	LongLat	[ -15.0 0.0 0 ]
+	LongLat	[ -15 0 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -5710,7 +5710,7 @@ Location "QUIVIRA" "Sol/Saturn/Titan"
 Location "Racetrack Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 135.1 66.1 0 ]
-	Size	9.90
+	Size	9.9
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -5719,7 +5719,7 @@ Location "Racetrack Lacuna" "Sol/Saturn/Titan"
 Location "Rannoch Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -129.3 74.2 0 ]
-	Size	63.50
+	Size	63.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5728,7 +5728,7 @@ Location "Rannoch Lacus" "Sol/Saturn/Titan"
 Location "Rerir Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 147.9 -4.8 0 ]
-	Size	370.00
+	Size	370
 	Type	"MO"	# Mons, montes
 }
 
@@ -5736,8 +5736,8 @@ Location "Rerir Montes" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; fourth planet of Eridani A, supreme in machine culture, noted for miniaturization.
 Location "Richese Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 161.0 41.8 0 ]
-	Size	200.00
+	LongLat	[ 161 41.8 0 ]
+	Size	200
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5746,7 +5746,7 @@ Location "Richese Labyrinthus" "Sol/Saturn/Titan"
 Location "Roca Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -123.5 79.8 0 ]
-	Size	46.00
+	Size	46
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5755,7 +5755,7 @@ Location "Roca Lacus" "Sol/Saturn/Titan"
 Location "Rohe Fluctus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -37.75 47.3 0 ]
-	Size	103.00
+	Size	103
 	Type	"FL"	# Fluctus, fluctūs
 }
 
@@ -5764,7 +5764,7 @@ Location "Rohe Fluctus" "Sol/Saturn/Titan"
 Location "Rombaken Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 127.1 75.3 0 ]
-	Size	92.50
+	Size	92.5
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5773,7 +5773,7 @@ Location "Rombaken Sinus" "Sol/Saturn/Titan"
 Location "Romo Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ 159.04 -82.79 0 ]
-	Size	400.00
+	Size	400
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -5781,8 +5781,8 @@ Location "Romo Planitia" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; the source planet for the Bene Gesserit's original poison drug, or, the “;Water of Life“;, and the origin of the Bene Gesserit order itself.
 Location "Rossak Planitia" "Sol/Saturn/Titan"
 {
-	LongLat	[ 5.0 -71.04 0 ]
-	Size	512.00
+	LongLat	[ 5 -71.04 0 ]
+	Size	512
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -5791,7 +5791,7 @@ Location "Rossak Planitia" "Sol/Saturn/Titan"
 Location "Royllo Insula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 62.8 68.3 0 ]
-	Size	103.00
+	Size	103
 	Type	"IN"	# Insula, insulae
 }
 
@@ -5800,7 +5800,7 @@ Location "Royllo Insula" "Sol/Saturn/Titan"
 Location "Rukwa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -134.8 74.8 0 ]
-	Size	36.00
+	Size	36
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5809,7 +5809,7 @@ Location "Rukwa Lacus" "Sol/Saturn/Titan"
 Location "Rwegura Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -105.2 71.5 0 ]
-	Size	21.70
+	Size	21.7
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5818,7 +5818,7 @@ Location "Rwegura Lacus" "Sol/Saturn/Titan"
 Location "Saldanha Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 37.5 82.42 0 ]
-	Size	18.00
+	Size	18
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5827,7 +5827,7 @@ Location "Saldanha Sinus" "Sol/Saturn/Titan"
 Location "Salusa Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 95.8 45.6 0 ]
-	Size	126.00
+	Size	126
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5836,7 +5836,7 @@ Location "Salusa Labyrinthus" "Sol/Saturn/Titan"
 Location "Sambation Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ -90.12 87.33 0 ]
-	Size	210.00
+	Size	210
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -5845,7 +5845,7 @@ Location "Sambation Flumina" "Sol/Saturn/Titan"
 Location "Santorini Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -145.6 2.4 0 ]
-	Size	140.00
+	Size	140
 	Type	"FA"	# Facula, faculae
 }
 
@@ -5854,7 +5854,7 @@ Location "Santorini Facula" "Sol/Saturn/Titan"
 Location "Saraswati Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 166.49 -74.55 0 ]
-	Size	2.90
+	Size	2.9
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -5863,7 +5863,7 @@ Location "Saraswati Flumen" "Sol/Saturn/Titan"
 Location "Sarygamysh Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -103.92 84.64 0 ]
-	Size	19.00
+	Size	19
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5871,8 +5871,8 @@ Location "Sarygamysh Lacus" "Sol/Saturn/Titan"
 # Origin: Hari Seldon, the fictional, intellectual hero of Isaac Asimov's Foundation Series, First Minister of the Galactic Empire.
 Location "Seldon Fretum" "Sol/Saturn/Titan"
 {
-	LongLat	[ 43.4 66.0 0 ]
-	Size	67.00
+	LongLat	[ 43.4 66 0 ]
+	Size	67
 	Type	"FT"	# Fretum, freta
 }
 
@@ -5880,8 +5880,8 @@ Location "Seldon Fretum" "Sol/Saturn/Titan"
 # Origin: Egyptian goddess of knowledge, writing, education, and reptiles.
 Location "Selk" "Sol/Saturn/Titan"
 {
-	LongLat	[ 161.0 7.0 0 ]
-	Size	80.00
+	LongLat	[ 161 7 0 ]
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -5889,7 +5889,7 @@ Location "Selk" "Sol/Saturn/Titan"
 # Origin: Japanese ideal realm of aloofness and serenity, freedom from wordly cares and death.
 Location "SENKYO" "Sol/Saturn/Titan"
 {
-	LongLat	[ 40.0 -5.0 0 ]
+	LongLat	[ 40 -5 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -5899,7 +5899,7 @@ Location "SENKYO" "Sol/Saturn/Titan"
 Location "Sevan Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 134.4 69.7 0 ]
-	Size	46.90
+	Size	46.9
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5908,7 +5908,7 @@ Location "Sevan Lacus" "Sol/Saturn/Titan"
 # Additional info: Spelling changed from Shangri-la April 20, 2009 to match the spelling in Hilton's Lost Horizon.
 Location "SHANGRI-LA" "Sol/Saturn/Titan"
 {
-	LongLat	[ -165.0 -10.0 0 ]
+	LongLat	[ -165 -10 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -5918,7 +5918,7 @@ Location "SHANGRI-LA" "Sol/Saturn/Titan"
 Location "Shikoku Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -164.1 -10.4 0 ]
-	Size	285.00
+	Size	285
 	Type	"FA"	# Facula, faculae
 }
 
@@ -5926,8 +5926,8 @@ Location "Shikoku Facula" "Sol/Saturn/Titan"
 # Origin: Zuni rain god.
 Location "Shiwanni Virgae" "Sol/Saturn/Titan"
 {
-	LongLat	[ -32.0 -25.0 0 ]
-	Size	1400.00
+	LongLat	[ -32 -25 0 ]
+	Size	1400
 	Type	"VI"	# Virga, virgae
 }
 
@@ -5936,7 +5936,7 @@ Location "Shiwanni Virgae" "Sol/Saturn/Titan"
 Location "Shoji Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -166.37 -79.74 0 ]
-	Size	5.80
+	Size	5.8
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5945,7 +5945,7 @@ Location "Shoji Lacus" "Sol/Saturn/Titan"
 Location "Sikun Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -28.9 -77.9 0 ]
-	Size	175.00
+	Size	175
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -5953,8 +5953,8 @@ Location "Sikun Labyrinthus" "Sol/Saturn/Titan"
 # Origin: Kachin (N. Burma) wise spirit who dwells in the sky and gives wisdom to his worshippers.
 Location "Sinlap" "Sol/Saturn/Titan"
 {
-	LongLat	[ -16.0 11.3 0 ]
-	Size	80.00
+	LongLat	[ -16 11.3 0 ]
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -5963,7 +5963,7 @@ Location "Sinlap" "Sol/Saturn/Titan"
 Location "Sionascaig Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 81.88 -41.52 0 ]
-	Size	143.20
+	Size	143.2
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5972,7 +5972,7 @@ Location "Sionascaig Lacus" "Sol/Saturn/Titan"
 Location "Skelton Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 45.1 76.8 0 ]
-	Size	73.00
+	Size	73
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -5981,7 +5981,7 @@ Location "Skelton Sinus" "Sol/Saturn/Titan"
 Location "Soi" "Sol/Saturn/Titan"
 {
 	LongLat	[ -140.9 24.3 0 ]
-	Size	75.00
+	Size	75
 	Type	"AA"	# Crater, craters
 }
 
@@ -5990,7 +5990,7 @@ Location "Soi" "Sol/Saturn/Titan"
 Location "Sotonera Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -17.49 76.75 0 ]
-	Size	63.00
+	Size	63
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -5999,8 +5999,8 @@ Location "Sotonera Lacus" "Sol/Saturn/Titan"
 # Additional info: Formerly Sotra Facula.
 Location "Sotra Patera" "Sol/Saturn/Titan"
 {
-	LongLat	[ -40.0 -14.54 0 ]
-	Size	40.00
+	LongLat	[ -40 -14.54 0 ]
+	Size	40
 	Type	"PE"	# Patera, paterae
 }
 
@@ -6009,7 +6009,7 @@ Location "Sotra Patera" "Sol/Saturn/Titan"
 Location "Sparrow Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -64.7 84.3 0 ]
-	Size	81.40
+	Size	81.4
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6018,7 +6018,7 @@ Location "Sparrow Lacus" "Sol/Saturn/Titan"
 Location "Suwa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -135.2 74.1 0 ]
-	Size	12.00
+	Size	12
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6026,8 +6026,8 @@ Location "Suwa Lacus" "Sol/Saturn/Titan"
 # Origin: Lake in Ukraine.
 Location "Synevyr Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -53.6 81.0 0 ]
-	Size	36.00
+	LongLat	[ -53.6 81 0 ]
+	Size	36
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6036,7 +6036,7 @@ Location "Synevyr Lacus" "Sol/Saturn/Titan"
 Location "Taniquetil Montes" "Sol/Saturn/Titan"
 {
 	LongLat	[ 146.74 -3.67 0 ]
-	Size	130.00
+	Size	130
 	Type	"MO"	# Mons, montes
 }
 
@@ -6045,7 +6045,7 @@ Location "Taniquetil Montes" "Sol/Saturn/Titan"
 Location "Tasmania Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -167.37 10.41 0 ]
-	Size	26.00
+	Size	26
 	Type	"FA"	# Facula, faculae
 }
 
@@ -6054,7 +6054,7 @@ Location "Tasmania Facula" "Sol/Saturn/Titan"
 Location "Taupo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -132.6 72.7 0 ]
-	Size	27.00
+	Size	27
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6063,7 +6063,7 @@ Location "Taupo Lacus" "Sol/Saturn/Titan"
 Location "Tengiz Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -105.6 73.2 0 ]
-	Size	70.00
+	Size	70
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6072,7 +6072,7 @@ Location "Tengiz Lacus" "Sol/Saturn/Titan"
 Location "Texel Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ 177.4 -11.5 0 ]
-	Size	190.00
+	Size	190
 	Type	"FA"	# Facula, faculae
 }
 
@@ -6081,7 +6081,7 @@ Location "Texel Facula" "Sol/Saturn/Titan"
 Location "Tishtrya Virgae" "Sol/Saturn/Titan"
 {
 	LongLat	[ -179.75 23.84 0 ]
-	Size	276.00
+	Size	276
 	Type	"VI"	# Virga, virgae
 }
 
@@ -6090,7 +6090,7 @@ Location "Tishtrya Virgae" "Sol/Saturn/Titan"
 Location "Tlaloc Virgae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 152.3 23.73 0 ]
-	Size	600.00
+	Size	600
 	Type	"VI"	# Virga, virgae
 }
 
@@ -6098,8 +6098,8 @@ Location "Tlaloc Virgae" "Sol/Saturn/Titan"
 # Origin: Planet from the Dune series; home world of the Bene Tleilax.
 Location "Tleilax Labyrinthus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -16.0 -48.0 0 ]
-	Size	207.00
+	LongLat	[ -16 -48 0 ]
+	Size	207
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -6108,7 +6108,7 @@ Location "Tleilax Labyrinthus" "Sol/Saturn/Titan"
 Location "Toba Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -108.1 70.9 0 ]
-	Size	23.60
+	Size	23.6
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6117,7 +6117,7 @@ Location "Toba Lacus" "Sol/Saturn/Titan"
 Location "TOLLAN TERRA" "Sol/Saturn/Titan"
 {
 	LongLat	[ 37.3 6.4 0 ]
-	Size	800.00
+	Size	800
 	Type	"TA"	# Terra, terrae
 }
 
@@ -6126,7 +6126,7 @@ Location "TOLLAN TERRA" "Sol/Saturn/Titan"
 Location "Tortola Facula" "Sol/Saturn/Titan"
 {
 	LongLat	[ -143.1 8.8 0 ]
-	Size	65.00
+	Size	65
 	Type	"FA"	# Facula, faculae
 }
 
@@ -6135,7 +6135,7 @@ Location "Tortola Facula" "Sol/Saturn/Titan"
 Location "Totak Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 134.01 74.03 0 ]
-	Size	20.00
+	Size	20
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6144,7 +6144,7 @@ Location "Totak Lacus" "Sol/Saturn/Titan"
 Location "Towada Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 115.8 71.4 0 ]
-	Size	24.00
+	Size	24
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6153,7 +6153,7 @@ Location "Towada Lacus" "Sol/Saturn/Titan"
 Location "Trevize Fretum" "Sol/Saturn/Titan"
 {
 	LongLat	[ 90.1 74.4 0 ]
-	Size	173.00
+	Size	173
 	Type	"FT"	# Fretum, freta
 }
 
@@ -6162,7 +6162,7 @@ Location "Trevize Fretum" "Sol/Saturn/Titan"
 Location "Trichonida Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -65.3 81.3 0 ]
-	Size	31.50
+	Size	31.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6171,7 +6171,7 @@ Location "Trichonida Lacus" "Sol/Saturn/Titan"
 Location "Trold Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 67.3 71.3 0 ]
-	Size	118.00
+	Size	118
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -6179,7 +6179,7 @@ Location "Trold Sinus" "Sol/Saturn/Titan"
 # Origin: Navajo sacred place.
 Location "TSEGIHI" "Sol/Saturn/Titan"
 {
-	LongLat	[ -10.0 -40.0 0 ]
+	LongLat	[ -10 -40 0 ]
 	Importance	20
 	Type	"AL"	# Albedo Feature
 }
@@ -6198,7 +6198,7 @@ Location "TSIIPIYA TERRA" "Sol/Saturn/Titan"
 Location "Tsomgo Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -162.41 -86.37 0 ]
-	Size	59.00
+	Size	59
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6208,7 +6208,7 @@ Location "Tsomgo Lacus" "Sol/Saturn/Titan"
 Location "TUI REGIO" "Sol/Saturn/Titan"
 {
 	LongLat	[ -124.9 -24.5 0 ]
-	Size	1200.00
+	Size	1200
 	Type	"RE"	# Regio, regiones
 }
 
@@ -6217,7 +6217,7 @@ Location "TUI REGIO" "Sol/Saturn/Titan"
 Location "Tumaco Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 44.78 82.55 0 ]
-	Size	31.00
+	Size	31
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -6226,7 +6226,7 @@ Location "Tumaco Sinus" "Sol/Saturn/Titan"
 Location "Tunu Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 60.2 79.2 0 ]
-	Size	134.00
+	Size	134
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -6235,7 +6235,7 @@ Location "Tunu Sinus" "Sol/Saturn/Titan"
 Location "Tupile Labyrinthus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -32.2 -80.5 0 ]
-	Size	84.00
+	Size	84
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -6244,7 +6244,7 @@ Location "Tupile Labyrinthus" "Sol/Saturn/Titan"
 Location "Uanui Virgae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 124.7 45.2 0 ]
-	Size	917.00
+	Size	917
 	Type	"VI"	# Virga, virgae
 }
 
@@ -6253,7 +6253,7 @@ Location "Uanui Virgae" "Sol/Saturn/Titan"
 Location "Urmia Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 83.45 -39.27 0 ]
-	Size	28.60
+	Size	28.6
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6262,7 +6262,7 @@ Location "Urmia Lacus" "Sol/Saturn/Titan"
 Location "Uvs Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 114.3 69.6 0 ]
-	Size	26.90
+	Size	26.9
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6271,7 +6271,7 @@ Location "Uvs Lacus" "Sol/Saturn/Titan"
 Location "Uyuni Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ 131.6 66.3 0 ]
-	Size	27.00
+	Size	27
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -6280,7 +6280,7 @@ Location "Uyuni Lacuna" "Sol/Saturn/Titan"
 Location "Vänern Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 136.9 70.4 0 ]
-	Size	43.90
+	Size	43.9
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6289,7 +6289,7 @@ Location "Vänern Lacus" "Sol/Saturn/Titan"
 Location "Van Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -137.3 74.2 0 ]
-	Size	32.70
+	Size	32.7
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6297,8 +6297,8 @@ Location "Van Lacus" "Sol/Saturn/Titan"
 # Origin: Slavic god of housekeeping wisdom.
 Location "Veles" "Sol/Saturn/Titan"
 {
-	LongLat	[ -137.3 2.0 0 ]
-	Size	45.00
+	LongLat	[ -137.3 2 0 ]
+	Size	45
 	Type	"LG"	# Large ringed feature
 }
 
@@ -6307,7 +6307,7 @@ Location "Veles" "Sol/Saturn/Titan"
 Location "Veliko Lacuna" "Sol/Saturn/Titan"
 {
 	LongLat	[ -33.1 -76.8 0 ]
-	Size	90.00
+	Size	90
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -6316,7 +6316,7 @@ Location "Veliko Lacuna" "Sol/Saturn/Titan"
 Location "Vid Flumina" "Sol/Saturn/Titan"
 {
 	LongLat	[ 117.75 72.9 0 ]
-	Size	158.00
+	Size	158
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -6324,8 +6324,8 @@ Location "Vid Flumina" "Sol/Saturn/Titan"
 # Origin: Lake in Argentina.
 Location "Viedma Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -125.7 72.0 0 ]
-	Size	42.00
+	LongLat	[ -125.7 72 0 ]
+	Size	42
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6333,8 +6333,8 @@ Location "Viedma Lacus" "Sol/Saturn/Titan"
 # Origin: Croatian island.
 Location "Vis Facula" "Sol/Saturn/Titan"
 {
-	LongLat	[ -138.4 7.0 0 ]
-	Size	215.00
+	LongLat	[ -138.4 7 0 ]
+	Size	215
 	Type	"FA"	# Facula, faculae
 }
 
@@ -6342,8 +6342,8 @@ Location "Vis Facula" "Sol/Saturn/Titan"
 # Origin: Lake in New Zealand.
 Location "Waikare Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -126.0 81.6 0 ]
-	Size	52.50
+	LongLat	[ -126 81.6 0 ]
+	Size	52.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6351,8 +6351,8 @@ Location "Waikare Lacus" "Sol/Saturn/Titan"
 # Origin: Bay in Japan.
 Location "Wakasa Sinus" "Sol/Saturn/Titan"
 {
-	LongLat	[ 90.0 80.7 0 ]
-	Size	146.00
+	LongLat	[ 90 80.7 0 ]
+	Size	146
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -6361,7 +6361,7 @@ Location "Wakasa Sinus" "Sol/Saturn/Titan"
 Location "Walvis Sinus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 35.9 58.2 0 ]
-	Size	253.00
+	Size	253
 	Type	"SI"	# Sinus, sinūs
 }
 
@@ -6370,7 +6370,7 @@ Location "Walvis Sinus" "Sol/Saturn/Titan"
 Location "Weija Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ 32.32 68.77 0 ]
-	Size	12.00
+	Size	12
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6378,8 +6378,8 @@ Location "Weija Lacus" "Sol/Saturn/Titan"
 # Origin: Indonesian first woman, known for her great beauty.
 Location "Winia Fluctus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -46.0 49.0 0 ]
-	Size	300.00
+	LongLat	[ -46 49 0 ]
+	Size	300
 	Type	"FL"	# Fluctus, fluctūs
 }
 
@@ -6388,7 +6388,7 @@ Location "Winia Fluctus" "Sol/Saturn/Titan"
 Location "Winnipeg Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -153.31 78.05 0 ]
-	Size	60.00
+	Size	60
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6396,8 +6396,8 @@ Location "Winnipeg Lacus" "Sol/Saturn/Titan"
 # Origin: Intermittent lake in Australia.
 Location "Woytchugga Lacuna" "Sol/Saturn/Titan"
 {
-	LongLat	[ -109.0 68.88 0 ]
-	Size	449.00
+	LongLat	[ -109 68.88 0 ]
+	Size	449
 	Type	"LU"	# Lacuna, lacunae
 }
 
@@ -6405,8 +6405,8 @@ Location "Woytchugga Lacuna" "Sol/Saturn/Titan"
 # Origin: An imaginary country in Coleridge's “;Kubla Khan.“;
 Location "XANADU" "Sol/Saturn/Titan"
 {
-	LongLat	[ -100.0 -15.0 0 ]
-	Size	3400.00
+	LongLat	[ -100 -15 0 ]
+	Size	3400
 	Type	"AL"	# Albedo Feature
 }
 
@@ -6415,7 +6415,7 @@ Location "XANADU" "Sol/Saturn/Titan"
 Location "Xanthus Flumen" "Sol/Saturn/Titan"
 {
 	LongLat	[ 117.24 83.47 0 ]
-	Size	78.00
+	Size	78
 	Type	"FM"	# Flumen, flumina
 }
 
@@ -6424,7 +6424,7 @@ Location "Xanthus Flumen" "Sol/Saturn/Titan"
 Location "Xolotlán Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -72.9 82.3 0 ]
-	Size	57.40
+	Size	57.4
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6433,7 +6433,7 @@ Location "Xolotlán Lacus" "Sol/Saturn/Titan"
 Location "Xuttah Planitia" "Sol/Saturn/Titan"
 {
 	LongLat	[ -167.69 10.6 0 ]
-	Size	18.00
+	Size	18
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -6441,8 +6441,8 @@ Location "Xuttah Planitia" "Sol/Saturn/Titan"
 # Origin: Australian spirit land filled with game and clean water for good souls.
 Location "YALAING TERRA" "Sol/Saturn/Titan"
 {
-	LongLat	[ 36.0 -19.5 0 ]
-	Size	980.00
+	LongLat	[ 36 -19.5 0 ]
+	Size	980
 	Type	"TA"	# Terra, terrae
 }
 
@@ -6450,8 +6450,8 @@ Location "YALAING TERRA" "Sol/Saturn/Titan"
 # Origin: Lake in Siberia (Evenkia, Asiatic Russia).
 Location "Yessey Lacus" "Sol/Saturn/Titan"
 {
-	LongLat	[ -110.8 73.0 0 ]
-	Size	24.50
+	LongLat	[ -110.8 73 0 ]
+	Size	24.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6460,7 +6460,7 @@ Location "Yessey Lacus" "Sol/Saturn/Titan"
 Location "Yojoa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -54.1 78.1 0 ]
-	Size	58.30
+	Size	58.3
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6469,7 +6469,7 @@ Location "Yojoa Lacus" "Sol/Saturn/Titan"
 Location "Ypoa Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -132.2 73.4 0 ]
-	Size	39.20
+	Size	39.2
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6478,7 +6478,7 @@ Location "Ypoa Lacus" "Sol/Saturn/Titan"
 Location "Zaza Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -106.9 72.4 0 ]
-	Size	29.00
+	Size	29
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6487,7 +6487,7 @@ Location "Zaza Lacus" "Sol/Saturn/Titan"
 Location "Zephyrus Undae" "Sol/Saturn/Titan"
 {
 	LongLat	[ 142.9 -8.5 0 ]
-	Size	130.00
+	Size	130
 	Type	"UN"	# Unda, undae
 }
 
@@ -6496,7 +6496,7 @@ Location "Zephyrus Undae" "Sol/Saturn/Titan"
 Location "Zub Lacus" "Sol/Saturn/Titan"
 {
 	LongLat	[ -102.6 71.7 0 ]
-	Size	19.50
+	Size	19.5
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -6507,7 +6507,7 @@ Location "Zub Lacus" "Sol/Saturn/Titan"
 # Origin: The Moon; maker of girl babies.
 Location "Bahloo" "Sol/Saturn/Hyperion"
 {
-	LongLat	[ 164.0 36.0 0 ]
+	LongLat	[ 164 36 0 ]
 	Size	20
 	Type	"AA"	# Crater, craters
 }
@@ -6516,7 +6516,7 @@ Location "Bahloo" "Sol/Saturn/Hyperion"
 # Origin: G.P. Bond (American) and William Lassell (British); discovered Hyperion on the same night in 1848.
 Location "Bond-Lassell Dorsum" "Sol/Saturn/Hyperion"
 {
-	LongLat	[ -143.5 48.0 0 ]
+	LongLat	[ -143.5 48 0 ]
 	Size	250
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -6525,7 +6525,7 @@ Location "Bond-Lassell Dorsum" "Sol/Saturn/Hyperion"
 # Origin: Greek sun god; son of Hyperion.
 Location "Helios" "Sol/Saturn/Hyperion"
 {
-	LongLat	[ -132.0 71.0 0 ]
+	LongLat	[ -132 71 0 ]
 	Size	60
 	Type	"AA"	# Crater, craters
 }
@@ -6534,7 +6534,7 @@ Location "Helios" "Sol/Saturn/Hyperion"
 # Origin: East Slavic god of the sun, fertility and love.
 Location "Jarilo" "Sol/Saturn/Hyperion"
 {
-	LongLat	[ 177.0 61.0 0 ]
+	LongLat	[ 177 61 0 ]
 	Size	30
 	Type	"AA"	# Crater, craters
 }
@@ -6543,7 +6543,7 @@ Location "Jarilo" "Sol/Saturn/Hyperion"
 # Origin: Bororo folk hero; the sun.
 Location "Meri" "Sol/Saturn/Hyperion"
 {
-	LongLat	[ -171.0 3.0 0 ]
+	LongLat	[ -171 3 0 ]
 	Size	30
 	Type	"AA"	# Crater, craters
 }
@@ -6565,7 +6565,7 @@ Location "Abisme" "Sol/Saturn/Iapetus"
 Location "Acelin" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -154.9 42.7 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -6574,7 +6574,7 @@ Location "Acelin" "Sol/Saturn/Iapetus"
 Location "Adelroth" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 176.4 6.6 0 ]
-	Size	57.00
+	Size	57
 	Type	"AA"	# Crater, craters
 }
 
@@ -6583,8 +6583,8 @@ Location "Adelroth" "Sol/Saturn/Iapetus"
 # Additional info: Defines 276 degrees longitude on Iapetus. Center longitude changed from 276.6 to 276.0 May 15, 2008.
 Location "Almeric" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 84.0 53.4 0 ]
-	Size	43.00
+	LongLat	[ 84 53.4 0 ]
+	Size	43
 	Type	"AA"	# Crater, craters
 }
 
@@ -6593,7 +6593,7 @@ Location "Almeric" "Sol/Saturn/Iapetus"
 Location "Anseïs" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 69.2 -40.7 0 ]
-	Size	48.00
+	Size	48
 	Type	"AA"	# Crater, craters
 }
 
@@ -6602,7 +6602,7 @@ Location "Anseïs" "Sol/Saturn/Iapetus"
 Location "Astor" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 38.8 14.9 0 ]
-	Size	122.00
+	Size	122
 	Type	"AA"	# Crater, craters
 }
 
@@ -6611,7 +6611,7 @@ Location "Astor" "Sol/Saturn/Iapetus"
 Location "Baligant" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 135.1 16.4 0 ]
-	Size	66.00
+	Size	66
 	Type	"AA"	# Crater, craters
 }
 
@@ -6620,7 +6620,7 @@ Location "Baligant" "Sol/Saturn/Iapetus"
 Location "Basan" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 165.3 33.3 0 ]
-	Size	76.00
+	Size	76
 	Type	"AA"	# Crater, craters
 }
 
@@ -6628,8 +6628,8 @@ Location "Basan" "Sol/Saturn/Iapetus"
 # Origin: Charlemagne’s officer who hung Ganelon’s 30 relatives.
 Location "Basbrun" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -111.8 -52.0 0 ]
-	Size	80.00
+	LongLat	[ -111.8 -52 0 ]
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -6638,7 +6638,7 @@ Location "Basbrun" "Sol/Saturn/Iapetus"
 Location "Basile" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 172.1 -0.7 0 ]
-	Size	6.00
+	Size	6
 	Type	"AA"	# Crater, craters
 }
 
@@ -6647,7 +6647,7 @@ Location "Basile" "Sol/Saturn/Iapetus"
 Location "Berenger" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 140.3 62.1 0 ]
-	Size	84.00
+	Size	84
 	Type	"AA"	# Crater, craters
 }
 
@@ -6655,8 +6655,8 @@ Location "Berenger" "Sol/Saturn/Iapetus"
 # Origin: Chief cook for Charlemagne's army; he guarded Ganelon after Ganelon's treachery was discovered.
 Location "Besgun" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 50.2 76.0 0 ]
-	Size	56.00
+	LongLat	[ 50.2 76 0 ]
+	Size	56
 	Type	"AA"	# Crater, craters
 }
 
@@ -6664,8 +6664,8 @@ Location "Besgun" "Sol/Saturn/Iapetus"
 # Origin: A French baron; killed by Marsilion.
 Location "Bevon" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -93.0 70.7 0 ]
-	Size	48.00
+	LongLat	[ -93 70.7 0 ]
+	Size	48
 	Type	"AA"	# Crater, craters
 }
 
@@ -6673,8 +6673,8 @@ Location "Bevon" "Sol/Saturn/Iapetus"
 # Origin: Queen of Saragossa, wife of Marsilion.
 Location "Bramimond" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -178.0 38.0 0 ]
-	Size	200.00
+	LongLat	[ -178 38 0 ]
+	Size	200
 	Type	"AA"	# Crater, craters
 }
 
@@ -6682,8 +6682,8 @@ Location "Bramimond" "Sol/Saturn/Iapetus"
 # Origin: Town in southern France sacked by Roland.
 Location "Carcassone Montes" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 143.3 0.0 0 ]
-	Size	740.00
+	LongLat	[ 143.3 0 0 ]
+	Size	740
 	Type	"MO"	# Mons, montes
 }
 
@@ -6700,8 +6700,8 @@ Location "CASSINI REGIO" "Sol/Saturn/Iapetus"
 # Origin: Emperor of France and Germanic nations; his forces fought the Saracens in Spain.
 Location "Charlemagne" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 101.2 55.0 0 ]
-	Size	95.00
+	LongLat	[ 101.2 55 0 ]
+	Size	95
 	Type	"AA"	# Crater, craters
 }
 
@@ -6710,7 +6710,7 @@ Location "Charlemagne" "Sol/Saturn/Iapetus"
 Location "Clarin" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -71.6 18.3 0 ]
-	Size	84.00
+	Size	84
 	Type	"AA"	# Crater, craters
 }
 
@@ -6719,7 +6719,7 @@ Location "Clarin" "Sol/Saturn/Iapetus"
 Location "Climborin" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -116.9 30.4 0 ]
-	Size	49.00
+	Size	49
 	Type	"AA"	# Crater, craters
 }
 
@@ -6727,8 +6727,8 @@ Location "Climborin" "Sol/Saturn/Iapetus"
 # Origin: Town in Spain taken by Charlemagne.
 Location "Cordova Mons" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 153.8 0.0 0 ]
-	Size	85.00
+	LongLat	[ 153.8 0 0 ]
+	Size	85
 	Type	"MO"	# Mons, montes
 }
 
@@ -6737,7 +6737,7 @@ Location "Cordova Mons" "Sol/Saturn/Iapetus"
 Location "Corsablis" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -114.2 0.9 0 ]
-	Size	73.00
+	Size	73
 	Type	"AA"	# Crater, craters
 }
 
@@ -6746,7 +6746,7 @@ Location "Corsablis" "Sol/Saturn/Iapetus"
 Location "Dapamort" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -84.9 36.6 0 ]
-	Size	49.00
+	Size	49
 	Type	"AA"	# Crater, craters
 }
 
@@ -6755,7 +6755,7 @@ Location "Dapamort" "Sol/Saturn/Iapetus"
 Location "Engelier" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 95.3 -40.5 0 ]
-	Size	504.00
+	Size	504
 	Type	"AA"	# Crater, craters
 }
 
@@ -6773,7 +6773,7 @@ Location "Escremiz" "Sol/Saturn/Iapetus"
 Location "Eudropin" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 139.3 0.9 0 ]
-	Size	42.00
+	Size	42
 	Type	"AA"	# Crater, craters
 }
 
@@ -6782,7 +6782,7 @@ Location "Eudropin" "Sol/Saturn/Iapetus"
 Location "Falsaron" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -82.6 33.8 0 ]
-	Size	424.00
+	Size	424
 	Type	"AA"	# Crater, craters
 }
 
@@ -6791,7 +6791,7 @@ Location "Falsaron" "Sol/Saturn/Iapetus"
 Location "Ganelon" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -19.8 -44.3 0 ]
-	Size	230.00
+	Size	230
 	Type	"AA"	# Crater, craters
 }
 
@@ -6800,7 +6800,7 @@ Location "Ganelon" "Sol/Saturn/Iapetus"
 Location "Garlon" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 119.5 -3.2 0 ]
-	Size	47.00
+	Size	47
 	Type	"AA"	# Crater, craters
 }
 
@@ -6808,8 +6808,8 @@ Location "Garlon" "Sol/Saturn/Iapetus"
 # Origin: Spanish town whose walls Roland had shattered.
 Location "Gayne Mons" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -176.0 0.0 0 ]
-	Size	65.00
+	LongLat	[ -176 0 0 ]
+	Size	65
 	Type	"MO"	# Mons, montes
 }
 
@@ -6818,7 +6818,7 @@ Location "Gayne Mons" "Sol/Saturn/Iapetus"
 Location "Geboin" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -173.4 58.6 0 ]
-	Size	81.00
+	Size	81
 	Type	"AA"	# Crater, craters
 }
 
@@ -6826,8 +6826,8 @@ Location "Geboin" "Sol/Saturn/Iapetus"
 # Origin: One of the Twelve Peers; kills Malprimis; killed by Grandoyne.
 Location "Gerin" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 127.0 -45.6 0 ]
-	Size	445.00
+	LongLat	[ 127 -45.6 0 ]
+	Size	445
 	Type	"AA"	# Crater, craters
 }
 
@@ -6836,7 +6836,7 @@ Location "Gerin" "Sol/Saturn/Iapetus"
 Location "Godefroy" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 110.9 71.9 0 ]
-	Size	63.00
+	Size	63
 	Type	"AA"	# Crater, craters
 }
 
@@ -6845,7 +6845,7 @@ Location "Godefroy" "Sol/Saturn/Iapetus"
 Location "Grandoyne" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 145.5 17.7 0 ]
-	Size	65.00
+	Size	65
 	Type	"AA"	# Crater, craters
 }
 
@@ -6853,8 +6853,8 @@ Location "Grandoyne" "Sol/Saturn/Iapetus"
 # Origin: Place in Spain near which Basan and Basilie were murdered by Marsilion.
 Location "Haltile Mons" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 169.6 0.0 0 ]
-	Size	45.00
+	LongLat	[ 169.6 0 0 ]
+	Size	45
 	Type	"MO"	# Mons, montes
 }
 
@@ -6862,8 +6862,8 @@ Location "Haltile Mons" "Sol/Saturn/Iapetus"
 # Origin: Joint Commander of Charlemagne's Eighth Division.
 Location "Hamon" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 90.0 10.6 0 ]
-	Size	96.00
+	LongLat	[ 90 10.6 0 ]
+	Size	96
 	Type	"AA"	# Crater, craters
 }
 
@@ -6871,8 +6871,8 @@ Location "Hamon" "Sol/Saturn/Iapetus"
 # Origin: Frankish baron, one of the Twelve Peers.
 Location "Ivon" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 45.0 18.0 0 ]
-	Size	100.00
+	LongLat	[ 45 18 0 ]
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -6881,7 +6881,7 @@ Location "Ivon" "Sol/Saturn/Iapetus"
 Location "Johun" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -83.4 12.4 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -6889,8 +6889,8 @@ Location "Johun" "Sol/Saturn/Iapetus"
 # Origin: Son of Marsilion, Saracen king of Spain.
 Location "Jurfaleu" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -2.5 13.0 0 ]
-	Size	107.00
+	LongLat	[ -2.5 13 0 ]
+	Size	107
 	Type	"AA"	# Crater, craters
 }
 
@@ -6899,7 +6899,7 @@ Location "Jurfaleu" "Sol/Saturn/Iapetus"
 Location "Lorant" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -159.8 65.2 0 ]
-	Size	44.00
+	Size	44
 	Type	"AA"	# Crater, craters
 }
 
@@ -6908,7 +6908,7 @@ Location "Lorant" "Sol/Saturn/Iapetus"
 Location "Malprimis" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -118.2 -15.2 0 ]
-	Size	377.00
+	Size	377
 	Type	"AA"	# Crater, craters
 }
 
@@ -6917,7 +6917,7 @@ Location "Malprimis" "Sol/Saturn/Iapetus"
 Location "Malun" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -41.3 5.9 0 ]
-	Size	121.00
+	Size	121
 	Type	"AA"	# Crater, craters
 }
 
@@ -6926,7 +6926,7 @@ Location "Malun" "Sol/Saturn/Iapetus"
 Location "Margaris" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -135.8 27.7 0 ]
-	Size	75.00
+	Size	75
 	Type	"AA"	# Crater, craters
 }
 
@@ -6935,7 +6935,7 @@ Location "Margaris" "Sol/Saturn/Iapetus"
 Location "Marsilion" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -176.1 39.2 0 ]
-	Size	136.00
+	Size	136
 	Type	"AA"	# Crater, craters
 }
 
@@ -6944,7 +6944,7 @@ Location "Marsilion" "Sol/Saturn/Iapetus"
 Location "Matthay" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 172.6 -3.5 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -6953,7 +6953,7 @@ Location "Matthay" "Sol/Saturn/Iapetus"
 Location "Milon" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 89.8 67.9 0 ]
-	Size	119.00
+	Size	119
 	Type	"AA"	# Crater, craters
 }
 
@@ -6962,7 +6962,7 @@ Location "Milon" "Sol/Saturn/Iapetus"
 Location "Naimon" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 30.7 9.3 0 ]
-	Size	244.00
+	Size	244
 	Type	"AA"	# Crater, craters
 }
 
@@ -6970,8 +6970,8 @@ Location "Naimon" "Sol/Saturn/Iapetus"
 # Origin: Shares command of Charlemagne’s sixth division; leader of part of the 5th column.
 Location "Nevelon" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 163.0 -33.2 0 ]
-	Size	49.00
+	LongLat	[ 163 -33.2 0 ]
+	Size	49
 	Type	"AA"	# Crater, craters
 }
 
@@ -6980,7 +6980,7 @@ Location "Nevelon" "Sol/Saturn/Iapetus"
 Location "Ogier" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 84.9 42.5 0 ]
-	Size	100.00
+	Size	100
 	Type	"AA"	# Crater, craters
 }
 
@@ -6989,7 +6989,7 @@ Location "Ogier" "Sol/Saturn/Iapetus"
 Location "Oliver" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 159.2 62.5 0 ]
-	Size	113.00
+	Size	113
 	Type	"AA"	# Crater, craters
 }
 
@@ -6998,7 +6998,7 @@ Location "Oliver" "Sol/Saturn/Iapetus"
 Location "Othon" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 12.2 33.3 0 ]
-	Size	86.00
+	Size	86
 	Type	"AA"	# Crater, craters
 }
 
@@ -7006,8 +7006,8 @@ Location "Othon" "Sol/Saturn/Iapetus"
 # Origin: Pinabel of Sorence, a French baron, Ganelon's kinsmen and skilled speaker. Large and powerful, he agrees to fight Thierry to settle the issue of Ganelon's guilt and he lost the judicial combat.
 Location "Pinabel" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -33.0 -39.0 0 ]
-	Size	83.00
+	LongLat	[ -33 -39 0 ]
+	Size	83
 	Type	"AA"	# Crater, craters
 }
 
@@ -7015,8 +7015,8 @@ Location "Pinabel" "Sol/Saturn/Iapetus"
 # Origin: Saracen lord and emissary to Charles.
 Location "Priamon" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 173.0 1.5 0 ]
-	Size	17.00
+	LongLat	[ 173 1.5 0 ]
+	Size	17
 	Type	"AA"	# Crater, craters
 }
 
@@ -7025,7 +7025,7 @@ Location "Priamon" "Sol/Saturn/Iapetus"
 Location "Rabel" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -166.2 -64.4 0 ]
-	Size	91.00
+	Size	91
 	Type	"AA"	# Crater, craters
 }
 
@@ -7034,7 +7034,7 @@ Location "Rabel" "Sol/Saturn/Iapetus"
 Location "Roland" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -25.2 73.3 0 ]
-	Size	144.00
+	Size	144
 	Type	"AA"	# Crater, craters
 }
 
@@ -7042,8 +7042,8 @@ Location "Roland" "Sol/Saturn/Iapetus"
 # Origin: Pass where Roland and his forces were ambushed by the Saracens.
 Location "RONCEVAUX TERRA" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 120.5 37.0 0 ]
-	Size	1284.00
+	LongLat	[ 120.5 37 0 ]
+	Size	1284
 	Type	"TA"	# Terra, terrae
 }
 
@@ -7051,8 +7051,8 @@ Location "RONCEVAUX TERRA" "Sol/Saturn/Iapetus"
 # Origin: Saracen lord, one of the Saracen Twelve Peers.
 Location "Rugis" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -99.0 -0.1 0 ]
-	Size	19.00
+	LongLat	[ -99 -0.1 0 ]
+	Size	19
 	Type	"AA"	# Crater, craters
 }
 
@@ -7061,7 +7061,7 @@ Location "Rugis" "Sol/Saturn/Iapetus"
 Location "Samson" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 61.4 6.5 0 ]
-	Size	33.00
+	Size	33
 	Type	"AA"	# Crater, craters
 }
 
@@ -7069,8 +7069,8 @@ Location "Samson" "Sol/Saturn/Iapetus"
 # Origin: Town held by Marsilion, eventually taken by the French.
 Location "SARAGOSSA TERRA" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -180.0 -45.0 0 ]
-	Size	2300.00
+	LongLat	[ -180 -45 0 ]
+	Size	2300
 	Type	"TA"	# Terra, terrae
 }
 
@@ -7078,8 +7078,8 @@ Location "SARAGOSSA TERRA" "Sol/Saturn/Iapetus"
 # Origin: Margaris comes from here.
 Location "Seville Mons" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 13.7 0.0 0 ]
-	Size	69.00
+	LongLat	[ 13.7 0 0 ]
+	Size	69
 	Type	"MO"	# Mons, montes
 }
 
@@ -7087,8 +7087,8 @@ Location "Seville Mons" "Sol/Saturn/Iapetus"
 # Origin: Castle of Pinabel.
 Location "Sorence  Mons" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 166.3 0.0 0 ]
-	Size	46.00
+	LongLat	[ 166.3 0 0 ]
+	Size	46
 	Type	"MO"	# Mons, montes
 }
 
@@ -7096,8 +7096,8 @@ Location "Sorence  Mons" "Sol/Saturn/Iapetus"
 # Origin: French knight; Duke of Argonne; brother of Godefroy, Charlemagne’s standard bearer. At Ganelon's trial, Thierry alone insists on Ganelon's guilt.
 Location "Thierry" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -8.0 -55.0 0 ]
-	Size	110.00
+	LongLat	[ -8 -55 0 ]
+	Size	110
 	Type	"AA"	# Crater, craters
 }
 
@@ -7105,8 +7105,8 @@ Location "Thierry" "Sol/Saturn/Iapetus"
 # Origin: Tibbald of Reims; French baron; guarded French dead at Roncevaux.
 Location "Tibbald" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ 2.0 57.0 0 ]
-	Size	160.00
+	LongLat	[ 2 57 0 ]
+	Size	160
 	Type	"AA"	# Crater, craters
 }
 
@@ -7115,7 +7115,7 @@ Location "Tibbald" "Sol/Saturn/Iapetus"
 Location "Timozel" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 147.7 -9.9 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -7123,8 +7123,8 @@ Location "Timozel" "Sol/Saturn/Iapetus"
 # Origin: Spanish town known for blacksmiths’ work; the shield of the Saracen knight Malquiant was made there.
 Location "Toledo Montes" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -136.0 0.0 0 ]
-	Size	1100.00
+	LongLat	[ -136 0 0 ]
+	Size	1100
 	Type	"MO"	# Mons, montes
 }
 
@@ -7133,7 +7133,7 @@ Location "Toledo Montes" "Sol/Saturn/Iapetus"
 Location "Torleu" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ 171.6 -0.2 0 ]
-	Size	8.00
+	Size	8
 	Type	"AA"	# Crater, craters
 }
 
@@ -7141,8 +7141,8 @@ Location "Torleu" "Sol/Saturn/Iapetus"
 # Origin: Spanish town ruled by Count Turgis.
 Location "Tortelosa Montes" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -64.7 0.0 0 ]
-	Size	294.00
+	LongLat	[ -64.7 0 0 ]
+	Size	294
 	Type	"MO"	# Mons, montes
 }
 
@@ -7151,7 +7151,7 @@ Location "Tortelosa Montes" "Sol/Saturn/Iapetus"
 Location "Turgis" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -28.4 16.9 0 ]
-	Size	580.00
+	Size	580
 	Type	"AA"	# Crater, craters
 }
 
@@ -7160,7 +7160,7 @@ Location "Turgis" "Sol/Saturn/Iapetus"
 Location "Turpin" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -1.4 47.7 0 ]
-	Size	87.00
+	Size	87
 	Type	"AA"	# Crater, craters
 }
 
@@ -7169,7 +7169,7 @@ Location "Turpin" "Sol/Saturn/Iapetus"
 Location "Valdebron" "Sol/Saturn/Iapetus"
 {
 	LongLat	[ -104.4 29.6 0 ]
-	Size	49.00
+	Size	49
 	Type	"AA"	# Crater, craters
 }
 
@@ -7177,8 +7177,8 @@ Location "Valdebron" "Sol/Saturn/Iapetus"
 # Origin: Escremiz comes from this Spanish town.
 Location "Valterne Mons" "Sol/Saturn/Iapetus"
 {
-	LongLat	[ -170.6 0.0 0 ]
-	Size	50.00
+	LongLat	[ -170.6 0 0 ]
+	Size	50
 	Type	"MO"	# Mons, montes
 }
 
@@ -7190,7 +7190,7 @@ Location "Valterne Mons" "Sol/Saturn/Iapetus"
 Location "Acastus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ -148.5 9.6 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -7199,7 +7199,7 @@ Location "Acastus" "Sol/Saturn/Phoebe"
 Location "Admetus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ -39.1 11.4 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -7207,8 +7207,8 @@ Location "Admetus" "Sol/Saturn/Phoebe"
 # Origin: Argonaut, son of Hyperasius and Hypso.
 Location "Amphion" "Sol/Saturn/Phoebe"
 {
-	LongLat	[ -1.8 -27.0 0 ]
-	Size	18.00
+	LongLat	[ -1.8 -27 0 ]
+	Size	18
 	Type	"AA"	# Crater, craters
 }
 
@@ -7217,7 +7217,7 @@ Location "Amphion" "Sol/Saturn/Phoebe"
 Location "Butes" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 67.5 -49.6 0 ]
-	Size	29.00
+	Size	29
 	Type	"AA"	# Crater, craters
 }
 
@@ -7226,7 +7226,7 @@ Location "Butes" "Sol/Saturn/Phoebe"
 Location "Calais" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 134.6 -38.7 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -7235,7 +7235,7 @@ Location "Calais" "Sol/Saturn/Phoebe"
 Location "Canthus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 17.8 -69.6 0 ]
-	Size	44.00
+	Size	44
 	Type	"AA"	# Crater, craters
 }
 
@@ -7243,8 +7243,8 @@ Location "Canthus" "Sol/Saturn/Phoebe"
 # Origin: Argonaut, son of Eurytus, skilled archer who was killed by Apollo for challenging the god to a shooting match.
 Location "Clytius" "Sol/Saturn/Phoebe"
 {
-	LongLat	[ 166.9 46.0 0 ]
-	Size	52.00
+	LongLat	[ 166.9 46 0 ]
+	Size	52
 	Type	"AA"	# Crater, craters
 }
 
@@ -7253,7 +7253,7 @@ Location "Clytius" "Sol/Saturn/Phoebe"
 Location "Erginus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 22.9 31.6 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -7262,7 +7262,7 @@ Location "Erginus" "Sol/Saturn/Phoebe"
 Location "Euphemus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 28.9 -31.3 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -7271,7 +7271,7 @@ Location "Euphemus" "Sol/Saturn/Phoebe"
 Location "Eurydamas" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 78.4 -61.5 0 ]
-	Size	19.00
+	Size	19
 	Type	"AA"	# Crater, craters
 }
 
@@ -7279,8 +7279,8 @@ Location "Eurydamas" "Sol/Saturn/Phoebe"
 # Origin: Argonaut, son of Kenethos or Cerion.
 Location "Eurytion" "Sol/Saturn/Phoebe"
 {
-	LongLat	[ -8.0 -30.4 0 ]
-	Size	14.00
+	LongLat	[ -8 -30.4 0 ]
+	Size	14
 	Type	"AA"	# Crater, craters
 }
 
@@ -7289,7 +7289,7 @@ Location "Eurytion" "Sol/Saturn/Phoebe"
 Location "Eurytus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ -177.2 -39.7 0 ]
-	Size	89.00
+	Size	89
 	Type	"AA"	# Crater, craters
 }
 
@@ -7298,7 +7298,7 @@ Location "Eurytus" "Sol/Saturn/Phoebe"
 Location "Hylas" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 5.5 7.9 0 ]
-	Size	30.00
+	Size	30
 	Type	"AA"	# Crater, craters
 }
 
@@ -7307,7 +7307,7 @@ Location "Hylas" "Sol/Saturn/Phoebe"
 Location "Idmon" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 162.2 -67.1 0 ]
-	Size	61.00
+	Size	61
 	Type	"AA"	# Crater, craters
 }
 
@@ -7316,7 +7316,7 @@ Location "Idmon" "Sol/Saturn/Phoebe"
 Location "Iphitus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 66.7 -27.2 0 ]
-	Size	22.00
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -7325,7 +7325,7 @@ Location "Iphitus" "Sol/Saturn/Phoebe"
 Location "Jason" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 42.3 16.2 0 ]
-	Size	101.00
+	Size	101
 	Type	"AA"	# Crater, craters
 }
 
@@ -7333,8 +7333,8 @@ Location "Jason" "Sol/Saturn/Phoebe"
 # Origin: Daughter of Phoebe in Greek mythology.
 Location "LETO REGIO" "Sol/Saturn/Phoebe"
 {
-	LongLat	[ -20.0 60.0 0 ]
-	Size	95.00
+	LongLat	[ -20 60 0 ]
+	Size	95
 	Type	"RE"	# Regio, regiones
 }
 
@@ -7343,7 +7343,7 @@ Location "LETO REGIO" "Sol/Saturn/Phoebe"
 Location "Mopsus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ -109.1 6.6 0 ]
-	Size	37.00
+	Size	37
 	Type	"AA"	# Crater, craters
 }
 
@@ -7352,7 +7352,7 @@ Location "Mopsus" "Sol/Saturn/Phoebe"
 Location "Nauplius" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 118.5 31.5 0 ]
-	Size	24.00
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -7361,7 +7361,7 @@ Location "Nauplius" "Sol/Saturn/Phoebe"
 Location "Oileus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ -96.9 -77.1 0 ]
-	Size	56.00
+	Size	56
 	Type	"AA"	# Crater, craters
 }
 
@@ -7370,7 +7370,7 @@ Location "Oileus" "Sol/Saturn/Phoebe"
 Location "Peleus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 167.8 20.2 0 ]
-	Size	44.00
+	Size	44
 	Type	"AA"	# Crater, craters
 }
 
@@ -7379,7 +7379,7 @@ Location "Peleus" "Sol/Saturn/Phoebe"
 Location "Phlias" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 0.9 1.6 0 ]
-	Size	14.00
+	Size	14
 	Type	"AA"	# Crater, craters
 }
 
@@ -7388,7 +7388,7 @@ Location "Phlias" "Sol/Saturn/Phoebe"
 Location "Talaus" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ 34.8 -52.3 0 ]
-	Size	15.00
+	Size	15
 	Type	"AA"	# Crater, craters
 }
 
@@ -7397,7 +7397,7 @@ Location "Talaus" "Sol/Saturn/Phoebe"
 Location "Telamon" "Sol/Saturn/Phoebe"
 {
 	LongLat	[ -92.6 -48.1 0 ]
-	Size	28.00
+	Size	28
 	Type	"AA"	# Crater, craters
 }
 
@@ -7405,7 +7405,7 @@ Location "Telamon" "Sol/Saturn/Phoebe"
 # Origin: Argonaut, son of Boreas, the north wind.
 Location "Zetes" "Sol/Saturn/Phoebe"
 {
-	LongLat	[ 137.0 -20.0 0 ]
-	Size	29.00
+	LongLat	[ 137 -20 0 ]
+	Size	29
 	Type	"AA"	# Crater, craters
 }

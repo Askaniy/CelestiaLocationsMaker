@@ -12,7 +12,7 @@
 # Origin: Island where Proteus reigned.
 Location "Pharos" "Sol/Neptune/Proteus"
 {
-	LongLat	[ -5 -20 4 ]
+	LongLat	[ -5 -25 0 ]
 	Size	255
 	Type	"AA"	# Crater, craters
 }
@@ -24,7 +24,7 @@ Location "Pharos" "Sol/Neptune/Proteus"
 # Origin: Egyptian sacred island in Nile, “;paradise.“;
 Location "Abatos Planum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -58.0 21.5 0 ]
+	LongLat	[ -58 21.5 0 ]
 	Size	400
 	Type	"PM"	# Planum, plana
 }
@@ -33,7 +33,7 @@ Location "Abatos Planum" "Sol/Neptune/Triton"
 # Origin: Tortoise upholding the world (India).
 Location "Akupara Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -63.0 27.5 0 ]
+	LongLat	[ -63 27.5 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
@@ -42,7 +42,7 @@ Location "Akupara Maculae" "Sol/Neptune/Triton"
 # Origin: Quecha (Ecuador) water boa.
 Location "Amarum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -24.5 -26.0 0 ]
+	LongLat	[ -24.5 -26 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
@@ -51,7 +51,7 @@ Location "Amarum" "Sol/Neptune/Triton"
 # Origin: Norse fish shaped dwarf.
 Location "Andvari" "Sol/Neptune/Triton"
 {
-	LongLat	[ -34.0 -20.5 0 ]
+	LongLat	[ -34 -20.5 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
@@ -60,7 +60,7 @@ Location "Andvari" "Sol/Neptune/Triton"
 # Origin: Egyptian dragon of darkness.
 Location "Apep Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ 58.5 -20.0 0 ]
+	LongLat	[ 58.5 -20 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -69,7 +69,7 @@ Location "Apep Cavus" "Sol/Neptune/Triton"
 # Origin: Nama Bushman word for rain.
 Location "Awib Dorsa" "Sol/Neptune/Triton"
 {
-	LongLat	[ -80.0 7.0 0 ]
+	LongLat	[ -80 7 0 ]
 	Size	100
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -78,7 +78,7 @@ Location "Awib Dorsa" "Sol/Neptune/Triton"
 # Origin: Frog symbolizing the sun on the horizon (India).
 Location "Bheki Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ 52.0 -16.0 0 ]
+	LongLat	[ 52 -16 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -87,7 +87,7 @@ Location "Bheki Cavus" "Sol/Neptune/Triton"
 # Origin: Yoruba; river named for obedient son of god.
 Location "Bia Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -3.0 38.0 0 ]
+	LongLat	[ -3 38 0 ]
 	Size	200
 	Type	"SU"	# Sulcus, sulci
 }
@@ -96,7 +96,7 @@ Location "Bia Sulci" "Sol/Neptune/Triton"
 # Origin: Celtic mythological river.
 Location "Boynne Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 10.0 13.0 0 ]
+	LongLat	[ 10 13 0 ]
 	Size	500
 	Type	"SU"	# Sulcus, sulci
 }
@@ -105,7 +105,7 @@ Location "Boynne Sulci" "Sol/Neptune/Triton"
 # Origin: Island location of temple of Mukasa (Uganda).
 Location "BUBEMBE REGIO" "Sol/Neptune/Triton"
 {
-	LongLat	[ 25.0 -18.0 0 ]
+	LongLat	[ 25 -18 0 ]
 	Size	700
 	Type	"RE"	# Regio, regiones
 }
@@ -114,7 +114,7 @@ Location "BUBEMBE REGIO" "Sol/Neptune/Triton"
 # Origin: Mayan deity.
 Location "Cay" "Sol/Neptune/Triton"
 {
-	LongLat	[ -44.0 12.0 0 ]
+	LongLat	[ -44 12 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
@@ -123,7 +123,7 @@ Location "Cay" "Sol/Neptune/Triton"
 # Origin: Legendary island described by Marco Polo.
 Location "Cipango Planum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -34.0 -11.5 0 ]
+	LongLat	[ -34 -11.5 0 ]
 	Size	300
 	Type	"PM"	# Planum, plana
 }
@@ -132,7 +132,7 @@ Location "Cipango Planum" "Sol/Neptune/Triton"
 # Origin: Babylonian fertility god represented as a fish.
 Location "Dagon Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ 15.0 -29.0 0 ]
+	LongLat	[ 15 -29 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -141,7 +141,7 @@ Location "Dagon Cavus" "Sol/Neptune/Triton"
 # Origin: Angolan sacred lake.
 Location "Dilolo Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -24.5 -26.0 0 ]
+	LongLat	[ -24.5 -26 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
@@ -159,7 +159,7 @@ Location "Doro Macula" "Sol/Neptune/Triton"
 # Origin: Tortuous sea; literally, “;Serpent Bay“; (Norse).
 Location "Gandvik Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -5.5 -28.0 0 ]
+	LongLat	[ -5.5 -28 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
@@ -168,7 +168,7 @@ Location "Gandvik Patera" "Sol/Neptune/Triton"
 # Origin: Egyptian frog goddess.
 Location "Hekt Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ 18.0 -26.0 0 ]
+	LongLat	[ 18 -26 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -177,7 +177,7 @@ Location "Hekt Cavus" "Sol/Neptune/Triton"
 # Origin: Zulu water-sprite.
 Location "Hili" "Sol/Neptune/Triton"
 {
-	LongLat	[ -35.0 57.0 0 ]
+	LongLat	[ -35 57 0 ]
 	Size	25
 	Type	"PU"	# Plume, plumes
 }
@@ -186,7 +186,7 @@ Location "Hili" "Sol/Neptune/Triton"
 # Origin: Japanese deity born in shape of a jellyfish.
 Location "Hirugo Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ 15.0 -14.5 0 ]
+	LongLat	[ 15 -14.5 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -195,7 +195,7 @@ Location "Hirugo Cavus" "Sol/Neptune/Triton"
 # Origin: Chinese sacred river.
 Location "Ho Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 55.0 -2.0 0 ]
+	LongLat	[ 55 -2 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
@@ -204,7 +204,7 @@ Location "Ho Sulci" "Sol/Neptune/Triton"
 # Origin: Lozi (Zambia) water snake linked with destruction.
 Location "Ilomba" "Sol/Neptune/Triton"
 {
-	LongLat	[ -57.0 14.5 0 ]
+	LongLat	[ -57 14.5 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
@@ -213,7 +213,7 @@ Location "Ilomba" "Sol/Neptune/Triton"
 # Origin: Hindu river goddess.
 Location "Jumna Fossae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -44.0 13.5 0 ]
+	LongLat	[ -44 13.5 0 ]
 	Size	300
 	Type	"FO"	# Fossa, fossae
 }
@@ -222,7 +222,7 @@ Location "Jumna Fossae" "Sol/Neptune/Triton"
 # Origin: Sacred lake of Zoroastrianism.
 Location "Kasu Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -14.0 -39.0 0 ]
+	LongLat	[ -14 -39 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
@@ -231,7 +231,7 @@ Location "Kasu Patera" "Sol/Neptune/Triton"
 # Origin: The god Prajapati as a tortoise (India).
 Location "Kasyapa Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ 2.0 -7.5 0 ]
+	LongLat	[ 2 -7.5 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -240,7 +240,7 @@ Location "Kasyapa Cavus" "Sol/Neptune/Triton"
 # Origin: Mabuiag (Melanisia) island of the dead.
 Location "Kibu Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -43.0 -10.5 0 ]
+	LongLat	[ -43 -10.5 0 ]
 	Size	25
 	Type	"PE"	# Patera, paterae
 }
@@ -249,7 +249,7 @@ Location "Kibu Patera" "Sol/Neptune/Triton"
 # Origin: Slavic spirit of swamps, household spirit.
 Location "Kikimora Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -78.0 31.0 0 ]
+	LongLat	[ -78 31 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
@@ -258,7 +258,7 @@ Location "Kikimora Maculae" "Sol/Neptune/Triton"
 # Origin: Norse river through which dead must pass.
 Location "Kormet Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 24.5 -23.0 0 ]
+	LongLat	[ 24.5 -23 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
@@ -267,7 +267,7 @@ Location "Kormet Sulci" "Sol/Neptune/Triton"
 # Origin: Norse giant sea monster.
 Location "Kraken Catena" "Sol/Neptune/Triton"
 {
-	LongLat	[ -35.5 -14.0 0 ]
+	LongLat	[ -35.5 -14 0 ]
 	Size	150
 	Type	"CA"	# Catena, catenae
 }
@@ -276,7 +276,7 @@ Location "Kraken Catena" "Sol/Neptune/Triton"
 # Origin: Babylonian destructive fish-man spirit.
 Location "Kulilu Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -4.0 -41.0 0 ]
+	LongLat	[ -4 -41 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -285,7 +285,7 @@ Location "Kulilu Cavus" "Sol/Neptune/Triton"
 # Origin: Vishnu in the form of a tortoise.
 Location "Kurma" "Sol/Neptune/Triton"
 {
-	LongLat	[ -61.0 16.5 0 ]
+	LongLat	[ -61 16.5 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
@@ -294,7 +294,7 @@ Location "Kurma" "Sol/Neptune/Triton"
 # Origin: Norse sacred river.
 Location "Leipter Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -9.0 -7.0 0 ]
+	LongLat	[ -9 -7 0 ]
 	Size	200
 	Type	"SU"	# Sulcus, sulci
 }
@@ -303,7 +303,7 @@ Location "Leipter Sulci" "Sol/Neptune/Triton"
 # Origin: Hebrew sea monster upholding earth.
 Location "Leviathan Patera" "Sol/Neptune/Triton"
 {
-	LongLat	[ -28.5 -17.0 0 ]
+	LongLat	[ -28.5 -17 0 ]
 	Size	100
 	Type	"PE"	# Patera, paterae
 }
@@ -312,7 +312,7 @@ Location "Leviathan Patera" "Sol/Neptune/Triton"
 # Origin: Chinese sacred river.
 Location "Lo Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 39.0 -3.8 0 ]
+	LongLat	[ 39 -3.8 0 ]
 	Size	150
 	Type	"SU"	# Sulcus, sulci
 }
@@ -321,7 +321,7 @@ Location "Lo Sulci" "Sol/Neptune/Triton"
 # Origin: Fish that holds up the universe (Persian).
 Location "Mah Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -6.0 -38.0 0 ]
+	LongLat	[ -6 -38 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -339,7 +339,7 @@ Location "Mahilani" "Sol/Neptune/Triton"
 # Origin: Ila (Zambia) “;the flooder.“;
 Location "Mangwe Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ 17.0 7.0 0 ]
+	LongLat	[ 17 7 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -357,7 +357,7 @@ Location "Mazomba" "Sol/Neptune/Triton"
 # Origin: French fictional island, meaning “;nowhere.“;
 Location "Medamothi Planum" "Sol/Neptune/Triton"
 {
-	LongLat	[ -69.0 -3.5 0 ]
+	LongLat	[ -69 -3.5 0 ]
 	Size	300
 	Type	"PM"	# Planum, plana
 }
@@ -366,7 +366,7 @@ Location "Medamothi Planum" "Sol/Neptune/Triton"
 # Origin: Chinese symbol of duality in nature.
 Location "MONAD REGIO" "Sol/Neptune/Triton"
 {
-	LongLat	[ -37.0 -20.0 0 ]
+	LongLat	[ -37 -20 0 ]
 	Size	100
 	Type	"RE"	# Regio, regiones
 }
@@ -375,7 +375,7 @@ Location "MONAD REGIO" "Sol/Neptune/Triton"
 # Origin: Japanese mythic fish; maker of earthquakes.
 Location "Namazu Macula" "Sol/Neptune/Triton"
 {
-	LongLat	[ -14.0 25.5 0 ]
+	LongLat	[ -14 25.5 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
@@ -384,7 +384,7 @@ Location "Namazu Macula" "Sol/Neptune/Triton"
 # Origin: Mouth of this river is Ostiak entrance to underworld.
 Location "Ob Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 32.0 6.0 0 ]
+	LongLat	[ 32 6 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
@@ -393,7 +393,7 @@ Location "Ob Sulci" "Sol/Neptune/Triton"
 # Origin: Norse river through which dead pass.
 Location "Ormet Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 23.0 -17.0 0 ]
+	LongLat	[ 23 -17 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
@@ -402,7 +402,7 @@ Location "Ormet Sulci" "Sol/Neptune/Triton"
 # Origin: Finnish fortune-telling fish god.
 Location "Ravgga" "Sol/Neptune/Triton"
 {
-	LongLat	[ -71.5 3.0 0 ]
+	LongLat	[ -71.5 3 0 ]
 	Size	25
 	Type	"AA"	# Crater, craters
 }
@@ -411,7 +411,7 @@ Location "Ravgga" "Sol/Neptune/Triton"
 # Origin: Breton bay of souls.
 Location "Raz Fossae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -21.5 -8.0 0 ]
+	LongLat	[ -21.5 -8 0 ]
 	Size	300
 	Type	"FO"	# Fossa, fossae
 }
@@ -420,7 +420,7 @@ Location "Raz Fossae" "Sol/Neptune/Triton"
 # Origin: Egyptian fish who wept fertilizing tears.
 Location "Rem Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ 10.5 -13.0 0 ]
+	LongLat	[ 10.5 -13 0 ]
 	Size	150
 	Type	"MA"	# Macula, maculae
 }
@@ -429,7 +429,7 @@ Location "Rem Maculae" "Sol/Neptune/Triton"
 # Origin: French isle of winds.
 Location "Ruach Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -24.0 -28.0 0 ]
+	LongLat	[ -24 -28 0 ]
 	Size	200
 	Type	"PL"	# Planitia, planitiae
 }
@@ -438,7 +438,7 @@ Location "Ruach Planitia" "Sol/Neptune/Triton"
 # Origin: Japanese undersea dragon palace.
 Location "Ryugu Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -27.0 5.0 0 ]
+	LongLat	[ -27 5 0 ]
 	Size	100
 	Type	"PL"	# Planitia, planitiae
 }
@@ -447,7 +447,7 @@ Location "Ryugu Planitia" "Sol/Neptune/Triton"
 # Origin: Egypian water monster; personification of evil.
 Location "Set Catena" "Sol/Neptune/Triton"
 {
-	LongLat	[ -33.5 -22.0 0 ]
+	LongLat	[ -33.5 -22 0 ]
 	Size	200
 	Type	"CA"	# Catena, catenae
 }
@@ -456,7 +456,7 @@ Location "Set Catena" "Sol/Neptune/Triton"
 # Origin: Pueblo (USA) hole or lake of emergence from underworld.
 Location "Sipapu Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -36.0 4.0 0 ]
+	LongLat	[ -36 4 0 ]
 	Size	100
 	Type	"PL"	# Planitia, planitiae
 }
@@ -465,7 +465,7 @@ Location "Sipapu Planitia" "Sol/Neptune/Triton"
 # Origin: Norse river of daggers and spears.
 Location "Slidr Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 10.0 -23.5 0 ]
+	LongLat	[ 10 -23.5 0 ]
 	Size	200
 	Type	"SU"	# Sulcus, sulci
 }
@@ -474,7 +474,7 @@ Location "Slidr Sulci" "Sol/Neptune/Triton"
 # Origin: Māori fishing and sea god.
 Location "Tangaroa" "Sol/Neptune/Triton"
 {
-	LongLat	[ -65.5 25.0 0 ]
+	LongLat	[ -65.5 25 0 ]
 	Size	100
 	Type	"AA"	# Crater, craters
 }
@@ -483,7 +483,7 @@ Location "Tangaroa" "Sol/Neptune/Triton"
 # Origin: Yoruba; river named for willful son of god.
 Location "Tano Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 23.0 -33.5 0 ]
+	LongLat	[ 23 -33.5 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
@@ -492,7 +492,7 @@ Location "Tano Sulci" "Sol/Neptune/Triton"
 # Origin: Underground realm across Black River (Finnish).
 Location "Tuonela Planitia" "Sol/Neptune/Triton"
 {
-	LongLat	[ -14.5 -34.0 0 ]
+	LongLat	[ -14.5 -34 0 ]
 	Size	300
 	Type	"PL"	# Planitia, planitiae
 }
@@ -501,7 +501,7 @@ Location "Tuonela Planitia" "Sol/Neptune/Triton"
 # Origin: Zulu reed from which humanity sprang.
 Location "UHLANGA REGIO" "Sol/Neptune/Triton"
 {
-	LongLat	[ 3.0 37.0 0 ]
+	LongLat	[ 3 37 0 ]
 	Size	1000
 	Type	"RE"	# Regio, regiones
 }
@@ -510,7 +510,7 @@ Location "UHLANGA REGIO" "Sol/Neptune/Triton"
 # Origin: Hawaiian shark god.
 Location "Ukupanio Cavus" "Sol/Neptune/Triton"
 {
-	LongLat	[ -23.0 -35.0 0 ]
+	LongLat	[ -23 -35 0 ]
 	Size	25
 	Type	"CB"	# Cavus, cavi
 }
@@ -519,7 +519,7 @@ Location "Ukupanio Cavus" "Sol/Neptune/Triton"
 # Origin: Greatest of Elivagar rivers, a stream of ice.
 Location "Vimur Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ -59.0 11.0 0 ]
+	LongLat	[ -59 11 0 ]
 	Size	400
 	Type	"SU"	# Sulcus, sulci
 }
@@ -528,7 +528,7 @@ Location "Vimur Sulci" "Sol/Neptune/Triton"
 # Origin: Amour of Merlin (Welsh).
 Location "Viviane Macula" "Sol/Neptune/Triton"
 {
-	LongLat	[ -36.5 31.0 0 ]
+	LongLat	[ -36.5 31 0 ]
 	Size	100
 	Type	"MA"	# Macula, maculae
 }
@@ -537,7 +537,7 @@ Location "Viviane Macula" "Sol/Neptune/Triton"
 # Origin: Slavic water spirit.
 Location "Vodyanoy" "Sol/Neptune/Triton"
 {
-	LongLat	[ -28.5 17.0 0 ]
+	LongLat	[ -28.5 17 0 ]
 	Size	100
 	Type	"AA"	# Crater, craters
 }
@@ -546,7 +546,7 @@ Location "Vodyanoy" "Sol/Neptune/Triton"
 # Origin: Japanese heavenly river; literally, “;peace.“;
 Location "Yasu Sulci" "Sol/Neptune/Triton"
 {
-	LongLat	[ 13.0 -2.0 0 ]
+	LongLat	[ 13 -2 0 ]
 	Size	300
 	Type	"SU"	# Sulcus, sulci
 }
@@ -555,7 +555,7 @@ Location "Yasu Sulci" "Sol/Neptune/Triton"
 # Origin: Siberian mythical holy river.
 Location "Yenisey Fossa" "Sol/Neptune/Triton"
 {
-	LongLat	[ -56.2 -3.0 0 ]
+	LongLat	[ -56.2 -3 0 ]
 	Size	300
 	Type	"FO"	# Fossa, fossae
 }
@@ -564,7 +564,7 @@ Location "Yenisey Fossa" "Sol/Neptune/Triton"
 # Origin: Niger water spirits.
 Location "Zin Maculae" "Sol/Neptune/Triton"
 {
-	LongLat	[ -68.0 24.5 0 ]
+	LongLat	[ -68 24.5 0 ]
 	Size	300
 	Type	"MA"	# Macula, maculae
 }

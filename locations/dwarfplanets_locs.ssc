@@ -13,7 +13,7 @@
 Location "Abellio" "Sol/Ceres"
 {
 	LongLat	[ -66.91 33.2 0 ]
-	Size	32.00
+	Size	32
 	Type	"AA"	# Crater, craters
 }
 
@@ -22,7 +22,7 @@ Location "Abellio" "Sol/Ceres"
 Location "Achita" "Sol/Ceres"
 {
 	LongLat	[ 65.96 25.82 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -31,7 +31,7 @@ Location "Achita" "Sol/Ceres"
 Location "Ahuna Mons" "Sol/Ceres"
 {
 	LongLat	[ -43.8 -10.48 0 ]
-	Size	20.00
+	Size	20
 	Type	"MO"	# Mons, montes
 }
 
@@ -40,7 +40,7 @@ Location "Ahuna Mons" "Sol/Ceres"
 Location "Annona" "Sol/Ceres"
 {
 	LongLat	[ 8.43 -48.14 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -49,7 +49,7 @@ Location "Annona" "Sol/Ceres"
 Location "Anura" "Sol/Ceres"
 {
 	LongLat	[ 11.79 -13.92 0 ]
-	Size	37.00
+	Size	37
 	Type	"AA"	# Crater, craters
 }
 
@@ -58,7 +58,7 @@ Location "Anura" "Sol/Ceres"
 Location "Aristaeus" "Sol/Ceres"
 {
 	LongLat	[ 97.68 23.43 0 ]
-	Size	35.80
+	Size	35.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -67,7 +67,7 @@ Location "Aristaeus" "Sol/Ceres"
 Location "Asari" "Sol/Ceres"
 {
 	LongLat	[ -40.12 83.03 0 ]
-	Size	56.00
+	Size	56
 	Type	"AA"	# Crater, craters
 }
 
@@ -76,7 +76,7 @@ Location "Asari" "Sol/Ceres"
 Location "Attis" "Sol/Ceres"
 {
 	LongLat	[ -102.16 -73.07 0 ]
-	Size	22.00
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -85,7 +85,7 @@ Location "Attis" "Sol/Ceres"
 Location "Axomama" "Sol/Ceres"
 {
 	LongLat	[ 131.9 22.8 0 ]
-	Size	5.00
+	Size	5
 	Type	"AA"	# Crater, craters
 }
 
@@ -94,7 +94,7 @@ Location "Axomama" "Sol/Ceres"
 Location "Aymuray Tholi" "Sol/Ceres"
 {
 	LongLat	[ -24.39 28.78 0 ]
-	Size	81.00
+	Size	81
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -112,7 +112,7 @@ Location "Azacca" "Sol/Ceres"
 Location "Bagach Tholus" "Sol/Ceres"
 {
 	LongLat	[ -121.09 20.04 0 ]
-	Size	4.30
+	Size	4.3
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -121,7 +121,7 @@ Location "Bagach Tholus" "Sol/Ceres"
 Location "Baltay Catena" "Sol/Ceres"
 {
 	LongLat	[ -85.51 -49.34 0 ]
-	Size	83.50
+	Size	83.5
 	Type	"CA"	# Catena, catenae
 }
 
@@ -130,7 +130,7 @@ Location "Baltay Catena" "Sol/Ceres"
 Location "Begbalel" "Sol/Ceres"
 {
 	LongLat	[ -34.65 17.71 0 ]
-	Size	102.00
+	Size	102
 	Type	"AA"	# Crater, craters
 }
 
@@ -148,7 +148,7 @@ Location "Belun" "Sol/Ceres"
 Location "Besua" "Sol/Ceres"
 {
 	LongLat	[ -59.79 -42.35 0 ]
-	Size	17.00
+	Size	17
 	Type	"AA"	# Crater, craters
 }
 
@@ -157,7 +157,7 @@ Location "Besua" "Sol/Ceres"
 Location "Bilwis" "Sol/Ceres"
 {
 	LongLat	[ 79.6 86.2 0 ]
-	Size	7.00
+	Size	7
 	Type	"AA"	# Crater, craters
 }
 
@@ -166,7 +166,7 @@ Location "Bilwis" "Sol/Ceres"
 Location "Binayo" "Sol/Ceres"
 {
 	LongLat	[ 145.2 86.4 0 ]
-	Size	16.00
+	Size	16
 	Type	"AA"	# Crater, craters
 }
 
@@ -175,7 +175,7 @@ Location "Binayo" "Sol/Ceres"
 Location "Bonsu" "Sol/Ceres"
 {
 	LongLat	[ 93.21 1.74 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -184,7 +184,7 @@ Location "Bonsu" "Sol/Ceres"
 Location "Braciaca" "Sol/Ceres"
 {
 	LongLat	[ 84.37 -22.77 0 ]
-	Size	8.00
+	Size	8
 	Type	"AA"	# Crater, craters
 }
 
@@ -193,7 +193,7 @@ Location "Braciaca" "Sol/Ceres"
 Location "Cacaguat" "Sol/Ceres"
 {
 	LongLat	[ 143.61 -1.19 0 ]
-	Size	13.60
+	Size	13.6
 	Type	"AA"	# Crater, craters
 }
 
@@ -202,7 +202,7 @@ Location "Cacaguat" "Sol/Ceres"
 Location "Cachimana" "Sol/Ceres"
 {
 	LongLat	[ -146.8 85.3 0 ]
-	Size	18.00
+	Size	18
 	Type	"AA"	# Crater, craters
 }
 
@@ -211,7 +211,7 @@ Location "Cachimana" "Sol/Ceres"
 Location "Centeotl" "Sol/Ceres"
 {
 	LongLat	[ 141.22 18.95 0 ]
-	Size	6.00
+	Size	6
 	Type	"AA"	# Crater, craters
 }
 
@@ -220,7 +220,7 @@ Location "Centeotl" "Sol/Ceres"
 Location "Cerealia Facula" "Sol/Ceres"
 {
 	LongLat	[ -120.4 19.7 0 ]
-	Size	14.00
+	Size	14
 	Type	"FA"	# Facula, faculae
 }
 
@@ -229,7 +229,7 @@ Location "Cerealia Facula" "Sol/Ceres"
 Location "Cerealia Tholus" "Sol/Ceres"
 {
 	LongLat	[ -120.35 19.61 0 ]
-	Size	3.20
+	Size	3.2
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -238,7 +238,7 @@ Location "Cerealia Tholus" "Sol/Ceres"
 Location "Chaminuka" "Sol/Ceres"
 {
 	LongLat	[ 131.2 -58.58 0 ]
-	Size	122.00
+	Size	122
 	Type	"AA"	# Crater, craters
 }
 
@@ -247,7 +247,7 @@ Location "Chaminuka" "Sol/Ceres"
 Location "Coniraya" "Sol/Ceres"
 {
 	LongLat	[ 65.73 39.9 0 ]
-	Size	135.00
+	Size	135
 	Type	"AA"	# Crater, craters
 }
 
@@ -256,7 +256,7 @@ Location "Coniraya" "Sol/Ceres"
 Location "Consus" "Sol/Ceres"
 {
 	LongLat	[ -159.5 -20.7 0 ]
-	Size	64.00
+	Size	64
 	Type	"AA"	# Crater, craters
 }
 
@@ -265,7 +265,7 @@ Location "Consus" "Sol/Ceres"
 Location "Cosecha Tholus" "Sol/Ceres"
 {
 	LongLat	[ 10.38 42.15 0 ]
-	Size	50.00
+	Size	50
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -274,7 +274,7 @@ Location "Cosecha Tholus" "Sol/Ceres"
 Location "Cozobi" "Sol/Ceres"
 {
 	LongLat	[ -72.69 45.33 0 ]
-	Size	24.00
+	Size	24
 	Type	"AA"	# Crater, craters
 }
 
@@ -283,7 +283,7 @@ Location "Cozobi" "Sol/Ceres"
 Location "Dada" "Sol/Ceres"
 {
 	LongLat	[ -23.24 58.63 0 ]
-	Size	12.00
+	Size	12
 	Type	"AA"	# Crater, craters
 }
 
@@ -292,7 +292,7 @@ Location "Dada" "Sol/Ceres"
 Location "Dalien Tholus" "Sol/Ceres"
 {
 	LongLat	[ 5.21 3.82 0 ]
-	Size	20.00
+	Size	20
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -301,7 +301,7 @@ Location "Dalien Tholus" "Sol/Ceres"
 Location "Damia" "Sol/Ceres"
 {
 	LongLat	[ -44.5 81.7 0 ]
-	Size	7.00
+	Size	7
 	Type	"AA"	# Crater, craters
 }
 
@@ -310,7 +310,7 @@ Location "Damia" "Sol/Ceres"
 Location "Dankdag Labes" "Sol/Ceres"
 {
 	LongLat	[ 39.21 78.38 0 ]
-	Size	23.50
+	Size	23.5
 	Type	"LA"	# Labes, labēs
 }
 
@@ -319,7 +319,7 @@ Location "Dankdag Labes" "Sol/Ceres"
 Location "Dantu" "Sol/Ceres"
 {
 	LongLat	[ 138.23 24.3 0 ]
-	Size	126.00
+	Size	126
 	Type	"AA"	# Crater, craters
 }
 
@@ -328,7 +328,7 @@ Location "Dantu" "Sol/Ceres"
 Location "Darzamat" "Sol/Ceres"
 {
 	LongLat	[ 76.4 -44.21 0 ]
-	Size	92.00
+	Size	92
 	Type	"AA"	# Crater, craters
 }
 
@@ -337,7 +337,7 @@ Location "Darzamat" "Sol/Ceres"
 Location "Datan" "Sol/Ceres"
 {
 	LongLat	[ -107.69 59.5 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -346,7 +346,7 @@ Location "Datan" "Sol/Ceres"
 Location "Dikhan" "Sol/Ceres"
 {
 	LongLat	[ 78.1 81.8 0 ]
-	Size	21.00
+	Size	21
 	Type	"AA"	# Crater, craters
 }
 
@@ -355,7 +355,7 @@ Location "Dikhan" "Sol/Ceres"
 Location "Doliku" "Sol/Ceres"
 {
 	LongLat	[ 5.88 -40.79 0 ]
-	Size	15.00
+	Size	15
 	Type	"AA"	# Crater, craters
 }
 
@@ -364,7 +364,7 @@ Location "Doliku" "Sol/Ceres"
 Location "Duginavi" "Sol/Ceres"
 {
 	LongLat	[ 4.29 39.2 0 ]
-	Size	155.00
+	Size	155
 	Type	"AA"	# Crater, craters
 }
 
@@ -373,7 +373,7 @@ Location "Duginavi" "Sol/Ceres"
 Location "Emesh" "Sol/Ceres"
 {
 	LongLat	[ 158.2 11.1 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -382,7 +382,7 @@ Location "Emesh" "Sol/Ceres"
 Location "Enkimdu" "Sol/Ceres"
 {
 	LongLat	[ -100.9 78.9 0 ]
-	Size	9.00
+	Size	9
 	Type	"AA"	# Crater, craters
 }
 
@@ -391,7 +391,7 @@ Location "Enkimdu" "Sol/Ceres"
 Location "Ernutet" "Sol/Ceres"
 {
 	LongLat	[ 45.52 52.93 0 ]
-	Size	53.40
+	Size	53.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -400,7 +400,7 @@ Location "Ernutet" "Sol/Ceres"
 Location "Ezinu" "Sol/Ceres"
 {
 	LongLat	[ -164.3 43.24 0 ]
-	Size	116.00
+	Size	116
 	Type	"AA"	# Crater, craters
 }
 
@@ -409,7 +409,7 @@ Location "Ezinu" "Sol/Ceres"
 Location "Fejokoo" "Sol/Ceres"
 {
 	LongLat	[ -47.89 29.15 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -418,7 +418,7 @@ Location "Fejokoo" "Sol/Ceres"
 Location "Fluusa" "Sol/Ceres"
 {
 	LongLat	[ 178.22 -31.31 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -427,7 +427,7 @@ Location "Fluusa" "Sol/Ceres"
 Location "Gaue" "Sol/Ceres"
 {
 	LongLat	[ 86.16 30.81 0 ]
-	Size	80.00
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -436,7 +436,7 @@ Location "Gaue" "Sol/Ceres"
 Location "Gerber Catena" "Sol/Ceres"
 {
 	LongLat	[ -144.5 -38.3 0 ]
-	Size	100.00
+	Size	100
 	Type	"CA"	# Catena, catenae
 }
 
@@ -444,8 +444,8 @@ Location "Gerber Catena" "Sol/Ceres"
 # Origin: Sumerian/Babylonian goddess of the vine.
 Location "Geshtin" "Sol/Ceres"
 {
-	LongLat	[ -101.19 57.0 0 ]
-	Size	80.00
+	LongLat	[ -101.19 57 0 ]
+	Size	80
 	Type	"AA"	# Crater, craters
 }
 
@@ -454,7 +454,7 @@ Location "Geshtin" "Sol/Ceres"
 Location "Ghanan" "Sol/Ceres"
 {
 	LongLat	[ 30.76 76.56 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -463,7 +463,7 @@ Location "Ghanan" "Sol/Ceres"
 Location "Hakumyi" "Sol/Ceres"
 {
 	LongLat	[ 27.75 51.42 0 ]
-	Size	29.20
+	Size	29.2
 	Type	"AA"	# Crater, craters
 }
 
@@ -472,7 +472,7 @@ Location "Hakumyi" "Sol/Ceres"
 Location "Halki" "Sol/Ceres"
 {
 	LongLat	[ -25.4 25.9 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -481,7 +481,7 @@ Location "Halki" "Sol/Ceres"
 Location "Hamori" "Sol/Ceres"
 {
 	LongLat	[ 79.44 -60.86 0 ]
-	Size	60.00
+	Size	60
 	Type	"AA"	# Crater, craters
 }
 
@@ -490,8 +490,8 @@ Location "Hamori" "Sol/Ceres"
 # Additional info: Name changed from Erntedank Planum 06/20/2016.
 Location "Hanami Planum" "Sol/Ceres"
 {
-	LongLat	[ -130.0 15.0 0 ]
-	Size	555.00
+	LongLat	[ -130 15 0 ]
+	Size	555
 	Type	"PM"	# Planum, plana
 }
 
@@ -500,7 +500,7 @@ Location "Hanami Planum" "Sol/Ceres"
 Location "Hatipowa" "Sol/Ceres"
 {
 	LongLat	[ -2.29 -16.08 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -509,7 +509,7 @@ Location "Hatipowa" "Sol/Ceres"
 Location "Haulani" "Sol/Ceres"
 {
 	LongLat	[ 10.77 5.8 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -518,7 +518,7 @@ Location "Haulani" "Sol/Ceres"
 Location "Heneb" "Sol/Ceres"
 {
 	LongLat	[ -168.96 10.87 0 ]
-	Size	39.00
+	Size	39
 	Type	"AA"	# Crater, craters
 }
 
@@ -528,7 +528,7 @@ Location "Heneb" "Sol/Ceres"
 Location "HOMOWO REGIO" "Sol/Ceres"
 {
 	LongLat	[ -110.22 19.49 0 ]
-	Size	360.00
+	Size	360
 	Type	"RE"	# Regio, regiones
 }
 
@@ -537,7 +537,7 @@ Location "HOMOWO REGIO" "Sol/Ceres"
 Location "Homshuk" "Sol/Ceres"
 {
 	LongLat	[ 94.06 11.23 0 ]
-	Size	70.00
+	Size	70
 	Type	"AA"	# Crater, craters
 }
 
@@ -546,7 +546,7 @@ Location "Homshuk" "Sol/Ceres"
 Location "Hosil Tholus" "Sol/Ceres"
 {
 	LongLat	[ -39.29 43.31 0 ]
-	Size	31.00
+	Size	31
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -555,7 +555,7 @@ Location "Hosil Tholus" "Sol/Ceres"
 Location "Ialonus" "Sol/Ceres"
 {
 	LongLat	[ 168.53 48.15 0 ]
-	Size	16.50
+	Size	16.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -564,7 +564,7 @@ Location "Ialonus" "Sol/Ceres"
 Location "Ikapati" "Sol/Ceres"
 {
 	LongLat	[ 45.61 33.84 0 ]
-	Size	50.00
+	Size	50
 	Type	"AA"	# Crater, craters
 }
 
@@ -573,7 +573,7 @@ Location "Ikapati" "Sol/Ceres"
 Location "Inamahari" "Sol/Ceres"
 {
 	LongLat	[ 89.22 14.13 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -582,7 +582,7 @@ Location "Inamahari" "Sol/Ceres"
 Location "Inkosazana" "Sol/Ceres"
 {
 	LongLat	[ 155.1 31.8 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -591,7 +591,7 @@ Location "Inkosazana" "Sol/Ceres"
 Location "Insitor" "Sol/Ceres"
 {
 	LongLat	[ 124.87 -10.71 0 ]
-	Size	26.00
+	Size	26
 	Type	"AA"	# Crater, craters
 }
 
@@ -600,7 +600,7 @@ Location "Insitor" "Sol/Ceres"
 Location "Jacheongbi" "Sol/Ceres"
 {
 	LongLat	[ 2.3 -69.2 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -609,7 +609,7 @@ Location "Jacheongbi" "Sol/Ceres"
 Location "Jaja" "Sol/Ceres"
 {
 	LongLat	[ 125.27 52.09 0 ]
-	Size	22.00
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -618,7 +618,7 @@ Location "Jaja" "Sol/Ceres"
 Location "Jarimba" "Sol/Ceres"
 {
 	LongLat	[ 21.25 -24.08 0 ]
-	Size	69.00
+	Size	69
 	Type	"AA"	# Crater, craters
 }
 
@@ -627,7 +627,7 @@ Location "Jarimba" "Sol/Ceres"
 Location "Jarovit" "Sol/Ceres"
 {
 	LongLat	[ -75.26 67.9 0 ]
-	Size	66.00
+	Size	66
 	Type	"AA"	# Crater, craters
 }
 
@@ -636,7 +636,7 @@ Location "Jarovit" "Sol/Ceres"
 Location "Juling" "Sol/Ceres"
 {
 	LongLat	[ 168.48 -35.9 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -645,7 +645,7 @@ Location "Juling" "Sol/Ceres"
 Location "Jumis" "Sol/Ceres"
 {
 	LongLat	[ -43.6 51.6 0 ]
-	Size	15.00
+	Size	15
 	Type	"AA"	# Crater, craters
 }
 
@@ -654,7 +654,7 @@ Location "Jumis" "Sol/Ceres"
 Location "Junina Catenae" "Sol/Ceres"
 {
 	LongLat	[ -145.06 26.05 0 ]
-	Size	263.00
+	Size	263
 	Type	"CA"	# Catena, catenae
 }
 
@@ -663,7 +663,7 @@ Location "Junina Catenae" "Sol/Ceres"
 Location "Kahukura" "Sol/Ceres"
 {
 	LongLat	[ -138.6 61.4 0 ]
-	Size	6.30
+	Size	6.3
 	Type	"AA"	# Crater, craters
 }
 
@@ -672,7 +672,7 @@ Location "Kahukura" "Sol/Ceres"
 Location "Kaikara" "Sol/Ceres"
 {
 	LongLat	[ -137.57 42.82 0 ]
-	Size	72.00
+	Size	72
 	Type	"AA"	# Crater, craters
 }
 
@@ -681,8 +681,8 @@ Location "Kaikara" "Sol/Ceres"
 # Additional info: Defines zero degrees longitude on Ceres.
 Location "Kait" "Sol/Ceres"
 {
-	LongLat	[ 0.0 -2.1 0 ]
-	Size	0.40
+	LongLat	[ 0 -2.1 0 ]
+	Size	0.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -691,7 +691,7 @@ Location "Kait" "Sol/Ceres"
 Location "Kaneki" "Sol/Ceres"
 {
 	LongLat	[ -65.4 23.8 0 ]
-	Size	31.50
+	Size	31.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -700,7 +700,7 @@ Location "Kaneki" "Sol/Ceres"
 Location "Kekri Tholus" "Sol/Ceres"
 {
 	LongLat	[ -119.41 19.85 0 ]
-	Size	4.60
+	Size	4.6
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -709,7 +709,7 @@ Location "Kekri Tholus" "Sol/Ceres"
 Location "Kerwan" "Sol/Ceres"
 {
 	LongLat	[ 123.99 -10.77 0 ]
-	Size	280.00
+	Size	280
 	Type	"AA"	# Crater, craters
 }
 
@@ -718,7 +718,7 @@ Location "Kerwan" "Sol/Ceres"
 Location "Kiriamma" "Sol/Ceres"
 {
 	LongLat	[ 126.33 50.32 0 ]
-	Size	18.70
+	Size	18.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -727,7 +727,7 @@ Location "Kiriamma" "Sol/Ceres"
 Location "Kirnis" "Sol/Ceres"
 {
 	LongLat	[ -95.7 4.9 0 ]
-	Size	115.00
+	Size	115
 	Type	"AA"	# Crater, craters
 }
 
@@ -736,7 +736,7 @@ Location "Kirnis" "Sol/Ceres"
 Location "Kokopelli" "Sol/Ceres"
 {
 	LongLat	[ 124.5 18.3 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -745,7 +745,7 @@ Location "Kokopelli" "Sol/Ceres"
 Location "Kondos" "Sol/Ceres"
 {
 	LongLat	[ 17.31 -19.34 0 ]
-	Size	44.00
+	Size	44
 	Type	"AA"	# Crater, craters
 }
 
@@ -754,7 +754,7 @@ Location "Kondos" "Sol/Ceres"
 Location "Kumitoga" "Sol/Ceres"
 {
 	LongLat	[ 178.83 -10.09 0 ]
-	Size	96.00
+	Size	96
 	Type	"AA"	# Crater, craters
 }
 
@@ -763,7 +763,7 @@ Location "Kumitoga" "Sol/Ceres"
 Location "Kupalo" "Sol/Ceres"
 {
 	LongLat	[ 173.2 -39.44 0 ]
-	Size	26.00
+	Size	26
 	Type	"AA"	# Crater, craters
 }
 
@@ -772,7 +772,7 @@ Location "Kupalo" "Sol/Ceres"
 Location "Kwanzaa Tholus" "Sol/Ceres"
 {
 	LongLat	[ -33.32 32.06 0 ]
-	Size	48.00
+	Size	48
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -781,7 +781,7 @@ Location "Kwanzaa Tholus" "Sol/Ceres"
 Location "Laukumate" "Sol/Ceres"
 {
 	LongLat	[ 159.42 65.03 0 ]
-	Size	29.70
+	Size	29.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -790,7 +790,7 @@ Location "Laukumate" "Sol/Ceres"
 Location "Liber" "Sol/Ceres"
 {
 	LongLat	[ 37.8 42.56 0 ]
-	Size	23.00
+	Size	23
 	Type	"AA"	# Crater, craters
 }
 
@@ -799,7 +799,7 @@ Location "Liber" "Sol/Ceres"
 Location "Liberalia Mons" "Sol/Ceres"
 {
 	LongLat	[ -48.99 6.02 0 ]
-	Size	90.00
+	Size	90
 	Type	"MO"	# Mons, montes
 }
 
@@ -808,7 +808,7 @@ Location "Liberalia Mons" "Sol/Ceres"
 Location "Lociyo" "Sol/Ceres"
 {
 	LongLat	[ -131.17 -6.53 0 ]
-	Size	37.80
+	Size	37.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -817,7 +817,7 @@ Location "Lociyo" "Sol/Ceres"
 Location "Lohri Tholus" "Sol/Ceres"
 {
 	LongLat	[ -121.34 19.66 0 ]
-	Size	3.80
+	Size	3.8
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -826,7 +826,7 @@ Location "Lohri Tholus" "Sol/Ceres"
 Location "Lono" "Sol/Ceres"
 {
 	LongLat	[ -55.63 -36.61 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -844,7 +844,7 @@ Location "Lughnasa Tholus" "Sol/Ceres"
 Location "Makahiki Labyrinthus" "Sol/Ceres"
 {
 	LongLat	[ -122.16 17.49 0 ]
-	Size	22.00
+	Size	22
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
 
@@ -853,7 +853,7 @@ Location "Makahiki Labyrinthus" "Sol/Ceres"
 Location "Meanderi" "Sol/Ceres"
 {
 	LongLat	[ -165.81 -40.8 0 ]
-	Size	103.00
+	Size	103
 	Type	"AA"	# Crater, craters
 }
 
@@ -862,7 +862,7 @@ Location "Meanderi" "Sol/Ceres"
 Location "Megwomets" "Sol/Ceres"
 {
 	LongLat	[ 146.22 36.54 0 ]
-	Size	78.70
+	Size	78.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -871,7 +871,7 @@ Location "Megwomets" "Sol/Ceres"
 Location "Messor" "Sol/Ceres"
 {
 	LongLat	[ -126.27 49.93 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -880,7 +880,7 @@ Location "Messor" "Sol/Ceres"
 Location "Mikeli Tholus" "Sol/Ceres"
 {
 	LongLat	[ -66.62 38.62 0 ]
-	Size	37.00
+	Size	37
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -889,7 +889,7 @@ Location "Mikeli Tholus" "Sol/Ceres"
 Location "Mlezi" "Sol/Ceres"
 {
 	LongLat	[ -136.8 75.9 0 ]
-	Size	41.50
+	Size	41.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -897,8 +897,8 @@ Location "Mlezi" "Sol/Ceres"
 # Origin: Ojibwe /Chippewa corn (maize) god (Lake Superior area, Canada and USA).
 Location "Mondamin" "Sol/Ceres"
 {
-	LongLat	[ -6.0 -62.24 0 ]
-	Size	126.00
+	LongLat	[ -6 -62.24 0 ]
+	Size	126
 	Type	"AA"	# Crater, craters
 }
 
@@ -907,7 +907,7 @@ Location "Mondamin" "Sol/Ceres"
 Location "Nabanna Fossa" "Sol/Ceres"
 {
 	LongLat	[ -75.95 1.71 0 ]
-	Size	168.00
+	Size	168
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -916,7 +916,7 @@ Location "Nabanna Fossa" "Sol/Ceres"
 Location "Nar Sulcus" "Sol/Ceres"
 {
 	LongLat	[ -79.89 -41.86 0 ]
-	Size	63.00
+	Size	63
 	Type	"SU"	# Sulcus, sulci
 }
 
@@ -925,7 +925,7 @@ Location "Nar Sulcus" "Sol/Ceres"
 Location "Nawish" "Sol/Ceres"
 {
 	LongLat	[ -166.21 18.28 0 ]
-	Size	77.00
+	Size	77
 	Type	"AA"	# Crater, craters
 }
 
@@ -934,7 +934,7 @@ Location "Nawish" "Sol/Ceres"
 Location "Nepen" "Sol/Ceres"
 {
 	LongLat	[ -139.46 6.19 0 ]
-	Size	26.40
+	Size	26.4
 	Type	"AA"	# Crater, craters
 }
 
@@ -943,7 +943,7 @@ Location "Nepen" "Sol/Ceres"
 Location "Niman Rupes" "Sol/Ceres"
 {
 	LongLat	[ 60.05 -28.56 0 ]
-	Size	45.00
+	Size	45
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -952,7 +952,7 @@ Location "Niman Rupes" "Sol/Ceres"
 Location "Ninsar" "Sol/Ceres"
 {
 	LongLat	[ -96.74 30.3 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -960,8 +960,8 @@ Location "Ninsar" "Sol/Ceres"
 # Origin: Canelos Quichua (Ecuador) female spirit of the garden soil and of pottery clay.
 Location "Nunghui" "Sol/Ceres"
 {
-	LongLat	[ -87.7 -54.0 0 ]
-	Size	22.00
+	LongLat	[ -87.7 -54 0 ]
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -970,7 +970,7 @@ Location "Nunghui" "Sol/Ceres"
 Location "Occator" "Sol/Ceres"
 {
 	LongLat	[ -120.67 19.82 0 ]
-	Size	92.00
+	Size	92
 	Type	"AA"	# Crater, craters
 }
 
@@ -979,7 +979,7 @@ Location "Occator" "Sol/Ceres"
 Location "Oltagon" "Sol/Ceres"
 {
 	LongLat	[ 37.96 -25.95 0 ]
-	Size	28.00
+	Size	28
 	Type	"AA"	# Crater, craters
 }
 
@@ -988,7 +988,7 @@ Location "Oltagon" "Sol/Ceres"
 Location "Omonga" "Sol/Ceres"
 {
 	LongLat	[ 71.67 58.03 0 ]
-	Size	77.00
+	Size	77
 	Type	"AA"	# Crater, craters
 }
 
@@ -997,7 +997,7 @@ Location "Omonga" "Sol/Ceres"
 Location "Onam Labes" "Sol/Ceres"
 {
 	LongLat	[ -43.98 51.23 0 ]
-	Size	4.80
+	Size	4.8
 	Type	"LA"	# Labes, labēs
 }
 
@@ -1006,7 +1006,7 @@ Location "Onam Labes" "Sol/Ceres"
 Location "Oxo" "Sol/Ceres"
 {
 	LongLat	[ -0.4 42.21 0 ]
-	Size	10.00
+	Size	10
 	Type	"AA"	# Crater, craters
 }
 
@@ -1015,7 +1015,7 @@ Location "Oxo" "Sol/Ceres"
 Location "Pasola Facula" "Sol/Ceres"
 {
 	LongLat	[ -120.78 19.47 0 ]
-	Size	2.90
+	Size	2.9
 	Type	"FA"	# Facula, faculae
 }
 
@@ -1024,7 +1024,7 @@ Location "Pasola Facula" "Sol/Ceres"
 Location "Peko" "Sol/Ceres"
 {
 	LongLat	[ -28.6 39.7 0 ]
-	Size	11.00
+	Size	11
 	Type	"AA"	# Crater, craters
 }
 
@@ -1033,7 +1033,7 @@ Location "Peko" "Sol/Ceres"
 Location "Piuku" "Sol/Ceres"
 {
 	LongLat	[ 36.99 -15.37 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -1042,7 +1042,7 @@ Location "Piuku" "Sol/Ceres"
 Location "Pongal Catena" "Sol/Ceres"
 {
 	LongLat	[ -92.34 -37.37 0 ]
-	Size	95.50
+	Size	95.5
 	Type	"CA"	# Catena, catenae
 }
 
@@ -1051,7 +1051,7 @@ Location "Pongal Catena" "Sol/Ceres"
 Location "Rao" "Sol/Ceres"
 {
 	LongLat	[ 119.01 8.1 0 ]
-	Size	12.00
+	Size	12
 	Type	"AA"	# Crater, craters
 }
 
@@ -1060,7 +1060,7 @@ Location "Rao" "Sol/Ceres"
 Location "Ratumaibulu" "Sol/Ceres"
 {
 	LongLat	[ 77.5 -67.3 0 ]
-	Size	20.00
+	Size	20
 	Type	"AA"	# Crater, craters
 }
 
@@ -1078,7 +1078,7 @@ Location "Razeka" "Sol/Ceres"
 Location "Rongo" "Sol/Ceres"
 {
 	LongLat	[ -11.29 3.21 0 ]
-	Size	68.00
+	Size	68
 	Type	"AA"	# Crater, craters
 }
 
@@ -1087,7 +1087,7 @@ Location "Rongo" "Sol/Ceres"
 Location "Roskva" "Sol/Ceres"
 {
 	LongLat	[ -26.98 58.9 0 ]
-	Size	22.00
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -1097,7 +1097,7 @@ Location "Roskva" "Sol/Ceres"
 Location "Samhain Catenae" "Sol/Ceres"
 {
 	LongLat	[ -107.15 -2.75 0 ]
-	Size	715.00
+	Size	715
 	Type	"CA"	# Catena, catenae
 }
 
@@ -1106,7 +1106,7 @@ Location "Samhain Catenae" "Sol/Ceres"
 Location "Sedana" "Sol/Ceres"
 {
 	LongLat	[ -45.3 36.5 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -1115,7 +1115,7 @@ Location "Sedana" "Sol/Ceres"
 Location "Sekhet" "Sol/Ceres"
 {
 	LongLat	[ -104.95 -66.42 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -1124,7 +1124,7 @@ Location "Sekhet" "Sol/Ceres"
 Location "Shakaema" "Sol/Ceres"
 {
 	LongLat	[ 33.93 -3.66 0 ]
-	Size	47.00
+	Size	47
 	Type	"AA"	# Crater, craters
 }
 
@@ -1132,8 +1132,8 @@ Location "Shakaema" "Sol/Ceres"
 # Origin: Shen Nong; Chinese buffalo-headed agricultural deity, who taught humans the use of the plow together with other aspects of basic agriculture.
 Location "Shennong" "Sol/Ceres"
 {
-	LongLat	[ 28.1 69.0 0 ]
-	Size	32.50
+	LongLat	[ 28.1 69 0 ]
+	Size	32.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1142,7 +1142,7 @@ Location "Shennong" "Sol/Ceres"
 Location "Sintana" "Sol/Ceres"
 {
 	LongLat	[ 46.2 -48.07 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -1151,7 +1151,7 @@ Location "Sintana" "Sol/Ceres"
 Location "Sukkot Labes" "Sol/Ceres"
 {
 	LongLat	[ 26.81 50.55 0 ]
-	Size	11.00
+	Size	11
 	Type	"LA"	# Labes, labēs
 }
 
@@ -1160,7 +1160,7 @@ Location "Sukkot Labes" "Sol/Ceres"
 Location "Tafakula" "Sol/Ceres"
 {
 	LongLat	[ 88.59 -19.82 0 ]
-	Size	34.00
+	Size	34
 	Type	"AA"	# Crater, craters
 }
 
@@ -1169,7 +1169,7 @@ Location "Tafakula" "Sol/Ceres"
 Location "Tahu" "Sol/Ceres"
 {
 	LongLat	[ 44.79 -6.59 0 ]
-	Size	25.00
+	Size	25
 	Type	"AA"	# Crater, craters
 }
 
@@ -1178,7 +1178,7 @@ Location "Tahu" "Sol/Ceres"
 Location "Takel" "Sol/Ceres"
 {
 	LongLat	[ -79.52 50.76 0 ]
-	Size	22.00
+	Size	22
 	Type	"AA"	# Crater, craters
 }
 
@@ -1187,7 +1187,7 @@ Location "Takel" "Sol/Ceres"
 Location "Tawals" "Sol/Ceres"
 {
 	LongLat	[ -121.98 -39.06 0 ]
-	Size	8.80
+	Size	8.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1196,7 +1196,7 @@ Location "Tawals" "Sol/Ceres"
 Location "Telepinu" "Sol/Ceres"
 {
 	LongLat	[ -24.4 23.2 0 ]
-	Size	31.00
+	Size	31
 	Type	"AA"	# Crater, craters
 }
 
@@ -1204,8 +1204,8 @@ Location "Telepinu" "Sol/Ceres"
 # Origin: Scandinavian goddess who “Signifies the seed.”
 Location "Thrud" "Sol/Ceres"
 {
-	LongLat	[ 31.0 -71.3 0 ]
-	Size	7.80
+	LongLat	[ 31 -71.3 0 ]
+	Size	7.8
 	Type	"AA"	# Crater, craters
 }
 
@@ -1214,7 +1214,7 @@ Location "Thrud" "Sol/Ceres"
 Location "Tibong" "Sol/Ceres"
 {
 	LongLat	[ -7.8 -29.82 0 ]
-	Size	36.00
+	Size	36
 	Type	"AA"	# Crater, craters
 }
 
@@ -1223,7 +1223,7 @@ Location "Tibong" "Sol/Ceres"
 Location "Toharu" "Sol/Ceres"
 {
 	LongLat	[ 155.95 -48.32 0 ]
-	Size	86.00
+	Size	86
 	Type	"AA"	# Crater, craters
 }
 
@@ -1232,7 +1232,7 @@ Location "Toharu" "Sol/Ceres"
 Location "Tupo" "Sol/Ceres"
 {
 	LongLat	[ 88.38 -32.35 0 ]
-	Size	36.00
+	Size	36
 	Type	"AA"	# Crater, craters
 }
 
@@ -1241,7 +1241,7 @@ Location "Tupo" "Sol/Ceres"
 Location "Uhola Catenae" "Sol/Ceres"
 {
 	LongLat	[ -73.34 -10.65 0 ]
-	Size	400.00
+	Size	400
 	Type	"CA"	# Catena, catenae
 }
 
@@ -1250,7 +1250,7 @@ Location "Uhola Catenae" "Sol/Ceres"
 Location "Urvara" "Sol/Ceres"
 {
 	LongLat	[ -110.76 -45.66 0 ]
-	Size	170.00
+	Size	170
 	Type	"AA"	# Crater, craters
 }
 
@@ -1258,8 +1258,8 @@ Location "Urvara" "Sol/Ceres"
 # Origin: Grape harvest festival in Mendoza (Argentina) during the first week of March. It is one of the most important festivals in the country.
 Location "Vendimia Planitia" "Sol/Ceres"
 {
-	LongLat	[ 135.0 23.0 0 ]
-	Size	750.00
+	LongLat	[ 135 23 0 ]
+	Size	750
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -1268,7 +1268,7 @@ Location "Vendimia Planitia" "Sol/Ceres"
 Location "Victa" "Sol/Ceres"
 {
 	LongLat	[ -58.96 36.23 0 ]
-	Size	32.00
+	Size	32
 	Type	"AA"	# Crater, craters
 }
 
@@ -1276,8 +1276,8 @@ Location "Victa" "Sol/Ceres"
 # Origin: Roman wine festivals, celebrated twice a year: on April 23 when the new wine was tasted and August 19 when the new wine was opened for all.
 Location "Vinalia Faculae" "Sol/Ceres"
 {
-	LongLat	[ -118.0 20.2 0 ]
-	Size	19.00
+	LongLat	[ -118 20.2 0 ]
+	Size	19
 	Type	"FA"	# Facula, faculae
 }
 
@@ -1286,7 +1286,7 @@ Location "Vinalia Faculae" "Sol/Ceres"
 Location "Vinotonus" "Sol/Ceres"
 {
 	LongLat	[ 95.12 43.02 0 ]
-	Size	140.00
+	Size	140
 	Type	"AA"	# Crater, craters
 }
 
@@ -1295,7 +1295,7 @@ Location "Vinotonus" "Sol/Ceres"
 Location "Wangala Tholus" "Sol/Ceres"
 {
 	LongLat	[ 6.64 -21.62 0 ]
-	Size	50.00
+	Size	50
 	Type	"TH"	# Tholus, tholi
 }
 
@@ -1304,7 +1304,7 @@ Location "Wangala Tholus" "Sol/Ceres"
 Location "Xevioso" "Sol/Ceres"
 {
 	LongLat	[ -49.4 0.7 0 ]
-	Size	8.50
+	Size	8.5
 	Type	"AA"	# Crater, craters
 }
 
@@ -1313,7 +1313,7 @@ Location "Xevioso" "Sol/Ceres"
 Location "Xochipilli" "Sol/Ceres"
 {
 	LongLat	[ 93.21 56.66 0 ]
-	Size	22.70
+	Size	22.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -1322,7 +1322,7 @@ Location "Xochipilli" "Sol/Ceres"
 Location "Yalode" "Sol/Ceres"
 {
 	LongLat	[ -67.52 -42.58 0 ]
-	Size	260.00
+	Size	260
 	Type	"AA"	# Crater, craters
 }
 
@@ -1331,8 +1331,8 @@ Location "Yalode" "Sol/Ceres"
 # Additional info: Name changed from Ysolo Mons on December 7, 2016, to correct an error.
 Location "Yamor Mons" "Sol/Ceres"
 {
-	LongLat	[ 12.0 85.5 0 ]
-	Size	16.00
+	LongLat	[ 12 85.5 0 ]
+	Size	16
 	Type	"MO"	# Mons, montes
 }
 
@@ -1349,8 +1349,8 @@ Location "Zadeni" "Sol/Ceres"
 # Origin: Ancient Armenian god of fertility and vegetation.
 Location "Zatik" "Sol/Ceres"
 {
-	LongLat	[ 114.0 69.9 0 ]
-	Size	4.00
+	LongLat	[ 114 69.9 0 ]
+	Size	4
 	Type	"AA"	# Crater, craters
 }
 
@@ -1362,7 +1362,7 @@ Location "Zatik" "Sol/Ceres"
 Location "Adlivun Cavus" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -171.14 -15.4 0 ]
-	Size	21.40
+	Size	21.4
 	Type	"CB"	# Cavus, cavi
 }
 
@@ -1371,7 +1371,7 @@ Location "Adlivun Cavus" "Sol/Pluto-Charon/Pluto"
 Location "Alcyonia Lacus" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 151.95 36.44 0 ]
-	Size	30.00
+	Size	30
 	Type	"LC"	# Lacus, lacūs
 }
 
@@ -1380,7 +1380,7 @@ Location "Alcyonia Lacus" "Sol/Pluto-Charon/Pluto"
 Location "Al-Idrisi Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 156.01 33.99 0 ]
-	Size	383.00
+	Size	383
 	Type	"MO"	# Mons, montes
 }
 
@@ -1398,7 +1398,7 @@ Location "Baret Montes" "Sol/Pluto-Charon/Pluto"
 Location "Beatrice Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 129.26 0.19 0 ]
-	Size	382.00
+	Size	382
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1407,7 +1407,7 @@ Location "Beatrice Fossa" "Sol/Pluto-Charon/Pluto"
 Location "Burney" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 133.79 45.68 0 ]
-	Size	296.00
+	Size	296
 	Type	"AA"	# Crater, craters
 }
 
@@ -1416,7 +1416,7 @@ Location "Burney" "Sol/Pluto-Charon/Pluto"
 Location "Challenger Colles" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -164.9 23.05 0 ]
-	Size	76.00
+	Size	76
 	Type	"CO"	# Collis, colles
 }
 
@@ -1425,7 +1425,7 @@ Location "Challenger Colles" "Sol/Pluto-Charon/Pluto"
 Location "Coleman Mons" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 167.98 -24.17 0 ]
-	Size	32.00
+	Size	32
 	Type	"MO"	# Mons, montes
 }
 
@@ -1434,7 +1434,7 @@ Location "Coleman Mons" "Sol/Pluto-Charon/Pluto"
 Location "Columbia Colles" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -163.64 28.53 0 ]
-	Size	49.00
+	Size	49
 	Type	"CO"	# Collis, colles
 }
 
@@ -1443,7 +1443,7 @@ Location "Columbia Colles" "Sol/Pluto-Charon/Pluto"
 Location "Coradini" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -168.57 42.88 0 ]
-	Size	38.00
+	Size	38
 	Type	"AA"	# Crater, craters
 }
 
@@ -1452,7 +1452,7 @@ Location "Coradini" "Sol/Pluto-Charon/Pluto"
 Location "Coughlin" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 150.54 15.24 0 ]
-	Size	45.00
+	Size	45
 	Type	"AA"	# Crater, craters
 }
 
@@ -1460,8 +1460,8 @@ Location "Coughlin" "Sol/Pluto-Charon/Pluto"
 # Origin: Ancestral beings in Yolngu (Australia) myth who traveled between the island of the dead and Australia.
 Location "Djanggawul Fossae" "Sol/Pluto-Charon/Pluto"
 {
-	LongLat	[ 84.31 41.0 0 ]
-	Size	585.00
+	LongLat	[ 84.31 41 0 ]
+	Size	585
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1470,7 +1470,7 @@ Location "Djanggawul Fossae" "Sol/Pluto-Charon/Pluto"
 Location "Dumuzi Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 127.9 30.56 0 ]
-	Size	619.00
+	Size	619
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1479,7 +1479,7 @@ Location "Dumuzi Fossa" "Sol/Pluto-Charon/Pluto"
 Location "Edgeworth" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 109.42 6.86 0 ]
-	Size	149.00
+	Size	149
 	Type	"AA"	# Crater, craters
 }
 
@@ -1488,7 +1488,7 @@ Location "Edgeworth" "Sol/Pluto-Charon/Pluto"
 Location "Elcano Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 143.7 -26.04 0 ]
-	Size	488.00
+	Size	488
 	Type	"MO"	# Mons, montes
 }
 
@@ -1497,7 +1497,7 @@ Location "Elcano Montes" "Sol/Pluto-Charon/Pluto"
 Location "Elliot" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 138.86 12.04 0 ]
-	Size	96.00
+	Size	96
 	Type	"AA"	# Crater, craters
 }
 
@@ -1515,7 +1515,7 @@ Location "Hardaway" "Sol/Pluto-Charon/Pluto"
 Location "Hardie" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 141.58 23.82 0 ]
-	Size	25.00
+	Size	25
 	Type	"AA"	# Crater, craters
 }
 
@@ -1524,7 +1524,7 @@ Location "Hardie" "Sol/Pluto-Charon/Pluto"
 Location "HAYABUSA TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -130.12 46.07 0 ]
-	Size	1115.00
+	Size	1115
 	Type	"TA"	# Terra, terrae
 }
 
@@ -1542,7 +1542,7 @@ Location "Hekla Cavus" "Sol/Pluto-Charon/Pluto"
 Location "Hermod Fossae" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 119.34 -8.63 0 ]
-	Size	592.00
+	Size	592
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1551,7 +1551,7 @@ Location "Hermod Fossae" "Sol/Pluto-Charon/Pluto"
 Location "Hillary Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 169.58 3.26 0 ]
-	Size	388.00
+	Size	388
 	Type	"MO"	# Mons, montes
 }
 
@@ -1560,7 +1560,7 @@ Location "Hillary Montes" "Sol/Pluto-Charon/Pluto"
 Location "Hunahpu Valles" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 154.41 49.09 0 ]
-	Size	295.00
+	Size	295
 	Type	"VA"	# Vallis, valles
 }
 
@@ -1578,7 +1578,7 @@ Location "Hyecho Palus" "Sol/Pluto-Charon/Pluto"
 Location "Inanna Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 129.29 33.05 0 ]
-	Size	613.00
+	Size	613
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1587,7 +1587,7 @@ Location "Inanna Fossa" "Sol/Pluto-Charon/Pluto"
 Location "Kaknú Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 122.07 -30.45 0 ]
-	Size	249.00
+	Size	249
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1596,7 +1596,7 @@ Location "Kaknú Fossa" "Sol/Pluto-Charon/Pluto"
 Location "Khare" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 94.56 27.85 0 ]
-	Size	58.00
+	Size	58
 	Type	"AA"	# Crater, craters
 }
 
@@ -1614,7 +1614,7 @@ Location "Kiladze" "Sol/Pluto-Charon/Pluto"
 Location "Kowal" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -142.13 49.48 0 ]
-	Size	66.00
+	Size	66
 	Type	"AA"	# Crater, craters
 }
 
@@ -1623,7 +1623,7 @@ Location "Kowal" "Sol/Pluto-Charon/Pluto"
 Location "Lemminkäinen Vallis" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -121.27 87.42 0 ]
-	Size	726.00
+	Size	726
 	Type	"VA"	# Vallis, valles
 }
 
@@ -1631,8 +1631,8 @@ Location "Lemminkäinen Vallis" "Sol/Pluto-Charon/Pluto"
 # Origin: Percival; American astronomer who in 1906-1916 undertook extensive searches of transneptunian planets (1855-1916).
 Location "LOWELL REGIO" "Sol/Pluto-Charon/Pluto"
 {
-	LongLat	[ -22.0 86.0 0 ]
-	Size	1215.00
+	LongLat	[ -22 86 0 ]
+	Size	1215
 	Type	"RE"	# Regio, regiones
 }
 
@@ -1641,7 +1641,7 @@ Location "LOWELL REGIO" "Sol/Pluto-Charon/Pluto"
 Location "Lunokhod Planitia" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 109.57 30.75 0 ]
-	Size	557.00
+	Size	557
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -1650,7 +1650,7 @@ Location "Lunokhod Planitia" "Sol/Pluto-Charon/Pluto"
 Location "Mwindo Fossae" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -114.22 34.74 0 ]
-	Size	406.00
+	Size	406
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1659,7 +1659,7 @@ Location "Mwindo Fossae" "Sol/Pluto-Charon/Pluto"
 Location "Oort" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 92.05 7.86 0 ]
-	Size	123.00
+	Size	123
 	Type	"AA"	# Crater, craters
 }
 
@@ -1668,7 +1668,7 @@ Location "Oort" "Sol/Pluto-Charon/Pluto"
 Location "Piccard Mons" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 176.79 -35.26 0 ]
-	Size	257.00
+	Size	257
 	Type	"MO"	# Mons, montes
 }
 
@@ -1677,7 +1677,7 @@ Location "Piccard Mons" "Sol/Pluto-Charon/Pluto"
 Location "Pigafetta Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 146.44 -6.83 0 ]
-	Size	234.00
+	Size	234
 	Type	"MO"	# Mons, montes
 }
 
@@ -1686,7 +1686,7 @@ Location "Pigafetta Montes" "Sol/Pluto-Charon/Pluto"
 Location "PIONEER TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -167.6 56.58 0 ]
-	Size	598.00
+	Size	598
 	Type	"TA"	# Terra, terrae
 }
 
@@ -1695,7 +1695,7 @@ Location "PIONEER TERRA" "Sol/Pluto-Charon/Pluto"
 Location "Piri Rupes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 108.9 27.13 0 ]
-	Size	549.00
+	Size	549
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1704,7 +1704,7 @@ Location "Piri Rupes" "Sol/Pluto-Charon/Pluto"
 Location "Pulfrich" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 135.99 77.8 0 ]
-	Size	37.70
+	Size	37.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -1722,7 +1722,7 @@ Location "Ranger Planitia" "Sol/Pluto-Charon/Pluto"
 Location "Ride Rupes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 163.19 -19.66 0 ]
-	Size	235.00
+	Size	235
 	Type	"RU"	# Rupes, rupēs
 }
 
@@ -1731,7 +1731,7 @@ Location "Ride Rupes" "Sol/Pluto-Charon/Pluto"
 Location "Rosetta Planitia" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 157.22 -22.31 0 ]
-	Size	480.00
+	Size	480
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -1740,7 +1740,7 @@ Location "Rosetta Planitia" "Sol/Pluto-Charon/Pluto"
 Location "Simonelli" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -45.24 12.79 0 ]
-	Size	286.00
+	Size	286
 	Type	"AA"	# Crater, craters
 }
 
@@ -1749,7 +1749,7 @@ Location "Simonelli" "Sol/Pluto-Charon/Pluto"
 Location "Sleipnir Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -125.49 23.7 0 ]
-	Size	508.00
+	Size	508
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1758,7 +1758,7 @@ Location "Sleipnir Fossa" "Sol/Pluto-Charon/Pluto"
 Location "Sputnik Planitia" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 178.69 19.51 0 ]
-	Size	1492.00
+	Size	1492
 	Type	"PL"	# Planitia, planitiae
 }
 
@@ -1767,7 +1767,7 @@ Location "Sputnik Planitia" "Sol/Pluto-Charon/Pluto"
 Location "Tabei Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 164.33 -11.73 0 ]
-	Size	105.00
+	Size	105
 	Type	"MO"	# Mons, montes
 }
 
@@ -1776,7 +1776,7 @@ Location "Tabei Montes" "Sol/Pluto-Charon/Pluto"
 Location "Tartarus Dorsa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -126.91 8.5 0 ]
-	Size	850.00
+	Size	850
 	Type	"DO"	# Dorsum, dorsa
 }
 
@@ -1785,7 +1785,7 @@ Location "Tartarus Dorsa" "Sol/Pluto-Charon/Pluto"
 Location "Tenzing Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 177.38 -15.61 0 ]
-	Size	283.00
+	Size	283
 	Type	"MO"	# Mons, montes
 }
 
@@ -1794,7 +1794,7 @@ Location "Tenzing Montes" "Sol/Pluto-Charon/Pluto"
 Location "TOMBAUGH REGIO" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ -176.78 7.62 0 ]
-	Size	2300.00
+	Size	2300
 	Type	"RE"	# Regio, regiones
 }
 
@@ -1803,7 +1803,7 @@ Location "TOMBAUGH REGIO" "Sol/Pluto-Charon/Pluto"
 Location "Uncama Fossa" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 142.62 23.96 0 ]
-	Size	227.00
+	Size	227
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1812,7 +1812,7 @@ Location "Uncama Fossa" "Sol/Pluto-Charon/Pluto"
 Location "Väinämöinen Vallis" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 70.81 80.7 0 ]
-	Size	438.00
+	Size	438
 	Type	"VA"	# Vallis, valles
 }
 
@@ -1821,7 +1821,7 @@ Location "Väinämöinen Vallis" "Sol/Pluto-Charon/Pluto"
 Location "VEGA TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 85.49 33.96 0 ]
-	Size	1614.00
+	Size	1614
 	Type	"TA"	# Terra, terrae
 }
 
@@ -1830,7 +1830,7 @@ Location "VEGA TERRA" "Sol/Pluto-Charon/Pluto"
 Location "VENERA TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 117.62 56.89 0 ]
-	Size	742.00
+	Size	742
 	Type	"TA"	# Terra, terrae
 }
 
@@ -1839,7 +1839,7 @@ Location "VENERA TERRA" "Sol/Pluto-Charon/Pluto"
 Location "VIKING TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 150.97 12.34 0 ]
-	Size	1171.00
+	Size	1171
 	Type	"TA"	# Terra, terrae
 }
 
@@ -1848,7 +1848,7 @@ Location "VIKING TERRA" "Sol/Pluto-Charon/Pluto"
 Location "Virgil Fossae" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 122.76 5.23 0 ]
-	Size	710.00
+	Size	710
 	Type	"FO"	# Fossa, fossae
 }
 
@@ -1857,7 +1857,7 @@ Location "Virgil Fossae" "Sol/Pluto-Charon/Pluto"
 Location "VOYAGER TERRA" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 153.52 60.08 0 ]
-	Size	843.00
+	Size	843
 	Type	"TA"	# Terra, terrae
 }
 
@@ -1866,7 +1866,7 @@ Location "VOYAGER TERRA" "Sol/Pluto-Charon/Pluto"
 Location "Wright Mons" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 173.24 -21.36 0 ]
-	Size	165.00
+	Size	165
 	Type	"MO"	# Mons, montes
 }
 
@@ -1875,7 +1875,7 @@ Location "Wright Mons" "Sol/Pluto-Charon/Pluto"
 Location "Zagar" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 155.23 -5.74 0 ]
-	Size	93.00
+	Size	93
 	Type	"AA"	# Crater, craters
 }
 
@@ -1884,7 +1884,7 @@ Location "Zagar" "Sol/Pluto-Charon/Pluto"
 Location "Zheng He Montes" "Sol/Pluto-Charon/Pluto"
 {
 	LongLat	[ 160.57 19.01 0 ]
-	Size	101.00
+	Size	101
 	Type	"MO"	# Mons, montes
 }
 
@@ -1896,7 +1896,7 @@ Location "Zheng He Montes" "Sol/Pluto-Charon/Pluto"
 Location "Argo Chasma" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 80.4 27.8 0 ]
-	Size	355.00
+	Size	355
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -1905,7 +1905,7 @@ Location "Argo Chasma" "Sol/Pluto-Charon/Charon"
 Location "Butler Mons" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 38.74 -9.48 0 ]
-	Size	90.60
+	Size	90.6
 	Type	"MO"	# Mons, montes
 }
 
@@ -1914,7 +1914,7 @@ Location "Butler Mons" "Sol/Pluto-Charon/Charon"
 Location "Caleuche Chasma" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -118.2 72.5 0 ]
-	Size	400.00
+	Size	400
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -1923,7 +1923,7 @@ Location "Caleuche Chasma" "Sol/Pluto-Charon/Charon"
 Location "Clarke Montes" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 7.05 -5.12 0 ]
-	Size	74.60
+	Size	74.6
 	Type	"MO"	# Mons, montes
 }
 
@@ -1932,7 +1932,7 @@ Location "Clarke Montes" "Sol/Pluto-Charon/Charon"
 Location "Cora" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -8.28 17.09 0 ]
-	Size	9.00
+	Size	9
 	Type	"AA"	# Crater, craters
 }
 
@@ -1941,7 +1941,7 @@ Location "Cora" "Sol/Pluto-Charon/Charon"
 Location "Dorothy" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 40.58 58.53 0 ]
-	Size	261.00
+	Size	261
 	Type	"AA"	# Crater, craters
 }
 
@@ -1950,7 +1950,7 @@ Location "Dorothy" "Sol/Pluto-Charon/Charon"
 Location "Kubrick Mons" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 30.8 3.6 0 ]
-	Size	40.00
+	Size	40
 	Type	"MO"	# Mons, montes
 }
 
@@ -1959,7 +1959,7 @@ Location "Kubrick Mons" "Sol/Pluto-Charon/Charon"
 Location "Mandjet Chasma" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -65.6 4.8 0 ]
-	Size	385.00
+	Size	385
 	Type	"CM"	# Chasma, chasmata
 }
 
@@ -1968,7 +1968,7 @@ Location "Mandjet Chasma" "Sol/Pluto-Charon/Charon"
 Location "McCaffrey Dorsum" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -65.11 74.28 0 ]
-	Size	420.00
+	Size	420
 	Type	"DO"	# Dorsum, dorsa
 }
 
@@ -1977,7 +1977,7 @@ Location "McCaffrey Dorsum" "Sol/Pluto-Charon/Charon"
 Location "Nasreddin" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -51.4 25.5 0 ]
-	Size	29.70
+	Size	29.7
 	Type	"AA"	# Crater, craters
 }
 
@@ -1986,7 +1986,7 @@ Location "Nasreddin" "Sol/Pluto-Charon/Charon"
 Location "Nemo" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -45.9 -15.7 0 ]
-	Size	44.00
+	Size	44
 	Type	"AA"	# Crater, craters
 }
 
@@ -1995,7 +1995,7 @@ Location "Nemo" "Sol/Pluto-Charon/Charon"
 Location "Pirx" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -103.7 55.2 0 ]
-	Size	90.00
+	Size	90
 	Type	"AA"	# Crater, craters
 }
 
@@ -2004,7 +2004,7 @@ Location "Pirx" "Sol/Pluto-Charon/Charon"
 Location "Revati" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ 35.4 20.7 0 ]
-	Size	40.00
+	Size	40
 	Type	"AA"	# Crater, craters
 }
 
@@ -2013,6 +2013,6 @@ Location "Revati" "Sol/Pluto-Charon/Charon"
 Location "Sadko" "Sol/Pluto-Charon/Charon"
 {
 	LongLat	[ -28.8 -16.1 0 ]
-	Size	28.00
+	Size	28
 	Type	"AA"	# Crater, craters
 }
