@@ -12,7 +12,7 @@
 # Origin: Fabia Aconia Paulina; Roman aristocratic woman, wife of Praetextatus (d. c. 384).
 Location "Aconia" "Sol/Vesta"
 {
-	LongLat	[ 1.3700000000000045 7.54 0 ]
+	LongLat	[ 1.37 7.54 0 ]
 	Size	19.00
 	Type	"AA"	# Crater, craters
 }
@@ -39,7 +39,7 @@ Location "Africana" "Sol/Vesta"
 # Origin: Roman festival celebrated several times a year; on this day the Rex sacrorum offered a ram in the Regia.
 Location "Agonium Rupes" "Sol/Vesta"
 {
-	LongLat	[ 166.07999999999998 -53.47 0 ]
+	LongLat	[ 166.08 -53.47 0 ]
 	Size	111.28
 	Type	"RU"	# Rupes, rupēs
 }
@@ -75,7 +75,7 @@ Location "Albia" "Sol/Vesta"
 # Origin: Roman noblewoman, daughter of Anthemius and Aelia Euphemia, wife of Ricimer (fl. 467-472).
 Location "Alypia" "Sol/Vesta"
 {
-	LongLat	[ -10.780000000000001 -70.22 0 ]
+	LongLat	[ -10.78 -70.22 0 ]
 	Size	15.17
 	Type	"AA"	# Crater, craters
 }
@@ -93,7 +93,7 @@ Location "Angioletta" "Sol/Vesta"
 # Origin: Famous Roman woman, daughter of M. Antonius and Octavia, wife of Drusus, mother of Germanicus, Livilla, and Emperor Claudius (36 B.C. - A.D. 37).
 Location "Antonia" "Sol/Vesta"
 {
-	LongLat	[ -159.22000000000003 -58.7 0 ]
+	LongLat	[ -159.22 -58.7 0 ]
 	Size	16.75
 	Type	"AA"	# Crater, craters
 }
@@ -102,7 +102,7 @@ Location "Antonia" "Sol/Vesta"
 # Origin: Julia Aquilia Severa; Roman vestal virgin (c. 218).
 Location "Aquilia" "Sol/Vesta"
 {
-	LongLat	[ 40.879999999999995 -49.41 0 ]
+	LongLat	[ 40.88 -49.41 0 ]
 	Size	36.82
 	Type	"AA"	# Crater, craters
 }
@@ -129,7 +129,7 @@ Location "Arruntia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 3rd century).
 Location "Bellicia" "Sol/Vesta"
 {
-	LongLat	[ 47.75999999999999 37.73 0 ]
+	LongLat	[ 47.76 37.73 0 ]
 	Size	41.68
 	Type	"AA"	# Crater, craters
 }
@@ -165,7 +165,7 @@ Location "Caesonia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 3rd century).
 Location "Calpurnia" "Sol/Vesta"
 {
-	LongLat	[ -160.89999999999998 16.72 0 ]
+	LongLat	[ -160.9 16.72 0 ]
 	Size	50.19
 	Type	"AA"	# Crater, craters
 }
@@ -174,7 +174,7 @@ Location "Calpurnia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 213).
 Location "Cannutia" "Sol/Vesta"
 {
-	LongLat	[ 64.72999999999999 -58.93 0 ]
+	LongLat	[ 64.73 -58.93 0 ]
 	Size	17.96
 	Type	"AA"	# Crater, craters
 }
@@ -192,7 +192,7 @@ Location "Canuleia" "Sol/Vesta"
 # Origin: Roman vestal virgin (d. 266 B.C.).
 Location "Caparronia" "Sol/Vesta"
 {
-	LongLat	[ 167.02999999999997 35.71 0 ]
+	LongLat	[ 167.03 35.71 0 ]
 	Size	53.20
 	Type	"AA"	# Crater, craters
 }
@@ -201,7 +201,7 @@ Location "Caparronia" "Sol/Vesta"
 # Origin: Roman Empress, daughter of military commander Lucillianus, wife of Emperor Jovian (mid 4th century C.E.).
 Location "Charito" "Sol/Vesta"
 {
-	LongLat	[ -59.290000000000006 -44.8 0 ]
+	LongLat	[ -59.29 -44.8 0 ]
 	Size	6.55
 	Type	"AA"	# Crater, craters
 }
@@ -238,7 +238,7 @@ Location "Cornelia" "Sol/Vesta"
 # Origin: Roman vestal virgin.
 Location "Cossinia" "Sol/Vesta"
 {
-	LongLat	[ 28.960000000000008 0.63 0 ]
+	LongLat	[ 28.96 0.63 0 ]
 	Size	15.72
 	Type	"AA"	# Crater, craters
 }
@@ -248,7 +248,7 @@ Location "Cossinia" "Sol/Vesta"
 # Additional info: Divalia Fossa changed to Divalia Fossae February 5, 2014 and coordinates amended.
 Location "Divalia Fossae" "Sol/Vesta"
 {
-	LongLat	[ 46.22999999999999 -9.05 0 ]
+	LongLat	[ 46.23 -9.05 0 ]
 	Size	549.37
 	Type	"FO"	# Fossa, fossae
 }
@@ -257,7 +257,7 @@ Location "Divalia Fossae" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 10-19).
 Location "Domitia" "Sol/Vesta"
 {
-	LongLat	[ -172.04000000000002 37.62 0 ]
+	LongLat	[ -172.04 37.62 0 ]
 	Size	32.99
 	Type	"AA"	# Crater, craters
 }
@@ -302,7 +302,7 @@ Location "Eusebia" "Sol/Vesta"
 # Origin: Wife of Maximian (c. 324).
 Location "Eutropia" "Sol/Vesta"
 {
-	LongLat	[ 105.00999999999999 22.4 0 ]
+	LongLat	[ 105.01 22.4 0 ]
 	Size	21.09
 	Type	"AA"	# Crater, craters
 }
@@ -311,7 +311,7 @@ Location "Eutropia" "Sol/Vesta"
 # Origin: Roman vestal virgin (served as a vestal virgin from 73 to pre 58 B.C.).
 Location "Fabia" "Sol/Vesta"
 {
-	LongLat	[ -94.24000000000001 15.53 0 ]
+	LongLat	[ -94.24 15.53 0 ]
 	Size	11.62
 	Type	"AA"	# Crater, craters
 }
@@ -320,7 +320,7 @@ Location "Fabia" "Sol/Vesta"
 # Origin: Flavia Maxima; Roman Empress, wife of Constantine I, executed by him (d. 326).
 Location "Fausta" "Sol/Vesta"
 {
-	LongLat	[ -50.239999999999995 -25.44 0 ]
+	LongLat	[ -50.24 -25.44 0 ]
 	Size	3.14
 	Type	"AA"	# Crater, craters
 }
@@ -329,7 +329,7 @@ Location "Fausta" "Sol/Vesta"
 # Origin: Roman All Souls’ Day (February 21) where each household made offerings at the graves of its dead.
 Location "Feralia Planitia" "Sol/Vesta"
 {
-	LongLat	[ -48.290000000000006 3.03 0 ]
+	LongLat	[ -48.29 3.03 0 ]
 	Size	270.27
 	Type	"PL"	# Planitia, planitiae
 }
@@ -356,7 +356,7 @@ Location "Floronia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 69 B.C.).
 Location "Fonteia" "Sol/Vesta"
 {
-	LongLat	[ 141.41000000000003 -53.25 0 ]
+	LongLat	[ 141.41 -53.25 0 ]
 	Size	20.61
 	Type	"AA"	# Crater, craters
 }
@@ -365,7 +365,7 @@ Location "Fonteia" "Sol/Vesta"
 # Origin: Wife of Clodius, Curio, and Antony.
 Location "Fulvia" "Sol/Vesta"
 {
-	LongLat	[ 142.64999999999998 -26.13 0 ]
+	LongLat	[ 142.65 -26.13 0 ]
 	Size	16.73
 	Type	"AA"	# Crater, craters
 }
@@ -374,7 +374,7 @@ Location "Fulvia" "Sol/Vesta"
 # Origin: Annia Fundania Faustina; Roman noblewoman, cousin of M. Aurelius, victim of Commodus (d. 192).
 Location "Fundania" "Sol/Vesta"
 {
-	LongLat	[ 135.01999999999998 57.62 0 ]
+	LongLat	[ 135.02 57.62 0 ]
 	Size	29.23
 	Type	"AA"	# Crater, craters
 }
@@ -392,7 +392,7 @@ Location "Galeria" "Sol/Vesta"
 # Origin: Roman vestal virgin.
 Location "Gegania" "Sol/Vesta"
 {
-	LongLat	[ 60.77000000000001 4.05 0 ]
+	LongLat	[ 60.77 4.05 0 ]
 	Size	22.34
 	Type	"AA"	# Crater, craters
 }
@@ -401,7 +401,7 @@ Location "Gegania" "Sol/Vesta"
 # Origin: Pomponia Graecina; Roman noblewoman, married to the consul Aulus Plautius (d. A.D. 83).
 Location "Graecina" "Sol/Vesta"
 {
-	LongLat	[ 87.00999999999999 -37.45 0 ]
+	LongLat	[ 87.01 -37.45 0 ]
 	Size	11.93
 	Type	"AA"	# Crater, craters
 }
@@ -410,7 +410,7 @@ Location "Graecina" "Sol/Vesta"
 # Origin: Flavia Iulia Helena Augusta; mother of Constantine the Great.
 Location "Helena" "Sol/Vesta"
 {
-	LongLat	[ 122.55000000000001 -41.51 0 ]
+	LongLat	[ 122.55 -41.51 0 ]
 	Size	22.06
 	Type	"AA"	# Crater, craters
 }
@@ -428,7 +428,7 @@ Location "Herennia" "Sol/Vesta"
 # Origin: Daughter of consul and advocate Quintus Hortensius (fl. c. 50 B.C.); she was known as a skilled orator.
 Location "Hortensia" "Sol/Vesta"
 {
-	LongLat	[ 15.379999999999995 -46.85 0 ]
+	LongLat	[ 15.38 -46.85 0 ]
 	Size	29.45
 	Type	"AA"	# Crater, craters
 }
@@ -446,7 +446,7 @@ Location "Iuinia" "Sol/Vesta"
 # Origin: Famous Roman woman, second wife of Emperor Valentinian.
 Location "Justina" "Sol/Vesta"
 {
-	LongLat	[ -42.120000000000005 -34.41 0 ]
+	LongLat	[ -42.12 -34.41 0 ]
 	Size	7.62
 	Type	"AA"	# Crater, craters
 }
@@ -464,7 +464,7 @@ Location "Laelia" "Sol/Vesta"
 # Origin: Clodia; Roman vestal virgin (c. 213).
 Location "Laeta" "Sol/Vesta"
 {
-	LongLat	[ 179.89999999999998 14.9 0 ]
+	LongLat	[ 179.9 14.9 0 ]
 	Size	1.36
 	Type	"AA"	# Crater, craters
 }
@@ -482,7 +482,7 @@ Location "Laurentia" "Sol/Vesta"
 # Origin: Roman city revered it for its Aeneas traditions, its Venus temple, and it cults of Vesta (now Pratica de Mare).
 Location "Lavinium Dorsum" "Sol/Vesta"
 {
-	LongLat	[ -40.849999999999994 27.15 0 ]
+	LongLat	[ -40.85 27.15 0 ]
 	Size	96.35
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -491,7 +491,7 @@ Location "Lavinium Dorsum" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 25).
 Location "Lepida" "Sol/Vesta"
 {
-	LongLat	[ -53.239999999999995 16.74 0 ]
+	LongLat	[ -53.24 16.74 0 ]
 	Size	42.90
 	Type	"AA"	# Crater, craters
 }
@@ -500,7 +500,7 @@ Location "Lepida" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 140-113 B.C.).
 Location "Licinia" "Sol/Vesta"
 {
-	LongLat	[ 17.349999999999994 23.34 0 ]
+	LongLat	[ 17.35 23.34 0 ]
 	Size	24.05
 	Type	"AA"	# Crater, craters
 }
@@ -509,7 +509,7 @@ Location "Licinia" "Sol/Vesta"
 # Origin: Lollia Paulina; Roman woman of distinguished ancestry and great wealth, Roman Empress as the third wife of Caligula (15-49).
 Location "Lollia" "Sol/Vesta"
 {
-	LongLat	[ 92.33000000000001 -37.36 0 ]
+	LongLat	[ 92.33 -37.36 0 ]
 	Size	4.90
 	Type	"AA"	# Crater, craters
 }
@@ -572,7 +572,7 @@ Location "Marcia" "Sol/Vesta"
 # Origin: Second wife of Herod, king of Roman province Judea, known for her great beauty (c. 60-29 B.C.).
 Location "Mariamne" "Sol/Vesta"
 {
-	LongLat	[ -159.26999999999998 -68.44 0 ]
+	LongLat	[ -159.27 -68.44 0 ]
 	Size	30.33
 	Type	"AA"	# Crater, craters
 }
@@ -581,7 +581,7 @@ Location "Mariamne" "Sol/Vesta"
 # Origin: Roman festival associated with the goddess Juno, celebrated on March 1.
 Location "Matronalia Rupes" "Sol/Vesta"
 {
-	LongLat	[ 82.75999999999999 -49.42 0 ]
+	LongLat	[ 82.76 -49.42 0 ]
 	Size	209.50
 	Type	"RU"	# Rupes, rupēs
 }
@@ -590,7 +590,7 @@ Location "Matronalia Rupes" "Sol/Vesta"
 # Origin: Claudia Metrodora; Greek woman with Roman citizenship, prominent public benefactor (mid 1st century A.D.).
 Location "Metrodora" "Sol/Vesta"
 {
-	LongLat	[ -49.459999999999994 -59.43 0 ]
+	LongLat	[ -49.46 -59.43 0 ]
 	Size	23.99
 	Type	"AA"	# Crater, craters
 }
@@ -599,7 +599,7 @@ Location "Metrodora" "Sol/Vesta"
 # Origin: The first wife of the Roman Emperor Constantine the Great, mother of Crispus (early 4th century).
 Location "Minervina" "Sol/Vesta"
 {
-	LongLat	[ 49.28999999999999 16.85 0 ]
+	LongLat	[ 49.29 16.85 0 ]
 	Size	18.34
 	Type	"AA"	# Crater, craters
 }
@@ -617,7 +617,7 @@ Location "Minucia" "Sol/Vesta"
 # Origin: Daughter of Pythagoras and Theano, wife of Milon of Crotona.
 Location "Myia" "Sol/Vesta"
 {
-	LongLat	[ 106.33999999999997 -50.53 0 ]
+	LongLat	[ 106.34 -50.53 0 ]
 	Size	2.58
 	Type	"AA"	# Crater, craters
 }
@@ -644,7 +644,7 @@ Location "Numisia" "Sol/Vesta"
 # Origin: Roman vestal virgin (served as vestal virgin from c. 40 B.C. to A.D. 19).
 Location "Occia" "Sol/Vesta"
 {
-	LongLat	[ 18.47999999999999 -15.47 0 ]
+	LongLat	[ 18.48 -15.47 0 ]
 	Size	7.34
 	Type	"AA"	# Crater, craters
 }
@@ -653,7 +653,7 @@ Location "Occia" "Sol/Vesta"
 # Origin: Roman vestal virgin (third century A.D.).
 Location "Octavia" "Sol/Vesta"
 {
-	LongLat	[ 147.20999999999998 -3.3 0 ]
+	LongLat	[ 147.21 -3.3 0 ]
 	Size	30.62
 	Type	"AA"	# Crater, craters
 }
@@ -671,7 +671,7 @@ Location "Oppia" "Sol/Vesta"
 # Origin: Paculla Annia; Campanian (Southern Italy) priestess of Bacchus whose reforms radically altered the Bacchanalian ritual in ancient Rome (fl. c. 188 B.C.).
 Location "Paculla" "Sol/Vesta"
 {
-	LongLat	[ 1.1500000000000057 -64.22 0 ]
+	LongLat	[ 1.15 -64.22 0 ]
 	Size	22.34
 	Type	"AA"	# Crater, craters
 }
@@ -689,7 +689,7 @@ Location "Parentatio Rupes" "Sol/Vesta"
 # Origin: Roman festival of the shepherds' and livestocks' god and goddess Pales, held on April 21, feast of purification of the beast, herdsmen, and stalls.
 Location "Parilia Dorsa" "Sol/Vesta"
 {
-	LongLat	[ -26.159999999999997 -56.71 0 ]
+	LongLat	[ -26.16 -56.71 0 ]
 	Size	79.65
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -698,7 +698,7 @@ Location "Parilia Dorsa" "Sol/Vesta"
 # Origin: Aurelia; priestess for life of asylum-granting Artemis Pergaia, built hydreion at her own expense.
 Location "Paulina" "Sol/Vesta"
 {
-	LongLat	[ -16.889999999999986 10.92 0 ]
+	LongLat	[ -16.89 10.92 0 ]
 	Size	18.13
 	Type	"AA"	# Crater, craters
 }
@@ -716,7 +716,7 @@ Location "Perpennia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 600 B.C.).
 Location "Pinaria" "Sol/Vesta"
 {
-	LongLat	[ 31.629999999999995 -29.54 0 ]
+	LongLat	[ 31.63 -29.54 0 ]
 	Size	41.76
 	Type	"AA"	# Crater, craters
 }
@@ -734,7 +734,7 @@ Location "Placidia" "Sol/Vesta"
 # Origin: Plancia Magna; daughter of Roman Senator Varus, wife of Tertullus, benefactress and patron of Perga, the capital of the Roman province of Pamphylia in Asia Minor (1st-2nd century A.D.).
 Location "Plancia" "Sol/Vesta"
 {
-	LongLat	[ -166.08999999999997 61.56 0 ]
+	LongLat	[ -166.09 61.56 0 ]
 	Size	18.48
 	Type	"AA"	# Crater, craters
 }
@@ -743,7 +743,7 @@ Location "Plancia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 213).
 Location "Pomponia" "Sol/Vesta"
 {
-	LongLat	[ 112.57999999999998 70.2 0 ]
+	LongLat	[ 112.58 70.2 0 ]
 	Size	59.07
 	Type	"AA"	# Crater, craters
 }
@@ -752,7 +752,7 @@ Location "Pomponia" "Sol/Vesta"
 # Origin: Daughter of Roman statesman Cato Uticensis, second wife of M. Brutus (c. 70-43/42 B.C.).
 Location "Portia" "Sol/Vesta"
 {
-	LongLat	[ 41.16999999999999 0.91 0 ]
+	LongLat	[ 41.17 0.91 0 ]
 	Size	11.44
 	Type	"AA"	# Crater, craters
 }
@@ -761,7 +761,7 @@ Location "Portia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 420 B.C.).
 Location "Postumia" "Sol/Vesta"
 {
-	LongLat	[ -116.22999999999999 33.84 0 ]
+	LongLat	[ -116.23 33.84 0 ]
 	Size	195.89
 	Type	"AA"	# Crater, craters
 }
@@ -770,7 +770,7 @@ Location "Postumia" "Sol/Vesta"
 # Origin: Flavia Publicia; Roman vestal virgin (c. 213).
 Location "Publicia" "Sol/Vesta"
 {
-	LongLat	[ 84.36000000000001 14.53 0 ]
+	LongLat	[ 84.36 14.53 0 ]
 	Size	15.79
 	Type	"AA"	# Crater, craters
 }
@@ -798,7 +798,7 @@ Location "Robigalia Catena" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 54).
 Location "Rubria" "Sol/Vesta"
 {
-	LongLat	[ 18.340000000000003 -7.32 0 ]
+	LongLat	[ 18.34 -7.32 0 ]
 	Size	10.27
 	Type	"AA"	# Crater, craters
 }
@@ -807,7 +807,7 @@ Location "Rubria" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 250-301).
 Location "Rufillia" "Sol/Vesta"
 {
-	LongLat	[ 138.70999999999998 -12.92 0 ]
+	LongLat	[ 138.71 -12.92 0 ]
 	Size	15.79
 	Type	"AA"	# Crater, craters
 }
@@ -844,7 +844,7 @@ Location "Sentia" "Sol/Vesta"
 # Origin: Roman noblewoman, niece of Emperor Theodosius (c. 400).
 Location "Serena" "Sol/Vesta"
 {
-	LongLat	[ 120.70999999999998 -20.43 0 ]
+	LongLat	[ 120.71 -20.43 0 ]
 	Size	18.47
 	Type	"AA"	# Crater, craters
 }
@@ -853,7 +853,7 @@ Location "Serena" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 240).
 Location "Severina" "Sol/Vesta"
 {
-	LongLat	[ 121.55000000000001 -75.41 0 ]
+	LongLat	[ 121.55 -75.41 0 ]
 	Size	34.74
 	Type	"AA"	# Crater, craters
 }
@@ -880,7 +880,7 @@ Location "Sossia" "Sol/Vesta"
 # Origin: Roman vestal virgin.
 Location "Tarpeia" "Sol/Vesta"
 {
-	LongLat	[ 29.30000000000001 -69.47 0 ]
+	LongLat	[ 29.3 -69.47 0 ]
 	Size	40.29
 	Type	"AA"	# Crater, craters
 }
@@ -898,7 +898,7 @@ Location "Teia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 48).
 Location "Torquata" "Sol/Vesta"
 {
-	LongLat	[ -6.219999999999999 46.45 0 ]
+	LongLat	[ -6.22 46.45 0 ]
 	Size	34.73
 	Type	"AA"	# Crater, craters
 }
@@ -925,7 +925,7 @@ Location "Urbinia" "Sol/Vesta"
 # Origin: Roman vestal virgin (c. 10-83).
 Location "Varronilla" "Sol/Vesta"
 {
-	LongLat	[ 29.580000000000013 29.62 0 ]
+	LongLat	[ 29.58 29.62 0 ]
 	Size	158.45
 	Type	"AA"	# Crater, craters
 }
@@ -1346,7 +1346,7 @@ Location "Bilemot" "Sol/Ida"
 # Origin: Cave in Puglia region, Italy.
 Location "Castellana" "Sol/Ida"
 {
-	LongLat	[ 24.80000000000001 13.4 0 ]
+	LongLat	[ 24.8 13.4 0 ]
 	Size	5.20
 	Type	"AA"	# Crater, craters
 }
@@ -1400,7 +1400,7 @@ Location "Lascaux" "Sol/Ida"
 # Origin: Cave in Carlsbad National Park, New Mexico.
 Location "Lechuguilla" "Sol/Ida"
 {
-	LongLat	[ 2.8999999999999773 -7.9 0 ]
+	LongLat	[ 2.9 -7.9 0 ]
 	Size	1.50
 	Type	"AA"	# Crater, craters
 }
@@ -1472,7 +1472,7 @@ Location "POLA REGIO" "Sol/Ida"
 # Origin: Large cave in Slovenia.
 Location "Postojna" "Sol/Ida"
 {
-	LongLat	[ 0.10000000000002274 42.9 0 ]
+	LongLat	[ 0.1 42.9 0 ]
 	Size	6.00
 	Type	"AA"	# Crater, craters
 }
@@ -1526,7 +1526,7 @@ Location "VIENNA REGIO" "Sol/Ida"
 # Origin: Lava tube in Spain.
 Location "Viento" "Sol/Ida"
 {
-	LongLat	[ 16.100000000000023 -12.2 0 ]
+	LongLat	[ 16.1 -12.2 0 ]
 	Size	1.60
 	Type	"AA"	# Crater, craters
 }
@@ -1577,7 +1577,7 @@ Location "Baganur" "Sol/Mathilde"
 # Origin: Coal mine in Kentucky, USA.
 Location "Benham" "Sol/Mathilde"
 {
-	LongLat	[ 112.80000000000001 19.0 0 ]
+	LongLat	[ 112.8 19.0 0 ]
 	Size	2.20
 	Type	"AA"	# Crater, craters
 }
@@ -1586,7 +1586,7 @@ Location "Benham" "Sol/Mathilde"
 # Origin: Scottish coal basin.
 Location "Clackmannan" "Sol/Mathilde"
 {
-	LongLat	[ 99.19999999999999 18.9 0 ]
+	LongLat	[ 99.2 18.9 0 ]
 	Size	2.80
 	Type	"AA"	# Crater, craters
 }
@@ -1595,7 +1595,7 @@ Location "Clackmannan" "Sol/Mathilde"
 # Origin: Largest Indian coal basin.
 Location "Damodar" "Sol/Mathilde"
 {
-	LongLat	[ 96.19999999999999 73.0 0 ]
+	LongLat	[ 96.2 73.0 0 ]
 	Size	28.70
 	Type	"AA"	# Crater, craters
 }
@@ -1841,7 +1841,7 @@ Location "Cupid" "Sol/Eros"
 # Origin: Lover, character of medieval European legend retold in Moliere's “;Don Juan“; (France, 1665).
 Location "Don Juan" "Sol/Eros"
 {
-	LongLat	[ 3.3000000000000114 29.5 0 ]
+	LongLat	[ 3.3 29.5 0 ]
 	Size	1.10
 	Type	"AA"	# Crater, craters
 }
@@ -1850,7 +1850,7 @@ Location "Don Juan" "Sol/Eros"
 # Origin: Knight-errant, imagined Dulcinea as his lady-love in Cervantes' “;Don Quixote“; (Spain, 1605).
 Location "Don Quixote" "Sol/Eros"
 {
-	LongLat	[ 109.19999999999999 -57.7 0 ]
+	LongLat	[ 109.2 -57.7 0 ]
 	Size	0.90
 	Type	"AA"	# Crater, craters
 }
@@ -1859,7 +1859,7 @@ Location "Don Quixote" "Sol/Eros"
 # Origin: Imaginary lady-love of the knight Don Quixote in Cervantes' “;Don Quixote“; (Spain, 1605).
 Location "Dulcinea" "Sol/Eros"
 {
-	LongLat	[ 87.10000000000002 -76.1 0 ]
+	LongLat	[ 87.1 -76.1 0 ]
 	Size	1.40
 	Type	"AA"	# Crater, craters
 }
@@ -1931,7 +1931,7 @@ Location "Heathcliff" "Sol/Eros"
 # Origin: Attendant of Eros; personification of the longing of love in Greek mythology.
 Location "Himeros" "Sol/Eros"
 {
-	LongLat	[ 77.69999999999999 21.2 0 ]
+	LongLat	[ 77.7 21.2 0 ]
 	Size	10.00
 	Type	"AA"	# Crater, craters
 }
@@ -2286,7 +2286,7 @@ Location "Krynica" "Sol/Gaspra"
 # Origin: Spa in Ireland.
 Location "Lisdoonvarna" "Sol/Gaspra"
 {
-	LongLat	[ 1.8999999999999773 16.5 0 ]
+	LongLat	[ 1.9 16.5 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2421,7 +2421,7 @@ Location "Yalova" "Sol/Gaspra"
 # Origin: Spa in Crimea, Ukraine.
 Location "Yalta" "Sol/Gaspra"
 {
-	LongLat	[ 98.69999999999999 57.6 0 ]
+	LongLat	[ 98.7 57.6 0 ]
 	Size	1.40
 	Type	"AA"	# Crater, craters
 }
@@ -2487,7 +2487,7 @@ Location "Amazonite" "Sol/Steins"
 # Origin: Violet gemstone, a variety of the mineral quartz.
 Location "Amethyst" "Sol/Steins"
 {
-	LongLat	[ 16.80000000000001 -28.9 0 ]
+	LongLat	[ 16.8 -28.9 0 ]
 	Size	0.45
 	Type	"AA"	# Crater, craters
 }
@@ -2523,7 +2523,7 @@ Location "Chrysoberyl" "Sol/Steins"
 # Origin: Yellow gemstone, a variety of the mineral quartz.
 Location "Citrine" "Sol/Steins"
 {
-	LongLat	[ 19.399999999999977 -13.7 0 ]
+	LongLat	[ 19.4 -13.7 0 ]
 	Size	0.61
 	Type	"AA"	# Crater, craters
 }
@@ -2550,7 +2550,7 @@ Location "Emerald" "Sol/Steins"
 # Origin: Group of related minerals found in a variety of colors and often cut as gemstones.
 Location "Garnet" "Sol/Steins"
 {
-	LongLat	[ 21.69999999999999 8.6 0 ]
+	LongLat	[ 21.7 8.6 0 ]
 	Size	0.39
 	Type	"AA"	# Crater, craters
 }
@@ -2559,7 +2559,7 @@ Location "Garnet" "Sol/Steins"
 # Origin: Semitransparent to translucent gemstone, a variety of the minerals nephrite and jadeite.
 Location "Jade" "Sol/Steins"
 {
-	LongLat	[ 24.69999999999999 18.0 0 ]
+	LongLat	[ 24.7 18.0 0 ]
 	Size	0.26
 	Type	"AA"	# Crater, craters
 }
@@ -2568,7 +2568,7 @@ Location "Jade" "Sol/Steins"
 # Origin: Lapis Lazuli; gemstone formed from a rock containing a number of minerals, the quality and value determined by the color and abundance of the blue mineral lazurite.
 Location "Lapis" "Sol/Steins"
 {
-	LongLat	[ 30.30000000000001 31.5 0 ]
+	LongLat	[ 30.3 31.5 0 ]
 	Size	0.44
 	Type	"AA"	# Crater, craters
 }
@@ -2604,7 +2604,7 @@ Location "Onyx" "Sol/Steins"
 # Origin: Non-crystalline gemstone noted for its rich play of colors when turned in the light.
 Location "Opal" "Sol/Steins"
 {
-	LongLat	[ 22.19999999999999 -1.1 0 ]
+	LongLat	[ 22.2 -1.1 0 ]
 	Size	0.40
 	Type	"AA"	# Crater, craters
 }
@@ -2641,7 +2641,7 @@ Location "Topaz" "Sol/Steins"
 # Origin: Gemstone noted for its beautiful, multi-colored prismatic crystals.
 Location "Tourmaline" "Sol/Steins"
 {
-	LongLat	[ 12.399999999999977 20.9 0 ]
+	LongLat	[ 12.4 20.9 0 ]
 	Size	0.22
 	Type	"AA"	# Crater, craters
 }
@@ -2827,7 +2827,7 @@ Location "YOSHINOBU REGIO" "Sol/Itokawa"
 # Origin: Aello; Greek, one of the harpies (together with Celaeno and Ocypete), half-maiden and half-bird personification of storm winds, that would snatch and carry things away from Earth.
 Location "Aellopus Saxum" "Sol/Bennu"
 {
-	LongLat	[ 24.329999999999984 -25.44 0 ]
+	LongLat	[ 24.33 -25.44 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -2854,7 +2854,7 @@ Location "Alicanto" "Sol/Bennu"
 # Origin: Tagalog (Philippines) deity that is depicted as a bird, the first creature to inhabit the universe.
 Location "Amihan Saxum" "Sol/Bennu"
 {
-	LongLat	[ 103.49000000000001 17.96 0 ]
+	LongLat	[ 103.49 17.96 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -2881,7 +2881,7 @@ Location "Boobrie Saxum" "Sol/Bennu"
 # Origin: In myths of Aboriginal Australian people of the Murray River basin, a crane, who tossed an egg from the nest of emu Dinewan into the sky where it became the sun.
 Location "Bralgah" "Sol/Bennu"
 {
-	LongLat	[ 35.00999999999999 44.36 0 ]
+	LongLat	[ 35.01 44.36 0 ]
 	Size	0.07
 	Type	"AA"	# Crater, craters
 }
@@ -2890,7 +2890,7 @@ Location "Bralgah" "Sol/Bennu"
 # Origin: One of four birds which destructed the first race of people carved out of wood in Kʼicheʼ Maya (Guatemala) creation myth.
 Location "Camulatz Saxum" "Sol/Bennu"
 {
-	LongLat	[ 100.35000000000002 10.26 0 ]
+	LongLat	[ 100.35 10.26 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -2899,7 +2899,7 @@ Location "Camulatz Saxum" "Sol/Bennu"
 # Origin: Greek, one of the harpies (together with Aellopus and Ocypete), half-maiden and half-bird personification of darkness and storm winds, that would snatch and carry things away from Earth.
 Location "Celaeno Saxum" "Sol/Bennu"
 {
-	LongLat	[ 24.769999999999982 -18.42 0 ]
+	LongLat	[ 24.77 -18.42 0 ]
 	Size	0.01
 	Type	"SA"	# Saxum, saxa
 }
@@ -2917,7 +2917,7 @@ Location "Ciinkwia Saxum" "Sol/Bennu"
 # Origin: Emu whose egg created the sun in the myths of Aboriginal Australian people of the Murray River basin.
 Location "Dinewan" "Sol/Bennu"
 {
-	LongLat	[ 36.30000000000001 41.4 0 ]
+	LongLat	[ 36.3 41.4 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -3007,7 +3007,7 @@ Location "Lilitu" "Sol/Bennu"
 # Origin: Massive bird that resides beyond the eastern horizon since before time began and causes lunar eclipses in myths of Bagobo (Lumad group at Mindanao Island, S. Philippines).
 Location "Minokawa" "Sol/Bennu"
 {
-	LongLat	[ 90.89999999999998 8.79 0 ]
+	LongLat	[ 90.9 8.79 0 ]
 	Size	0.18
 	Type	"AA"	# Crater, craters
 }
@@ -3034,7 +3034,7 @@ Location "Ocypete Saxum" "Sol/Bennu"
 # Origin: Princess turned into White Swan in the ballet Swan Lake (1877) by Russian composer Pyotr Tchaikovsky. This character, which name derives from French, is opposite to Odile, the Black Swan maiden.
 Location "Odette Saxum" "Sol/Bennu"
 {
-	LongLat	[ 68.92000000000002 44.86 0 ]
+	LongLat	[ 68.92 44.86 0 ]
 	Size	0.02
 	Type	"SA"	# Saxum, saxa
 }
@@ -3043,7 +3043,7 @@ Location "Odette Saxum" "Sol/Bennu"
 # Origin: Black Swan maiden in the ballet Swan Lake (1877) by Russian composer Pyotr Tchaikovsky. This character, which name derives from Old German, is opposite to Odette, the Swan Princess.
 Location "Odile Saxum" "Sol/Bennu"
 {
-	LongLat	[ 65.92000000000002 42.74 0 ]
+	LongLat	[ 65.92 42.74 0 ]
 	Size	0.03
 	Type	"SA"	# Saxum, saxa
 }
@@ -3061,7 +3061,7 @@ Location "Ohnivak" "Sol/Bennu"
 # Origin: Winged horse in Greek mythology.
 Location "Pegasus" "Sol/Bennu"
 {
-	LongLat	[ 30.170000000000016 -23.53 0 ]
+	LongLat	[ 30.17 -23.53 0 ]
 	Size	0.01
 	Type	"AA"	# Crater, craters
 }
@@ -3125,7 +3125,7 @@ Location "Thorondor Saxum" "Sol/Bennu"
 # Origin: Cherokee (Southeast USA), giant birds who scattered the Earth with pieces of serpent which turned into standing pillars of rocks.
 Location "TLANUWA REGIO" "Sol/Bennu"
 {
-	LongLat	[ 98.30000000000001 37.86 0 ]
+	LongLat	[ 98.3 37.86 0 ]
 	Size	0.30
 	Type	"RE"	# Regio, regiones
 }
@@ -3193,7 +3193,7 @@ Location "Ejima Saxum" "Sol/Ryugu"
 # Origin: Mythical Mount Horai (Penglai in Chinese), paradise of the immortals; in some versions of the Japanese fairy tale about fisherman Urashima is located in the sea on the shell of tortoise that princess Otohime has turned into.
 Location "Horai Fossa" "Sol/Ryugu"
 {
-	LongLat	[ 63.39999999999998 -32.1 0 ]
+	LongLat	[ 63.4 -32.1 0 ]
 	Size	0.33
 	Type	"FO"	# Fossa, fossae
 }
@@ -3238,7 +3238,7 @@ Location "Momotaro" "Sol/Ryugu"
 # Origin: Otohime Sama; princess in Japanese fairy tale, sea mistress, who welcomed fisherman Urashima Taro in undersea Ryugu Palace and gave him a parting gift, a jewel box whose lid he was told never to open.
 Location "Otohime Saxum" "Sol/Ryugu"
 {
-	LongLat	[ 85.60000000000002 69.8 0 ]
+	LongLat	[ 85.6 69.8 0 ]
 	Size	0.16
 	Type	"SA"	# Saxum, saxa
 }

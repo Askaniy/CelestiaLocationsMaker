@@ -19,7 +19,7 @@ Location "Abe Mango Dorsa" "Sol/Venus"
 # Origin: Roman goddess of travelers.
 Location "Abeona Mons" "Sol/Venus"
 {
-	LongLat	[ 86.89999999999998 44.8 0 ]
+	LongLat	[ 86.9 44.8 0 ]
 	Size	375.00
 	Type	"MO"	# Mons, montes
 }
@@ -46,7 +46,7 @@ Location "Abika" "Sol/Venus"
 # Origin: Frances; English actress (1737-1815).
 Location "Abington" "Sol/Venus"
 {
-	LongLat	[ 82.30000000000001 47.8 0 ]
+	LongLat	[ 82.3 47.8 0 ]
 	Size	21.70
 	Type	"AA"	# Crater, craters
 }
@@ -73,7 +73,7 @@ Location "Abundia Corona" "Sol/Venus"
 # Origin: Celtic earth and nature goddess.
 Location "Achall Corona" "Sol/Venus"
 {
-	LongLat	[ 100.39999999999998 31.2 0 ]
+	LongLat	[ 100.4 31.2 0 ]
 	Size	265.00
 	Type	"CR"	# Corona, coronae
 }
@@ -91,7 +91,7 @@ Location "Achek Dorsa" "Sol/Venus"
 # Origin: Greek resplendent mother goddess.
 Location "Acrea Corona" "Sol/Venus"
 {
-	LongLat	[ 116.30000000000001 -24.2 0 ]
+	LongLat	[ 116.3 -24.2 0 ]
 	Size	200.00
 	Type	"CR"	# Corona, coronae
 }
@@ -226,7 +226,7 @@ Location "Afua" "Sol/Venus"
 # Origin: Ancient Greek astronomer.
 Location "Aglaonice" "Sol/Venus"
 {
-	LongLat	[ 20.100000000000023 26.4 0 ]
+	LongLat	[ 20.1 26.4 0 ]
 	Size	63.70
 	Type	"AA"	# Crater, craters
 }
@@ -334,7 +334,7 @@ Location "Aife Fossae" "Sol/Venus"
 # Origin: Kalmyk first name.
 Location "Aigul" "Sol/Venus"
 {
-	LongLat	[ 79.60000000000002 -38.2 0 ]
+	LongLat	[ 79.6 -38.2 0 ]
 	Size	6.00
 	Type	"AA"	# Crater, craters
 }
@@ -388,7 +388,7 @@ Location "Aisha" "Sol/Venus"
 # Origin: Estonian first name.
 Location "Aita" "Sol/Venus"
 {
-	LongLat	[ 89.30000000000001 -8.9 0 ]
+	LongLat	[ 89.3 -8.9 0 ]
 	Size	14.00
 	Type	"AA"	# Crater, craters
 }
@@ -397,7 +397,7 @@ Location "Aita" "Sol/Venus"
 # Origin: Alison; American geographer.
 Location "Aitchison Patera" "Sol/Venus"
 {
-	LongLat	[ 10.600000000000023 16.7 0 ]
+	LongLat	[ 10.6 16.7 0 ]
 	Size	28.00
 	Type	"PE"	# Patera, paterae
 }
@@ -424,7 +424,7 @@ Location "Akeley" "Sol/Venus"
 # Origin: Altay Great Mother, “;White Mother.“;
 Location "Ak-Ene Corona" "Sol/Venus"
 {
-	LongLat	[ 105.30000000000001 -9.4 0 ]
+	LongLat	[ 105.3 -9.4 0 ]
 	Size	150.00
 	Type	"CR"	# Corona, coronae
 }
@@ -442,7 +442,7 @@ Location "Akewa Dorsa" "Sol/Venus"
 # Origin: Anna; Soviet poet (1889-1966).
 Location "Akhmatova" "Sol/Venus"
 {
-	LongLat	[ 52.10000000000002 -61.3 0 ]
+	LongLat	[ 52.1 -61.3 0 ]
 	Size	41.40
 	Type	"AA"	# Crater, craters
 }
@@ -487,7 +487,7 @@ Location "Akkruva Colles" "Sol/Venus"
 # Origin: Mayan goddess of birth.
 Location "Akna Montes" "Sol/Venus"
 {
-	LongLat	[ 41.80000000000001 -68.9 0 ]
+	LongLat	[ 41.8 -68.9 0 ]
 	Size	830.00
 	Type	"MO"	# Mons, montes
 }
@@ -505,7 +505,7 @@ Location "Akosua" "Sol/Venus"
 # Origin: Zinaida; Soviet geophysicist, astronomer (1900-1969).
 Location "Aksentyeva" "Sol/Venus"
 {
-	LongLat	[ 88.10000000000002 42.0 0 ]
+	LongLat	[ 88.1 42.0 0 ]
 	Size	42.50
 	Type	"AA"	# Crater, craters
 }
@@ -532,7 +532,7 @@ Location "Akuba" "Sol/Venus"
 # Origin: Talysh (Caspian Sea, SW coast) river deity.
 Location "Alajen Vallis" "Sol/Venus"
 {
-	LongLat	[ 22.899999999999977 3.3 0 ]
+	LongLat	[ 22.9 3.3 0 ]
 	Size	200.00
 	Type	"VA"	# Vallis, valles
 }
@@ -559,7 +559,7 @@ Location "Albys Vallis" "Sol/Venus"
 # Origin: Louisa M.; American author (1832-1888).
 Location "Alcott" "Sol/Venus"
 {
-	LongLat	[ 5.600000000000023 59.5 0 ]
+	LongLat	[ 5.6 59.5 0 ]
 	Size	66.00
 	Type	"AA"	# Crater, craters
 }
@@ -568,7 +568,7 @@ Location "Alcott" "Sol/Venus"
 # Origin: Greek goddess who is the personification of a rain cloud.
 Location "Alcyone Tholus" "Sol/Venus"
 {
-	LongLat	[ 103.60000000000002 2.1 0 ]
+	LongLat	[ 103.6 2.1 0 ]
 	Size	70.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -613,7 +613,7 @@ Location "Alimat" "Sol/Venus"
 # Origin: Short form of French first name Adeline/Adelaide.
 Location "Alina" "Sol/Venus"
 {
-	LongLat	[ 92.22000000000003 -8.3 0 ]
+	LongLat	[ 92.22 -8.3 0 ]
 	Size	3.70
 	Type	"AA"	# Crater, craters
 }
@@ -712,7 +712,7 @@ Location "Altana" "Sol/Venus"
 # Origin: Ayesha; Egyptian author, feminist (1840-1902).
 Location "Al-Taymuriyya" "Sol/Venus"
 {
-	LongLat	[ 23.899999999999977 -32.9 0 ]
+	LongLat	[ 23.9 -32.9 0 ]
 	Size	19.00
 	Type	"AA"	# Crater, craters
 }
@@ -730,7 +730,7 @@ Location "Al-Uzza Undae" "Sol/Venus"
 # Origin: Jukun (Central Nigeria) goddess of childbirth, personification of earth.
 Location "Ama Corona" "Sol/Venus"
 {
-	LongLat	[ 81.80000000000001 45.7 0 ]
+	LongLat	[ 81.8 45.7 0 ]
 	Size	300.00
 	Type	"CR"	# Corona, coronae
 }
@@ -739,7 +739,7 @@ Location "Ama Corona" "Sol/Venus"
 # Origin: Ostrogoth queen (c. 498-535 A.D.). Changed from Amalasthuna.
 Location "Amalasuntha" "Sol/Venus"
 {
-	LongLat	[ 17.600000000000023 11.5 0 ]
+	LongLat	[ 17.6 11.5 0 ]
 	Size	15.40
 	Type	"AA"	# Crater, craters
 }
@@ -775,7 +775,7 @@ Location "Ambar-ona Corona" "Sol/Venus"
 # Origin: First name from Latin.
 Location "Amelia" "Sol/Venus"
 {
-	LongLat	[ 79.55000000000001 -8.57 0 ]
+	LongLat	[ 79.55 -8.57 0 ]
 	Size	3.30
 	Type	"AA"	# Crater, craters
 }
@@ -838,7 +838,7 @@ Location "Amra Tholus" "Sol/Venus"
 # Origin: Armenian goddess of fertility.
 Location "Anahit Corona" "Sol/Venus"
 {
-	LongLat	[ 82.69999999999999 -77.1 0 ]
+	LongLat	[ 82.7 -77.1 0 ]
 	Size	324.00
 	Type	"CR"	# Corona, coronae
 }
@@ -892,7 +892,7 @@ Location "Andreianova" "Sol/Venus"
 # Origin: Italian goddess of silence.
 Location "Angerona Tholus" "Sol/Venus"
 {
-	LongLat	[ 72.80000000000001 29.8 0 ]
+	LongLat	[ 72.8 29.8 0 ]
 	Size	200.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -919,7 +919,7 @@ Location "Anicia" "Sol/Venus"
 # Origin: Australian (Queensland) mother and guardian goddess, forms infants from mud and places them into their future mothers.
 Location "Anjea Corona" "Sol/Venus"
 {
-	LongLat	[ 77.19999999999999 29.0 0 ]
+	LongLat	[ 77.2 29.0 0 ]
 	Size	145.00
 	Type	"CR"	# Corona, coronae
 }
@@ -928,7 +928,7 @@ Location "Anjea Corona" "Sol/Venus"
 # Origin: Scottish first name of Latin origin.
 Location "Annabelle" "Sol/Venus"
 {
-	LongLat	[ 73.70999999999998 4.15 0 ]
+	LongLat	[ 73.71 4.15 0 ]
 	Size	7.70
 	Type	"AA"	# Crater, craters
 }
@@ -1027,7 +1027,7 @@ Location "Anush" "Sol/Venus"
 # Origin: Russian first name.
 Location "Anya" "Sol/Venus"
 {
-	LongLat	[ 62.19999999999999 -39.5 0 ]
+	LongLat	[ 62.2 -39.5 0 ]
 	Size	18.10
 	Type	"AA"	# Crater, craters
 }
@@ -1281,7 +1281,7 @@ Location "Astkhik Planum" "Sol/Venus"
 # Origin: Scandinavian first name.
 Location "Astrid" "Sol/Venus"
 {
-	LongLat	[ 24.80000000000001 21.4 0 ]
+	LongLat	[ 24.8 21.4 0 ]
 	Size	10.50
 	Type	"AA"	# Crater, craters
 }
@@ -1317,7 +1317,7 @@ Location "Atalanta Planitia" "Sol/Venus"
 # Origin: Dawn goddess from Marquesas Islands.
 Location "Atanua Mons" "Sol/Venus"
 {
-	LongLat	[ 51.10000000000002 -9.5 0 ]
+	LongLat	[ 51.1 -9.5 0 ]
 	Size	1000.00
 	Type	"MO"	# Mons, montes
 }
@@ -1353,7 +1353,7 @@ Location "Athena Tessera" "Sol/Venus"
 # Origin: Pawnee (N. America) wife of Great Spirit Tirawa.
 Location "Atira Mons" "Sol/Venus"
 {
-	LongLat	[ 92.39999999999998 -52.2 0 ]
+	LongLat	[ 92.4 -52.2 0 ]
 	Size	152.00
 	Type	"MO"	# Mons, montes
 }
@@ -1425,7 +1425,7 @@ Location "Audra Planitia" "Sol/Venus"
 # Origin: English first name.
 Location "Audrey" "Sol/Venus"
 {
-	LongLat	[ 11.899999999999977 -23.8 0 ]
+	LongLat	[ 11.9 -23.8 0 ]
 	Size	15.20
 	Type	"AA"	# Crater, craters
 }
@@ -1434,7 +1434,7 @@ Location "Audrey" "Sol/Venus"
 # Origin: Mother of Julius Caesar.
 Location "Aurelia" "Sol/Venus"
 {
-	LongLat	[ 28.19999999999999 -20.3 0 ]
+	LongLat	[ 28.2 -20.3 0 ]
 	Size	31.10
 	Type	"AA"	# Crater, craters
 }
@@ -1443,7 +1443,7 @@ Location "Aurelia" "Sol/Venus"
 # Origin: Lithuanian goddess of sun rays.
 Location "Auska Dorsum" "Sol/Venus"
 {
-	LongLat	[ 2.1999999999999886 -59.9 0 ]
+	LongLat	[ 2.2 -59.9 0 ]
 	Size	361.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -1497,7 +1497,7 @@ Location "Avfruvva Vallis" "Sol/Venus"
 # Origin: Tamil poet (c. 100 B.C.).
 Location "Avviyar" "Sol/Venus"
 {
-	LongLat	[ 6.300000000000011 18.0 0 ]
+	LongLat	[ 6.3 18.0 0 ]
 	Size	20.60
 	Type	"AA"	# Crater, craters
 }
@@ -1551,7 +1551,7 @@ Location "Ayrton Patera" "Sol/Venus"
 # Origin: Karachay and Balkar (N. Caucasus) great goddess of the nature forces.
 Location "Azham Corona" "Sol/Venus"
 {
-	LongLat	[ 107.30000000000001 -66.4 0 ]
+	LongLat	[ 107.3 -66.4 0 ]
 	Size	380.00
 	Type	"CR"	# Corona, coronae
 }
@@ -1587,7 +1587,7 @@ Location "Bachira" "Sol/Venus"
 # Origin: Chibcha (Colombia) goddess of fertility.
 Location "Bachue Corona" "Sol/Venus"
 {
-	LongLat	[ 98.60000000000002 -73.3 0 ]
+	LongLat	[ 98.6 -73.3 0 ]
 	Size	463.00
 	Type	"CR"	# Corona, coronae
 }
@@ -1661,7 +1661,7 @@ Location "Bakhtadze Patera" "Sol/Venus"
 # Origin: Chechen first name.
 Location "Bakisat" "Sol/Venus"
 {
-	LongLat	[ 3.1999999999999886 -26.0 0 ]
+	LongLat	[ 3.2 -26.0 0 ]
 	Size	7.40
 	Type	"AA"	# Crater, craters
 }
@@ -1670,7 +1670,7 @@ Location "Bakisat" "Sol/Venus"
 # Origin: Emily; American economist, Nobel laureate (1867-1961).
 Location "Balch" "Sol/Venus"
 {
-	LongLat	[ 77.10000000000002 -29.9 0 ]
+	LongLat	[ 77.1 -29.9 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -1715,7 +1715,7 @@ Location "Ban Zhao" "Sol/Venus"
 # Origin: Mesopotamian queen (c. 2500 B.C.).
 Location "Baranamtarra" "Sol/Venus"
 {
-	LongLat	[ 92.19999999999999 -17.9 0 ]
+	LongLat	[ 92.2 -17.9 0 ]
 	Size	25.50
 	Type	"AA"	# Crater, craters
 }
@@ -1724,7 +1724,7 @@ Location "Baranamtarra" "Sol/Venus"
 # Origin: Hausa (Nigeria) first name.
 Location "Barauka" "Sol/Venus"
 {
-	LongLat	[ 13.699999999999989 -10.6 0 ]
+	LongLat	[ 13.7 -10.6 0 ]
 	Size	12.90
 	Type	"AA"	# Crater, craters
 }
@@ -1796,7 +1796,7 @@ Location "Barton" "Sol/Venus"
 # Origin: Florence; American geologist (1862-1945).
 Location "Bascom" "Sol/Venus"
 {
-	LongLat	[ 57.80000000000001 10.4 0 ]
+	LongLat	[ 57.8 10.4 0 ]
 	Size	34.60
 	Type	"AA"	# Crater, craters
 }
@@ -1877,7 +1877,7 @@ Location "Batya" "Sol/Venus"
 # Origin: Sumerian fertility goddess.
 Location "Bau Corona" "Sol/Venus"
 {
-	LongLat	[ 100.69999999999999 -52.8 0 ]
+	LongLat	[ 100.7 -52.8 0 ]
 	Size	355.00
 	Type	"CR"	# Corona, coronae
 }
@@ -1967,7 +1967,7 @@ Location "BELL REGIO" "Sol/Venus"
 # Origin: Heidi Julia; American author and artist (1979-1991).
 Location "Bender" "Sol/Venus"
 {
-	LongLat	[ 32.60000000000002 13.0 0 ]
+	LongLat	[ 32.6 13.0 0 ]
 	Size	39.80
 	Type	"AA"	# Crater, craters
 }
@@ -1976,7 +1976,7 @@ Location "Bender" "Sol/Venus"
 # Origin: Vietnamese sky goddess.
 Location "Ben Dorsa" "Sol/Venus"
 {
-	LongLat	[ 75.89999999999998 -71.2 0 ]
+	LongLat	[ 75.9 -71.2 0 ]
 	Size	628.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -1985,7 +1985,7 @@ Location "Ben Dorsa" "Sol/Venus"
 # Origin: Egyptian word for planet Venus.
 Location "Bennu Vallis" "Sol/Venus"
 {
-	LongLat	[ 18.80000000000001 -1.3 0 ]
+	LongLat	[ 18.8 -1.3 0 ]
 	Size	710.00
 	Type	"VA"	# Vallis, valles
 }
@@ -2030,7 +2030,7 @@ Location "Berggolts" "Sol/Venus"
 # Origin: French first name.
 Location "Bernadette" "Sol/Venus"
 {
-	LongLat	[ 74.39999999999998 46.6 0 ]
+	LongLat	[ 74.4 46.6 0 ]
 	Size	12.80
 	Type	"AA"	# Crater, craters
 }
@@ -2084,7 +2084,7 @@ Location "Beruth Corona" "Sol/Venus"
 # Origin: Second letter in Greek alphabet.
 Location "BETA REGIO" "Sol/Venus"
 {
-	LongLat	[ 77.19999999999999 -25.3 0 ]
+	LongLat	[ 77.2 -25.3 0 ]
 	Size	2869.00
 	Type	"RE"	# Regio, regiones
 }
@@ -2093,7 +2093,7 @@ Location "BETA REGIO" "Sol/Venus"
 # Origin: Mary; American educator (1875-1955).
 Location "Bethune Patera" "Sol/Venus"
 {
-	LongLat	[ 38.69999999999999 -46.5 0 ]
+	LongLat	[ 38.7 -46.5 0 ]
 	Size	94.00
 	Type	"PE"	# Patera, paterae
 }
@@ -2102,7 +2102,7 @@ Location "Bethune Patera" "Sol/Venus"
 # Origin: German first name (form of Elizabeth).
 Location "Bette" "Sol/Venus"
 {
-	LongLat	[ 12.100000000000023 24.6 0 ]
+	LongLat	[ 12.1 24.6 0 ]
 	Size	7.20
 	Type	"AA"	# Crater, craters
 }
@@ -2129,7 +2129,7 @@ Location "Bezlea Dorsa" "Sol/Venus"
 # Origin: Hindu earth goddess.
 Location "Bhumidevi Corona" "Sol/Venus"
 {
-	LongLat	[ 16.399999999999977 17.2 0 ]
+	LongLat	[ 16.4 17.2 0 ]
 	Size	150.00
 	Type	"CR"	# Corona, coronae
 }
@@ -2228,7 +2228,7 @@ Location "Blanche" "Sol/Venus"
 # Origin: Celtic fertility goddess.
 Location "Blathnat Corona" "Sol/Venus"
 {
-	LongLat	[ 66.19999999999999 -35.0 0 ]
+	LongLat	[ 66.2 -35.0 0 ]
 	Size	300.00
 	Type	"CR"	# Corona, coronae
 }
@@ -2382,7 +2382,7 @@ Location "Boyd" "Sol/Venus"
 # Origin: Karen; Swedish poet, novelist (1900-1941).
 Location "Boye" "Sol/Venus"
 {
-	LongLat	[ 67.69999999999999 9.6 0 ]
+	LongLat	[ 67.7 9.6 0 ]
 	Size	28.00
 	Type	"AA"	# Crater, craters
 }
@@ -2427,7 +2427,7 @@ Location "Bremer Patera" "Sol/Venus"
 # Origin: Irish first name.
 Location "Bridgit" "Sol/Venus"
 {
-	LongLat	[ 11.100000000000023 45.3 0 ]
+	LongLat	[ 11.1 45.3 0 ]
 	Size	10.00
 	Type	"AA"	# Crater, craters
 }
@@ -2445,7 +2445,7 @@ Location "Britomartis Chasma" "Sol/Venus"
 # Origin: Frances; Canadian novelist (1724-1789).
 Location "Brooke" "Sol/Venus"
 {
-	LongLat	[ 63.39999999999998 -48.4 0 ]
+	LongLat	[ 63.4 -48.4 0 ]
 	Size	22.90
 	Type	"AA"	# Crater, craters
 }
@@ -2481,7 +2481,7 @@ Location "Brynhild Fossae" "Sol/Venus"
 # Origin: Pearl S.; American writer (1892-1973).
 Location "Buck" "Sol/Venus"
 {
-	LongLat	[ 10.399999999999977 5.7 0 ]
+	LongLat	[ 10.4 5.7 0 ]
 	Size	21.80
 	Type	"AA"	# Crater, craters
 }
@@ -2499,7 +2499,7 @@ Location "Budevska" "Sol/Venus"
 # Origin: Yevgenia; Soviet astronomer (1899-1960).
 Location "Bugoslavskaya" "Sol/Venus"
 {
-	LongLat	[ 59.60000000000002 23.0 0 ]
+	LongLat	[ 59.6 23.0 0 ]
 	Size	29.90
 	Type	"AA"	# Crater, craters
 }
@@ -2508,7 +2508,7 @@ Location "Bugoslavskaya" "Sol/Venus"
 # Origin: Woyo (Zaire) rainbow goddess.
 Location "Bunzi Mons" "Sol/Venus"
 {
-	LongLat	[ 5.100000000000023 -45.8 0 ]
+	LongLat	[ 5.1 -45.8 0 ]
 	Size	36.00
 	Type	"MO"	# Mons, montes
 }
@@ -2544,7 +2544,7 @@ Location "Caitlin" "Sol/Venus"
 # Origin: Chinese painter, calligrapher (907-960).
 Location "Caiwenji" "Sol/Venus"
 {
-	LongLat	[ 72.39999999999998 12.4 0 ]
+	LongLat	[ 72.4 12.4 0 ]
 	Size	22.60
 	Type	"AA"	# Crater, craters
 }
@@ -2598,7 +2598,7 @@ Location "Carmenta Farra" "Sol/Venus"
 # Origin: First name from French.
 Location "Caroline" "Sol/Venus"
 {
-	LongLat	[ 53.69999999999999 -6.9 0 ]
+	LongLat	[ 53.7 -6.9 0 ]
 	Size	18.00
 	Type	"AA"	# Crater, craters
 }
@@ -2616,7 +2616,7 @@ Location "Carpo Corona" "Sol/Venus"
 # Origin: Emily; Canadian artist (1871-1945).
 Location "Carr" "Sol/Venus"
 {
-	LongLat	[ 64.30000000000001 24.0 0 ]
+	LongLat	[ 64.3 24.0 0 ]
 	Size	31.90
 	Type	"AA"	# Crater, craters
 }
@@ -2634,7 +2634,7 @@ Location "Carreno" "Sol/Venus"
 # Origin: Rachel; American biologist, author (1907-1964).
 Location "Carson" "Sol/Venus"
 {
-	LongLat	[ 15.899999999999977 24.2 0 ]
+	LongLat	[ 15.9 24.2 0 ]
 	Size	38.80
 	Type	"AA"	# Crater, craters
 }
@@ -2706,7 +2706,7 @@ Location "Cavillaca Fluctus" "Sol/Venus"
 # Origin: Susannah; English actress, playwright (c. 1667-1723).
 Location "Centlivre" "Sol/Venus"
 {
-	LongLat	[ 69.60000000000002 -19.1 0 ]
+	LongLat	[ 69.6 -19.1 0 ]
 	Size	28.80
 	Type	"AA"	# Crater, craters
 }
@@ -2796,7 +2796,7 @@ Location "Chasca Vallis" "Sol/Venus"
 # Origin: Tuva (Siberia) first name.
 Location "Chechek" "Sol/Venus"
 {
-	LongLat	[ 87.69999999999999 2.6 0 ]
+	LongLat	[ 87.7 2.6 0 ]
 	Size	7.20
 	Type	"AA"	# Crater, craters
 }
@@ -2868,7 +2868,7 @@ Location "Chloe" "Sol/Venus"
 # Origin: Greek flower goddess.
 Location "Chloris Mons" "Sol/Venus"
 {
-	LongLat	[ 65.39999999999998 45.4 0 ]
+	LongLat	[ 65.4 45.4 0 ]
 	Size	180.00
 	Type	"MO"	# Mons, montes
 }
@@ -2958,7 +2958,7 @@ Location "Ciuacoatl Mons" "Sol/Venus"
 # Origin: First name from Latin.
 Location "Clara" "Sol/Venus"
 {
-	LongLat	[ 124.69999999999999 37.5 0 ]
+	LongLat	[ 124.7 37.5 0 ]
 	Size	3.20
 	Type	"AA"	# Crater, craters
 }
@@ -2995,7 +2995,7 @@ Location "Clidna Tessera" "Sol/Venus"
 # Origin: Patsy; American singer (1932-1963).
 Location "Cline" "Sol/Venus"
 {
-	LongLat	[ 42.89999999999998 21.8 0 ]
+	LongLat	[ 42.9 21.8 0 ]
 	Size	38.00
 	Type	"AA"	# Crater, craters
 }
@@ -3022,7 +3022,7 @@ Location "Clonia Corona" "Sol/Venus"
 # Origin: Greek; one of three Fates.
 Location "Clotho Tessera" "Sol/Venus"
 {
-	LongLat	[ 25.100000000000023 -56.4 0 ]
+	LongLat	[ 25.1 -56.4 0 ]
 	Size	289.00
 	Type	"TE"	# Tessera, tesserae
 }
@@ -3077,7 +3077,7 @@ Location "Cohn" "Sol/Venus"
 # Additional info: Changed from Colette as crater name.
 Location "Colette Patera" "Sol/Venus"
 {
-	LongLat	[ 37.19999999999999 -66.3 0 ]
+	LongLat	[ 37.2 -66.3 0 ]
 	Size	149.00
 	Type	"PE"	# Patera, paterae
 }
@@ -3104,7 +3104,7 @@ Location "Colleen" "Sol/Venus"
 # Origin: Anna; Byzantine princess, physician, writer (1083-1148).
 Location "Comnena" "Sol/Venus"
 {
-	LongLat	[ 16.30000000000001 -1.2 0 ]
+	LongLat	[ 16.3 -1.2 0 ]
 	Size	19.50
 	Type	"AA"	# Crater, craters
 }
@@ -3122,7 +3122,7 @@ Location "Conway" "Sol/Venus"
 # Origin: Inca lake goddess.
 Location "Copacati Mons" "Sol/Venus"
 {
-	LongLat	[ 83.19999999999999 -34.8 0 ]
+	LongLat	[ 83.2 -34.8 0 ]
 	Size	80.00
 	Type	"MO"	# Mons, montes
 }
@@ -3185,7 +3185,7 @@ Location "Cotis Tholus" "Sol/Venus"
 # Origin: Egenni; French physicist (1881-1967).
 Location "Cotton" "Sol/Venus"
 {
-	LongLat	[ 59.80000000000001 -70.8 0 ]
+	LongLat	[ 59.8 -70.8 0 ]
 	Size	48.10
 	Type	"AA"	# Crater, craters
 }
@@ -3194,7 +3194,7 @@ Location "Cotton" "Sol/Venus"
 # Origin: Maria; Polish astronomer-mathematician (1610-1664).
 Location "Cunitz" "Sol/Venus"
 {
-	LongLat	[ 9.100000000000023 -14.5 0 ]
+	LongLat	[ 9.1 -14.5 0 ]
 	Size	48.60
 	Type	"AA"	# Crater, craters
 }
@@ -3257,7 +3257,7 @@ Location "Damona Corona" "Sol/Venus"
 # Origin: Maria; Russian ballet dancer (1793-1810), Alexandra; Russian-American ballet dancer (1903-1997).
 Location "Danilova" "Sol/Venus"
 {
-	LongLat	[ 22.80000000000001 26.4 0 ]
+	LongLat	[ 22.8 26.4 0 ]
 	Size	48.80
 	Type	"AA"	# Crater, craters
 }
@@ -3284,7 +3284,7 @@ Location "Danute" "Sol/Venus"
 # Origin: First name from Greek.
 Location "Daphne" "Sol/Venus"
 {
-	LongLat	[ 79.60000000000002 -41.3 0 ]
+	LongLat	[ 79.6 -41.3 0 ]
 	Size	15.50
 	Type	"AA"	# Crater, craters
 }
@@ -3302,7 +3302,7 @@ Location "Darago Fluctus" "Sol/Venus"
 # Origin: Hariclea; Romanian soprano singer (1860-1939).
 Location "Darclée Patera" "Sol/Venus"
 {
-	LongLat	[ 96.19999999999999 37.4 0 ]
+	LongLat	[ 96.2 37.4 0 ]
 	Size	15.00
 	Type	"PE"	# Patera, paterae
 }
@@ -3347,7 +3347,7 @@ Location "Daura Chasma" "Sol/Venus"
 # Origin: Emily Sarah; British educator; college founder (1830-1921).
 Location "Davies Patera" "Sol/Venus"
 {
-	LongLat	[ 90.69999999999999 -47.2 0 ]
+	LongLat	[ 90.7 -47.2 0 ]
 	Size	93.00
 	Type	"PE"	# Patera, paterae
 }
@@ -3401,7 +3401,7 @@ Location "Defa" "Sol/Venus"
 # Origin: Adygan (N. Caucasus) first name.
 Location "Degu" "Sol/Venus"
 {
-	LongLat	[ 70.10000000000002 -27.3 0 ]
+	LongLat	[ 70.1 -27.3 0 ]
 	Size	5.50
 	Type	"AA"	# Crater, craters
 }
@@ -3446,7 +3446,7 @@ Location "Deledda" "Sol/Venus"
 # Origin: First name from Hebrew.
 Location "Delilah" "Sol/Venus"
 {
-	LongLat	[ 109.80000000000001 57.9 0 ]
+	LongLat	[ 109.8 57.9 0 ]
 	Size	18.50
 	Type	"AA"	# Crater, craters
 }
@@ -3464,7 +3464,7 @@ Location "Deloria" "Sol/Venus"
 # Origin: Greek goddess of fertility.
 Location "Demeter Corona" "Sol/Venus"
 {
-	LongLat	[ 65.19999999999999 -53.9 0 ]
+	LongLat	[ 65.2 -53.9 0 ]
 	Size	560.00
 	Type	"CR"	# Corona, coronae
 }
@@ -3482,7 +3482,7 @@ Location "Demvamvit Corona" "Sol/Venus"
 # Origin: Lithuanian first name. Name changed from Drena.
 Location "Dena" "Sol/Venus"
 {
-	LongLat	[ 21.30000000000001 20.7 0 ]
+	LongLat	[ 21.3 20.7 0 ]
 	Size	2.40
 	Type	"AA"	# Crater, craters
 }
@@ -3527,7 +3527,7 @@ Location "Derceto Corona" "Sol/Venus"
 # Origin: Anne; French writer (1766-1817).
 Location "de Staël" "Sol/Venus"
 {
-	LongLat	[ 35.69999999999999 -37.4 0 ]
+	LongLat	[ 35.7 -37.4 0 ]
 	Size	25.00
 	Type	"AA"	# Crater, craters
 }
@@ -3545,7 +3545,7 @@ Location "d'Este" "Sol/Venus"
 # Origin: Ema (pseudonym of Emilia Kittlova); Bohemian/Czech singer, also known as Emmy Destinn (1878-1930).
 Location "Destinnová Patera" "Sol/Venus"
 {
-	LongLat	[ 109.80000000000001 31.5 0 ]
+	LongLat	[ 109.8 31.5 0 ]
 	Size	15.00
 	Type	"PE"	# Patera, paterae
 }
@@ -3563,7 +3563,7 @@ Location "Devana Chasma" "Sol/Venus"
 # Origin: Hebrew first name.
 Location "Devorah" "Sol/Venus"
 {
-	LongLat	[ 16.600000000000023 22.5 0 ]
+	LongLat	[ 16.6 22.5 0 ]
 	Size	4.80
 	Type	"AA"	# Crater, craters
 }
@@ -3581,7 +3581,7 @@ Location "Devorguilla" "Sol/Venus"
 # Origin: Bali (Indonesia) moon goddess.
 Location "Dewi Ratih Chasma" "Sol/Venus"
 {
-	LongLat	[ 0.30000000000001137 6.5 0 ]
+	LongLat	[ 0.3 6.5 0 ]
 	Size	1000.00
 	Type	"CM"	# Chasma, chasmata
 }
@@ -3590,7 +3590,7 @@ Location "Dewi Ratih Chasma" "Sol/Venus"
 # Origin: Lydia; American pathologist (1859-1928).
 Location "De Witt" "Sol/Venus"
 {
-	LongLat	[ 84.39999999999998 6.5 0 ]
+	LongLat	[ 84.4 6.5 0 ]
 	Size	20.70
 	Type	"AA"	# Crater, craters
 }
@@ -3653,7 +3653,7 @@ Location "Didilia Corona" "Sol/Venus"
 # Origin: Marlene (Maria Magdalena von Losch); German-born American actress (1901-1992).
 Location "Dietrich Patera" "Sol/Venus"
 {
-	LongLat	[ 124.69999999999999 5.3 0 ]
+	LongLat	[ 124.7 5.3 0 ]
 	Size	100.00
 	Type	"PE"	# Patera, paterae
 }
@@ -3743,7 +3743,7 @@ Location "Djata Fluctus" "Sol/Venus"
 # Origin: South Slavic rain goddess.
 Location "Dodola Dorsa" "Sol/Venus"
 {
-	LongLat	[ 87.39999999999998 -46.8 0 ]
+	LongLat	[ 87.4 -46.8 0 ]
 	Size	607.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -3770,7 +3770,7 @@ Location "Dolya Tessera" "Sol/Venus"
 # Origin: Moldavian first name.
 Location "Domnika" "Sol/Venus"
 {
-	LongLat	[ 65.69999999999999 -18.4 0 ]
+	LongLat	[ 65.7 -18.4 0 ]
 	Size	6.70
 	Type	"AA"	# Crater, craters
 }
@@ -3851,7 +3851,7 @@ Location "Dudumitsa Dorsa" "Sol/Venus"
 # Origin: Isadora; American dancer (1878-1927).
 Location "Duncan" "Sol/Venus"
 {
-	LongLat	[ 68.30000000000001 -68.1 0 ]
+	LongLat	[ 68.3 -68.1 0 ]
 	Size	40.30
 	Type	"AA"	# Crater, craters
 }
@@ -3860,7 +3860,7 @@ Location "Duncan" "Sol/Venus"
 # Origin: Kalmyk first name.
 Location "Dunghe" "Sol/Venus"
 {
-	LongLat	[ 64.69999999999999 56.2 0 ]
+	LongLat	[ 64.7 56.2 0 ]
 	Size	5.50
 	Type	"AA"	# Crater, craters
 }
@@ -3887,7 +3887,7 @@ Location "Durant" "Sol/Venus"
 # Origin: Hindu goddess of Earth, nature, and evil.
 Location "Durga Corona" "Sol/Venus"
 {
-	LongLat	[ 73.80000000000001 31.1 0 ]
+	LongLat	[ 73.8 31.1 0 ]
 	Size	227.00
 	Type	"CR"	# Corona, coronae
 }
@@ -3932,7 +3932,7 @@ Location "Dyan-Mu Dorsa" "Sol/Venus"
 # Origin: Nganasan (Samoyed) first name.
 Location "Dyasya" "Sol/Venus"
 {
-	LongLat	[ 62.39999999999998 -5.1 0 ]
+	LongLat	[ 62.4 -5.1 0 ]
 	Size	7.80
 	Type	"AA"	# Crater, craters
 }
@@ -4077,7 +4077,7 @@ Location "Eila" "Sol/Venus"
 # Origin: Irish first name.
 Location "Eileen" "Sol/Venus"
 {
-	LongLat	[ 127.30000000000001 22.8 0 ]
+	LongLat	[ 127.3 22.8 0 ]
 	Size	16.10
 	Type	"AA"	# Crater, craters
 }
@@ -4185,7 +4185,7 @@ Location "Elizabeth" "Sol/Venus"
 # Origin: German first name.
 Location "Ellen" "Sol/Venus"
 {
-	LongLat	[ 78.69999999999999 22.8 0 ]
+	LongLat	[ 78.7 22.8 0 ]
 	Size	14.60
 	Type	"AA"	# Crater, craters
 }
@@ -4203,7 +4203,7 @@ Location "Elma" "Sol/Venus"
 # Origin: Latvian first name.
 Location "Elza" "Sol/Venus"
 {
-	LongLat	[ 84.10000000000002 34.4 0 ]
+	LongLat	[ 84.1 34.4 0 ]
 	Size	18.00
 	Type	"AA"	# Crater, craters
 }
@@ -4248,7 +4248,7 @@ Location "Emilia" "Sol/Venus"
 # Origin: German first name.
 Location "Emma" "Sol/Venus"
 {
-	LongLat	[ 57.69999999999999 13.7 0 ]
+	LongLat	[ 57.7 13.7 0 ]
 	Size	11.80
 	Type	"AA"	# Crater, craters
 }
@@ -4266,7 +4266,7 @@ Location "Enekeler Corona" "Sol/Venus"
 # Origin: Celtic first name.
 Location "Enid" "Sol/Venus"
 {
-	LongLat	[ 7.899999999999977 -16.4 0 ]
+	LongLat	[ 7.9 -16.4 0 ]
 	Size	9.20
 	Type	"AA"	# Crater, craters
 }
@@ -4284,7 +4284,7 @@ Location "Enyo Fossae" "Sol/Venus"
 # Origin: Teutonic goddess of spring.
 Location "Eostre Mons" "Sol/Venus"
 {
-	LongLat	[ 30.899999999999977 -45.1 0 ]
+	LongLat	[ 30.9 -45.1 0 ]
 	Size	26.00
 	Type	"MO"	# Mons, montes
 }
@@ -4338,7 +4338,7 @@ Location "Erin" "Sol/Venus"
 # Origin: Greek poet (c. 500 B.C.).
 Location "Erinna" "Sol/Venus"
 {
-	LongLat	[ 50.89999999999998 78.0 0 ]
+	LongLat	[ 50.9 78.0 0 ]
 	Size	33.80
 	Type	"AA"	# Crater, craters
 }
@@ -4365,7 +4365,7 @@ Location "Erkeley" "Sol/Venus"
 # Origin: Armenian earth goddess.
 Location "Erkir Corona" "Sol/Venus"
 {
-	LongLat	[ 126.30000000000001 16.3 0 ]
+	LongLat	[ 126.3 16.3 0 ]
 	Size	275.00
 	Type	"CR"	# Corona, coronae
 }
@@ -4482,7 +4482,7 @@ Location "Eurynome Corona" "Sol/Venus"
 # Origin: Amazonian sleep goddess.
 Location "Evaki Tholus" "Sol/Venus"
 {
-	LongLat	[ 17.80000000000001 -37.6 0 ]
+	LongLat	[ 17.8 -37.6 0 ]
 	Size	200.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -4500,7 +4500,7 @@ Location "Evangeline" "Sol/Venus"
 # Origin: Hebrew first name; name changed from Eve (crater).
 Location "Eve Corona" "Sol/Venus"
 {
-	LongLat	[ 0.19999999999998863 32.0 0 ]
+	LongLat	[ 0.2 32.0 0 ]
 	Size	330.00
 	Type	"CR"	# Corona, coronae
 }
@@ -4734,7 +4734,7 @@ Location "Fernandez" "Sol/Venus"
 # Origin: Ancient Italian goddess of spring and flowers.
 Location "Feronia Corona" "Sol/Venus"
 {
-	LongLat	[ 78.30000000000001 -68.0 0 ]
+	LongLat	[ 78.3 -68.0 0 ]
 	Size	360.00
 	Type	"CR"	# Corona, coronae
 }
@@ -4770,7 +4770,7 @@ Location "Festa" "Sol/Venus"
 # Origin: Samoan name for planet Venus.
 Location "Fetu-ao Vallis" "Sol/Venus"
 {
-	LongLat	[ 105.30000000000001 61.0 0 ]
+	LongLat	[ 105.3 61.0 0 ]
 	Size	400.00
 	Type	"VA"	# Vallis, valles
 }
@@ -4824,7 +4824,7 @@ Location "Florence" "Sol/Venus"
 # Origin: German water nymph.
 Location "Flosshilde Farra" "Sol/Venus"
 {
-	LongLat	[ 80.60000000000002 -10.5 0 ]
+	LongLat	[ 80.6 -10.5 0 ]
 	Size	75.00
 	Type	"FR"	# Farrum, farra
 }
@@ -4923,7 +4923,7 @@ Location "Fredegonde" "Sol/Venus"
 # Origin: Norse, mother of Odin.
 Location "Freyja Montes" "Sol/Venus"
 {
-	LongLat	[ 26.19999999999999 -74.1 0 ]
+	LongLat	[ 26.2 -74.1 0 ]
 	Size	579.00
 	Type	"MO"	# Mons, montes
 }
@@ -5049,7 +5049,7 @@ Location "Gail" "Sol/Venus"
 # Origin: Bulgarian first name.
 Location "Galina" "Sol/Venus"
 {
-	LongLat	[ 52.89999999999998 -47.6 0 ]
+	LongLat	[ 52.9 -47.6 0 ]
 	Size	16.80
 	Type	"AA"	# Crater, craters
 }
@@ -5058,7 +5058,7 @@ Location "Galina" "Sol/Venus"
 # Origin: Beatriz (Beatrix); Spanish professor of Latin, philosophy, and medicine (1473-1535).
 Location "Galindo" "Sol/Venus"
 {
-	LongLat	[ 101.19999999999999 23.3 0 ]
+	LongLat	[ 101.2 23.3 0 ]
 	Size	23.80
 	Type	"AA"	# Crater, craters
 }
@@ -5104,7 +5104,7 @@ Location "Ganis Chasma" "Sol/Venus"
 # Origin: Greta Gustafsson; Swedish-born American actress (1905-1990).
 Location "Garbo Patera" "Sol/Venus"
 {
-	LongLat	[ 101.80000000000001 -1.5 0 ]
+	LongLat	[ 101.8 -1.5 0 ]
 	Size	75.00
 	Type	"PE"	# Patera, paterae
 }
@@ -5122,7 +5122,7 @@ Location "Garland Patera" "Sol/Venus"
 # Origin: Babylonian “;Lady of the Earth.“;
 Location "Gashan-Ki Corona" "Sol/Venus"
 {
-	LongLat	[ 116.30000000000001 -11.7 0 ]
+	LongLat	[ 116.3 -11.7 0 ]
 	Size	225.00
 	Type	"CR"	# Corona, coronae
 }
@@ -5149,7 +5149,7 @@ Location "Gautier" "Sol/Venus"
 # Origin: Vera; Soviet astronomer (1899-1954).
 Location "Gaze" "Sol/Venus"
 {
-	LongLat	[ 119.80000000000001 -17.9 0 ]
+	LongLat	[ 119.8 -17.9 0 ]
 	Size	33.30
 	Type	"AA"	# Crater, craters
 }
@@ -5194,7 +5194,7 @@ Location "Gendenwitha Vallis" "Sol/Venus"
 # Origin: Artemisia; Italian painter (1593-c. 1652).
 Location "Gentileschi" "Sol/Venus"
 {
-	LongLat	[ 99.39999999999998 -45.2 0 ]
+	LongLat	[ 99.4 -45.2 0 ]
 	Size	20.50
 	Type	"AA"	# Crater, craters
 }
@@ -5302,7 +5302,7 @@ Location "Giselle" "Sol/Venus"
 # Origin: Susan; American playwright, novelist (c. 1876-1948).
 Location "Glaspell" "Sol/Venus"
 {
-	LongLat	[ 90.39999999999998 58.4 0 ]
+	LongLat	[ 90.4 58.4 0 ]
 	Size	26.30
 	Type	"AA"	# Crater, craters
 }
@@ -5356,7 +5356,7 @@ Location "Goncharova" "Sol/Venus"
 # Origin: First name from Greek.
 Location "Grace" "Sol/Venus"
 {
-	LongLat	[ 91.10000000000002 13.8 0 ]
+	LongLat	[ 91.1 13.8 0 ]
 	Size	19.00
 	Type	"AA"	# Crater, craters
 }
@@ -5383,7 +5383,7 @@ Location "Gražina" "Sol/Venus"
 # Origin: Ukrainian field deity.
 Location "Grechukha Tholi" "Sol/Venus"
 {
-	LongLat	[ 104.19999999999999 8.6 0 ]
+	LongLat	[ 104.2 8.6 0 ]
 	Size	200.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -5419,7 +5419,7 @@ Location "Gretchen" "Sol/Venus"
 # Origin: Jane; English queen (1537-1554).
 Location "Grey" "Sol/Venus"
 {
-	LongLat	[ 30.600000000000023 52.4 0 ]
+	LongLat	[ 30.6 52.4 0 ]
 	Size	50.00
 	Type	"AA"	# Crater, craters
 }
@@ -5437,7 +5437,7 @@ Location "Grimke" "Sol/Venus"
 # Origin: Valentina; Soviet aviatrix (1910-1993).
 Location "Grizodubova Patera" "Sol/Venus"
 {
-	LongLat	[ 60.39999999999998 -16.7 0 ]
+	LongLat	[ 60.4 -16.7 0 ]
 	Size	50.00
 	Type	"PE"	# Patera, paterae
 }
@@ -5455,7 +5455,7 @@ Location "Guan Daosheng" "Sol/Venus"
 # Origin: First name from Norse.
 Location "Gudrun" "Sol/Venus"
 {
-	LongLat	[ 33.60000000000002 -10.6 0 ]
+	LongLat	[ 33.6 -10.6 0 ]
 	Size	13.30
 	Type	"AA"	# Crater, craters
 }
@@ -5482,7 +5482,7 @@ Location "Guinevere Planitia" "Sol/Venus"
 # Origin: Chinese moon fairy.
 Location "Gui Ye Chasma" "Sol/Venus"
 {
-	LongLat	[ 22.899999999999977 9.0 0 ]
+	LongLat	[ 22.9 9.0 0 ]
 	Size	210.00
 	Type	"CM"	# Chasma, chasmata
 }
@@ -5500,7 +5500,7 @@ Location "Gulaim Fossae" "Sol/Venus"
 # Origin: Babylonian earth mother, creative force.
 Location "Gula Mons" "Sol/Venus"
 {
-	LongLat	[ 0.8999999999999773 -21.9 0 ]
+	LongLat	[ 0.9 -21.9 0 ]
 	Size	276.00
 	Type	"MO"	# Mons, montes
 }
@@ -5554,7 +5554,7 @@ Location "Gurshi Mons" "Sol/Venus"
 # Origin: Arabic first name.
 Location "Guzel" "Sol/Venus"
 {
-	LongLat	[ 61.30000000000001 57.6 0 ]
+	LongLat	[ 61.3 57.6 0 ]
 	Size	7.30
 	Type	"AA"	# Crater, craters
 }
@@ -5563,7 +5563,7 @@ Location "Guzel" "Sol/Venus"
 # Origin: Irish goddess of happiness and smiles.
 Location "Gwen Mons" "Sol/Venus"
 {
-	LongLat	[ 121.30000000000001 21.4 0 ]
+	LongLat	[ 121.3 21.4 0 ]
 	Size	200.00
 	Type	"MO"	# Mons, montes
 }
@@ -5689,7 +5689,7 @@ Location "Hannahannas Corona" "Sol/Venus"
 # Origin: Lorraine; American playwright (1930-1965).
 Location "Hansberry" "Sol/Venus"
 {
-	LongLat	[ 35.89999999999998 22.7 0 ]
+	LongLat	[ 35.9 22.7 0 ]
 	Size	26.60
 	Type	"AA"	# Crater, craters
 }
@@ -5716,7 +5716,7 @@ Location "Hapei" "Sol/Venus"
 # Origin: Egyptian sky goddess.
 Location "Hathor Mons" "Sol/Venus"
 {
-	LongLat	[ 35.30000000000001 38.7 0 ]
+	LongLat	[ 35.3 38.7 0 ]
 	Size	333.00
 	Type	"MO"	# Mons, montes
 }
@@ -5752,7 +5752,7 @@ Location "Hayashi" "Sol/Venus"
 # Origin: English first name.
 Location "Heather" "Sol/Venus"
 {
-	LongLat	[ 25.899999999999977 6.8 0 ]
+	LongLat	[ 25.9 6.8 0 ]
 	Size	11.50
 	Type	"AA"	# Crater, craters
 }
@@ -5761,7 +5761,7 @@ Location "Heather" "Sol/Venus"
 # Origin: Greek moon goddess.
 Location "Hecate Chasma" "Sol/Venus"
 {
-	LongLat	[ 105.69999999999999 -18.2 0 ]
+	LongLat	[ 105.7 -18.2 0 ]
 	Size	3145.00
 	Type	"CM"	# Chasma, chasmata
 }
@@ -5770,7 +5770,7 @@ Location "Hecate Chasma" "Sol/Venus"
 # Origin: First name; form of Hester.
 Location "Heidi" "Sol/Venus"
 {
-	LongLat	[ 9.899999999999977 -23.6 0 ]
+	LongLat	[ 9.9 -23.6 0 ]
 	Size	15.20
 	Type	"AA"	# Crater, craters
 }
@@ -5779,7 +5779,7 @@ Location "Heidi" "Sol/Venus"
 # Origin: Greek; “;the face that launched 1000 ships.“;
 Location "Helen Planitia" "Sol/Venus"
 {
-	LongLat	[ 96.10000000000002 51.7 0 ]
+	LongLat	[ 96.1 51.7 0 ]
 	Size	4360.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -5797,7 +5797,7 @@ Location "Helga" "Sol/Venus"
 # Origin: Lillian; American playwright, author (1905-1984).
 Location "Hellman" "Sol/Venus"
 {
-	LongLat	[ 3.6999999999999886 -4.7 0 ]
+	LongLat	[ 3.7 -4.7 0 ]
 	Size	34.70
 	Type	"AA"	# Crater, craters
 }
@@ -5950,7 +5950,7 @@ Location "Hiei Chu Patera" "Sol/Venus"
 # Origin: Marguerite; American journalist (1920-1966).
 Location "Higgins" "Sol/Venus"
 {
-	LongLat	[ 118.69999999999999 -8.1 0 ]
+	LongLat	[ 118.7 -8.1 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -6022,7 +6022,7 @@ Location "Hiriata" "Sol/Venus"
 # Origin: Japanese first name.
 Location "Hiromi" "Sol/Venus"
 {
-	LongLat	[ 72.69999999999999 -35.2 0 ]
+	LongLat	[ 72.7 -35.2 0 ]
 	Size	6.00
 	Type	"AA"	# Crater, craters
 }
@@ -6067,7 +6067,7 @@ Location "Holiday" "Sol/Venus"
 # Origin: German Earth, nature, and household affairs goddess.
 Location "Holla Corona" "Sol/Venus"
 {
-	LongLat	[ 122.30000000000001 13.0 0 ]
+	LongLat	[ 122.3 13.0 0 ]
 	Size	180.00
 	Type	"CR"	# Corona, coronae
 }
@@ -6112,7 +6112,7 @@ Location "Hsueh T'ao" "Sol/Venus"
 # Origin: Chinese warrior (c. A.D. 590).
 Location "Hua Mulan" "Sol/Venus"
 {
-	LongLat	[ 22.30000000000001 -86.8 0 ]
+	LongLat	[ 22.3 -86.8 0 ]
 	Size	24.00
 	Type	"AA"	# Crater, craters
 }
@@ -6139,7 +6139,7 @@ Location "Huarei" "Sol/Venus"
 # Origin: German goddess of fruitfulness and marriage.
 Location "Hulda Corona" "Sol/Venus"
 {
-	LongLat	[ 51.69999999999999 -12.0 0 ]
+	LongLat	[ 51.7 -12.0 0 ]
 	Size	230.00
 	Type	"CR"	# Corona, coronae
 }
@@ -6148,7 +6148,7 @@ Location "Hulda Corona" "Sol/Venus"
 # Origin: Peggy; American war correspondent (1889-1967).
 Location "Hull" "Sol/Venus"
 {
-	LongLat	[ 96.39999999999998 -59.4 0 ]
+	LongLat	[ 96.4 -59.4 0 ]
 	Size	47.30
 	Type	"AA"	# Crater, craters
 }
@@ -6193,7 +6193,7 @@ Location "Husbishag Tesserae" "Sol/Venus"
 # Origin: Chumash (S. California) Earth and nature goddess, creator of the first people.
 Location "Hutash Corona" "Sol/Venus"
 {
-	LongLat	[ 84.30000000000001 34.3 0 ]
+	LongLat	[ 84.3 34.3 0 ]
 	Size	91.00
 	Type	"CR"	# Corona, coronae
 }
@@ -6229,7 +6229,7 @@ Location "Iang-Mdiye Corona" "Sol/Venus"
 # Origin: Greek goddess of health, medicine, and recovery.
 Location "Iaso Tholus" "Sol/Venus"
 {
-	LongLat	[ 104.69999999999999 -5.2 0 ]
+	LongLat	[ 104.7 -5.2 0 ]
 	Size	30.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -6274,7 +6274,7 @@ Location "Idunn Mons" "Sol/Venus"
 # Origin: Algonquin Earth and mother goddess.
 Location "Ikas Coronae" "Sol/Venus"
 {
-	LongLat	[ 71.39999999999998 40.7 0 ]
+	LongLat	[ 71.4 40.7 0 ]
 	Size	225.00
 	Type	"CR"	# Corona, coronae
 }
@@ -6310,7 +6310,7 @@ Location "Ilbis Fossae" "Sol/Venus"
 # Origin: Latvian first name.
 Location "Ilga" "Sol/Venus"
 {
-	LongLat	[ 52.69999999999999 12.4 0 ]
+	LongLat	[ 52.7 12.4 0 ]
 	Size	10.80
 	Type	"AA"	# Crater, craters
 }
@@ -6400,7 +6400,7 @@ Location "Inari Corona" "Sol/Venus"
 # Origin: Hindu first name.
 Location "Indira" "Sol/Venus"
 {
-	LongLat	[ 70.19999999999999 -64.1 0 ]
+	LongLat	[ 70.2 -64.1 0 ]
 	Size	16.60
 	Type	"AA"	# Crater, craters
 }
@@ -6436,7 +6436,7 @@ Location "Inga" "Sol/Venus"
 # Origin: Scandanavian first name.
 Location "Ingrid" "Sol/Venus"
 {
-	LongLat	[ 51.10000000000002 12.4 0 ]
+	LongLat	[ 51.1 12.4 0 ]
 	Size	11.50
 	Type	"AA"	# Crater, craters
 }
@@ -6643,7 +6643,7 @@ Location "Ituana Corona" "Sol/Venus"
 # Origin: Aztec goddess of fate.
 Location "Itzpapalotl Tessera" "Sol/Venus"
 {
-	LongLat	[ 42.39999999999998 -75.7 0 ]
+	LongLat	[ 42.4 -75.7 0 ]
 	Size	380.00
 	Type	"TE"	# Tessera, tesserae
 }
@@ -6652,7 +6652,7 @@ Location "Itzpapalotl Tessera" "Sol/Venus"
 # Origin: Serbocroatian first name.
 Location "Ivka" "Sol/Venus"
 {
-	LongLat	[ 56.19999999999999 -68.2 0 ]
+	LongLat	[ 56.2 -68.2 0 ]
 	Size	14.90
 	Type	"AA"	# Crater, craters
 }
@@ -6697,7 +6697,7 @@ Location "Ixcuina Corona" "Sol/Venus"
 # Origin: Mayan goddess of death.
 Location "Ixtab Mons" "Sol/Venus"
 {
-	LongLat	[ 117.80000000000001 -15.7 0 ]
+	LongLat	[ 117.8 -15.7 0 ]
 	Size	80.00
 	Type	"MO"	# Mons, montes
 }
@@ -6715,7 +6715,7 @@ Location "Iyatik Corona" "Sol/Venus"
 # Origin: Moldavian witch who directed the winds.
 Location "Iyele Dorsa" "Sol/Venus"
 {
-	LongLat	[ 81.30000000000001 -50.0 0 ]
+	LongLat	[ 81.3 -50.0 0 ]
 	Size	595.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -6814,7 +6814,7 @@ Location "Jana Chasma" "Sol/Venus"
 # Origin: Hebrew first name.
 Location "Jane" "Sol/Venus"
 {
-	LongLat	[ 55.19999999999999 60.5 0 ]
+	LongLat	[ 55.2 60.5 0 ]
 	Size	10.20
 	Type	"AA"	# Crater, craters
 }
@@ -6823,7 +6823,7 @@ Location "Jane" "Sol/Venus"
 # Origin: English first name.
 Location "Janice" "Sol/Venus"
 {
-	LongLat	[ 98.10000000000002 -87.3 0 ]
+	LongLat	[ 98.1 -87.3 0 ]
 	Size	10.00
 	Type	"AA"	# Crater, craters
 }
@@ -6877,7 +6877,7 @@ Location "Jaszai Patera" "Sol/Venus"
 # Origin: Lithuanian harvest goddess.
 Location "Javine Corona" "Sol/Venus"
 {
-	LongLat	[ 108.80000000000001 5.5 0 ]
+	LongLat	[ 108.8 5.5 0 ]
 	Size	450.00
 	Type	"CR"	# Corona, coronae
 }
@@ -6904,7 +6904,7 @@ Location "Jennifer" "Sol/Venus"
 # Origin: Hebrew first name.
 Location "Jerusha" "Sol/Venus"
 {
-	LongLat	[ 17.30000000000001 22.0 0 ]
+	LongLat	[ 17.3 22.0 0 ]
 	Size	17.20
 	Type	"AA"	# Crater, craters
 }
@@ -6940,7 +6940,7 @@ Location "Jitka" "Sol/Venus"
 # Origin: German first name.
 Location "Jocelyn" "Sol/Venus"
 {
-	LongLat	[ 83.60000000000002 33.2 0 ]
+	LongLat	[ 83.6 33.2 0 ]
 	Size	14.00
 	Type	"AA"	# Crater, craters
 }
@@ -6958,7 +6958,7 @@ Location "Jodi" "Sol/Venus"
 # Origin: Hebrew first name.
 Location "Johanna" "Sol/Venus"
 {
-	LongLat	[ 112.69999999999999 -19.5 0 ]
+	LongLat	[ 112.7 -19.5 0 ]
 	Size	15.10
 	Type	"AA"	# Crater, craters
 }
@@ -7003,7 +7003,7 @@ Location "Jord Corona" "Sol/Venus"
 # Origin: Anandibai; Indian pioneer physician (1865-1887).
 Location "Joshee" "Sol/Venus"
 {
-	LongLat	[ 71.30000000000001 -5.5 0 ]
+	LongLat	[ 71.3 -5.5 0 ]
 	Size	37.00
 	Type	"AA"	# Crater, craters
 }
@@ -7129,7 +7129,7 @@ Location "Juturna Fluctus" "Sol/Venus"
 # Origin: Indian goddess of inauspicious things; sister of Lakshmi.
 Location "Jyestha Tesserae" "Sol/Venus"
 {
-	LongLat	[ 16.589999999999975 -65.05 0 ]
+	LongLat	[ 16.59 -65.05 0 ]
 	Size	1252.00
 	Type	"TE"	# Tessera, tesserae
 }
@@ -7183,7 +7183,7 @@ Location "Kaikilani" "Sol/Venus"
 # Origin: Finnish first name.
 Location "Kaisa" "Sol/Venus"
 {
-	LongLat	[ 66.69999999999999 -13.5 0 ]
+	LongLat	[ 66.7 -13.5 0 ]
 	Size	12.00
 	Type	"AA"	# Crater, craters
 }
@@ -7201,7 +7201,7 @@ Location "Kaiwan Fluctus" "Sol/Venus"
 # Origin: Koryak (Kamchatka) first name.
 Location "Kala" "Sol/Venus"
 {
-	LongLat	[ 45.60000000000002 -1.5 0 ]
+	LongLat	[ 45.6 -1.5 0 ]
 	Size	17.40
 	Type	"AA"	# Crater, craters
 }
@@ -7417,7 +7417,7 @@ Location "Katrya" "Sol/Venus"
 # Origin: Russian first name.
 Location "Katya" "Sol/Venus"
 {
-	LongLat	[ 74.30000000000001 -57.8 0 ]
+	LongLat	[ 74.3 -57.8 0 ]
 	Size	10.50
 	Type	"AA"	# Crater, craters
 }
@@ -7498,7 +7498,7 @@ Location "Keller Patera" "Sol/Venus"
 # Origin: Gaelic first name.
 Location "Kelly" "Sol/Venus"
 {
-	LongLat	[ 0.8000000000000114 4.8 0 ]
+	LongLat	[ 0.8 4.8 0 ]
 	Size	11.20
 	Type	"AA"	# Crater, craters
 }
@@ -7516,7 +7516,7 @@ Location "Kemble" "Sol/Venus"
 # Origin: Elizabeth; Australian nurse, therapist (1886-1952).
 Location "Kenny" "Sol/Venus"
 {
-	LongLat	[ 88.89999999999998 44.4 0 ]
+	LongLat	[ 88.9 44.4 0 ]
 	Size	52.70
 	Type	"AA"	# Crater, craters
 }
@@ -7561,7 +7561,7 @@ Location "Khadne Dorsa" "Sol/Venus"
 # Origin: Arabic first name.
 Location "Khafiza" "Sol/Venus"
 {
-	LongLat	[ 60.80000000000001 -6.0 0 ]
+	LongLat	[ 60.8 -6.0 0 ]
 	Size	7.00
 	Type	"AA"	# Crater, craters
 }
@@ -7660,7 +7660,7 @@ Location "Kimtinh Vallis" "Sol/Venus"
 # Origin: Mary; English explorer, writer (1862-1900).
 Location "Kingsley" "Sol/Venus"
 {
-	LongLat	[ 53.60000000000002 22.6 0 ]
+	LongLat	[ 53.6 22.6 0 ]
 	Size	26.60
 	Type	"AA"	# Crater, craters
 }
@@ -7687,7 +7687,7 @@ Location "Kiris" "Sol/Venus"
 # Origin: Kamchatka first name.
 Location "Kitna" "Sol/Venus"
 {
-	LongLat	[ 82.69999999999999 28.9 0 ]
+	LongLat	[ 82.7 28.9 0 ]
 	Size	15.30
 	Type	"AA"	# Crater, craters
 }
@@ -7714,7 +7714,7 @@ Location "Klenova" "Sol/Venus"
 # Origin: Wolof (W. Africa, Senegal) first name.
 Location "Kodu" "Sol/Venus"
 {
-	LongLat	[ 21.30000000000001 -0.9 0 ]
+	LongLat	[ 21.3 -0.9 0 ]
 	Size	10.50
 	Type	"AA"	# Crater, craters
 }
@@ -7741,7 +7741,7 @@ Location "Koidutäht Vallis" "Sol/Venus"
 # Origin: Nivkhi (E. Siberia) first name.
 Location "Koinyt" "Sol/Venus"
 {
-	LongLat	[ 66.80000000000001 30.9 0 ]
+	LongLat	[ 66.8 30.9 0 ]
 	Size	11.70
 	Type	"AA"	# Crater, craters
 }
@@ -7885,7 +7885,7 @@ Location "Kozhla-Ava Chasma" "Sol/Venus"
 # Origin: Slavonic form of Christiana, Latin first name.
 Location "Kristina" "Sol/Venus"
 {
-	LongLat	[ 44.10000000000002 65.2 0 ]
+	LongLat	[ 44.1 65.2 0 ]
 	Size	9.70
 	Type	"AA"	# Crater, craters
 }
@@ -7957,7 +7957,7 @@ Location "Kuldurok Dorsa" "Sol/Venus"
 # Origin: Arawakan (Brazil, Venezuela) creator goddess who created women.
 Location "Kulimina Corona" "Sol/Venus"
 {
-	LongLat	[ 98.10000000000002 27.8 0 ]
+	LongLat	[ 98.1 27.8 0 ]
 	Size	170.00
 	Type	"CR"	# Corona, coronae
 }
@@ -7984,7 +7984,7 @@ Location "Kumanyefie Vallis" "Sol/Venus"
 # Origin: Fulbe (W. Africa, Guinea) first name.
 Location "Kumba" "Sol/Venus"
 {
-	LongLat	[ 27.30000000000001 -26.3 0 ]
+	LongLat	[ 27.3 -26.3 0 ]
 	Size	11.40
 	Type	"AA"	# Crater, craters
 }
@@ -8083,7 +8083,7 @@ Location "Kvasha Patera" "Sol/Venus"
 # Origin: Japanese Buddhist goddess of mercy.
 Location "Kwannon Tholus" "Sol/Venus"
 {
-	LongLat	[ 63.19999999999999 26.3 0 ]
+	LongLat	[ 63.2 26.3 0 ]
 	Size	135.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -8110,7 +8110,7 @@ Location "Kylli" "Sol/Venus"
 # Origin: Marie; French medical researcher (1769-1821).
 Location "Lachappelle" "Sol/Venus"
 {
-	LongLat	[ 23.30000000000001 -26.7 0 ]
+	LongLat	[ 23.3 -26.7 0 ]
 	Size	36.80
 	Type	"AA"	# Crater, craters
 }
@@ -8119,7 +8119,7 @@ Location "Lachappelle" "Sol/Venus"
 # Origin: Greek, one of three Fates.
 Location "Lachesis Tessera" "Sol/Venus"
 {
-	LongLat	[ 59.89999999999998 -44.4 0 ]
+	LongLat	[ 59.9 -44.4 0 ]
 	Size	664.00
 	Type	"TE"	# Tessera, tesserae
 }
@@ -8146,7 +8146,7 @@ Location "La Fayette" "Sol/Venus"
 # Origin: Selma; Swedish novelist (1858-1940).
 Location "Lagerlöf" "Sol/Venus"
 {
-	LongLat	[ 74.80000000000001 -81.2 0 ]
+	LongLat	[ 74.8 -81.2 0 ]
 	Size	56.00
 	Type	"AA"	# Crater, craters
 }
@@ -8209,7 +8209,7 @@ Location "Laka Mons" "Sol/Venus"
 # Origin: Indian goddess of love and war.
 Location "Lakshmi Planum" "Sol/Venus"
 {
-	LongLat	[ 20.69999999999999 -68.6 0 ]
+	LongLat	[ 20.7 -68.6 0 ]
 	Size	2345.00
 	Type	"PM"	# Planum, plana
 }
@@ -8452,7 +8452,7 @@ Location "Lehmann" "Sol/Venus"
 # Origin: Estonian first name.
 Location "Leida" "Sol/Venus"
 {
-	LongLat	[ 93.39999999999998 23.3 0 ]
+	LongLat	[ 93.4 23.3 0 ]
 	Size	18.80
 	Type	"AA"	# Crater, craters
 }
@@ -8497,7 +8497,7 @@ Location "Lengdin Corona" "Sol/Venus"
 # Origin: Greek first name (form of Helen).
 Location "Lenore" "Sol/Venus"
 {
-	LongLat	[ 67.80000000000001 -38.7 0 ]
+	LongLat	[ 67.8 -38.7 0 ]
 	Size	15.50
 	Type	"AA"	# Crater, craters
 }
@@ -8542,7 +8542,7 @@ Location "Leslie" "Sol/Venus"
 # Origin: First name from Latin.
 Location "Letitia" "Sol/Venus"
 {
-	LongLat	[ 71.30000000000001 -34.5 0 ]
+	LongLat	[ 71.3 -34.5 0 ]
 	Size	17.50
 	Type	"AA"	# Crater, craters
 }
@@ -8560,7 +8560,7 @@ Location "Leyster" "Sol/Venus"
 # Origin: Mongolian first name.
 Location "Lhagva" "Sol/Venus"
 {
-	LongLat	[ 59.89999999999998 75.8 0 ]
+	LongLat	[ 59.9 75.8 0 ]
 	Size	7.90
 	Type	"AA"	# Crater, craters
 }
@@ -8614,7 +8614,7 @@ Location "Libuše Planitia" "Sol/Venus"
 # Origin: Russian first name.
 Location "Lida" "Sol/Venus"
 {
-	LongLat	[ 86.10000000000002 -36.6 0 ]
+	LongLat	[ 86.1 -36.6 0 ]
 	Size	20.30
 	Type	"AA"	# Crater, craters
 }
@@ -8686,7 +8686,7 @@ Location "Lindgren Patera" "Sol/Venus"
 # Origin: Latvian first name.
 Location "Lineta" "Sol/Venus"
 {
-	LongLat	[ 5.899999999999977 5.0 0 ]
+	LongLat	[ 5.9 5.0 0 ]
 	Size	15.60
 	Type	"AA"	# Crater, craters
 }
@@ -8713,7 +8713,7 @@ Location "Lisa" "Sol/Venus"
 # Origin: Norwegian first name.
 Location "Liv" "Sol/Venus"
 {
-	LongLat	[ 56.10000000000002 21.1 0 ]
+	LongLat	[ 56.1 21.1 0 ]
 	Size	11.20
 	Type	"AA"	# Crater, craters
 }
@@ -8794,7 +8794,7 @@ Location "Lo Shen Valles" "Sol/Venus"
 # Origin: Swedish first name.
 Location "Lotta" "Sol/Venus"
 {
-	LongLat	[ 24.100000000000023 -51.1 0 ]
+	LongLat	[ 24.1 -51.1 0 ]
 	Size	11.80
 	Type	"AA"	# Crater, craters
 }
@@ -8893,7 +8893,7 @@ Location "Lusaber Vallis" "Sol/Venus"
 # Origin: Chinese first name.
 Location "Lu Zhi" "Sol/Venus"
 {
-	LongLat	[ 56.60000000000002 42.6 0 ]
+	LongLat	[ 56.6 42.6 0 ]
 	Size	8.30
 	Type	"AA"	# Crater, craters
 }
@@ -8902,7 +8902,7 @@ Location "Lu Zhi" "Sol/Venus"
 # Origin: First name from Greek.
 Location "Lydia" "Sol/Venus"
 {
-	LongLat	[ 19.30000000000001 -10.7 0 ]
+	LongLat	[ 19.3 -10.7 0 ]
 	Size	15.20
 	Type	"AA"	# Crater, craters
 }
@@ -8911,7 +8911,7 @@ Location "Lydia" "Sol/Venus"
 # Origin: Mary; American educator, college president (1797-1849).
 Location "Lyon" "Sol/Venus"
 {
-	LongLat	[ 89.39999999999998 66.5 0 ]
+	LongLat	[ 89.4 66.5 0 ]
 	Size	12.40
 	Type	"AA"	# Crater, craters
 }
@@ -8920,7 +8920,7 @@ Location "Lyon" "Sol/Venus"
 # Origin: Russian first name.
 Location "Lyuba" "Sol/Venus"
 {
-	LongLat	[ 76.10000000000002 -1.6 0 ]
+	LongLat	[ 76.1 -1.6 0 ]
 	Size	12.40
 	Type	"AA"	# Crater, craters
 }
@@ -8929,7 +8929,7 @@ Location "Lyuba" "Sol/Venus"
 # Origin: Russian first name.
 Location "Lyudmila" "Sol/Venus"
 {
-	LongLat	[ 30.30000000000001 -62.1 0 ]
+	LongLat	[ 30.3 -62.1 0 ]
 	Size	14.10
 	Type	"AA"	# Crater, craters
 }
@@ -9001,7 +9001,7 @@ Location "Madderakka Corona" "Sol/Venus"
 # Origin: French first name.
 Location "Madeleine" "Sol/Venus"
 {
-	LongLat	[ 66.80000000000001 4.7 0 ]
+	LongLat	[ 66.8 4.7 0 ]
 	Size	16.00
 	Type	"AA"	# Crater, craters
 }
@@ -9019,7 +9019,7 @@ Location "Madina" "Sol/Venus"
 # Origin: From Margaret, Greek first name.
 Location "Mae" "Sol/Venus"
 {
-	LongLat	[ 14.800000000000011 40.5 0 ]
+	LongLat	[ 14.8 40.5 0 ]
 	Size	7.50
 	Type	"AA"	# Crater, craters
 }
@@ -9037,7 +9037,7 @@ Location "Mafdet Tessera" "Sol/Venus"
 # Origin: Danish first name.
 Location "Magda" "Sol/Venus"
 {
-	LongLat	[ 30.30000000000001 -67.0 0 ]
+	LongLat	[ 30.3 -67.0 0 ]
 	Size	10.10
 	Type	"AA"	# Crater, craters
 }
@@ -9055,7 +9055,7 @@ Location "Magdalena" "Sol/Venus"
 # Origin: Anna; Italian actress (1908-1973).
 Location "Magnani" "Sol/Venus"
 {
-	LongLat	[ 22.80000000000001 -58.6 0 ]
+	LongLat	[ 22.8 -58.6 0 ]
 	Size	26.40
 	Type	"AA"	# Crater, craters
 }
@@ -9163,7 +9163,7 @@ Location "Mama-Allpa Corona" "Sol/Venus"
 # Origin: Turkman first name.
 Location "Mamajan" "Sol/Venus"
 {
-	LongLat	[ 102.69999999999999 65.1 0 ]
+	LongLat	[ 102.7 65.1 0 ]
 	Size	2.00
 	Type	"AA"	# Crater, craters
 }
@@ -9298,7 +9298,7 @@ Location "Marere" "Sol/Venus"
 # Origin: Estonian first name.
 Location "Maret" "Sol/Venus"
 {
-	LongLat	[ 79.80000000000001 33.3 0 ]
+	LongLat	[ 79.8 33.3 0 ]
 	Size	11.70
 	Type	"AA"	# Crater, craters
 }
@@ -9316,7 +9316,7 @@ Location "Margarita" "Sol/Venus"
 # Origin: Hungarian first name.
 Location "Margit" "Sol/Venus"
 {
-	LongLat	[ 86.89999999999998 -60.1 0 ]
+	LongLat	[ 86.9 -60.1 0 ]
 	Size	14.00
 	Type	"AA"	# Crater, craters
 }
@@ -9415,7 +9415,7 @@ Location "Marysya" "Sol/Venus"
 # Origin: Karakal first name.
 Location "Marzhan" "Sol/Venus"
 {
-	LongLat	[ 111.69999999999999 58.9 0 ]
+	LongLat	[ 111.7 58.9 0 ]
 	Size	13.80
 	Type	"AA"	# Crater, craters
 }
@@ -9505,7 +9505,7 @@ Location "Maurea" "Sol/Venus"
 # Origin: Fon (Benin) goddess of fertility.
 Location "Mawu Corona" "Sol/Venus"
 {
-	LongLat	[ 118.69999999999999 -31.7 0 ]
+	LongLat	[ 118.7 -31.7 0 ]
 	Size	295.00
 	Type	"CR"	# Corona, coronae
 }
@@ -9622,7 +9622,7 @@ Location "Mehseti Patera" "Sol/Venus"
 # Origin: Greek bee goddess.
 Location "Meiboia Tholus" "Sol/Venus"
 {
-	LongLat	[ 78.69999999999999 44.7 0 ]
+	LongLat	[ 78.7 44.7 0 ]
 	Size	85.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -9631,7 +9631,7 @@ Location "Meiboia Tholus" "Sol/Venus"
 # Origin: Lise; Austrian physicist (1878-1968).
 Location "Meitner" "Sol/Venus"
 {
-	LongLat	[ 38.39999999999998 55.6 0 ]
+	LongLat	[ 38.4 55.6 0 ]
 	Size	149.00
 	Type	"AA"	# Crater, craters
 }
@@ -9703,7 +9703,7 @@ Location "Mena Colles" "Sol/Venus"
 # Origin: Arabian desert goddess.
 Location "Menat Undae" "Sol/Venus"
 {
-	LongLat	[ 20.600000000000023 24.8 0 ]
+	LongLat	[ 20.6 24.8 0 ]
 	Size	100.00
 	Type	"UN"	# Unda, undae
 }
@@ -9730,7 +9730,7 @@ Location "Menkerot Dorsa" "Sol/Venus"
 # Origin: Roman goddess, personification of the human mind. Name changed from Mentha Mons.
 Location "Mentha Tholus" "Sol/Venus"
 {
-	LongLat	[ 122.69999999999999 -43.0 0 ]
+	LongLat	[ 122.7 -43.0 0 ]
 	Size	79.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -9748,7 +9748,7 @@ Location "Merak Vallis" "Sol/Venus"
 # Origin: English first name.
 Location "Meredith" "Sol/Venus"
 {
-	LongLat	[ 81.10000000000002 14.5 0 ]
+	LongLat	[ 81.1 14.5 0 ]
 	Size	11.40
 	Type	"AA"	# Crater, craters
 }
@@ -9793,7 +9793,7 @@ Location "Mert Fluctus" "Sol/Venus"
 # Origin: Snake goddess of the Theban necropolis.
 Location "Mertseger Mons" "Sol/Venus"
 {
-	LongLat	[ 89.69999999999999 38.1 0 ]
+	LongLat	[ 89.7 38.1 0 ]
 	Size	450.00
 	Type	"MO"	# Mons, montes
 }
@@ -9802,7 +9802,7 @@ Location "Mertseger Mons" "Sol/Venus"
 # Origin: Irish fertility goddess.
 Location "Mesca Corona" "Sol/Venus"
 {
-	LongLat	[ 17.399999999999977 -27.0 0 ]
+	LongLat	[ 17.4 -27.0 0 ]
 	Size	190.00
 	Type	"CR"	# Corona, coronae
 }
@@ -9894,7 +9894,7 @@ Location "Migazesh Colles" "Sol/Venus"
 # Origin: Dariya (better known as Dasha of Sevastopol); Russian nurse (c. 1830-c. 1915).
 Location "Mikhaylova Patera" "Sol/Venus"
 {
-	LongLat	[ 11.800000000000011 26.8 0 ]
+	LongLat	[ 11.8 26.8 0 ]
 	Size	70.00
 	Type	"PE"	# Patera, paterae
 }
@@ -9912,7 +9912,7 @@ Location "Milda Mons" "Sol/Venus"
 # Origin: English first name.
 Location "Mildred" "Sol/Venus"
 {
-	LongLat	[ 11.699999999999989 51.7 0 ]
+	LongLat	[ 11.7 51.7 0 ]
 	Size	12.00
 	Type	"AA"	# Crater, craters
 }
@@ -9966,7 +9966,7 @@ Location "Miovasu" "Sol/Venus"
 # Origin: Sibylle; French writer (d. 1932).
 Location "Mirabeau" "Sol/Venus"
 {
-	LongLat	[ 75.69999999999999 -1.1 0 ]
+	LongLat	[ 75.7 -1.1 0 ]
 	Size	23.80
 	Type	"AA"	# Crater, craters
 }
@@ -10011,7 +10011,7 @@ Location "Misne Chasma" "Sol/Venus"
 # Origin: Norse Valkyrie. Changed from Mist Fossae.
 Location "Mist Chasma" "Sol/Venus"
 {
-	LongLat	[ 112.69999999999999 -39.5 0 ]
+	LongLat	[ 112.7 -39.5 0 ]
 	Size	244.00
 	Type	"CM"	# Chasma, chasmata
 }
@@ -10020,7 +10020,7 @@ Location "Mist Chasma" "Sol/Venus"
 # Origin: Koryak and Itelmen (Kamchatka) the Raven's (world creator) wife.
 Location "Miti Corona" "Sol/Venus"
 {
-	LongLat	[ 100.19999999999999 3.5 0 ]
+	LongLat	[ 100.2 3.5 0 ]
 	Size	180.00
 	Type	"CR"	# Corona, coronae
 }
@@ -10227,7 +10227,7 @@ Location "Mou-nyamy Corona" "Sol/Venus"
 # Origin: Anna; American actress, playwright, author (1819-1870).
 Location "Mowatt" "Sol/Venus"
 {
-	LongLat	[ 67.69999999999999 14.6 0 ]
+	LongLat	[ 67.7 14.6 0 ]
 	Size	38.40
 	Type	"AA"	# Crater, craters
 }
@@ -10317,7 +10317,7 @@ Location "Muru Tholus" "Sol/Venus"
 # Origin: Roman goddess of silence.
 Location "Muta Mons" "Sol/Venus"
 {
-	LongLat	[ 1.6999999999999886 -55.5 0 ]
+	LongLat	[ 1.7 -55.5 0 ]
 	Size	54.00
 	Type	"MO"	# Mons, montes
 }
@@ -10371,7 +10371,7 @@ Location "Nabuzana Corona" "Sol/Venus"
 # Origin: Belorussian first name.
 Location "Nadeyka" "Sol/Venus"
 {
-	LongLat	[ 54.69999999999999 54.8 0 ]
+	LongLat	[ 54.7 54.8 0 ]
 	Size	9.30
 	Type	"AA"	# Crater, craters
 }
@@ -10389,7 +10389,7 @@ Location "Nadia" "Sol/Venus"
 # Origin: First name from French.
 Location "Nadine" "Sol/Venus"
 {
-	LongLat	[ 0.8999999999999773 -7.8 0 ]
+	LongLat	[ 0.9 -7.8 0 ]
 	Size	18.60
 	Type	"AA"	# Crater, craters
 }
@@ -10461,7 +10461,7 @@ Location "Naijok Fossae" "Sol/Venus"
 # Origin: Cheyenne first name.
 Location "Nakai" "Sol/Venus"
 {
-	LongLat	[ 73.80000000000001 61.0 0 ]
+	LongLat	[ 73.8 61.0 0 ]
 	Size	4.50
 	Type	"AA"	# Crater, craters
 }
@@ -10479,7 +10479,7 @@ Location "Nalkowska" "Sol/Venus"
 # Origin: Ossetian (N. Caucasus) first name.
 Location "Nalkuta" "Sol/Venus"
 {
-	LongLat	[ 52.19999999999999 -30.1 0 ]
+	LongLat	[ 52.2 -30.1 0 ]
 	Size	6.50
 	Type	"AA"	# Crater, craters
 }
@@ -10560,7 +10560,7 @@ Location "Nana-Buluku Coronae" "Sol/Venus"
 # Origin: First name derived from Hebrew.
 Location "Nancy" "Sol/Venus"
 {
-	LongLat	[ 87.80000000000001 -6.4 0 ]
+	LongLat	[ 87.8 -6.4 0 ]
 	Size	4.40
 	Type	"AA"	# Crater, craters
 }
@@ -10596,7 +10596,7 @@ Location "Nang Pao Corona" "Sol/Venus"
 # Origin: Taino (Puerto Rico) first name.
 Location "Nanichi" "Sol/Venus"
 {
-	LongLat	[ 22.19999999999999 44.8 0 ]
+	LongLat	[ 22.2 44.8 0 ]
 	Size	19.00
 	Type	"AA"	# Crater, craters
 }
@@ -10659,7 +10659,7 @@ Location "Narundi Fossae" "Sol/Venus"
 # Origin: From Anastasiya, Russian first name.
 Location "Nastya" "Sol/Venus"
 {
-	LongLat	[ 84.19999999999999 49.0 0 ]
+	LongLat	[ 84.2 49.0 0 ]
 	Size	12.50
 	Type	"AA"	# Crater, craters
 }
@@ -10668,7 +10668,7 @@ Location "Nastya" "Sol/Venus"
 # Origin: Romanian first name.
 Location "Natalia" "Sol/Venus"
 {
-	LongLat	[ 87.10000000000002 -67.1 0 ]
+	LongLat	[ 87.1 -67.1 0 ]
 	Size	10.80
 	Type	"AA"	# Crater, craters
 }
@@ -10695,7 +10695,7 @@ Location "Naunet Fluctus" "Sol/Venus"
 # Origin: East-Slavic mermaid.
 Location "Navka Planitia" "Sol/Venus"
 {
-	LongLat	[ 42.39999999999998 8.1 0 ]
+	LongLat	[ 42.4 8.1 0 ]
 	Size	2100.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -10776,7 +10776,7 @@ Location "Neda" "Sol/Venus"
 # Origin: Nenets (Samoyed) first name.
 Location "Nedko" "Sol/Venus"
 {
-	LongLat	[ 42.39999999999998 8.8 0 ]
+	LongLat	[ 42.4 8.8 0 ]
 	Size	8.50
 	Type	"AA"	# Crater, craters
 }
@@ -10831,7 +10831,7 @@ Location "Nehalennia Corona" "Sol/Venus"
 # Origin: Micronesian (Gilbert Islands, Kiribati) mother of gods.
 Location "Nei-Teukez Corona" "Sol/Venus"
 {
-	LongLat	[ 101.19999999999999 -14.2 0 ]
+	LongLat	[ 101.2 -14.2 0 ]
 	Size	90.00
 	Type	"CR"	# Corona, coronae
 }
@@ -10849,7 +10849,7 @@ Location "Nekhebet Fluctus" "Sol/Venus"
 # Origin: Nanay (E. Siberia) first name.
 Location "Nelike" "Sol/Venus"
 {
-	LongLat	[ 30.80000000000001 26.8 0 ]
+	LongLat	[ 30.8 26.8 0 ]
 	Size	6.30
 	Type	"AA"	# Crater, craters
 }
@@ -10939,7 +10939,7 @@ Location "Nertus Tholus" "Sol/Venus"
 # Origin: Louise; American artist (1899-1988).
 Location "Nevelson" "Sol/Venus"
 {
-	LongLat	[ 52.19999999999999 35.3 0 ]
+	LongLat	[ 52.2 35.3 0 ]
 	Size	69.80
 	Type	"AA"	# Crater, craters
 }
@@ -10975,7 +10975,7 @@ Location "Ngaio" "Sol/Venus"
 # Origin: Wolof (W. Africa, Senegal) first name.
 Location "Ngone" "Sol/Venus"
 {
-	LongLat	[ 28.100000000000023 -6.0 0 ]
+	LongLat	[ 28.1 -6.0 0 ]
 	Size	12.20
 	Type	"AA"	# Crater, craters
 }
@@ -11002,7 +11002,7 @@ Location "Nichka Dorsa" "Sol/Venus"
 # Origin: French first name.
 Location "Nicole" "Sol/Venus"
 {
-	LongLat	[ 100.69999999999999 -48.4 0 ]
+	LongLat	[ 100.7 -48.4 0 ]
 	Size	6.40
 	Type	"AA"	# Crater, craters
 }
@@ -11057,7 +11057,7 @@ Location "Nikolaeva Patera" "Sol/Venus"
 # Origin: Singalese first name.
 Location "Nilanti" "Sol/Venus"
 {
-	LongLat	[ 28.600000000000023 38.2 0 ]
+	LongLat	[ 28.6 38.2 0 ]
 	Size	9.20
 	Type	"AA"	# Crater, craters
 }
@@ -11066,7 +11066,7 @@ Location "Nilanti" "Sol/Venus"
 # Origin: Christine; Swedish opera singer, violinist (1843-1921).
 Location "Nilsson" "Sol/Venus"
 {
-	LongLat	[ 82.39999999999998 75.9 0 ]
+	LongLat	[ 82.4 75.9 0 ]
 	Size	27.30
 	Type	"AA"	# Crater, craters
 }
@@ -11084,7 +11084,7 @@ Location "Nimba Corona" "Sol/Venus"
 # Origin: Anais; French novelist (1903-1977).
 Location "Nin" "Sol/Venus"
 {
-	LongLat	[ 93.60000000000002 3.9 0 ]
+	LongLat	[ 93.6 3.9 0 ]
 	Size	27.10
 	Type	"AA"	# Crater, craters
 }
@@ -11093,7 +11093,7 @@ Location "Nin" "Sol/Venus"
 # Origin: First name from Russian.
 Location "Nina" "Sol/Venus"
 {
-	LongLat	[ 121.30000000000001 55.5 0 ]
+	LongLat	[ 121.3 55.5 0 ]
 	Size	24.60
 	Type	"AA"	# Crater, craters
 }
@@ -11166,7 +11166,7 @@ Location "Nintu Corona" "Sol/Venus"
 # Origin: Burma (Myanmar) first name.
 Location "Ninzi" "Sol/Venus"
 {
-	LongLat	[ 28.30000000000001 -15.9 0 ]
+	LongLat	[ 28.3 -15.9 0 ]
 	Size	7.10
 	Type	"AA"	# Crater, craters
 }
@@ -11184,7 +11184,7 @@ Location "Niobe Planitia" "Sol/Venus"
 # Origin: Algonquin moon goddess.
 Location "Nipa Tholus" "Sol/Venus"
 {
-	LongLat	[ 104.30000000000001 -8.4 0 ]
+	LongLat	[ 104.3 -8.4 0 ]
 	Size	140.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -11220,7 +11220,7 @@ Location "Nissaba Corona" "Sol/Venus"
 # Origin: Egyptian queen (c. 1900 B.C.).
 Location "Nofret" "Sol/Venus"
 {
-	LongLat	[ 107.80000000000001 58.8 0 ]
+	LongLat	[ 107.8 58.8 0 ]
 	Size	22.50
 	Type	"AA"	# Crater, craters
 }
@@ -11274,7 +11274,7 @@ Location "Noreen" "Sol/Venus"
 # Origin: Japanese first name.
 Location "Noriko" "Sol/Venus"
 {
-	LongLat	[ 1.6999999999999886 5.3 0 ]
+	LongLat	[ 1.7 5.3 0 ]
 	Size	7.50
 	Type	"AA"	# Crater, craters
 }
@@ -11364,7 +11364,7 @@ Location "Nuliayoq Colles" "Sol/Venus"
 # Origin: Hibaro (Peru/Equador) fertility goddess.
 Location "Nungui Corona" "Sol/Venus"
 {
-	LongLat	[ 114.80000000000001 42.5 0 ]
+	LongLat	[ 114.8 42.5 0 ]
 	Size	150.00
 	Type	"CR"	# Corona, coronae
 }
@@ -11373,7 +11373,7 @@ Location "Nungui Corona" "Sol/Venus"
 # Origin: Khmer first name.
 Location "Nuon" "Sol/Venus"
 {
-	LongLat	[ 23.399999999999977 -78.6 0 ]
+	LongLat	[ 23.4 -78.6 0 ]
 	Size	6.50
 	Type	"AA"	# Crater, craters
 }
@@ -11400,7 +11400,7 @@ Location "Nuriet" "Sol/Venus"
 # Origin: Abkhazian (Georgia) first name.
 Location "Nutsa" "Sol/Venus"
 {
-	LongLat	[ 18.80000000000001 -27.5 0 ]
+	LongLat	[ 18.8 -27.5 0 ]
 	Size	8.00
 	Type	"AA"	# Crater, craters
 }
@@ -11436,7 +11436,7 @@ Location "Nyal'ga" "Sol/Venus"
 # Origin: Mandingo (W. Africa, Mali) first name.
 Location "Nyele" "Sol/Venus"
 {
-	LongLat	[ 41.60000000000002 22.7 0 ]
+	LongLat	[ 41.6 22.7 0 ]
 	Size	11.90
 	Type	"AA"	# Crater, craters
 }
@@ -11445,7 +11445,7 @@ Location "Nyele" "Sol/Venus"
 # Origin: Ewe (W. Africa, Ghana) first name.
 Location "Nyogari" "Sol/Venus"
 {
-	LongLat	[ 53.60000000000002 46.4 0 ]
+	LongLat	[ 53.6 46.4 0 ]
 	Size	13.00
 	Type	"AA"	# Crater, craters
 }
@@ -11508,7 +11508,7 @@ Location "Obasi-Nsi Corona" "Sol/Venus"
 # Origin: Bini (Nigeria) childbirth goddess.
 Location "Obiemi Corona" "Sol/Venus"
 {
-	LongLat	[ 83.39999999999998 31.9 0 ]
+	LongLat	[ 83.4 31.9 0 ]
 	Size	300.00
 	Type	"CR"	# Corona, coronae
 }
@@ -11526,7 +11526,7 @@ Location "Obilukha Corona" "Sol/Venus"
 # Origin: Nadezhda; Soviet singer (1886-1961).
 Location "Obukhova" "Sol/Venus"
 {
-	LongLat	[ 70.30000000000001 -70.7 0 ]
+	LongLat	[ 70.3 -70.7 0 ]
 	Size	46.00
 	Type	"AA"	# Crater, craters
 }
@@ -11679,7 +11679,7 @@ Location "Oksana" "Sol/Venus"
 # Origin: Karelian first name.
 Location "Oku" "Sol/Venus"
 {
-	LongLat	[ 127.80000000000001 64.2 0 ]
+	LongLat	[ 127.8 64.2 0 ]
 	Size	13.30
 	Type	"AA"	# Crater, craters
 }
@@ -11715,7 +11715,7 @@ Location "Olesnicka" "Sol/Venus"
 # Origin: Ukrainian first name.
 Location "Olesya" "Sol/Venus"
 {
-	LongLat	[ 86.69999999999999 -5.6 0 ]
+	LongLat	[ 86.7 -5.6 0 ]
 	Size	12.00
 	Type	"AA"	# Crater, craters
 }
@@ -11724,7 +11724,7 @@ Location "Olesya" "Sol/Venus"
 # Origin: Russian first name.
 Location "Olga" "Sol/Venus"
 {
-	LongLat	[ 76.19999999999999 -26.1 0 ]
+	LongLat	[ 76.2 -26.1 0 ]
 	Size	15.50
 	Type	"AA"	# Crater, craters
 }
@@ -11751,7 +11751,7 @@ Location "Olokun Vallis" "Sol/Venus"
 # Origin: Yoruba (Nigeria) lagoon goddess.
 Location "Olosa Colles" "Sol/Venus"
 {
-	LongLat	[ 6.699999999999989 -18.0 0 ]
+	LongLat	[ 6.7 -18.0 0 ]
 	Size	200.00
 	Type	"CO"	# Collis, colles
 }
@@ -11769,7 +11769,7 @@ Location "Olwen Corona" "Sol/Venus"
 # Origin: Russian first name.
 Location "Olya" "Sol/Venus"
 {
-	LongLat	[ 68.19999999999999 -51.4 0 ]
+	LongLat	[ 68.2 -51.4 0 ]
 	Size	13.40
 	Type	"AA"	# Crater, craters
 }
@@ -11778,7 +11778,7 @@ Location "Olya" "Sol/Venus"
 # Origin: Sioux first name.
 Location "Oma" "Sol/Venus"
 {
-	LongLat	[ 30.899999999999977 42.7 0 ]
+	LongLat	[ 30.9 42.7 0 ]
 	Size	7.60
 	Type	"AA"	# Crater, craters
 }
@@ -11868,7 +11868,7 @@ Location "Ops Corona" "Sol/Venus"
 # Origin: Roman goddess of children, protects orphans.
 Location "Orbona Corona" "Sol/Venus"
 {
-	LongLat	[ 66.80000000000001 47.8 0 ]
+	LongLat	[ 66.8 47.8 0 ]
 	Size	150.00
 	Type	"CR"	# Corona, coronae
 }
@@ -11967,7 +11967,7 @@ Location "Otafuku Tholi" "Sol/Venus"
 # Origin: Bini (S. Nigeria) goddess of fertility.
 Location "Otau Corona" "Sol/Venus"
 {
-	LongLat	[ 61.30000000000001 -67.8 0 ]
+	LongLat	[ 61.3 -67.8 0 ]
 	Size	172.00
 	Type	"CR"	# Corona, coronae
 }
@@ -11976,7 +11976,7 @@ Location "Otau Corona" "Sol/Venus"
 # Origin: Japanese goddess of the arts and beauty.
 Location "Otohime Tholus" "Sol/Venus"
 {
-	LongLat	[ 91.80000000000001 32.0 0 ]
+	LongLat	[ 91.8 32.0 0 ]
 	Size	20.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -12003,7 +12003,7 @@ Location "Otygen Corona" "Sol/Venus"
 # Origin: Finnish first name.
 Location "Outi" "Sol/Venus"
 {
-	LongLat	[ 92.30000000000001 -61.6 0 ]
+	LongLat	[ 92.3 -61.6 0 ]
 	Size	10.50
 	Type	"AA"	# Crater, craters
 }
@@ -12084,7 +12084,7 @@ Location "Paige" "Sol/Venus"
 # Origin: Cambodian healing goddess whose face appears in markings on the Moon.
 Location "Pajan Yan Tholus" "Sol/Venus"
 {
-	LongLat	[ 107.80000000000001 -8.3 0 ]
+	LongLat	[ 107.8 -8.3 0 ]
 	Size	80.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -12129,7 +12129,7 @@ Location "Pani Corona" "Sol/Venus"
 # Origin: Varya; Gypsy/Russian singer (1872-1911).
 Location "Panina Patera" "Sol/Venus"
 {
-	LongLat	[ 50.19999999999999 13.0 0 ]
+	LongLat	[ 50.2 13.0 0 ]
 	Size	50.00
 	Type	"PE"	# Patera, paterae
 }
@@ -12183,7 +12183,7 @@ Location "Parra" "Sol/Venus"
 # Origin: Roman goddess of childbirth who determines the length of gestation.
 Location "Partula Corona" "Sol/Venus"
 {
-	LongLat	[ 70.80000000000001 49.7 0 ]
+	LongLat	[ 70.8 49.7 0 ]
 	Size	145.00
 	Type	"CR"	# Corona, coronae
 }
@@ -12192,7 +12192,7 @@ Location "Partula Corona" "Sol/Venus"
 # Origin: Hindu Earth and nature goddess, creator of life, primordial being.
 Location "Parvati Corona" "Sol/Venus"
 {
-	LongLat	[ 83.30000000000001 36.0 0 ]
+	LongLat	[ 83.3 36.0 0 ]
 	Size	173.00
 	Type	"CR"	# Corona, coronae
 }
@@ -12237,7 +12237,7 @@ Location "Pasu-Ava Corona" "Sol/Venus"
 # Origin: English first name.
 Location "Pat" "Sol/Venus"
 {
-	LongLat	[ 97.39999999999998 -2.9 0 ]
+	LongLat	[ 97.4 -2.9 0 ]
 	Size	10.10
 	Type	"AA"	# Crater, craters
 }
@@ -12255,7 +12255,7 @@ Location "Patimat" "Sol/Venus"
 # Origin: Adelina; Italian singer (1843-1919).
 Location "Patti" "Sol/Venus"
 {
-	LongLat	[ 58.39999999999998 -35.0 0 ]
+	LongLat	[ 58.4 -35.0 0 ]
 	Size	47.00
 	Type	"AA"	# Crater, craters
 }
@@ -12310,7 +12310,7 @@ Location "Pchilka Patera" "Sol/Venus"
 # Origin: Annie; American mountaineer, educator (1850-1935).
 Location "Peck" "Sol/Venus"
 {
-	LongLat	[ 65.69999999999999 28.9 0 ]
+	LongLat	[ 65.7 28.9 0 ]
 	Size	30.40
 	Type	"AA"	# Crater, craters
 }
@@ -12319,7 +12319,7 @@ Location "Peck" "Sol/Venus"
 # Origin: English first name (form of Margaret).
 Location "Peggy" "Sol/Venus"
 {
-	LongLat	[ 2.8000000000000114 20.4 0 ]
+	LongLat	[ 2.8 20.4 0 ]
 	Size	11.90
 	Type	"AA"	# Crater, craters
 }
@@ -12364,7 +12364,7 @@ Location "Perchta Corona" "Sol/Venus"
 # Origin: Greek underworld goddess, daughter of corn goddess Demeter.
 Location "Persephone Corona" "Sol/Venus"
 {
-	LongLat	[ 55.39999999999998 36.0 0 ]
+	LongLat	[ 55.4 36.0 0 ]
 	Size	120.00
 	Type	"CR"	# Corona, coronae
 }
@@ -12382,7 +12382,7 @@ Location "Perunitsa Fossae" "Sol/Venus"
 # Origin: Slavic goddess, wife of thunderstorm god Perun.
 Location "Perynya Tholus" "Sol/Venus"
 {
-	LongLat	[ 6.800000000000011 0.7 0 ]
+	LongLat	[ 6.8 0.7 0 ]
 	Size	110.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -12391,7 +12391,7 @@ Location "Perynya Tholus" "Sol/Venus"
 # Origin: First name from Greek.
 Location "Phaedra" "Sol/Venus"
 {
-	LongLat	[ 107.30000000000001 -35.9 0 ]
+	LongLat	[ 107.3 -35.9 0 ]
 	Size	15.70
 	Type	"AA"	# Crater, craters
 }
@@ -12409,7 +12409,7 @@ Location "Philomena" "Sol/Venus"
 # Origin: Greek Titaness.
 Location "PHOEBE REGIO" "Sol/Venus"
 {
-	LongLat	[ 77.19999999999999 6.0 0 ]
+	LongLat	[ 77.2 6.0 0 ]
 	Size	2852.00
 	Type	"RE"	# Regio, regiones
 }
@@ -12427,7 +12427,7 @@ Location "Phra Naret Corona" "Sol/Venus"
 # Origin: Greek model, courtesan (fourth century B.C.).
 Location "Phryne" "Sol/Venus"
 {
-	LongLat	[ 45.30000000000001 46.2 0 ]
+	LongLat	[ 45.3 46.2 0 ]
 	Size	39.40
 	Type	"AA"	# Crater, craters
 }
@@ -12553,7 +12553,7 @@ Location "Poludnitsa Dorsa" "Sol/Venus"
 # Origin: Roman goddess of fruits.
 Location "Pomona Corona" "Sol/Venus"
 {
-	LongLat	[ 60.60000000000002 -79.3 0 ]
+	LongLat	[ 60.6 -79.3 0 ]
 	Size	315.00
 	Type	"CR"	# Corona, coronae
 }
@@ -12571,7 +12571,7 @@ Location "Ponmakya Corona" "Sol/Venus"
 # Origin: Rosa; American opera singer (1897-1981).
 Location "Ponselle" "Sol/Venus"
 {
-	LongLat	[ 70.89999999999998 63.0 0 ]
+	LongLat	[ 70.9 63.0 0 ]
 	Size	57.70
 	Type	"AA"	# Crater, craters
 }
@@ -12598,7 +12598,7 @@ Location "Potanina" "Sol/Venus"
 # Origin: Beatrix; English children's author (1866-1943).
 Location "Potter" "Sol/Venus"
 {
-	LongLat	[ 50.89999999999998 -7.2 0 ]
+	LongLat	[ 50.9 -7.2 0 ]
 	Size	46.90
 	Type	"AA"	# Crater, craters
 }
@@ -12823,7 +12823,7 @@ Location "Radmila" "Sol/Venus"
 # Origin: Ancient Slavic goddess, keeper of souls of the deceased.
 Location "Radunitsa Labyrinthus" "Sol/Venus"
 {
-	LongLat	[ 8.699999999999989 8.9 0 ]
+	LongLat	[ 8.7 8.9 0 ]
 	Size	100.00
 	Type	"LB"	# Labyrinthus, labyrinthi
 }
@@ -12868,7 +12868,7 @@ Location "Ragana Dorsa" "Sol/Venus"
 # Origin: Russian first name.
 Location "Raisa" "Sol/Venus"
 {
-	LongLat	[ 79.69999999999999 -27.5 0 ]
+	LongLat	[ 79.7 -27.5 0 ]
 	Size	13.50
 	Type	"AA"	# Crater, craters
 }
@@ -12940,7 +12940,7 @@ Location "Rand" "Sol/Venus"
 # Origin: Norse Valkyrie.
 Location "Rangrid Fossae" "Sol/Venus"
 {
-	LongLat	[ 3.6000000000000227 -62.7 0 ]
+	LongLat	[ 3.6 -62.7 0 ]
 	Size	243.00
 	Type	"FO"	# Fossa, fossae
 }
@@ -12967,7 +12967,7 @@ Location "Raskova Paterae" "Sol/Venus"
 # Origin: Finnish goddess of harvest, earth.
 Location "Rauni Corona" "Sol/Venus"
 {
-	LongLat	[ 88.10000000000002 -40.8 0 ]
+	LongLat	[ 88.1 -40.8 0 ]
 	Size	271.00
 	Type	"CR"	# Corona, coronae
 }
@@ -13039,7 +13039,7 @@ Location "Reitia Chasma" "Sol/Venus"
 # Origin: Egyptian goddess of abundance.
 Location "Renenti Corona" "Sol/Venus"
 {
-	LongLat	[ 33.80000000000001 -32.7 0 ]
+	LongLat	[ 33.8 -32.7 0 ]
 	Size	200.00
 	Type	"CR"	# Corona, coronae
 }
@@ -13048,7 +13048,7 @@ Location "Renenti Corona" "Sol/Venus"
 # Origin: Egyptian goddess of springtime and youth.
 Location "Renpet Mons" "Sol/Venus"
 {
-	LongLat	[ 123.80000000000001 -76.0 0 ]
+	LongLat	[ 123.8 -76.0 0 ]
 	Size	138.00
 	Type	"MO"	# Mons, montes
 }
@@ -13075,7 +13075,7 @@ Location "Retno" "Sol/Venus"
 # Origin: Greek Titaness.
 Location "Rhea Mons" "Sol/Venus"
 {
-	LongLat	[ 77.80000000000001 -32.4 0 ]
+	LongLat	[ 77.8 -32.4 0 ]
 	Size	217.00
 	Type	"MO"	# Mons, montes
 }
@@ -13084,7 +13084,7 @@ Location "Rhea Mons" "Sol/Venus"
 # Origin: First name from Greek.
 Location "Rhoda" "Sol/Venus"
 {
-	LongLat	[ 12.300000000000011 -11.4 0 ]
+	LongLat	[ 12.3 -11.4 0 ]
 	Size	12.20
 	Type	"AA"	# Crater, craters
 }
@@ -13102,7 +13102,7 @@ Location "Rhpisunt Mons" "Sol/Venus"
 # Origin: Jean; Welsh writer (1894-1979).
 Location "Rhys" "Sol/Venus"
 {
-	LongLat	[ 61.19999999999999 -8.6 0 ]
+	LongLat	[ 61.2 -8.6 0 ]
 	Size	44.00
 	Type	"AA"	# Crater, craters
 }
@@ -13147,7 +13147,7 @@ Location "Rind Corona" "Sol/Venus"
 # Origin: Italian first name.
 Location "Rita" "Sol/Venus"
 {
-	LongLat	[ 25.19999999999999 -71.0 0 ]
+	LongLat	[ 25.2 -71.0 0 ]
 	Size	8.30
 	Type	"AA"	# Crater, craters
 }
@@ -13165,7 +13165,7 @@ Location "Rogneda Patera" "Sol/Venus"
 # Origin: Hindu cow goddess.
 Location "Rohina Tholus" "Sol/Venus"
 {
-	LongLat	[ 64.60000000000002 40.6 0 ]
+	LongLat	[ 64.6 40.6 0 ]
 	Size	30.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -13228,7 +13228,7 @@ Location "Roptyna" "Sol/Venus"
 # Origin: French painter (1822-1899).
 Location "Rosa Bonheur" "Sol/Venus"
 {
-	LongLat	[ 71.19999999999999 -9.7 0 ]
+	LongLat	[ 71.2 -9.7 0 ]
 	Size	104.00
 	Type	"AA"	# Crater, craters
 }
@@ -13237,7 +13237,7 @@ Location "Rosa Bonheur" "Sol/Venus"
 # Origin: German first name.
 Location "Rose" "Sol/Venus"
 {
-	LongLat	[ 111.80000000000001 35.2 0 ]
+	LongLat	[ 111.8 35.2 0 ]
 	Size	15.50
 	Type	"AA"	# Crater, craters
 }
@@ -13282,7 +13282,7 @@ Location "Rowena" "Sol/Venus"
 # Origin: First name from Persian.
 Location "Roxanna" "Sol/Venus"
 {
-	LongLat	[ 25.399999999999977 -26.5 0 ]
+	LongLat	[ 25.4 -26.5 0 ]
 	Size	9.50
 	Type	"AA"	# Crater, craters
 }
@@ -13381,7 +13381,7 @@ Location "Rzhanitsa Corona" "Sol/Venus"
 # Origin: Florence; American medical researcher (1871-1953).
 Location "Sabin" "Sol/Venus"
 {
-	LongLat	[ 85.30000000000001 38.5 0 ]
+	LongLat	[ 85.3 38.5 0 ]
 	Size	33.10
 	Type	"AA"	# Crater, craters
 }
@@ -13400,7 +13400,7 @@ Location "Sabira" "Sol/Venus"
 # Additional info: Changed from Sacajawea as crater name.
 Location "Sacajawea Patera" "Sol/Venus"
 {
-	LongLat	[ 24.600000000000023 -64.3 0 ]
+	LongLat	[ 24.6 -64.3 0 ]
 	Size	233.00
 	Type	"PE"	# Patera, paterae
 }
@@ -13409,7 +13409,7 @@ Location "Sacajawea Patera" "Sol/Venus"
 # Origin: Nelly; German-born Swedish playwright, poet (1891-1970).
 Location "Sachs Patera" "Sol/Venus"
 {
-	LongLat	[ 25.80000000000001 -49.1 0 ]
+	LongLat	[ 25.8 -49.1 0 ]
 	Size	65.00
 	Type	"PE"	# Patera, paterae
 }
@@ -13427,7 +13427,7 @@ Location "Safarmo" "Sol/Venus"
 # Origin: Norse goddess in the form of a waterfall.
 Location "Saga Vallis" "Sol/Venus"
 {
-	LongLat	[ 19.399999999999977 -76.1 0 ]
+	LongLat	[ 19.4 -76.1 0 ]
 	Size	450.00
 	Type	"VA"	# Vallis, valles
 }
@@ -13490,7 +13490,7 @@ Location "Salus Tessera" "Sol/Venus"
 # Origin: First name from Aramaic.
 Location "Samantha" "Sol/Venus"
 {
-	LongLat	[ 78.30000000000001 -45.6 0 ]
+	LongLat	[ 78.3 -45.6 0 ]
 	Size	16.90
 	Type	"AA"	# Crater, craters
 }
@@ -13535,7 +13535,7 @@ Location "Samsing Corona" "Sol/Venus"
 # Origin: Indian river goddess.
 Location "Samundra Vallis" "Sol/Venus"
 {
-	LongLat	[ 12.899999999999977 24.1 0 ]
+	LongLat	[ 12.9 24.1 0 ]
 	Size	110.00
 	Type	"VA"	# Vallis, valles
 }
@@ -13562,7 +13562,7 @@ Location "Sandel" "Sol/Venus"
 # Origin: From Alexandra, Greek first name.
 Location "Sandi" "Sol/Venus"
 {
-	LongLat	[ 44.89999999999998 68.1 0 ]
+	LongLat	[ 44.9 68.1 0 ]
 	Size	12.60
 	Type	"AA"	# Crater, craters
 }
@@ -13580,7 +13580,7 @@ Location "Sandugach" "Sol/Venus"
 # Origin: Margaret; American medical researcher (1883-1966).
 Location "Sanger" "Sol/Venus"
 {
-	LongLat	[ 71.39999999999998 -33.8 0 ]
+	LongLat	[ 71.4 -33.8 0 ]
 	Size	83.60
 	Type	"AA"	# Crater, craters
 }
@@ -13607,7 +13607,7 @@ Location "Santa Corona" "Sol/Venus"
 # Origin: Uzbek first name.
 Location "Saodat" "Sol/Venus"
 {
-	LongLat	[ 15.399999999999977 2.9 0 ]
+	LongLat	[ 15.4 2.9 0 ]
 	Size	3.70
 	Type	"AA"	# Crater, craters
 }
@@ -13679,7 +13679,7 @@ Location "Sarykyz Linea" "Sol/Venus"
 # Origin: Russian first name.
 Location "Sasha" "Sol/Venus"
 {
-	LongLat	[ 82.69999999999999 -38.3 0 ]
+	LongLat	[ 82.7 -38.3 0 ]
 	Size	4.60
 	Type	"AA"	# Crater, craters
 }
@@ -13688,7 +13688,7 @@ Location "Sasha" "Sol/Venus"
 # Origin: Artist's model, wife of Rembrandt.
 Location "Saskia" "Sol/Venus"
 {
-	LongLat	[ 22.899999999999977 28.6 0 ]
+	LongLat	[ 22.9 28.6 0 ]
 	Size	37.10
 	Type	"AA"	# Crater, craters
 }
@@ -13697,7 +13697,7 @@ Location "Saskia" "Sol/Venus"
 # Origin: Egyptian river goddess.
 Location "Sati Vallis" "Sol/Venus"
 {
-	LongLat	[ 25.600000000000023 -3.2 0 ]
+	LongLat	[ 25.6 -3.2 0 ]
 	Size	225.00
 	Type	"VA"	# Vallis, valles
 }
@@ -13769,7 +13769,7 @@ Location "Schumann-Heink Corona" "Sol/Venus"
 # Origin: Eskimo; her fingers became seals and whales.
 Location "Sedna Planitia" "Sol/Venus"
 {
-	LongLat	[ 19.30000000000001 -42.7 0 ]
+	LongLat	[ 19.3 -42.7 0 ]
 	Size	3570.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -13904,7 +13904,7 @@ Location "Serova Patera" "Sol/Venus"
 # Origin: Buryat (Siberia) first name.
 Location "Seseg" "Sol/Venus"
 {
-	LongLat	[ 47.39999999999998 36.3 0 ]
+	LongLat	[ 47.4 36.3 0 ]
 	Size	9.80
 	Type	"AA"	# Crater, craters
 }
@@ -13967,7 +13967,7 @@ Location "Shala Mons" "Sol/Venus"
 # Origin: Armenian goddess of love.
 Location "Shamiram Tholus" "Sol/Venus"
 {
-	LongLat	[ 24.80000000000001 6.9 0 ]
+	LongLat	[ 24.8 6.9 0 ]
 	Size	10.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -13976,7 +13976,7 @@ Location "Shamiram Tholus" "Sol/Venus"
 # Origin: Turkman first name.
 Location "Shasenem" "Sol/Venus"
 {
-	LongLat	[ 101.10000000000002 44.0 0 ]
+	LongLat	[ 101.1 44.0 0 ]
 	Size	9.00
 	Type	"AA"	# Crater, craters
 }
@@ -14003,7 +14003,7 @@ Location "Shelikhova Patera" "Sol/Venus"
 # Origin: Chinese physician (1873-1954).
 Location "Shih Mai-Yu" "Sol/Venus"
 {
-	LongLat	[ 41.10000000000002 -18.4 0 ]
+	LongLat	[ 41.1 -18.4 0 ]
 	Size	22.30
 	Type	"AA"	# Crater, craters
 }
@@ -14039,7 +14039,7 @@ Location "Shishimora Dorsa" "Sol/Venus"
 # Origin: Zuni fertility goddess.
 Location "Shiwanokia Corona" "Sol/Venus"
 {
-	LongLat	[ 80.19999999999999 42.0 0 ]
+	LongLat	[ 80.2 42.0 0 ]
 	Size	500.00
 	Type	"CR"	# Corona, coronae
 }
@@ -14057,7 +14057,7 @@ Location "Sholpan Vallis" "Sol/Venus"
 # Origin: Hebrew fertility goddess.
 Location "Shulamite Corona" "Sol/Venus"
 {
-	LongLat	[ 75.69999999999999 38.8 0 ]
+	LongLat	[ 75.7 38.8 0 ]
 	Size	275.00
 	Type	"CR"	# Corona, coronae
 }
@@ -14102,7 +14102,7 @@ Location "Sicasica Fluctus" "Sol/Venus"
 # Origin: Sarah; English actress (1755-1831).
 Location "Siddons Patera" "Sol/Venus"
 {
-	LongLat	[ 19.399999999999977 -61.6 0 ]
+	LongLat	[ 19.4 -61.6 0 ]
 	Size	47.00
 	Type	"PE"	# Patera, paterae
 }
@@ -14120,7 +14120,7 @@ Location "Sidney" "Sol/Venus"
 # Origin: Babylonian goddess of wine and wisdom.
 Location "Siduri Mons" "Sol/Venus"
 {
-	LongLat	[ 62.69999999999999 42.3 0 ]
+	LongLat	[ 62.7 42.3 0 ]
 	Size	105.00
 	Type	"MO"	# Mons, montes
 }
@@ -14129,7 +14129,7 @@ Location "Siduri Mons" "Sol/Venus"
 # Origin: Teutonic goddess; Thor's wife.
 Location "Sif Mons" "Sol/Venus"
 {
-	LongLat	[ 7.600000000000023 -22.0 0 ]
+	LongLat	[ 7.6 -22.0 0 ]
 	Size	200.00
 	Type	"MO"	# Mons, montes
 }
@@ -14147,7 +14147,7 @@ Location "Sige Dorsa" "Sol/Venus"
 # Origin: Scandinavian first name.
 Location "Sigrid" "Sol/Venus"
 {
-	LongLat	[ 45.60000000000002 -63.6 0 ]
+	LongLat	[ 45.6 -63.6 0 ]
 	Size	16.20
 	Type	"AA"	# Crater, craters
 }
@@ -14174,7 +14174,7 @@ Location "Siksaup Dorsa" "Sol/Venus"
 # Origin: Roman earth goddess.
 Location "Silvia Corona" "Sol/Venus"
 {
-	LongLat	[ 4.300000000000011 -12.6 0 ]
+	LongLat	[ 4.3 -12.6 0 ]
 	Size	270.00
 	Type	"CR"	# Corona, coronae
 }
@@ -14228,7 +14228,7 @@ Location "Sinann Vallis" "Sol/Venus"
 # Origin: Micronesian (Kosrae Island, Caroline Islands) breadfruit tree goddess.
 Location "Sinlaku Corona" "Sol/Venus"
 {
-	LongLat	[ 99.69999999999999 -17.3 0 ]
+	LongLat	[ 99.7 -17.3 0 ]
 	Size	300.00
 	Type	"CR"	# Corona, coronae
 }
@@ -14255,7 +14255,7 @@ Location "Sirona Dorsa" "Sol/Venus"
 # Origin: Indonesian earth, nature, and creator goddess.
 Location "Sitapi Coronae" "Sol/Venus"
 {
-	LongLat	[ 113.19999999999999 36.5 0 ]
+	LongLat	[ 113.2 36.5 0 ]
 	Size	270.00
 	Type	"CR"	# Corona, coronae
 }
@@ -14336,7 +14336,7 @@ Location "Sogolon Planitia" "Sol/Venus"
 # Origin: Latin first name.
 Location "Solace" "Sol/Venus"
 {
-	LongLat	[ 42.80000000000001 -35.9 0 ]
+	LongLat	[ 42.8 -35.9 0 ]
 	Size	5.30
 	Type	"AA"	# Crater, craters
 }
@@ -14417,7 +14417,7 @@ Location "Stanton" "Sol/Venus"
 # Origin: Romanian first name.
 Location "Stefania" "Sol/Venus"
 {
-	LongLat	[ 26.69999999999999 -51.3 0 ]
+	LongLat	[ 26.7 -51.3 0 ]
 	Size	11.70
 	Type	"AA"	# Crater, craters
 }
@@ -14435,7 +14435,7 @@ Location "Stein" "Sol/Venus"
 # Origin: Sabina; German sculptor (c. 1250).
 Location "Steinbach" "Sol/Venus"
 {
-	LongLat	[ 103.10000000000002 41.4 0 ]
+	LongLat	[ 103.1 41.4 0 ]
 	Size	20.30
 	Type	"AA"	# Crater, craters
 }
@@ -14471,7 +14471,7 @@ Location "Storni" "Sol/Venus"
 # Origin: Harriet B.; American novelist (1811-1896).
 Location "Stowe" "Sol/Venus"
 {
-	LongLat	[ 126.80000000000001 43.2 0 ]
+	LongLat	[ 126.8 43.2 0 ]
 	Size	80.00
 	Type	"AA"	# Crater, craters
 }
@@ -14561,7 +14561,7 @@ Location "Sullivan" "Sol/Venus"
 # Origin: E. Slavic underworld goddess.
 Location "Sumerla Tholi" "Sol/Venus"
 {
-	LongLat	[ 107.80000000000001 13.8 0 ]
+	LongLat	[ 107.8 13.8 0 ]
 	Size	90.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -14633,7 +14633,7 @@ Location "Sutkatyn Chasmata" "Sol/Venus"
 # Origin: Russian first name.
 Location "Sveta" "Sol/Venus"
 {
-	LongLat	[ 86.80000000000001 -82.5 0 ]
+	LongLat	[ 86.8 -82.5 0 ]
 	Size	21.00
 	Type	"AA"	# Crater, craters
 }
@@ -14715,7 +14715,7 @@ Location "Tai-pe Valles" "Sol/Venus"
 # Origin: Osset first name.
 Location "Taira" "Sol/Venus"
 {
-	LongLat	[ 63.19999999999999 1.6 0 ]
+	LongLat	[ 63.2 1.6 0 ]
 	Size	19.60
 	Type	"AA"	# Crater, craters
 }
@@ -14733,7 +14733,7 @@ Location "Tai Shan Corona" "Sol/Venus"
 # Origin: Fulbe first name.
 Location "Tako" "Sol/Venus"
 {
-	LongLat	[ 74.69999999999999 -25.1 0 ]
+	LongLat	[ 74.7 -25.1 0 ]
 	Size	10.70
 	Type	"AA"	# Crater, craters
 }
@@ -14742,7 +14742,7 @@ Location "Tako" "Sol/Venus"
 # Origin: Hopi (USA) fertility goddess.
 Location "Takus Mana Corona" "Sol/Venus"
 {
-	LongLat	[ 14.699999999999989 19.6 0 ]
+	LongLat	[ 14.7 19.6 0 ]
 	Size	125.00
 	Type	"CR"	# Corona, coronae
 }
@@ -14751,7 +14751,7 @@ Location "Takus Mana Corona" "Sol/Venus"
 # Origin: Navajo (USA) goddess.
 Location "Talakin Mons" "Sol/Venus"
 {
-	LongLat	[ 4.600000000000023 11.0 0 ]
+	LongLat	[ 4.6 11.0 0 ]
 	Size	175.00
 	Type	"MO"	# Mons, montes
 }
@@ -14769,7 +14769,7 @@ Location "Talvikki" "Sol/Venus"
 # Origin: Georgian first name.
 Location "Tamara" "Sol/Venus"
 {
-	LongLat	[ 42.80000000000001 -61.6 0 ]
+	LongLat	[ 42.8 -61.6 0 ]
 	Size	11.00
 	Type	"AA"	# Crater, craters
 }
@@ -14805,7 +14805,7 @@ Location "Tangba Corona" "Sol/Venus"
 # Origin: Russian first name.
 Location "Tanya" "Sol/Venus"
 {
-	LongLat	[ 77.30000000000001 19.3 0 ]
+	LongLat	[ 77.3 19.3 0 ]
 	Size	14.00
 	Type	"AA"	# Crater, craters
 }
@@ -14850,7 +14850,7 @@ Location "Tarbell Patera" "Sol/Venus"
 # Origin: Khonds (India) Earth goddess.
 Location "Tari Pennu Corona" "Sol/Venus"
 {
-	LongLat	[ 95.69999999999999 -0.3 0 ]
+	LongLat	[ 95.7 -0.3 0 ]
 	Size	180.00
 	Type	"CR"	# Corona, coronae
 }
@@ -14958,7 +14958,7 @@ Location "Temou" "Sol/Venus"
 # Origin: Mariya; Russian painter and art collector (1867-1928).
 Location "Tenisheva Patera" "Sol/Venus"
 {
-	LongLat	[ 105.19999999999999 1.4 0 ]
+	LongLat	[ 105.2 1.4 0 ]
 	Size	80.00
 	Type	"PE"	# Patera, paterae
 }
@@ -15039,7 +15039,7 @@ Location "Teura" "Sol/Venus"
 # Origin: Josephine; Scottish author (1897-1952).
 Location "Tey Patera" "Sol/Venus"
 {
-	LongLat	[ 10.899999999999977 17.8 0 ]
+	LongLat	[ 10.9 17.8 0 ]
 	Size	20.00
 	Type	"PE"	# Patera, paterae
 }
@@ -15085,7 +15085,7 @@ Location "Theia Mons" "Sol/Venus"
 # Origin: Greek Titaness.
 Location "THEMIS REGIO" "Sol/Venus"
 {
-	LongLat	[ 75.80000000000001 37.4 0 ]
+	LongLat	[ 75.8 37.4 0 ]
 	Size	1811.00
 	Type	"RE"	# Regio, regiones
 }
@@ -15184,7 +15184,7 @@ Location "Tinatin Planitia" "Sol/Venus"
 # Origin: Mande (Sierra Leone) river spirit.
 Location "Tingoi Vallis" "Sol/Venus"
 {
-	LongLat	[ 41.39999999999998 -6.0 0 ]
+	LongLat	[ 41.4 -6.0 0 ]
 	Size	250.00
 	Type	"VA"	# Vallis, valles
 }
@@ -15238,7 +15238,7 @@ Location "Tkashi-mapa Chasma" "Sol/Venus"
 # Origin: Aztec earthquake goddess.
 Location "Toci Tholus" "Sol/Venus"
 {
-	LongLat	[ 4.899999999999977 -29.5 0 ]
+	LongLat	[ 4.9 -29.5 0 ]
 	Size	300.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -15247,7 +15247,7 @@ Location "Toci Tholus" "Sol/Venus"
 # Origin: Alice; American writer, art patron (1877-1967).
 Location "Toklas" "Sol/Venus"
 {
-	LongLat	[ 86.89999999999998 -0.7 0 ]
+	LongLat	[ 86.9 -0.7 0 ]
 	Size	17.50
 	Type	"AA"	# Crater, craters
 }
@@ -15256,7 +15256,7 @@ Location "Toklas" "Sol/Venus"
 # Origin: Kyrgyz first name.
 Location "Tolgonay" "Sol/Venus"
 {
-	LongLat	[ 88.89999999999998 -68.8 0 ]
+	LongLat	[ 88.9 -68.8 0 ]
 	Size	4.60
 	Type	"AA"	# Crater, craters
 }
@@ -15328,7 +15328,7 @@ Location "Trotula Corona" "Sol/Venus"
 # Origin: Sojourner; American abolitionist (1797-1883).
 Location "Truth" "Sol/Venus"
 {
-	LongLat	[ 72.19999999999999 -28.7 0 ]
+	LongLat	[ 72.2 -28.7 0 ]
 	Size	47.30
 	Type	"AA"	# Crater, craters
 }
@@ -15337,7 +15337,7 @@ Location "Truth" "Sol/Venus"
 # Origin: Chinese goddess of silkworms.
 Location "Ts'an Nu Mons" "Sol/Venus"
 {
-	LongLat	[ 87.10000000000002 27.2 0 ]
+	LongLat	[ 87.1 27.2 0 ]
 	Size	310.00
 	Type	"MO"	# Mons, montes
 }
@@ -15364,7 +15364,7 @@ Location "Tseraskaya" "Sol/Venus"
 # Origin: Mordovian (Volga Finn) first name.
 Location "Tsetsa" "Sol/Venus"
 {
-	LongLat	[ 42.30000000000001 -31.3 0 ]
+	LongLat	[ 42.3 -31.3 0 ]
 	Size	9.90
 	Type	"AA"	# Crater, craters
 }
@@ -15436,7 +15436,7 @@ Location "Tukwunag Dorsa" "Sol/Venus"
 # Origin: Samoan goddess of creation.
 Location "Tuli Mons" "Sol/Venus"
 {
-	LongLat	[ 45.39999999999998 -13.3 0 ]
+	LongLat	[ 45.4 -13.3 0 ]
 	Size	750.00
 	Type	"MO"	# Mons, montes
 }
@@ -15445,7 +15445,7 @@ Location "Tuli Mons" "Sol/Venus"
 # Origin: Hopi (USA) fertility goddess.
 Location "Tumas Corona" "Sol/Venus"
 {
-	LongLat	[ 8.800000000000011 16.3 0 ]
+	LongLat	[ 8.8 16.3 0 ]
 	Size	200.00
 	Type	"CR"	# Corona, coronae
 }
@@ -15463,7 +15463,7 @@ Location "Tünde" "Sol/Venus"
 # Origin: Onondaga/Iroquois deities of crops (“;The Three Sisters“;).
 Location "Tunehakwe Corona" "Sol/Venus"
 {
-	LongLat	[ 56.39999999999998 33.4 0 ]
+	LongLat	[ 56.4 33.4 0 ]
 	Size	290.00
 	Type	"CR"	# Corona, coronae
 }
@@ -15562,7 +15562,7 @@ Location "Tutelina Corona" "Sol/Venus"
 # Origin: Finnish wood goddess.
 Location "Tuulikki Mons" "Sol/Venus"
 {
-	LongLat	[ 85.30000000000001 -10.3 0 ]
+	LongLat	[ 85.3 -10.3 0 ]
 	Size	520.00
 	Type	"MO"	# Mons, montes
 }
@@ -15634,7 +15634,7 @@ Location "Udagan" "Sol/Venus"
 # Origin: Nadezhda; Russian artist (1885-1961).
 Location "Udaltsova" "Sol/Venus"
 {
-	LongLat	[ 84.69999999999999 20.3 0 ]
+	LongLat	[ 84.7 20.3 0 ]
 	Size	26.70
 	Type	"AA"	# Crater, craters
 }
@@ -15679,7 +15679,7 @@ Location "Uilata Fluctus" "Sol/Venus"
 # Origin: Japanese fertility goddess.
 Location "Ukemochi Corona" "Sol/Venus"
 {
-	LongLat	[ 63.89999999999998 39.0 0 ]
+	LongLat	[ 63.9 39.0 0 ]
 	Size	300.00
 	Type	"CR"	# Corona, coronae
 }
@@ -15859,7 +15859,7 @@ Location "Unuk Dorsa" "Sol/Venus"
 # Origin: Adygan (Caucasus) goddess of hearth.
 Location "Uorsar Rupes" "Sol/Venus"
 {
-	LongLat	[ 18.80000000000001 -76.8 0 ]
+	LongLat	[ 18.8 -76.8 0 ]
 	Size	820.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -15940,7 +15940,7 @@ Location "Urutonga Colles" "Sol/Venus"
 # Origin: Indian goddess of dawn.
 Location "Ushas Mons" "Sol/Venus"
 {
-	LongLat	[ 35.39999999999998 24.3 0 ]
+	LongLat	[ 35.4 24.3 0 ]
 	Size	413.00
 	Type	"MO"	# Mons, montes
 }
@@ -15985,7 +15985,7 @@ Location "Utrenitsa Vallis" "Sol/Venus"
 # Origin: Siberian; Turco-Tatar goddess of the hearth fire.
 Location "Ut Rupes" "Sol/Venus"
 {
-	LongLat	[ 38.10000000000002 -55.3 0 ]
+	LongLat	[ 38.1 -55.3 0 ]
 	Size	676.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -16075,7 +16075,7 @@ Location "Vaka" "Sol/Venus"
 # Origin: Lithuanian word for planet Venus.
 Location "Vakarine Vallis" "Sol/Venus"
 {
-	LongLat	[ 23.600000000000023 -5.0 0 ]
+	LongLat	[ 23.6 -5.0 0 ]
 	Size	625.00
 	Type	"VA"	# Vallis, valles
 }
@@ -16102,7 +16102,7 @@ Location "Valadon" "Sol/Venus"
 # Origin: Danish first name.
 Location "Valborg" "Sol/Venus"
 {
-	LongLat	[ 87.89999999999998 -75.5 0 ]
+	LongLat	[ 87.9 -75.5 0 ]
 	Size	20.00
 	Type	"AA"	# Crater, craters
 }
@@ -16165,7 +16165,7 @@ Location "Vard" "Sol/Venus"
 # Origin: Mordvinian (Volga Finn) wind goddess.
 Location "Varma-Ava Dorsa" "Sol/Venus"
 {
-	LongLat	[ 91.19999999999999 -62.3 0 ]
+	LongLat	[ 91.2 -62.3 0 ]
 	Size	767.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -16174,7 +16174,7 @@ Location "Varma-Ava Dorsa" "Sol/Venus"
 # Origin: Scandinavian love goddess.
 Location "Var Mons" "Sol/Venus"
 {
-	LongLat	[ 43.80000000000001 -1.2 0 ]
+	LongLat	[ 43.8 -1.2 0 ]
 	Size	1000.00
 	Type	"MO"	# Mons, montes
 }
@@ -16219,7 +16219,7 @@ Location "VASILISA REGIO" "Sol/Venus"
 # Origin: Moldavian first name.
 Location "Vasilutsa" "Sol/Venus"
 {
-	LongLat	[ 25.600000000000023 -16.5 0 ]
+	LongLat	[ 25.6 -16.5 0 ]
 	Size	5.70
 	Type	"AA"	# Crater, craters
 }
@@ -16300,7 +16300,7 @@ Location "Vellamo Planitia" "Sol/Venus"
 # Origin: Ancient Italian sea goddess.
 Location "Venilia Mons" "Sol/Venus"
 {
-	LongLat	[ 121.19999999999999 -32.7 0 ]
+	LongLat	[ 121.2 -32.7 0 ]
 	Size	320.00
 	Type	"MO"	# Mons, montes
 }
@@ -16318,7 +16318,7 @@ Location "Verdandi Corona" "Sol/Venus"
 # Origin: Georgian first name.
 Location "Veriko" "Sol/Venus"
 {
-	LongLat	[ 9.899999999999977 -20.4 0 ]
+	LongLat	[ 9.9 -20.4 0 ]
 	Size	5.20
 	Type	"AA"	# Crater, craters
 }
@@ -16363,7 +16363,7 @@ Location "Vesper Vallis" "Sol/Venus"
 # Origin: Roman hearth goddess.
 Location "Vesta Rupes" "Sol/Venus"
 {
-	LongLat	[ 36.10000000000002 -58.3 0 ]
+	LongLat	[ 36.1 -58.3 0 ]
 	Size	788.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -16399,7 +16399,7 @@ Location "Vetsorgo Dorsum" "Sol/Venus"
 # Origin: (Viardot-Garcia) Pauline; French singer and composer (1821-1910).
 Location "Viardot Patera" "Sol/Venus"
 {
-	LongLat	[ 105.69999999999999 7.0 0 ]
+	LongLat	[ 105.7 7.0 0 ]
 	Size	55.00
 	Type	"PE"	# Patera, paterae
 }
@@ -16471,7 +16471,7 @@ Location "Vir-ava Chasma" "Sol/Venus"
 # Origin: Saami-Lapp forest goddess.
 Location "Vires-Akka Chasma" "Sol/Venus"
 {
-	LongLat	[ 18.399999999999977 -75.6 0 ]
+	LongLat	[ 18.4 -75.6 0 ]
 	Size	742.00
 	Type	"CM"	# Chasma, chasmata
 }
@@ -16498,7 +16498,7 @@ Location "Virginia" "Sol/Venus"
 # Origin: One of the names of Fortuna, Roman goddess of chance.
 Location "Virilis Tesserae" "Sol/Venus"
 {
-	LongLat	[ 120.30000000000001 -56.1 0 ]
+	LongLat	[ 120.3 -56.1 0 ]
 	Size	782.00
 	Type	"TE"	# Tessera, tesserae
 }
@@ -16525,7 +16525,7 @@ Location "Virtus Linea" "Sol/Venus"
 # Origin: Estonian first name.
 Location "Virve" "Sol/Venus"
 {
-	LongLat	[ 13.100000000000023 5.1 0 ]
+	LongLat	[ 13.1 5.1 0 ]
 	Size	18.00
 	Type	"AA"	# Crater, craters
 }
@@ -16552,7 +16552,7 @@ Location "Vlasta" "Sol/Venus"
 # Origin: Anna; Russian chemist (1800-1876).
 Location "Volkova" "Sol/Venus"
 {
-	LongLat	[ 117.80000000000001 -75.2 0 ]
+	LongLat	[ 117.8 -75.2 0 ]
 	Size	47.50
 	Type	"AA"	# Crater, craters
 }
@@ -16561,7 +16561,7 @@ Location "Volkova" "Sol/Venus"
 # Origin: Gypsy first name.
 Location "Volyana" "Sol/Venus"
 {
-	LongLat	[ 0.10000000000002274 -60.6 0 ]
+	LongLat	[ 0.1 -60.6 0 ]
 	Size	5.30
 	Type	"AA"	# Crater, craters
 }
@@ -16570,7 +16570,7 @@ Location "Volyana" "Sol/Venus"
 # Origin: Maria; Austrian pianist (1759-1834).
 Location "von Paradis" "Sol/Venus"
 {
-	LongLat	[ 45.10000000000002 32.2 0 ]
+	LongLat	[ 45.1 32.2 0 ]
 	Size	37.50
 	Type	"AA"	# Crater, craters
 }
@@ -16606,7 +16606,7 @@ Location "von Suttner" "Sol/Venus"
 # Origin: Belorussian deity of home.
 Location "Vostrukha Mons" "Sol/Venus"
 {
-	LongLat	[ 60.60000000000002 6.3 0 ]
+	LongLat	[ 60.6 6.3 0 ]
 	Size	180.00
 	Type	"MO"	# Mons, montes
 }
@@ -16669,7 +16669,7 @@ Location "Wala Dorsa" "Sol/Venus"
 # Origin: Polish first name.
 Location "Wanda" "Sol/Venus"
 {
-	LongLat	[ 36.89999999999998 -71.3 0 ]
+	LongLat	[ 36.9 -71.3 0 ]
 	Size	21.70
 	Type	"AA"	# Crater, craters
 }
@@ -16706,7 +16706,7 @@ Location "Wawalag Planitia" "Sol/Venus"
 # Origin: Hausa (Nigeria) first name.
 Location "Wazata" "Sol/Venus"
 {
-	LongLat	[ 61.69999999999999 -33.6 0 ]
+	LongLat	[ 61.7 -33.6 0 ]
 	Size	13.90
 	Type	"AA"	# Crater, craters
 }
@@ -16715,7 +16715,7 @@ Location "Wazata" "Sol/Venus"
 # Origin: Simone; French author (1909-1943).
 Location "Weil" "Sol/Venus"
 {
-	LongLat	[ 76.89999999999998 -19.4 0 ]
+	LongLat	[ 76.9 -19.4 0 ]
 	Size	24.20
 	Type	"AA"	# Crater, craters
 }
@@ -16733,7 +16733,7 @@ Location "Wendla" "Sol/Venus"
 # Origin: Chinese painter (1595-1634).
 Location "Wen Shu" "Sol/Venus"
 {
-	LongLat	[ 56.30000000000001 5.0 0 ]
+	LongLat	[ 56.3 5.0 0 ]
 	Size	31.50
 	Type	"AA"	# Crater, craters
 }
@@ -16796,7 +16796,7 @@ Location "Whitney" "Sol/Venus"
 # Origin: Clara; German pianist, composer (1819-1896).
 Location "Wieck" "Sol/Venus"
 {
-	LongLat	[ 115.19999999999999 74.2 0 ]
+	LongLat	[ 115.2 74.2 0 ]
 	Size	20.20
 	Type	"AA"	# Crater, craters
 }
@@ -16805,7 +16805,7 @@ Location "Wieck" "Sol/Venus"
 # Origin: Lady Jane Francesca; Irish poet (1821-1891).
 Location "Wilde Patera" "Sol/Venus"
 {
-	LongLat	[ 93.69999999999999 21.3 0 ]
+	LongLat	[ 93.7 21.3 0 ]
 	Size	75.00
 	Type	"PE"	# Patera, paterae
 }
@@ -16823,7 +16823,7 @@ Location "Wilder" "Sol/Venus"
 # Origin: Emma; American educator (1787-1870).
 Location "Willard" "Sol/Venus"
 {
-	LongLat	[ 63.89999999999998 24.6 0 ]
+	LongLat	[ 63.9 24.6 0 ]
 	Size	48.40
 	Type	"AA"	# Crater, craters
 }
@@ -16877,7 +16877,7 @@ Location "Wiwi-yokpa" "Sol/Venus"
 # Origin: Lakota goddess of order, beauty, and happiness.
 Location "Wohpe Tholus" "Sol/Venus"
 {
-	LongLat	[ 71.89999999999998 -41.4 0 ]
+	LongLat	[ 71.9 -41.4 0 ]
 	Size	40.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -16886,7 +16886,7 @@ Location "Wohpe Tholus" "Sol/Venus"
 # Origin: Mary; English author (1759-1797).
 Location "Wollstonecraft" "Sol/Venus"
 {
-	LongLat	[ 99.19999999999999 39.1 0 ]
+	LongLat	[ 99.2 39.1 0 ]
 	Size	44.10
 	Type	"AA"	# Crater, craters
 }
@@ -16904,7 +16904,7 @@ Location "Woolf" "Sol/Venus"
 # Origin: Fanny; American mountaineer, author (1859-1925).
 Location "Workman" "Sol/Venus"
 {
-	LongLat	[ 60.10000000000002 12.9 0 ]
+	LongLat	[ 60.1 12.9 0 ]
 	Size	17.40
 	Type	"AA"	# Crater, craters
 }
@@ -16914,7 +16914,7 @@ Location "Workman" "Sol/Venus"
 # Additional info: Origin changed from “;Chinese empress (c. 624-705).“; on 02/27/2017, to provide more complete information.
 Location "Wu Hou" "Sol/Venus"
 {
-	LongLat	[ 42.60000000000002 25.5 0 ]
+	LongLat	[ 42.6 25.5 0 ]
 	Size	27.50
 	Type	"AA"	# Crater, craters
 }
@@ -16941,7 +16941,7 @@ Location "Wynne" "Sol/Venus"
 # Origin: Anglo-Saxon weaving goddess.
 Location "Wyrd Mons" "Sol/Venus"
 {
-	LongLat	[ 112.80000000000001 -14.0 0 ]
+	LongLat	[ 112.8 -14.0 0 ]
 	Size	150.00
 	Type	"MO"	# Mons, montes
 }
@@ -17112,7 +17112,7 @@ Location "Yakyt" "Sol/Venus"
 # Origin: Caroline; American educator of the deaf (1848-1933).
 Location "Yale" "Sol/Venus"
 {
-	LongLat	[ 88.80000000000001 13.4 0 ]
+	LongLat	[ 88.8 13.4 0 ]
 	Size	18.50
 	Type	"AA"	# Crater, craters
 }
@@ -17148,7 +17148,7 @@ Location "Yanbike Corona" "Sol/Venus"
 # Origin: Brazilian goddess of wind and fire.
 Location "Yansa Tholus" "Sol/Venus"
 {
-	LongLat	[ 127.80000000000001 -76.1 0 ]
+	LongLat	[ 127.8 -76.1 0 ]
 	Size	20.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -17328,7 +17328,7 @@ Location "Yonok" "Sol/Venus"
 # Origin: Korean first name.
 Location "Yonsuk" "Sol/Venus"
 {
-	LongLat	[ 125.19999999999999 34.0 0 ]
+	LongLat	[ 125.2 34.0 0 ]
 	Size	8.50
 	Type	"AA"	# Crater, craters
 }
@@ -17418,7 +17418,7 @@ Location "Yvette" "Sol/Venus"
 # Origin: French first name.
 Location "Yvonne" "Sol/Venus"
 {
-	LongLat	[ 61.60000000000002 56.0 0 ]
+	LongLat	[ 61.6 56.0 0 ]
 	Size	14.50
 	Type	"AA"	# Crater, craters
 }
@@ -17445,7 +17445,7 @@ Location "Zaltu Mons" "Sol/Venus"
 # Origin: Persian earth goddess.
 Location "Zamin Corona" "Sol/Venus"
 {
-	LongLat	[ 101.69999999999999 -31.5 0 ]
+	LongLat	[ 101.7 -31.5 0 ]
 	Size	315.00
 	Type	"CR"	# Corona, coronae
 }
@@ -17472,7 +17472,7 @@ Location "Zaramama Corona" "Sol/Venus"
 # Origin: Avarian (Daghestan) first name.
 Location "Zarema" "Sol/Venus"
 {
-	LongLat	[ 124.80000000000001 -16.8 0 ]
+	LongLat	[ 124.8 -16.8 0 ]
 	Size	5.00
 	Type	"AA"	# Crater, craters
 }
@@ -17562,7 +17562,7 @@ Location "Zenobia" "Sol/Venus"
 # Origin: Persian first name.
 Location "Zerine" "Sol/Venus"
 {
-	LongLat	[ 101.39999999999998 29.6 0 ]
+	LongLat	[ 101.4 29.6 0 ]
 	Size	6.50
 	Type	"AA"	# Crater, craters
 }
@@ -17643,7 +17643,7 @@ Location "Zimcerla Dorsa" "Sol/Venus"
 # Origin: Romanian first name.
 Location "Zina" "Sol/Venus"
 {
-	LongLat	[ 39.89999999999998 -41.9 0 ]
+	LongLat	[ 39.9 -41.9 0 ]
 	Size	9.00
 	Type	"AA"	# Crater, craters
 }
@@ -17652,7 +17652,7 @@ Location "Zina" "Sol/Venus"
 # Origin: Nicaraguan creator goddess.
 Location "Zipaltonal Fluctus" "Sol/Venus"
 {
-	LongLat	[ 108.69999999999999 -37.7 0 ]
+	LongLat	[ 108.7 -37.7 0 ]
 	Size	290.00
 	Type	"FL"	# Fluctus, fluctūs
 }
@@ -17688,7 +17688,7 @@ Location "Živile" "Sol/Venus"
 # Origin: Serbocroatian first name.
 Location "Zlata" "Sol/Venus"
 {
-	LongLat	[ 26.100000000000023 -64.6 0 ]
+	LongLat	[ 26.1 -64.6 0 ]
 	Size	7.00
 	Type	"AA"	# Crater, craters
 }
@@ -17697,7 +17697,7 @@ Location "Zlata" "Sol/Venus"
 # Origin: Moldavian dawn goddess.
 Location "Zorile Dorsa" "Sol/Venus"
 {
-	LongLat	[ 21.600000000000023 -39.9 0 ]
+	LongLat	[ 21.6 -39.9 0 ]
 	Size	1041.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -17706,7 +17706,7 @@ Location "Zorile Dorsa" "Sol/Venus"
 # Origin: Slavic dawn goddess.
 Location "Zorya Tholus" "Sol/Venus"
 {
-	LongLat	[ 24.69999999999999 9.4 0 ]
+	LongLat	[ 24.7 9.4 0 ]
 	Size	22.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -17724,7 +17724,7 @@ Location "Zosia" "Sol/Venus"
 # Origin: Russian first name.
 Location "Zoya" "Sol/Venus"
 {
-	LongLat	[ 123.80000000000001 -69.1 0 ]
+	LongLat	[ 123.8 -69.1 0 ]
 	Size	20.00
 	Type	"AA"	# Crater, craters
 }
@@ -17778,7 +17778,7 @@ Location "Zumrad" "Sol/Venus"
 # Origin: Gypsy first name.
 Location "Zurka" "Sol/Venus"
 {
-	LongLat	[ 84.80000000000001 12.8 0 ]
+	LongLat	[ 84.8 12.8 0 ]
 	Size	5.50
 	Type	"AA"	# Crater, craters
 }
@@ -17787,7 +17787,7 @@ Location "Zurka" "Sol/Venus"
 # Origin: Lidiya; Russian aviator (1890-1916).
 Location "Zvereva" "Sol/Venus"
 {
-	LongLat	[ 76.89999999999998 -45.4 0 ]
+	LongLat	[ 76.9 -45.4 0 ]
 	Size	22.90
 	Type	"AA"	# Crater, craters
 }
@@ -17805,7 +17805,7 @@ Location "Žverine Chasma" "Sol/Venus"
 # Origin: Polish goddess of life.
 Location "Zywie Corona" "Sol/Venus"
 {
-	LongLat	[ 68.80000000000001 38.6 0 ]
+	LongLat	[ 68.8 38.6 0 ]
 	Size	200.00
 	Type	"CR"	# Corona, coronae
 }

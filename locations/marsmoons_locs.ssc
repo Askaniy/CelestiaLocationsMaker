@@ -195,7 +195,7 @@ Location "Wendell" "Sol/Mars/Phobos"
 # Origin: Jonathan; British writer (1667-1745).
 Location "Swift" "Sol/Mars/Deimos"
 {
-	LongLat	[ 1.8000000000000114 12.5 0 ]
+	LongLat	[ 1.8 12.5 0 ]
 	Size	1.00
 	Type	"AA"	# Crater, craters
 }

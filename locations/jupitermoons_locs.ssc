@@ -72,7 +72,7 @@ Location "Ababinili Patera" "Sol/Jupiter/Io"
 # Origin: Japanese fire god.
 Location "Acala Fluctus" "Sol/Jupiter/Io"
 {
-	LongLat	[ 25.399999999999977 9.03 0 ]
+	LongLat	[ 25.4 9.03 0 ]
 	Size	415.32
 	Type	"FL"	# Fluctus, fluctūs
 }
@@ -81,7 +81,7 @@ Location "Acala Fluctus" "Sol/Jupiter/Io"
 # Origin: Hindu god of fire.
 Location "Agni Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 26.910000000000025 -40.78 0 ]
+	LongLat	[ 26.91 -40.78 0 ]
 	Size	19.70
 	Type	"PE"	# Patera, paterae
 }
@@ -117,7 +117,7 @@ Location "Altjirra Patera" "Sol/Jupiter/Io"
 # Origin: Japanese sun goddess.
 Location "Amaterasu Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 53.44999999999999 38.21 0 ]
+	LongLat	[ 53.45 38.21 0 ]
 	Size	95.27
 	Type	"PE"	# Patera, paterae
 }
@@ -144,7 +144,7 @@ Location "Angpetu Patera" "Sol/Jupiter/Io"
 # Origin: Greek; name for Epaphus, son of Io and Zeus.
 Location "Apis Tholus" "Sol/Jupiter/Io"
 {
-	LongLat	[ 12.300000000000011 -11.92 0 ]
+	LongLat	[ 12.3 -11.92 0 ]
 	Size	199.16
 	Type	"TH"	# Tholus, tholi
 }
@@ -153,7 +153,7 @@ Location "Apis Tholus" "Sol/Jupiter/Io"
 # Origin: Armenian thunder god.
 Location "Aramazd Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 23.389999999999986 -73.57 0 ]
+	LongLat	[ 23.39 -73.57 0 ]
 	Size	69.33
 	Type	"PE"	# Patera, paterae
 }
@@ -198,7 +198,7 @@ Location "Asha Patera" "Sol/Jupiter/Io"
 # Origin: Iranian personification of fire.
 Location "Ātar Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 81.35000000000002 30.87 0 ]
+	LongLat	[ 81.35 30.87 0 ]
 	Size	80.01
 	Type	"PE"	# Patera, paterae
 }
@@ -207,7 +207,7 @@ Location "Ātar Patera" "Sol/Jupiter/Io"
 # Origin: Egyptian sun god.
 Location "Aten Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 50.02999999999997 -48.45 0 ]
+	LongLat	[ 50.03 -48.45 0 ]
 	Size	48.84
 	Type	"PE"	# Patera, paterae
 }
@@ -216,7 +216,7 @@ Location "Aten Patera" "Sol/Jupiter/Io"
 # Origin: Sumerian; sun god.
 Location "Babbar Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 88.41000000000003 -39.81 0 ]
+	LongLat	[ 88.41 -39.81 0 ]
 	Size	110.34
 	Type	"PE"	# Patera, paterae
 }
@@ -261,7 +261,7 @@ Location "Bochica Patera" "Sol/Jupiter/Io"
 # Origin: Cave where Io bore Epaphus.
 Location "Boösaule Montes" "Sol/Jupiter/Io"
 {
-	LongLat	[ 90.88999999999999 -3.75 0 ]
+	LongLat	[ 90.89 -3.75 0 ]
 	Size	540.00
 	Type	"MO"	# Mons, montes
 }
@@ -306,7 +306,7 @@ Location "Capaneus Mensa" "Sol/Jupiter/Io"
 # Origin: Bolivian legendary hero who received fire from an owl.
 Location "Carancho Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 42.72000000000003 1.52 0 ]
+	LongLat	[ 42.72 1.52 0 ]
 	Size	30.61
 	Type	"PE"	# Patera, paterae
 }
@@ -333,7 +333,7 @@ Location "Catha Patera" "Sol/Jupiter/Io"
 # Origin: Io passed by these mountains while trying to escape from the gadfly.
 Location "Caucasus Mons" "Sol/Jupiter/Io"
 {
-	LongLat	[ 121.52000000000001 -31.95 0 ]
+	LongLat	[ 121.52 -31.95 0 ]
 	Size	146.60
 	Type	"MO"	# Mons, montes
 }
@@ -378,7 +378,7 @@ Location "COLCHIS REGIO" "Sol/Jupiter/Io"
 # Origin: Celtic smith god.
 Location "Creidne Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 17.44999999999999 -53.31 0 ]
+	LongLat	[ 17.45 -53.31 0 ]
 	Size	168.66
 	Type	"PE"	# Patera, paterae
 }
@@ -423,7 +423,7 @@ Location "Daedalus Patera" "Sol/Jupiter/Io"
 # Origin: Where Io passed by in her wanderings.
 Location "Danube Planum" "Sol/Jupiter/Io"
 {
-	LongLat	[ 101.99000000000001 -22.58 0 ]
+	LongLat	[ 101.99 -22.58 0 ]
 	Size	248.03
 	Type	"PM"	# Planum, plana
 }
@@ -432,7 +432,7 @@ Location "Danube Planum" "Sol/Jupiter/Io"
 # Origin: Slavonic sun god.
 Location "Dazhbog Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 58.48000000000002 55.13 0 ]
+	LongLat	[ 58.48 55.13 0 ]
 	Size	118.85
 	Type	"PE"	# Patera, paterae
 }
@@ -441,7 +441,7 @@ Location "Dazhbog Patera" "Sol/Jupiter/Io"
 # Origin: Sumerian sun god; means “;shining“;.
 Location "Dingir Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 18.610000000000014 -4.12 0 ]
+	LongLat	[ 18.61 -4.12 0 ]
 	Size	48.26
 	Type	"PE"	# Patera, paterae
 }
@@ -450,7 +450,7 @@ Location "Dingir Patera" "Sol/Jupiter/Io"
 # Origin: Greek; where Io went after the death of Argus.
 Location "Dodona Planum" "Sol/Jupiter/Io"
 {
-	LongLat	[ 11.769999999999982 -59.07 0 ]
+	LongLat	[ 11.77 -59.07 0 ]
 	Size	515.00
 	Type	"PM"	# Planum, plana
 }
@@ -486,7 +486,7 @@ Location "Dusura Patera" "Sol/Jupiter/Io"
 # Origin: Mother of Iynx.
 Location "Echo Mensa" "Sol/Jupiter/Io"
 {
-	LongLat	[ 5.470000000000027 -79.92 0 ]
+	LongLat	[ 5.47 -79.92 0 ]
 	Size	205.05
 	Type	"MN"	# Mensa, mensae
 }
@@ -495,7 +495,7 @@ Location "Echo Mensa" "Sol/Jupiter/Io"
 # Origin: Io ended her wanderings here.
 Location "Egypt Mons" "Sol/Jupiter/Io"
 {
-	LongLat	[ 103.02999999999997 -41.56 0 ]
+	LongLat	[ 103.03 -41.56 0 ]
 	Size	218.54
 	Type	"MO"	# Mons, montes
 }
@@ -522,7 +522,7 @@ Location "Emakong Patera" "Sol/Jupiter/Io"
 # Origin: “;Child of touch,“; son of Io and Zeus.
 Location "Epaphus Mensa" "Sol/Jupiter/Io"
 {
-	LongLat	[ 120.05000000000001 -53.05 0 ]
+	LongLat	[ 120.05 -53.05 0 ]
 	Size	126.26
 	Type	"MN"	# Mensa, mensae
 }
@@ -549,7 +549,7 @@ Location "Ethiopia Planum" "Sol/Jupiter/Io"
 # Origin: Where Io passed by in her wanderings.
 Location "Euboea Fluctūs" "Sol/Jupiter/Io"
 {
-	LongLat	[ 8.899999999999977 -44.87 0 ]
+	LongLat	[ 8.9 -44.87 0 ]
 	Size	113.00
 	Type	"FL"	# Fluctus, fluctūs
 }
@@ -558,7 +558,7 @@ Location "Euboea Fluctūs" "Sol/Jupiter/Io"
 # Origin: Where Io passed by in her wanderings.
 Location "Euboea Montes" "Sol/Jupiter/Io"
 {
-	LongLat	[ 24.220000000000027 -47.94 0 ]
+	LongLat	[ 24.22 -47.94 0 ]
 	Size	274.91
 	Type	"MO"	# Mons, montes
 }
@@ -576,7 +576,7 @@ Location "Euxine Mons" "Sol/Jupiter/Io"
 # Origin: Norse thunder god.
 Location "Fjorgynn Fluctus" "Sol/Jupiter/Io"
 {
-	LongLat	[ 1.1999999999999886 10.92 0 ]
+	LongLat	[ 1.2 10.92 0 ]
 	Size	413.84
 	Type	"FL"	# Fluctus, fluctūs
 }
@@ -594,7 +594,7 @@ Location "Fo Patera" "Sol/Jupiter/Io"
 # Origin: Ainu fire goddess.
 Location "Fuchi Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 32.39999999999998 28.41 0 ]
+	LongLat	[ 32.4 28.41 0 ]
 	Size	66.44
 	Type	"PE"	# Patera, paterae
 }
@@ -612,7 +612,7 @@ Location "Gabija Patera" "Sol/Jupiter/Io"
 # Origin: Mongol fire god.
 Location "Galai Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 71.89999999999998 -10.8 0 ]
+	LongLat	[ 71.9 -10.8 0 ]
 	Size	122.02
 	Type	"PE"	# Patera, paterae
 }
@@ -621,7 +621,7 @@ Location "Galai Patera" "Sol/Jupiter/Io"
 # Origin: Sumerian fire god.
 Location "Gibil Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 65.41000000000003 -14.91 0 ]
+	LongLat	[ 65.41 -14.91 0 ]
 	Size	107.63
 	Type	"PE"	# Patera, paterae
 }
@@ -702,7 +702,7 @@ Location "Hatchawa Patera" "Sol/Jupiter/Io"
 # Origin: Bushman devil who represents fire.
 Location "Heiseb Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 115.50999999999999 29.95 0 ]
+	LongLat	[ 115.51 29.95 0 ]
 	Size	78.48
 	Type	"PE"	# Patera, paterae
 }
@@ -711,7 +711,7 @@ Location "Heiseb Patera" "Sol/Jupiter/Io"
 # Origin: Iroquois god of thunder.
 Location "Heno Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 48.360000000000014 -57.09 0 ]
+	LongLat	[ 48.36 -57.09 0 ]
 	Size	71.65
 	Type	"PE"	# Patera, paterae
 }
@@ -720,7 +720,7 @@ Location "Heno Patera" "Sol/Jupiter/Io"
 # Origin: Greek smith god.
 Location "Hephaestus Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 70.22000000000003 1.85 0 ]
+	LongLat	[ 70.22 1.85 0 ]
 	Size	40.59
 	Type	"PE"	# Patera, paterae
 }
@@ -756,7 +756,7 @@ Location "Hi'iaka Patera" "Sol/Jupiter/Io"
 # Origin: Japanese sun god.
 Location "Hiruko Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 31.129999999999995 -65.09 0 ]
+	LongLat	[ 31.13 -65.09 0 ]
 	Size	92.83
 	Type	"PE"	# Patera, paterae
 }
@@ -765,7 +765,7 @@ Location "Hiruko Patera" "Sol/Jupiter/Io"
 # Origin: Egyptian falcon-headed solar god.
 Location "Horus Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 22.629999999999995 -9.91 0 ]
+	LongLat	[ 22.63 -9.91 0 ]
 	Size	165.14
 	Type	"PE"	# Patera, paterae
 }
@@ -774,7 +774,7 @@ Location "Horus Patera" "Sol/Jupiter/Io"
 # Origin: Chinese god of fire.
 Location "Huo Shen Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 29.69999999999999 -16.69 0 ]
+	LongLat	[ 29.7 -16.69 0 ]
 	Size	182.70
 	Type	"PE"	# Patera, paterae
 }
@@ -810,7 +810,7 @@ Location "Ilmarinen Patera" "Sol/Jupiter/Io"
 # Origin: Greek; river god, father of Io.
 Location "Inachus Tholus" "Sol/Jupiter/Io"
 {
-	LongLat	[ 12.350000000000023 -16.21 0 ]
+	LongLat	[ 12.35 -16.21 0 ]
 	Size	178.93
 	Type	"TH"	# Tholus, tholi
 }
@@ -828,7 +828,7 @@ Location "Inti Patera" "Sol/Jupiter/Io"
 # Origin: Io crossed this sea in her wanderings.
 Location "Ionian Mons" "Sol/Jupiter/Io"
 {
-	LongLat	[ 123.75999999999999 9.04 0 ]
+	LongLat	[ 123.76 9.04 0 ]
 	Size	193.33
 	Type	"MO"	# Mons, montes
 }
@@ -837,7 +837,7 @@ Location "Ionian Mons" "Sol/Jupiter/Io"
 # Origin: Town where Io was worshipped as moon goddess (present-day Antioch).
 Location "Iopolis Planum" "Sol/Jupiter/Io"
 {
-	LongLat	[ 27.29000000000002 -35.29 0 ]
+	LongLat	[ 27.29 -35.29 0 ]
 	Size	234.69
 	Type	"PM"	# Planum, plana
 }
@@ -927,7 +927,7 @@ Location "Karei Patera" "Sol/Jupiter/Io"
 # Origin: Persian blacksmith.
 Location "Kava Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 18.589999999999975 -16.82 0 ]
+	LongLat	[ 18.59 -16.82 0 ]
 	Size	63.00
 	Type	"PE"	# Patera, paterae
 }
@@ -936,7 +936,7 @@ Location "Kava Patera" "Sol/Jupiter/Io"
 # Origin: Bushman sun in form of man often referred to as the hunter.
 Location "Khalla Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 56.73000000000002 6.18 0 ]
+	LongLat	[ 56.73 6.18 0 ]
 	Size	95.79
 	Type	"PE"	# Patera, paterae
 }
@@ -945,7 +945,7 @@ Location "Khalla Patera" "Sol/Jupiter/Io"
 # Origin: Yaroro toad who lives in underworld giving mankind fire.
 Location "Kibero Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 54.889999999999986 -11.83 0 ]
+	LongLat	[ 54.89 -11.83 0 ]
 	Size	63.13
 	Type	"PE"	# Patera, paterae
 }
@@ -999,7 +999,7 @@ Location "Lei-zi Fluctus" "Sol/Jupiter/Io"
 # Origin: Greek; meadows of Lyrcea.
 Location "LERNA REGIO" "Sol/Jupiter/Io"
 {
-	LongLat	[ 67.92000000000002 -61.8 0 ]
+	LongLat	[ 67.92 -61.8 0 ]
 	Size	580.94
 	Type	"RE"	# Regio, regiones
 }
@@ -1017,7 +1017,7 @@ Location "Llew Patera" "Sol/Jupiter/Io"
 # Origin: Norse blacksmith, trickster god.
 Location "Loki" "Sol/Jupiter/Io"
 {
-	LongLat	[ 57.420000000000016 18.41 0 ]
+	LongLat	[ 57.42 18.41 0 ]
 	Size	200
 	Type	"ER"	# Eruptive center
 }
@@ -1026,7 +1026,7 @@ Location "Loki" "Sol/Jupiter/Io"
 # Origin: Norse blacksmith, trickster god.
 Location "Loki Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 51.20999999999998 13.01 0 ]
+	LongLat	[ 51.21 13.01 0 ]
 	Size	226.57
 	Type	"PE"	# Patera, paterae
 }
@@ -1035,7 +1035,7 @@ Location "Loki Patera" "Sol/Jupiter/Io"
 # Origin: Stove fire associated with Chinese god of the hearth fire.
 Location "Lu Huo Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 6.899999999999977 -38.56 0 ]
+	LongLat	[ 6.9 -38.56 0 ]
 	Size	66.62
 	Type	"PE"	# Patera, paterae
 }
@@ -1053,7 +1053,7 @@ Location "Lyrcea Planum" "Sol/Jupiter/Io"
 # Origin: Hopi (USA) god of fire and death.
 Location "Maasaw Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 20.889999999999986 -40.28 0 ]
+	LongLat	[ 20.89 -40.28 0 ]
 	Size	44.07
 	Type	"PE"	# Patera, paterae
 }
@@ -1062,7 +1062,7 @@ Location "Maasaw Patera" "Sol/Jupiter/Io"
 # Origin: Hawaiian demigoddess whose fingers held fire.
 Location "Mafuike Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 100.57999999999998 -13.58 0 ]
+	LongLat	[ 100.58 -13.58 0 ]
 	Size	153.93
 	Type	"PE"	# Patera, paterae
 }
@@ -1080,7 +1080,7 @@ Location "Malik Patera" "Sol/Jupiter/Io"
 # Origin: Chagaba (Chibcha, Colombia) word for sun.
 Location "Mama Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 4.670000000000016 -11.29 0 ]
+	LongLat	[ 4.67 -11.29 0 ]
 	Size	13.84
 	Type	"PE"	# Patera, paterae
 }
@@ -1089,7 +1089,7 @@ Location "Mama Patera" "Sol/Jupiter/Io"
 # Origin: Hawaiian sun god.
 Location "Manua Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 38.18000000000001 35.91 0 ]
+	LongLat	[ 38.18 35.91 0 ]
 	Size	111.45
 	Type	"PE"	# Patera, paterae
 }
@@ -1116,7 +1116,7 @@ Location "Marduk Fluctus" "Sol/Jupiter/Io"
 # Origin: Nicaraguan smith god.
 Location "Masaya Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 15.420000000000016 -22.62 0 ]
+	LongLat	[ 15.42 -22.62 0 ]
 	Size	61.86
 	Type	"PE"	# Patera, paterae
 }
@@ -1161,7 +1161,7 @@ Location "Maui Patera" "Sol/Jupiter/Io"
 # Origin: Babylonian sun god.
 Location "Mazda Paterae" "Sol/Jupiter/Io"
 {
-	LongLat	[ 46.99000000000001 -8.2 0 ]
+	LongLat	[ 46.99 -8.2 0 ]
 	Size	223.00
 	Type	"PE"	# Patera, paterae
 }
@@ -1188,7 +1188,7 @@ Location "MEDIA REGIO" "Sol/Jupiter/Io"
 # Origin: Mandan (USA) name for the sun.
 Location "Menahka Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 15.160000000000025 -31.34 0 ]
+	LongLat	[ 15.16 -31.34 0 ]
 	Size	19.23
 	Type	"PE"	# Patera, paterae
 }
@@ -1215,7 +1215,7 @@ Location "Michabo Patera" "Sol/Jupiter/Io"
 # Origin: Armenian fire god.
 Location "Mihr Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 54.579999999999984 -16.46 0 ]
+	LongLat	[ 54.58 -16.46 0 ]
 	Size	58.71
 	Type	"PE"	# Patera, paterae
 }
@@ -1224,7 +1224,7 @@ Location "Mihr Patera" "Sol/Jupiter/Io"
 # Origin: Persian god of light.
 Location "Mithra Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 93.51999999999998 -59.04 0 ]
+	LongLat	[ 93.52 -59.04 0 ]
 	Size	32.16
 	Type	"PE"	# Patera, paterae
 }
@@ -1296,7 +1296,7 @@ Location "Nemea Planum" "Sol/Jupiter/Io"
 # Origin: Where Zeus restored Io to her human form.
 Location "Nile Montes" "Sol/Jupiter/Io"
 {
-	LongLat	[ 109.53999999999999 53.65 0 ]
+	LongLat	[ 109.54 53.65 0 ]
 	Size	417.00
 	Type	"MO"	# Mons, montes
 }
@@ -1332,7 +1332,7 @@ Location "Nusku Patera" "Sol/Jupiter/Io"
 # Origin: Zambezi sun god.
 Location "Nyambe Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 16.839999999999975 0.32 0 ]
+	LongLat	[ 16.84 0.32 0 ]
 	Size	56.64
 	Type	"PE"	# Patera, paterae
 }
@@ -1359,7 +1359,7 @@ Location "Ot Patera" "Sol/Jupiter/Io"
 # Origin: Saami-Lapp sun god.
 Location "Päive Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 1.4499999999999886 -45.69 0 ]
+	LongLat	[ 1.45 -45.69 0 ]
 	Size	57.42
 	Type	"PE"	# Patera, paterae
 }
@@ -1377,7 +1377,7 @@ Location "Pan Mensa" "Sol/Jupiter/Io"
 # Origin: Hopi (USA) name for the sun.
 Location "Pautiwa Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 14.410000000000025 -34.2 0 ]
+	LongLat	[ 14.41 -34.2 0 ]
 	Size	7.52
 	Type	"PE"	# Patera, paterae
 }
@@ -1404,7 +1404,7 @@ Location "Pillan Mons" "Sol/Jupiter/Io"
 # Origin: Araucanian thunder, fire, and volcano god.
 Location "Pillan Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 116.71000000000001 -12.3 0 ]
+	LongLat	[ 116.71 -12.3 0 ]
 	Size	68.92
 	Type	"PE"	# Patera, paterae
 }
@@ -1449,7 +1449,7 @@ Location "Prometheus Patera" "Sol/Jupiter/Io"
 # Origin: Mordvinian (Russia) thunder god.
 Location "Purgine Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 62.74000000000001 -2.37 0 ]
+	LongLat	[ 62.74 -2.37 0 ]
 	Size	18.48
 	Type	"PE"	# Patera, paterae
 }
@@ -1476,7 +1476,7 @@ Location "Radegast Patera" "Sol/Jupiter/Io"
 # Origin: Egyptian sun god.
 Location "Ra Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 35.18000000000001 -8.59 0 ]
+	LongLat	[ 35.18 -8.59 0 ]
 	Size	41.19
 	Type	"PE"	# Patera, paterae
 }
@@ -1485,7 +1485,7 @@ Location "Ra Patera" "Sol/Jupiter/Io"
 # Origin: Czech fire deity.
 Location "Rarog Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 55.69999999999999 -41.63 0 ]
+	LongLat	[ 55.7 -41.63 0 ]
 	Size	102.94
 	Type	"PE"	# Patera, paterae
 }
@@ -1530,7 +1530,7 @@ Location "Reshef Patera" "Sol/Jupiter/Io"
 # Origin: Aramaic sun god.
 Location "Reshet Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 54.379999999999995 0.79 0 ]
+	LongLat	[ 54.38 0.79 0 ]
 	Size	146.07
 	Type	"PE"	# Patera, paterae
 }
@@ -1566,7 +1566,7 @@ Location "Savitr Patera" "Sol/Jupiter/Io"
 # Origin: Phoenician chariot rider of the Sun.
 Location "Sêd Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 56.27999999999997 -2.94 0 ]
+	LongLat	[ 56.28 -2.94 0 ]
 	Size	55.12
 	Type	"PE"	# Patera, paterae
 }
@@ -1575,7 +1575,7 @@ Location "Sêd Patera" "Sol/Jupiter/Io"
 # Origin: Japanese; deity of Mt. Fujiyama.
 Location "Sengen Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 56.20999999999998 -32.86 0 ]
+	LongLat	[ 56.21 -32.86 0 ]
 	Size	65.99
 	Type	"PE"	# Patera, paterae
 }
@@ -1611,7 +1611,7 @@ Location "Seth Patera" "Sol/Jupiter/Io"
 # Origin: Pawnee (USA) sun god of the East; gives light and heat.
 Location "Shakuru Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 94.10000000000002 24.0 0 ]
+	LongLat	[ 94.1 24.0 0 ]
 	Size	110.22
 	Type	"PE"	# Patera, paterae
 }
@@ -1656,7 +1656,7 @@ Location "Shango Patera" "Sol/Jupiter/Io"
 # Origin: Caucasian patron of fire.
 Location "Shoshu Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 35.29000000000002 -20.38 0 ]
+	LongLat	[ 35.29 -20.38 0 ]
 	Size	23.24
 	Type	"PE"	# Patera, paterae
 }
@@ -1674,7 +1674,7 @@ Location "Sigurd Patera" "Sol/Jupiter/Io"
 # Origin: Greek; where Io dies of grief in some legends.
 Location "Silpium Mons" "Sol/Jupiter/Io"
 {
-	LongLat	[ 87.64999999999998 -52.62 0 ]
+	LongLat	[ 87.65 -52.62 0 ]
 	Size	114.50
 	Type	"MO"	# Mons, montes
 }
@@ -1728,7 +1728,7 @@ Location "Sui Jen Patera" "Sol/Jupiter/Io"
 # Origin: Icelandic volcano god.
 Location "Surt" "Sol/Jupiter/Io"
 {
-	LongLat	[ 22.79000000000002 45.37 0 ]
+	LongLat	[ 22.79 45.37 0 ]
 	Size	50
 	Type	"ER"	# Eruptive center
 }
@@ -1755,7 +1755,7 @@ Location "Susanoo Patera" "Sol/Jupiter/Io"
 # Origin: Russian smith god.
 Location "Svarog Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 94.35000000000002 -48.51 0 ]
+	LongLat	[ 94.35 -48.51 0 ]
 	Size	124.39
 	Type	"PE"	# Patera, paterae
 }
@@ -1765,7 +1765,7 @@ Location "Svarog Patera" "Sol/Jupiter/Io"
 # Additional info: Name changed from Talos Patera to Talos Paterae August 3, 2012.
 Location "Talos Paterae" "Sol/Jupiter/Io"
 {
-	LongLat	[ 5.240000000000009 -26.35 0 ]
+	LongLat	[ 5.24 -26.35 0 ]
 	Size	28.00
 	Type	"PE"	# Patera, paterae
 }
@@ -1810,7 +1810,7 @@ Location "Tawhaki Vallis" "Sol/Jupiter/Io"
 # Origin: Monguor word for fire or hearth.
 Location "Taw Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 1.6299999999999955 -33.65 0 ]
+	LongLat	[ 1.63 -33.65 0 ]
 	Size	7.04
 	Type	"PE"	# Patera, paterae
 }
@@ -1855,7 +1855,7 @@ Location "Tien Mu Patera" "Sol/Jupiter/Io"
 # Origin: Lapp thunder god.
 Location "Tiermes Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 9.850000000000023 22.29 0 ]
+	LongLat	[ 9.85 22.29 0 ]
 	Size	112.56
 	Type	"PE"	# Patera, paterae
 }
@@ -1882,7 +1882,7 @@ Location "Tohil Patera" "Sol/Jupiter/Io"
 # Origin: Mordvinian (Russia) goddess of fire.
 Location "Tol-Ava Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 37.95999999999998 1.75 0 ]
+	LongLat	[ 37.96 1.75 0 ]
 	Size	87.22
 	Type	"PE"	# Patera, paterae
 }
@@ -1909,7 +1909,7 @@ Location "Tsũi Goab Tholus" "Sol/Jupiter/Io"
 # Origin: Chinese fire god.
 Location "Tung Yo Fluctus" "Sol/Jupiter/Io"
 {
-	LongLat	[ 3.490000000000009 -17.32 0 ]
+	LongLat	[ 3.49 -17.32 0 ]
 	Size	457.95
 	Type	"FL"	# Fluctus, fluctūs
 }
@@ -1963,7 +1963,7 @@ Location "Ukko Patera" "Sol/Jupiter/Io"
 # Origin: Siberian progenitor god who struck first fire.
 Location "Ülgen Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 72.77999999999997 -40.74 0 ]
+	LongLat	[ 72.78 -40.74 0 ]
 	Size	49.81
 	Type	"PE"	# Patera, paterae
 }
@@ -1990,7 +1990,7 @@ Location "Uta Patera" "Sol/Jupiter/Io"
 # Origin: Armenian fire god.
 Location "Vahagn Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 9.269999999999982 -24.19 0 ]
+	LongLat	[ 9.27 -24.19 0 ]
 	Size	95.24
 	Type	"PE"	# Patera, paterae
 }
@@ -2008,7 +2008,7 @@ Location "Viracocha Patera" "Sol/Jupiter/Io"
 # Origin: Hindu god of the morning sun.
 Location "Vivasvant Patera" "Sol/Jupiter/Io"
 {
-	LongLat	[ 66.48000000000002 75.59 0 ]
+	LongLat	[ 66.48 75.59 0 ]
 	Size	98.67
 	Type	"PE"	# Patera, paterae
 }
@@ -2101,7 +2101,7 @@ Location "Adonis Linea" "Sol/Jupiter/Europa"
 # Origin: Daughter of Harmonia and Cadmus.
 Location "Agave Linea" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 86.89999999999998 12.8 0 ]
+	LongLat	[ 86.9 12.8 0 ]
 	Size	1440.00
 	Type	"LI"	# Linea, lineae
 }
@@ -2164,7 +2164,7 @@ Location "Ancaeus Linea" "Sol/Jupiter/Europa"
 # Origin: Son of Minos in Greek mythology.
 Location "Androgeos Linea" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 80.69999999999999 11.7 0 ]
+	LongLat	[ 80.7 11.7 0 ]
 	Size	723.00
 	Type	"LI"	# Linea, lineae
 }
@@ -2227,7 +2227,7 @@ Location "Arran Chaos" "Sol/Jupiter/Europa"
 # Origin: Greek; Europa's husband after Zeus.
 Location "Asterius Linea" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 89.19999999999999 14.9 0 ]
+	LongLat	[ 89.2 14.9 0 ]
 	Size	1943.00
 	Type	"LI"	# Linea, lineae
 }
@@ -2389,7 +2389,7 @@ Location "Castalia Macula" "Sol/Jupiter/Europa"
 # Origin: Survivor of the men Cadmus sowed with dragon's teeth, a founder of Thebes.
 Location "Chthonius Linea" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 55.80000000000001 -1.4 0 ]
+	LongLat	[ 55.8 -1.4 0 ]
 	Size	2180.00
 	Type	"LI"	# Linea, lineae
 }
@@ -2426,7 +2426,7 @@ Location "Cliodhna" "Sol/Jupiter/Europa"
 # Origin: Rugged part of western Ireland named for Conmac, son of the Queen of Connacht.
 Location "Conamara Chaos" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 87.30000000000001 9.7 0 ]
+	LongLat	[ 87.3 9.7 0 ]
 	Size	143.70
 	Type	"CH"	# Chaos, chaoses
 }
@@ -2552,7 +2552,7 @@ Location "Echion Linea" "Sol/Jupiter/Europa"
 # Origin: Stone row in County Kerry, Ireland.
 Location "Eightercua Fossa" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 19.29000000000002 6.68 0 ]
+	LongLat	[ 19.29 6.68 0 ]
 	Size	407.00
 	Type	"FO"	# Fossa, fossae
 }
@@ -2570,7 +2570,7 @@ Location "Elathan" "Sol/Jupiter/Europa"
 # Origin: King of the Fir Bolgs in Celtic mythology.
 Location "Eochaid" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 126.66999999999999 -50.48 0 ]
+	LongLat	[ 126.67 -50.48 0 ]
 	Size	10.60
 	Type	"AA"	# Crater, craters
 }
@@ -2624,7 +2624,7 @@ Location "Gortyna Flexus" "Sol/Jupiter/Europa"
 # Origin: One of the Children of Don, a smith and brewer.
 Location "Govannan" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 57.19999999999999 -37.3 0 ]
+	LongLat	[ 57.2 -37.3 0 ]
 	Size	11.50
 	Type	"AA"	# Crater, craters
 }
@@ -2651,7 +2651,7 @@ Location "Grannus Mensa" "Sol/Jupiter/Europa"
 # Origin: Son of Branwen in Celtic mythology.
 Location "Gwern" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 15.45999999999998 9.14 0 ]
+	LongLat	[ 15.46 9.14 0 ]
 	Size	22.20
 	Type	"AA"	# Crater, craters
 }
@@ -2678,7 +2678,7 @@ Location "Harmonia Linea" "Sol/Jupiter/Europa"
 # Origin: Survivor of the men Cadmus sowed with dragon's teeth, a founder of Thebes.
 Location "Hyperenor Linea" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 35.60000000000002 -12.1 0 ]
+	LongLat	[ 35.6 -12.1 0 ]
 	Size	2996.00
 	Type	"LI"	# Linea, lineae
 }
@@ -2714,7 +2714,7 @@ Location "Kennet Linea" "Sol/Jupiter/Europa"
 # Origin: Stone rows in France (Carnac, Brittany).
 Location "Kerlescan Fossae" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 121.75999999999999 3.34 0 ]
+	LongLat	[ 121.76 3.34 0 ]
 	Size	410.00
 	Type	"FO"	# Fossa, fossae
 }
@@ -2723,7 +2723,7 @@ Location "Kerlescan Fossae" "Sol/Jupiter/Europa"
 # Origin: Stone rows in France (Carnac, Brittany).
 Location "Kermario Fossae" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 5.639999999999986 44.69 0 ]
+	LongLat	[ 5.64 44.69 0 ]
 	Size	191.00
 	Type	"FO"	# Fossa, fossae
 }
@@ -2795,7 +2795,7 @@ Location "Maeve" "Sol/Jupiter/Europa"
 # Origin: Irish sea and fertility god.
 Location "Manannán" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 120.30000000000001 3.1 0 ]
+	LongLat	[ 120.3 3.1 0 ]
 	Size	30.00
 	Type	"AA"	# Crater, craters
 }
@@ -2822,7 +2822,7 @@ Location "Maughanasilly Fossa" "Sol/Jupiter/Europa"
 # Origin: Stone row in Brittany, France.
 Location "Mehen Linea" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 123.30000000000001 56.0 0 ]
+	LongLat	[ 123.3 56.0 0 ]
 	Size	1500.00
 	Type	"LI"	# Linea, lineae
 }
@@ -2885,7 +2885,7 @@ Location "Moyle Cavus" "Sol/Jupiter/Europa"
 # Origin: Location of battles between the Fomorians and the Tautha de Danann.
 Location "MOYTURA REGIO" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 65.69999999999999 -50.0 0 ]
+	LongLat	[ 65.7 -50.0 0 ]
 	Size	483.00
 	Type	"RE"	# Regio, regiones
 }
@@ -2921,7 +2921,7 @@ Location "Niamh" "Sol/Jupiter/Europa"
 # Origin: Celtic god of eloquence and literature, a son of Dagda.
 Location "Ogma" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 72.13999999999999 87.45 0 ]
+	LongLat	[ 72.14 87.45 0 ]
 	Size	5.00
 	Type	"AA"	# Crater, craters
 }
@@ -2966,7 +2966,7 @@ Location "Pelorus Linea" "Sol/Jupiter/Europa"
 # Origin: Greek; brother of Europa.
 Location "Phineus Linea" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 40.10000000000002 -29.8 0 ]
+	LongLat	[ 40.1 -29.8 0 ]
 	Size	2004.00
 	Type	"LI"	# Linea, lineae
 }
@@ -3011,7 +3011,7 @@ Location "Pryderi" "Sol/Jupiter/Europa"
 # Origin: Celtic god of the underworld.
 Location "Pwyll" "Sol/Jupiter/Europa"
 {
-	LongLat	[ 88.60000000000002 -25.2 0 ]
+	LongLat	[ 88.6 -25.2 0 ]
 	Size	45.00
 	Type	"AA"	# Crater, craters
 }
@@ -3257,7 +3257,7 @@ Location "Achelous" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian god of thunder.
 Location "Adad" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 1.9800000000000182 57.43 0 ]
+	LongLat	[ 1.98 57.43 0 ]
 	Size	39.00
 	Type	"AA"	# Crater, craters
 }
@@ -3275,7 +3275,7 @@ Location "Adapa" "Sol/Jupiter/Ganymede"
 # Origin: Hunter god in Tyre.
 Location "Agreus" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 127.30000000000001 15.87 0 ]
+	LongLat	[ 127.3 15.87 0 ]
 	Size	63.00
 	Type	"AA"	# Crater, craters
 }
@@ -3320,7 +3320,7 @@ Location "Aleyin" "Sol/Jupiter/Ganymede"
 # Origin: Phoenician; god of the west.
 Location "Ammura" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 17.649999999999977 31.76 0 ]
+	LongLat	[ 17.65 31.76 0 ]
 	Size	61.50
 	Type	"AA"	# Crater, craters
 }
@@ -3420,7 +3420,7 @@ Location "Anzu" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian gigantic serpent symbolizing chaos or nonexistence.
 Location "Apophis" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 83.83999999999997 -8.12 0 ]
+	LongLat	[ 83.84 -8.12 0 ]
 	Size	57.00
 	Type	"AA"	# Crater, craters
 }
@@ -3465,7 +3465,7 @@ Location "Ashîma" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian warrior god.
 Location "Asshur" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 26.519999999999982 54.16 0 ]
+	LongLat	[ 26.52 54.16 0 ]
 	Size	25.50
 	Type	"AA"	# Crater, craters
 }
@@ -3474,7 +3474,7 @@ Location "Asshur" "Sol/Jupiter/Ganymede"
 # Origin: Exceedingly wise' hero of Akkadian myth, survived the great flood.
 Location "Atra-hasis" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 105.88999999999999 22.54 0 ]
+	LongLat	[ 105.89 22.54 0 ]
 	Size	133.00
 	Type	"AA"	# Crater, craters
 }
@@ -3483,7 +3483,7 @@ Location "Atra-hasis" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian; wife of Shamash.
 Location "Aya" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 37.98000000000002 68.34 0 ]
+	LongLat	[ 37.98 68.34 0 ]
 	Size	38.00
 	Type	"AA"	# Crater, craters
 }
@@ -3492,7 +3492,7 @@ Location "Aya" "Sol/Jupiter/Ganymede"
 # Origin: Phoenician; Canaanite god.
 Location "Ba'al" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 30.029999999999973 24.92 0 ]
+	LongLat	[ 30.03 24.92 0 ]
 	Size	43.00
 	Type	"AA"	# Crater, craters
 }
@@ -3645,7 +3645,7 @@ Location "Dardanus Sulcus" "Sol/Jupiter/Ganymede"
 # Origin: Town where Hathor was chief goddess. (Name changed from Dendera Facula.)
 Location "Dendera" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 104.53999999999999 -1.12 0 ]
+	LongLat	[ 104.54 -1.12 0 ]
 	Size	82.00
 	Type	"AA"	# Crater, craters
 }
@@ -3654,7 +3654,7 @@ Location "Dendera" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian goddess of the dwelling place of the dead.
 Location "Diment" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 8.230000000000018 23.14 0 ]
+	LongLat	[ 8.23 23.14 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -3717,7 +3717,7 @@ Location "Enki Catena" "Sol/Jupiter/Ganymede"
 # Origin: Friend of Gilgamesh.
 Location "Enkidu" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 34.870000000000005 -26.61 0 ]
+	LongLat	[ 34.87 -26.61 0 ]
 	Size	122.00
 	Type	"AA"	# Crater, craters
 }
@@ -3726,7 +3726,7 @@ Location "Enkidu" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian; nature god of the air, hurricanes, and nature.
 Location "Enlil" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 47.89999999999998 55.36 0 ]
+	LongLat	[ 47.9 55.36 0 ]
 	Size	34.60
 	Type	"AA"	# Crater, craters
 }
@@ -3780,7 +3780,7 @@ Location "Eshmun" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian; asked the eagle for an herb to give him an heir.
 Location "Etana" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 19.649999999999977 74.74 0 ]
+	LongLat	[ 19.65 74.74 0 ]
 	Size	46.00
 	Type	"AA"	# Crater, craters
 }
@@ -3870,7 +3870,7 @@ Location "Halieus" "Sol/Jupiter/Ganymede"
 # Origin: Wadi in Egypt, associated with petroglyphs and ancient mining.
 Location "Hammamat Patera" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 41.89999999999998 -24.23 0 ]
+	LongLat	[ 41.9 -24.23 0 ]
 	Size	45.00
 	Type	"PE"	# Patera, paterae
 }
@@ -3906,7 +3906,7 @@ Location "Harakhtes" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian sky god whose eyes are the sun and the moon, a form of Horus.
 Location "Haroeris" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 63.18000000000001 28.53 0 ]
+	LongLat	[ 63.18 28.53 0 ]
 	Size	70.00
 	Type	"AA"	# Crater, craters
 }
@@ -3924,7 +3924,7 @@ Location "Harpagia Sulcus" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian goddess of joy and love.
 Location "Hathor" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 91.25999999999999 -66.9 0 ]
+	LongLat	[ 91.26 -66.9 0 ]
 	Size	173.00
 	Type	"AA"	# Crater, craters
 }
@@ -3942,7 +3942,7 @@ Location "Hay-tau" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian scorpion goddess.
 Location "Hedetet" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 108.99000000000001 -32.91 0 ]
+	LongLat	[ 108.99 -32.91 0 ]
 	Size	106.00
 	Type	"AA"	# Crater, craters
 }
@@ -3987,7 +3987,7 @@ Location "Humbaba" "Sol/Jupiter/Ganymede"
 # Origin: Sumerian mountain where winds dwell.
 Location "Hursag Sulcus" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 111.53999999999999 -9.49 0 ]
+	LongLat	[ 111.54 -9.49 0 ]
 	Size	2183.00
 	Type	"SU"	# Sulcus, sulci
 }
@@ -4077,7 +4077,7 @@ Location "Khepri" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian creation god.
 Location "Khnum Catena" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 10.730000000000018 32.9 0 ]
+	LongLat	[ 10.73 32.9 0 ]
 	Size	66.00
 	Type	"CA"	# Catena, catenae
 }
@@ -4095,7 +4095,7 @@ Location "Khonsu" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian; Elamite creator god.
 Location "Khumbam" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 24.649999999999977 -24.1 0 ]
+	LongLat	[ 24.65 -24.1 0 ]
 	Size	57.00
 	Type	"AA"	# Crater, craters
 }
@@ -4113,7 +4113,7 @@ Location "Kingu" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian; terrestrial progenitor goddess.
 Location "Kishar" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 10.54000000000002 72.7 0 ]
+	LongLat	[ 10.54 72.7 0 ]
 	Size	78.00
 	Type	"AA"	# Crater, craters
 }
@@ -4131,7 +4131,7 @@ Location "Kishar Sulcus" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian god of justice.
 Location "Kittu" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 25.399999999999977 0.4 0 ]
+	LongLat	[ 25.4 0.4 0 ]
 	Size	15.00
 	Type	"AA"	# Crater, craters
 }
@@ -4149,7 +4149,7 @@ Location "Kulla" "Sol/Jupiter/Ganymede"
 # Origin: Son of Babylonian god Ea.
 Location "Lagamal" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 115.78999999999999 64.3 0 ]
+	LongLat	[ 115.79 64.3 0 ]
 	Size	131.00
 	Type	"AA"	# Crater, craters
 }
@@ -4321,7 +4321,7 @@ Location "Mir" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian god of law.
 Location "Misharu" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 24.110000000000014 -4.31 0 ]
+	LongLat	[ 24.11 -4.31 0 ]
 	Size	88.00
 	Type	"AA"	# Crater, craters
 }
@@ -4330,7 +4330,7 @@ Location "Misharu" "Sol/Jupiter/Ganymede"
 # Origin: Theban war god.
 Location "Mont" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 48.05000000000001 44.62 0 ]
+	LongLat	[ 48.05 44.62 0 ]
 	Size	15.00
 	Type	"AA"	# Crater, craters
 }
@@ -4339,7 +4339,7 @@ Location "Mont" "Sol/Jupiter/Ganymede"
 # Origin: Phoenician; spirit of the harvest.
 Location "Mor" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 32.64999999999998 30.55 0 ]
+	LongLat	[ 32.65 30.55 0 ]
 	Size	41.00
 	Type	"AA"	# Crater, craters
 }
@@ -4411,7 +4411,7 @@ Location "Nah-Hunte" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian plague demon.
 Location "Namtar" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 19.30000000000001 -58.34 0 ]
+	LongLat	[ 19.3 -58.34 0 ]
 	Size	50.00
 	Type	"AA"	# Crater, craters
 }
@@ -4429,7 +4429,7 @@ Location "Nanna" "Sol/Jupiter/Ganymede"
 # Origin: Goddess of springs and canals, daughter of Enki.
 Location "Nanshe Catena" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 7.100000000000023 15.4 0 ]
+	LongLat	[ 7.1 15.4 0 ]
 	Size	103.80
 	Type	"CA"	# Catena, catenae
 }
@@ -4447,7 +4447,7 @@ Location "Natrun Patera" "Sol/Jupiter/Ganymede"
 # Origin: Original divine son of the Memphis triad, son of Ptah.
 Location "Nefertum" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 38.95999999999998 44.35 0 ]
+	LongLat	[ 38.96 44.35 0 ]
 	Size	29.00
 	Type	"AA"	# Crater, craters
 }
@@ -4501,7 +4501,7 @@ Location "Nidaba" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian; god of the fields, war god.
 Location "Nigirsu" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 39.43000000000001 -58.26 0 ]
+	LongLat	[ 39.43 -58.26 0 ]
 	Size	53.00
 	Type	"AA"	# Crater, craters
 }
@@ -4573,7 +4573,7 @@ Location "Nippur Sulcus" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian; chaos; primordial ocean; held germ of all things.
 Location "Nun Sulci" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 43.60000000000002 49.5 0 ]
+	LongLat	[ 43.6 49.5 0 ]
 	Size	1500.00
 	Type	"SU"	# Sulcus, sulci
 }
@@ -4582,7 +4582,7 @@ Location "Nun Sulci" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian goddess of the sky.
 Location "Nut" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 90.80000000000001 -54.21 0 ]
+	LongLat	[ 90.8 -54.21 0 ]
 	Size	90.00
 	Type	"AA"	# Crater, craters
 }
@@ -4673,7 +4673,7 @@ Location "Rum Patera" "Sol/Jupiter/Ganymede"
 # Origin: Phoenician; Byblos god.
 Location "Ruti" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 51.35000000000002 13.23 0 ]
+	LongLat	[ 51.35 13.23 0 ]
 	Size	16.00
 	Type	"AA"	# Crater, craters
 }
@@ -4682,7 +4682,7 @@ Location "Ruti" "Sol/Jupiter/Ganymede"
 # Origin: Babylonian goddess of discord and hostility.
 Location "Saltu" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 7.230000000000018 -14.15 0 ]
+	LongLat	[ 7.23 -14.15 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -4709,7 +4709,7 @@ Location "Sati" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian crocodile god.
 Location "Sebek" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 3.2200000000000273 61.25 0 ]
+	LongLat	[ 3.22 61.25 0 ]
 	Size	61.00
 	Type	"AA"	# Crater, craters
 }
@@ -4727,7 +4727,7 @@ Location "Seima" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian god of the dead at Memphis.
 Location "Seker" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 14.620000000000005 -39.16 0 ]
+	LongLat	[ 14.62 -39.16 0 ]
 	Size	103.00
 	Type	"AA"	# Crater, craters
 }
@@ -4754,7 +4754,7 @@ Location "Serapis" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian god of air.
 Location "Shu" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 3.160000000000025 43.16 0 ]
+	LongLat	[ 3.16 43.16 0 ]
 	Size	44.00
 	Type	"AA"	# Crater, craters
 }
@@ -4781,7 +4781,7 @@ Location "Sicyon Sulcus" "Sol/Jupiter/Ganymede"
 # Origin: Babylonian moon god.
 Location "Sin" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 2.5400000000000205 52.94 0 ]
+	LongLat	[ 2.54 52.94 0 ]
 	Size	19.00
 	Type	"AA"	# Crater, craters
 }
@@ -4826,7 +4826,7 @@ Location "Tanit" "Sol/Jupiter/Ganymede"
 # Origin: Assyro-Babylonian goddess who invented writing with her husband Nabu.
 Location "Tashmetum" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 95.45999999999998 -39.72 0 ]
+	LongLat	[ 95.46 -39.72 0 ]
 	Size	135.00
 	Type	"AA"	# Crater, craters
 }
@@ -4835,7 +4835,7 @@ Location "Tashmetum" "Sol/Jupiter/Ganymede"
 # Origin: Egyptian childbirth goddess.
 Location "Ta-urt" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 55.80000000000001 27.66 0 ]
+	LongLat	[ 55.8 27.66 0 ]
 	Size	94.00
 	Type	"AA"	# Crater, craters
 }
@@ -4844,7 +4844,7 @@ Location "Ta-urt" "Sol/Jupiter/Ganymede"
 # Origin: Phoenician moon god who battled with Keret in Negeb.
 Location "Terah Catena" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 82.39999999999998 7.1 0 ]
+	LongLat	[ 82.4 7.1 0 ]
 	Size	283.00
 	Type	"CA"	# Catena, catenae
 }
@@ -4853,7 +4853,7 @@ Location "Terah Catena" "Sol/Jupiter/Ganymede"
 # Origin: Elamite god of the tempest.
 Location "Teshub" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 80.72000000000003 -68.3 0 ]
+	LongLat	[ 80.72 -68.3 0 ]
 	Size	188.00
 	Type	"AA"	# Crater, craters
 }
@@ -4916,7 +4916,7 @@ Location "Umma Sulcus" "Sol/Jupiter/Ganymede"
 # Origin: Jackal-headed warrior god, god of the dead.
 Location "Upuant" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 40.45999999999998 46.4 0 ]
+	LongLat	[ 40.46 46.4 0 ]
 	Size	17.00
 	Type	"AA"	# Crater, craters
 }
@@ -4943,7 +4943,7 @@ Location "Uruk Sulcus" "Sol/Jupiter/Ganymede"
 # Origin: Akkadian god from whom the hero Atra-hasis was created.
 Location "We-ila" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 69.64999999999998 -12.36 0 ]
+	LongLat	[ 69.65 -12.36 0 ]
 	Size	36.00
 	Type	"AA"	# Crater, craters
 }
@@ -4979,7 +4979,7 @@ Location "Yaroun Patera" "Sol/Jupiter/Ganymede"
 # Origin: Assyrian supreme deity.
 Location "Zakar" "Sol/Jupiter/Ganymede"
 {
-	LongLat	[ 26.329999999999984 31.28 0 ]
+	LongLat	[ 26.33 31.28 0 ]
 	Size	170.00
 	Type	"AA"	# Crater, craters
 }
@@ -5072,7 +5072,7 @@ Location "Ajleke" "Sol/Jupiter/Callisto"
 # Origin: Alaskan name of the sun.
 Location "Akycha" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 41.30000000000001 72.6 0 ]
+	LongLat	[ 41.3 72.6 0 ]
 	Size	81.00
 	Type	"AA"	# Crater, craters
 }
@@ -5126,7 +5126,7 @@ Location "Asgard" "Sol/Jupiter/Callisto"
 # Origin: Norse; first man, created from a log drifted ashore on a beach.
 Location "Askr" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 35.89999999999998 51.8 0 ]
+	LongLat	[ 35.9 51.8 0 ]
 	Size	68.80
 	Type	"AA"	# Crater, craters
 }
@@ -5234,7 +5234,7 @@ Location "Bran" "Sol/Jupiter/Callisto"
 # Origin: Tungu heaven god.
 Location "Buga" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 36.10000000000002 22.3 0 ]
+	LongLat	[ 36.1 22.3 0 ]
 	Size	59.00
 	Type	"AA"	# Crater, craters
 }
@@ -5369,7 +5369,7 @@ Location "Fadir" "Sol/Jupiter/Callisto"
 # Origin: Norse dwarf.
 Location "Fili" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 10.300000000000011 64.2 0 ]
+	LongLat	[ 10.3 64.2 0 ]
 	Size	31.70
 	Type	"AA"	# Crater, craters
 }
@@ -5396,7 +5396,7 @@ Location "Finnr" "Sol/Jupiter/Callisto"
 # Origin: Norse; wolf's name meaning “;insatiable.“;
 Location "Freki" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 8.300000000000011 79.8 0 ]
+	LongLat	[ 8.3 79.8 0 ]
 	Size	55.00
 	Type	"AA"	# Crater, craters
 }
@@ -5441,7 +5441,7 @@ Location "Gandalfr" "Sol/Jupiter/Callisto"
 # Origin: Norse river.
 Location "Geirvimul Catena" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 12.800000000000011 48.9 0 ]
+	LongLat	[ 12.8 48.9 0 ]
 	Size	113.10
 	Type	"CA"	# Catena, catenae
 }
@@ -5450,7 +5450,7 @@ Location "Geirvimul Catena" "Sol/Jupiter/Callisto"
 # Origin: Norse; wolf's name meaning “;greedy.“;
 Location "Geri" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 6.199999999999989 66.7 0 ]
+	LongLat	[ 6.2 66.7 0 ]
 	Size	38.90
 	Type	"AA"	# Crater, craters
 }
@@ -5495,7 +5495,7 @@ Location "Gloi" "Sol/Jupiter/Callisto"
 # Origin: Norse; servant to the gods.
 Location "Göll" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 40.30000000000001 57.3 0 ]
+	LongLat	[ 40.3 57.3 0 ]
 	Size	55.40
 	Type	"AA"	# Crater, craters
 }
@@ -5540,7 +5540,7 @@ Location "Gunnr" "Sol/Jupiter/Callisto"
 # Origin: Norse river.
 Location "Gunntro Catena" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 16.899999999999977 -19.5 0 ]
+	LongLat	[ 16.9 -19.5 0 ]
 	Size	149.00
 	Type	"CA"	# Catena, catenae
 }
@@ -5567,7 +5567,7 @@ Location "Hábrok" "Sol/Jupiter/Callisto"
 # Origin: Norse giant.
 Location "Haki" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 44.89999999999998 25.0 0 ]
+	LongLat	[ 44.9 25.0 0 ]
 	Size	72.20
 	Type	"AA"	# Crater, craters
 }
@@ -5621,7 +5621,7 @@ Location "Hödr" "Sol/Jupiter/Callisto"
 # Origin: Norse; god who gave souls to first humans.
 Location "Hoenir" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 99.10000000000002 -33.7 0 ]
+	LongLat	[ 99.1 -33.7 0 ]
 	Size	81.10
 	Type	"AA"	# Crater, craters
 }
@@ -5666,7 +5666,7 @@ Location "Ilma" "Sol/Jupiter/Callisto"
 # Origin: Norse; Ottar's ancestor.
 Location "Ivarr" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 38.60000000000002 -5.8 0 ]
+	LongLat	[ 38.6 -5.8 0 ]
 	Size	73.10
 	Type	"AA"	# Crater, craters
 }
@@ -5711,7 +5711,7 @@ Location "Kári" "Sol/Jupiter/Callisto"
 # Origin: Norse; Rigr's son with Amma.
 Location "Karl" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 29.399999999999977 56.4 0 ]
+	LongLat	[ 29.4 56.4 0 ]
 	Size	34.00
 	Type	"AA"	# Crater, craters
 }
@@ -5729,7 +5729,7 @@ Location "Keelut" "Sol/Jupiter/Callisto"
 # Origin: Icelandic frost or storm giant.
 Location "Kol Facula" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 77.30000000000001 4.5 0 ]
+	LongLat	[ 77.3 4.5 0 ]
 	Size	390.00
 	Type	"FA"	# Facula, faculae
 }
@@ -5747,7 +5747,7 @@ Location "Kul'" "Sol/Jupiter/Callisto"
 # Origin: Finno-Ugric evil spirit.
 Location "Lempo" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 40.10000000000002 -25.2 0 ]
+	LongLat	[ 40.1 -25.2 0 ]
 	Size	41.30
 	Type	"AA"	# Crater, craters
 }
@@ -5765,7 +5765,7 @@ Location "Ljekio" "Sol/Jupiter/Callisto"
 # Origin: Norse; god who gave first humans goodly color.
 Location "Lodurr" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 89.89999999999998 -50.8 0 ]
+	LongLat	[ 89.9 -50.8 0 ]
 	Size	72.00
 	Type	"AA"	# Crater, craters
 }
@@ -5792,7 +5792,7 @@ Location "Loni" "Sol/Jupiter/Callisto"
 # Origin: Mongolian; Mongol evil snake; tried to kill all living things.
 Location "Losy" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 36.69999999999999 65.3 0 ]
+	LongLat	[ 36.7 65.3 0 ]
 	Size	62.10
 	Type	"AA"	# Crater, craters
 }
@@ -5918,7 +5918,7 @@ Location "Njord" "Sol/Jupiter/Callisto"
 # Origin: Norse dwarf.
 Location "Nori" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 16.399999999999977 45.2 0 ]
+	LongLat	[ 16.4 45.2 0 ]
 	Size	114.00
 	Type	"AA"	# Crater, craters
 }
@@ -6081,7 +6081,7 @@ Location "Rota" "Sol/Jupiter/Callisto"
 # Additional info: Defines 326 degrees longitude on Callisto (Rand control point crater (control point number 400)).
 Location "Saga" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 34.10000000000002 0.6 0 ]
+	LongLat	[ 34.1 0.6 0 ]
 	Size	11.10
 	Type	"AA"	# Crater, craters
 }
@@ -6144,7 +6144,7 @@ Location "Skeggold" "Sol/Jupiter/Callisto"
 # Origin: Norse wolf.
 Location "Sköll" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 44.39999999999998 55.6 0 ]
+	LongLat	[ 44.4 55.6 0 ]
 	Size	59.60
 	Type	"AA"	# Crater, craters
 }
@@ -6171,7 +6171,7 @@ Location "Sudri" "Sol/Jupiter/Callisto"
 # Origin: Russian (Buriat) world mountain.
 Location "Sumbur" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 34.80000000000001 67.1 0 ]
+	LongLat	[ 34.8 67.1 0 ]
 	Size	37.90
 	Type	"AA"	# Crater, craters
 }
@@ -6297,7 +6297,7 @@ Location "Valhalla" "Sol/Jupiter/Callisto"
 # Origin: Norse; Ottar's ancestor.
 Location "Vali" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 34.69999999999999 9.7 0 ]
+	LongLat	[ 34.7 9.7 0 ]
 	Size	54.30
 	Type	"AA"	# Crater, craters
 }
@@ -6351,7 +6351,7 @@ Location "Vili" "Sol/Jupiter/Callisto"
 # Origin: Norse dwarf.
 Location "Vitr" "Sol/Jupiter/Callisto"
 {
-	LongLat	[ 10.600000000000023 -22.1 0 ]
+	LongLat	[ 10.6 -22.1 0 ]
 	Size	72.80
 	Type	"AA"	# Crater, craters
 }

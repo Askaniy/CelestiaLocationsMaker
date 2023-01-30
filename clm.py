@@ -107,21 +107,21 @@ def reader(request):
             else:
                 long = float(data["Center Longitude"])
                 lat = float(data["Center Latitude"])
-                lat_system, direction, scope = data["Coordinate System"].split(", ")
+                lat_system, long_direction, long_scope = data["Coordinate System"].split(", ")
                 invert_long = False
-                if scope == "0 - 360":
+                if long_scope == "0 - 360":
                     if target == "Vesta": # coordinate system by the Dawn team, see ReadMe
                         long -= 150
                     if long > 180:
                         long -= 360
-                if direction == "+West":
+                if long_direction == "+West":
                     invert_long = not invert_long
                 if target in retrograde_rotators:
                     invert_long = not invert_long
                     lat *= -1
                 if invert_long:
                     long *= -1
-                location += f'\tLongLat\t[ {proper_round(long)} {proper_round(lat)} 0 ]\n'
+                location += f'\tLongLat\t[ {round(long, 7)} {round(lat, 7)} 0 ]\n'
             
             # Size/Importance
             if float(data["Diameter"]) == 0:

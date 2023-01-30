@@ -253,7 +253,7 @@ Location "Angelou" "Sol/Mercury"
 # Origin: Ancient city in Cambodia.
 Location "Angkor Vallis" "Sol/Mercury"
 {
-	LongLat	[ 114.03999999999999 57.28 0 ]
+	LongLat	[ 114.04 57.28 0 ]
 	Size	94.97
 	Type	"VA"	# Vallis, valles
 }
@@ -417,7 +417,7 @@ Location "Bach" "Sol/Mercury"
 # Origin: Elisaveta; Bulgarian poet (1893-1991).
 Location "Bagryana" "Sol/Mercury"
 {
-	LongLat	[ 76.26999999999998 -3.89 0 ]
+	LongLat	[ 76.27 -3.89 0 ]
 	Size	101.00
 	Type	"AA"	# Crater, craters
 }
@@ -444,7 +444,7 @@ Location "Balanchine" "Sol/Mercury"
 # Origin: Polish; a research vessel that performs oceanographic, biological and fishing research in the Baltic Sea since 1993.
 Location "Baltica Rupes" "Sol/Mercury"
 {
-	LongLat	[ 56.51999999999998 -4.48 0 ]
+	LongLat	[ 56.52 -4.48 0 ]
 	Size	230.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -480,7 +480,7 @@ Location "Barma" "Sol/Mercury"
 # Origin: Natalie Clifford; American-French playwright, poet, and novelist (1876-1972).
 Location "Barney" "Sol/Mercury"
 {
-	LongLat	[ 59.70999999999998 -11.69 0 ]
+	LongLat	[ 59.71 -11.69 0 ]
 	Size	29.00
 	Type	"AA"	# Crater, craters
 }
@@ -507,7 +507,7 @@ Location "Bashō" "Sol/Mercury"
 # Origin: British; naval vessel aboard which Charles Darwin served as a naturalist on a surveying expedition, 1831-1836.
 Location "Beagle Rupes" "Sol/Mercury"
 {
-	LongLat	[ 100.75999999999999 -3.22 0 ]
+	LongLat	[ 100.76 -3.22 0 ]
 	Size	630.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -525,7 +525,7 @@ Location "Bechet" "Sol/Mercury"
 # Origin: Clarice; Australian painter (1887-1935).
 Location "Beckett" "Sol/Mercury"
 {
-	LongLat	[ 111.28999999999999 -40.2 0 ]
+	LongLat	[ 111.29 -40.2 0 ]
 	Size	60.00
 	Type	"AA"	# Crater, craters
 }
@@ -552,7 +552,7 @@ Location "Bek" "Sol/Mercury"
 # Origin: Belgian; ship used for an expedition to determine the position of the South Magnetic Pole in 1898, first ship to winter in Antarctica.
 Location "Belgica Rupes" "Sol/Mercury"
 {
-	LongLat	[ 63.75999999999999 -50.45 0 ]
+	LongLat	[ 63.76 -50.45 0 ]
 	Size	425.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -570,7 +570,7 @@ Location "Belinskij" "Sol/Mercury"
 # Origin: Giovanni; Italian painter (1430-1516).
 Location "Bellini" "Sol/Mercury"
 {
-	LongLat	[ 87.17000000000002 -33.77 0 ]
+	LongLat	[ 87.17 -33.77 0 ]
 	Size	45.00
 	Type	"AA"	# Crater, craters
 }
@@ -597,7 +597,7 @@ Location "Benoit" "Sol/Mercury"
 # Origin: Sabri; Turkish painter and printmaker (1909-1993).
 Location "Berkel" "Sol/Mercury"
 {
-	LongLat	[ 26.810000000000002 -13.73 0 ]
+	LongLat	[ 26.81 -13.73 0 ]
 	Size	23.00
 	Type	"AA"	# Crater, craters
 }
@@ -606,7 +606,7 @@ Location "Berkel" "Sol/Mercury"
 # Origin: Hector; French composer (1803-1869).
 Location "Berlioz" "Sol/Mercury"
 {
-	LongLat	[ 38.660000000000025 79.36 0 ]
+	LongLat	[ 38.66 79.36 0 ]
 	Size	31.44
 	Type	"AA"	# Crater, craters
 }
@@ -624,7 +624,7 @@ Location "Bernini" "Sol/Mercury"
 # Origin: Charles Edward Anderson “;Chuck“;: American singer and songwriter (1926-2017).
 Location "Berry" "Sol/Mercury"
 {
-	LongLat	[ 112.72999999999999 70.57 0 ]
+	LongLat	[ 112.73 70.57 0 ]
 	Size	25.00
 	Type	"AA"	# Crater, craters
 }
@@ -660,7 +660,7 @@ Location "Bjornson" "Sol/Mercury"
 # Origin: English; ship used for an expedition to discover the Northwest Passage, 1825-1827.
 Location "Blossom Rupes" "Sol/Mercury"
 {
-	LongLat	[ 89.85000000000002 -3.04 0 ]
+	LongLat	[ 89.85 -3.04 0 ]
 	Size	485.96
 	Type	"RU"	# Rupes, rupēs
 }
@@ -697,7 +697,7 @@ Location "BOREA" "Sol/Mercury"
 # Additional info: Boundary change approved 03/14/2017.
 Location "Borealis Planitia" "Sol/Mercury"
 {
-	LongLat	[ 32.60000000000002 67.3 0 ]
+	LongLat	[ 32.6 67.3 0 ]
 	Size	3450.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -895,7 +895,7 @@ Location "Calvino" "Sol/Mercury"
 # Origin: French; originally commissioned in 1942 as a minesweeper, Calypso was purchased by Jacques-Yves Cousteau and used for oceanographic studies in 1950-1996.
 Location "Calypso Rupes" "Sol/Mercury"
 {
-	LongLat	[ 43.51999999999998 19.53 0 ]
+	LongLat	[ 43.52 19.53 0 ]
 	Size	381.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -922,7 +922,7 @@ Location "Canova" "Sol/Mercury"
 # Origin: Truman; American author (1924-1984).
 Location "Capote" "Sol/Mercury"
 {
-	LongLat	[ 72.41000000000003 -21.1 0 ]
+	LongLat	[ 72.41 -21.1 0 ]
 	Size	88.00
 	Type	"AA"	# Crater, craters
 }
@@ -940,7 +940,7 @@ Location "Caral Vallis" "Sol/Mercury"
 # Origin: Michelangelo Merisi; Italian painter (1571-1610).
 Location "Caravaggio" "Sol/Mercury"
 {
-	LongLat	[ 87.24000000000001 3.18 0 ]
+	LongLat	[ 87.24 3.18 0 ]
 	Size	185.00
 	Type	"AA"	# Crater, craters
 }
@@ -958,7 +958,7 @@ Location "Carducci" "Sol/Mercury"
 # Origin: William; Irish writer (1794-1869).
 Location "Carleton" "Sol/Mercury"
 {
-	LongLat	[ 56.60000000000002 -52.2 0 ]
+	LongLat	[ 56.6 -52.2 0 ]
 	Size	177.00
 	Type	"AA"	# Crater, craters
 }
@@ -976,7 +976,7 @@ Location "Carnegie Rupes" "Sol/Mercury"
 # Origin: Turlough; Alternate spelling O’Carolan; Irish composer and performer (1670-1738).
 Location "Carolan" "Sol/Mercury"
 {
-	LongLat	[ 31.769999999999982 83.88 0 ]
+	LongLat	[ 31.77 83.88 0 ]
 	Size	24.34
 	Type	"AA"	# Crater, craters
 }
@@ -1003,7 +1003,7 @@ Location "Caruso" "Sol/Mercury"
 # Origin: Giuseppe; Italian painter in the court of the Emperor of China (1688-1766).
 Location "Castiglione" "Sol/Mercury"
 {
-	LongLat	[ 87.95999999999998 -40.87 0 ]
+	LongLat	[ 87.96 -40.87 0 ]
 	Size	80.00
 	Type	"AA"	# Crater, craters
 }
@@ -1156,7 +1156,7 @@ Location "Coleridge" "Sol/Mercury"
 # Origin: Aaron; American composer and pianist (1900-1990).
 Location "Copland" "Sol/Mercury"
 {
-	LongLat	[ 72.99000000000001 37.63 0 ]
+	LongLat	[ 72.99 37.63 0 ]
 	Size	208.00
 	Type	"AA"	# Crater, craters
 }
@@ -1201,7 +1201,7 @@ Location "CYLLENE" "Sol/Mercury"
 # Origin: Salvador; Spanish painter (1904-1989).
 Location "Dali" "Sol/Mercury"
 {
-	LongLat	[ 119.74000000000001 45.16 0 ]
+	LongLat	[ 119.74 45.16 0 ]
 	Size	176.00
 	Type	"AA"	# Crater, craters
 }
@@ -1246,7 +1246,7 @@ Location "David" "Sol/Mercury"
 # Origin: Achille-Claude; French composer (1862-1918).
 Location "Debussy" "Sol/Mercury"
 {
-	LongLat	[ 12.54000000000002 -33.95 0 ]
+	LongLat	[ 12.54 -33.95 0 ]
 	Size	81.00
 	Type	"AA"	# Crater, craters
 }
@@ -1264,7 +1264,7 @@ Location "Degas" "Sol/Mercury"
 # Origin: Joe; Ghanaian playwright, poet, and novelist (1924-1978).
 Location "de Graft" "Sol/Mercury"
 {
-	LongLat	[ 1.8899999999999864 22.05 0 ]
+	LongLat	[ 1.89 22.05 0 ]
 	Size	68.00
 	Type	"AA"	# Crater, craters
 }
@@ -1282,7 +1282,7 @@ Location "Delacroix" "Sol/Mercury"
 # Origin: Andre; French painter (1880-1954).
 Location "Derain" "Sol/Mercury"
 {
-	LongLat	[ 19.69999999999999 -9.0 0 ]
+	LongLat	[ 19.7 -9.0 0 ]
 	Size	167.00
 	Type	"AA"	# Crater, craters
 }
@@ -1327,7 +1327,7 @@ Location "Discovery Rupes" "Sol/Mercury"
 # Origin: Walter Elias; American film director, screenwriter, and animator. (1901-1966).
 Location "Disney" "Sol/Mercury"
 {
-	LongLat	[ 99.80000000000001 -68.15 0 ]
+	LongLat	[ 99.8 -68.15 0 ]
 	Size	113.00
 	Type	"AA"	# Crater, craters
 }
@@ -1345,7 +1345,7 @@ Location "Dominici" "Sol/Mercury"
 # Origin: Kristijonas; Lithuanian poet (1714-1780).
 Location "Donelaitis" "Sol/Mercury"
 {
-	LongLat	[ 38.420000000000016 -52.96 0 ]
+	LongLat	[ 38.42 -52.96 0 ]
 	Size	85.00
 	Type	"AA"	# Crater, craters
 }
@@ -1435,7 +1435,7 @@ Location "Dvorák" "Sol/Mercury"
 # Origin: Charles A. (Ohiyesa); Sioux author (1858-1939).
 Location "Eastman" "Sol/Mercury"
 {
-	LongLat	[ 125.75999999999999 9.52 0 ]
+	LongLat	[ 125.76 9.52 0 ]
 	Size	67.00
 	Type	"AA"	# Crater, craters
 }
@@ -1453,7 +1453,7 @@ Location "Echegaray" "Sol/Mercury"
 # Origin: Uzo; Nigerian artist (1931-1996).
 Location "Egonu" "Sol/Mercury"
 {
-	LongLat	[ 61.48000000000002 67.15 0 ]
+	LongLat	[ 61.48 67.15 0 ]
 	Size	25.00
 	Type	"AA"	# Crater, craters
 }
@@ -1480,7 +1480,7 @@ Location "Ejo Faculae" "Sol/Mercury"
 # Origin: Edward Kennedy “Duke”; American composer, musician, conductor (1899-1974).
 Location "Ellington" "Sol/Mercury"
 {
-	LongLat	[ 26.100000000000023 -12.88 0 ]
+	LongLat	[ 26.1 -12.88 0 ]
 	Size	216.00
 	Type	"AA"	# Crater, craters
 }
@@ -1489,7 +1489,7 @@ Location "Ellington" "Sol/Mercury"
 # Origin: American; oceanographic research vessel with an ice-breaking hull, collected magnetic profiles of the Antarctic sea floor, 1962.
 Location "Eltanin Rupes" "Sol/Mercury"
 {
-	LongLat	[ 90.60000000000002 -74.99 0 ]
+	LongLat	[ 90.6 -74.99 0 ]
 	Size	370.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -1498,7 +1498,7 @@ Location "Eltanin Rupes" "Sol/Mercury"
 # Origin: Mihail; Romanian poet (1850-1889).
 Location "Eminescu" "Sol/Mercury"
 {
-	LongLat	[ 114.21000000000001 10.66 0 ]
+	LongLat	[ 114.21 10.66 0 ]
 	Size	129.00
 	Type	"AA"	# Crater, craters
 }
@@ -1543,7 +1543,7 @@ Location "Ensor" "Sol/Mercury"
 # Origin: American; steamship that explored the Mississippi, Amazon, andMadeira Rivers and sailed on a worldwide hydrographic survey 1877 to1886.
 Location "Enterprise Rupes" "Sol/Mercury"
 {
-	LongLat	[ 76.54000000000002 -36.54 0 ]
+	LongLat	[ 76.54 -36.54 0 ]
 	Size	822.39
 	Type	"RU"	# Rupes, rupēs
 }
@@ -1552,7 +1552,7 @@ Location "Enterprise Rupes" "Sol/Mercury"
 # Origin: Benedict Chukwukadibia; Nigerian sculptor and painter (1921-1994).
 Location "Enwonwu" "Sol/Mercury"
 {
-	LongLat	[ 121.96000000000001 -10.01 0 ]
+	LongLat	[ 121.96 -10.01 0 ]
 	Size	38.00
 	Type	"AA"	# Crater, craters
 }
@@ -1579,7 +1579,7 @@ Location "Erté" "Sol/Mercury"
 # Origin: William; American author (1897-1962).
 Location "Faulkner" "Sol/Mercury"
 {
-	LongLat	[ 76.97000000000003 8.08 0 ]
+	LongLat	[ 76.97 8.08 0 ]
 	Size	168.00
 	Type	"AA"	# Crater, craters
 }
@@ -1624,7 +1624,7 @@ Location "Flaubert" "Sol/Mercury"
 # Origin: Margot; English ballet dancer (1919-1991).
 Location "Fonteyn" "Sol/Mercury"
 {
-	LongLat	[ 95.50999999999999 32.82 0 ]
+	LongLat	[ 95.51 32.82 0 ]
 	Size	29.00
 	Type	"AA"	# Crater, craters
 }
@@ -1679,7 +1679,7 @@ Location "GALLIA" "Sol/Mercury"
 # Origin: Fijian and Samoan word for snake.
 Location "Gata Facula" "Sol/Mercury"
 {
-	LongLat	[ 38.60000000000002 -52.9 0 ]
+	LongLat	[ 38.6 -52.9 0 ]
 	Size	55.00
 	Type	"FA"	# Facula, faculae
 }
@@ -1688,7 +1688,7 @@ Location "Gata Facula" "Sol/Mercury"
 # Origin: Antoni Gaudí i Cornet; Spanish Catalan architect (1852-1926).
 Location "Gaudí" "Sol/Mercury"
 {
-	LongLat	[ 69.16000000000003 76.9 0 ]
+	LongLat	[ 69.16 76.9 0 ]
 	Size	81.00
 	Type	"AA"	# Crater, craters
 }
@@ -1842,7 +1842,7 @@ Location "Grieg" "Sol/Mercury"
 # Origin: Portugese; ship used by D. João de Castro to make a survey of magnetic declination in the Atlantic and Indian Oceans in 1538.
 Location "Grifo Rupes" "Sol/Mercury"
 {
-	LongLat	[ 5.3799999999999955 7.9 0 ]
+	LongLat	[ 5.38 7.9 0 ]
 	Size	783.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -1960,7 +1960,7 @@ Location "Haystack Catena" "Sol/Mercury"
 # Origin: Seamus Justin; Irish poet and playwright (1939 - 2013).
 Location "Heaney" "Sol/Mercury"
 {
-	LongLat	[ 122.28999999999999 -33.77 0 ]
+	LongLat	[ 122.29 -33.77 0 ]
 	Size	125.00
 	Type	"AA"	# Crater, craters
 }
@@ -2068,7 +2068,7 @@ Location "Hitomaro" "Sol/Mercury"
 # Origin: Frances; New Zealand painter (1869-1947).
 Location "Hodgkins" "Sol/Mercury"
 {
-	LongLat	[ 17.970000000000027 29.12 0 ]
+	LongLat	[ 17.97 29.12 0 ]
 	Size	19.00
 	Type	"AA"	# Crater, craters
 }
@@ -2077,7 +2077,7 @@ Location "Hodgkins" "Sol/Mercury"
 # Origin: Katsushika; Japanese painter, draftsman, and printmaker (1760-1849).
 Location "Hokusai" "Sol/Mercury"
 {
-	LongLat	[ 16.649999999999977 57.84 0 ]
+	LongLat	[ 16.65 57.84 0 ]
 	Size	114.00
 	Type	"AA"	# Crater, craters
 }
@@ -2104,7 +2104,7 @@ Location "Holberg" "Sol/Mercury"
 # Origin: Gustav Theodore; British composer (1874-1934).
 Location "Holst" "Sol/Mercury"
 {
-	LongLat	[ 44.95999999999998 -17.42 0 ]
+	LongLat	[ 44.96 -17.42 0 ]
 	Size	170.00
 	Type	"AA"	# Crater, craters
 }
@@ -2240,7 +2240,7 @@ Location "Ives" "Sol/Mercury"
 # Origin: María; Mexican painter (c.1902-1955).
 Location "Izquierdo" "Sol/Mercury"
 {
-	LongLat	[ 107.03999999999999 -1.66 0 ]
+	LongLat	[ 107.04 -1.66 0 ]
 	Size	174.00
 	Type	"AA"	# Crater, craters
 }
@@ -2285,7 +2285,7 @@ Location "Jókai" "Sol/Mercury"
 # Origin: Scott; American composer (1868 – 1917).
 Location "Joplin" "Sol/Mercury"
 {
-	LongLat	[ 25.50999999999999 -38.56 0 ]
+	LongLat	[ 25.51 -38.56 0 ]
 	Size	139.00
 	Type	"AA"	# Crater, craters
 }
@@ -2312,7 +2312,7 @@ Location "Judah Ha-Levi" "Sol/Mercury"
 # Origin: Japanese; Kainan Maru, ship of Nobu Shirase Antarctic exploration, 1910-1912.
 Location "Kainan Rupēs" "Sol/Mercury"
 {
-	LongLat	[ 29.19999999999999 -29.8 0 ]
+	LongLat	[ 29.2 -29.8 0 ]
 	Size	325.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -2330,7 +2330,7 @@ Location "Kālidāsā" "Sol/Mercury"
 # Origin: Wassily; Russian painter (1866-1944).
 Location "Kandinsky" "Sol/Mercury"
 {
-	LongLat	[ 78.77999999999997 87.89 0 ]
+	LongLat	[ 78.78 87.89 0 ]
 	Size	60.00
 	Type	"AA"	# Crater, craters
 }
@@ -2339,7 +2339,7 @@ Location "Kandinsky" "Sol/Mercury"
 # Origin: Yousuf; Canadian portrait photographer of Armenian descent (1908-2002).
 Location "Karsh" "Sol/Mercury"
 {
-	LongLat	[ 78.85000000000002 -35.49 0 ]
+	LongLat	[ 78.85 -35.49 0 ]
 	Size	58.00
 	Type	"AA"	# Crater, craters
 }
@@ -2393,7 +2393,7 @@ Location "Khansa" "Sol/Mercury"
 # Origin: Rudyard; English author (1865-1936).
 Location "Kipling" "Sol/Mercury"
 {
-	LongLat	[ 72.01999999999998 -19.37 0 ]
+	LongLat	[ 72.02 -19.37 0 ]
 	Size	164.00
 	Type	"AA"	# Crater, craters
 }
@@ -2411,7 +2411,7 @@ Location "Kirby" "Sol/Mercury"
 # Origin: Katarzyna; Polish sculptor (1898-1951).
 Location "Kobro" "Sol/Mercury"
 {
-	LongLat	[ 81.22000000000003 -82.16 0 ]
+	LongLat	[ 81.22 -82.16 0 ]
 	Size	54.00
 	Type	"AA"	# Crater, craters
 }
@@ -2429,7 +2429,7 @@ Location "Kofi" "Sol/Mercury"
 # Origin: Krzysztof; Polish composer and musician (1931- 1969).
 Location "Komeda" "Sol/Mercury"
 {
-	LongLat	[ 90.47000000000003 -82.74 0 ]
+	LongLat	[ 90.47 -82.74 0 ]
 	Size	54.00
 	Type	"AA"	# Crater, craters
 }
@@ -2465,7 +2465,7 @@ Location "Kuiper" "Sol/Mercury"
 # Origin: Umm; Alternate spellings Kulthūm, Kalthoum, and Kalsoum; Egyptian singer (born between 1898 and 1904, died 1975).
 Location "Kulthum" "Sol/Mercury"
 {
-	LongLat	[ 93.52999999999997 50.72 0 ]
+	LongLat	[ 93.53 50.72 0 ]
 	Size	31.00
 	Type	"AA"	# Crater, craters
 }
@@ -2474,7 +2474,7 @@ Location "Kulthum" "Sol/Mercury"
 # Origin: Utagawa Kunisada; Japanese woodblock printmaker (1786-1864).
 Location "Kunisada" "Sol/Mercury"
 {
-	LongLat	[ 112.86000000000001 1.36 0 ]
+	LongLat	[ 112.86 1.36 0 ]
 	Size	241.00
 	Type	"AA"	# Crater, craters
 }
@@ -2501,7 +2501,7 @@ Location "Kurosawa" "Sol/Mercury"
 # Origin: Kawanabe; Japanese artist (1831-1889).
 Location "Kyōsai" "Sol/Mercury"
 {
-	LongLat	[ 4.860000000000014 25.15 0 ]
+	LongLat	[ 4.86 25.15 0 ]
 	Size	39.00
 	Type	"AA"	# Crater, craters
 }
@@ -2528,7 +2528,7 @@ Location "Lance Rupes" "Sol/Mercury"
 # Origin: Dorothea; American photographer (1895-1965).
 Location "Lange" "Sol/Mercury"
 {
-	LongLat	[ 100.41000000000003 6.4 0 ]
+	LongLat	[ 100.41 6.4 0 ]
 	Size	176.00
 	Type	"AA"	# Crater, craters
 }
@@ -2555,7 +2555,7 @@ Location "Laxness" "Sol/Mercury"
 # Origin: Taiwanese; a research vessel used since 2018 for oceanographic observations, seafloor topographic mapping, seismic survey and sediment coring in the Pacific Ocean area adjacent to East Asia.
 Location "Legend Rupes" "Sol/Mercury"
 {
-	LongLat	[ 14.470000000000027 -17.62 0 ]
+	LongLat	[ 14.47 -17.62 0 ]
 	Size	209.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -2573,7 +2573,7 @@ Location "L’Engle" "Sol/Mercury"
 # Origin: John Winston; English singer and songwriter (1940-1980).
 Location "Lennon" "Sol/Mercury"
 {
-	LongLat	[ 41.18000000000001 -36.41 0 ]
+	LongLat	[ 41.18 -36.41 0 ]
 	Size	95.00
 	Type	"AA"	# Crater, craters
 }
@@ -2735,7 +2735,7 @@ Location "Maciji Facula" "Sol/Mercury"
 # Origin: Bessie; Scottish painter (1869-1904).
 Location "MacNicol" "Sol/Mercury"
 {
-	LongLat	[ 4.050000000000011 -68.19 0 ]
+	LongLat	[ 4.05 -68.19 0 ]
 	Size	42.00
 	Type	"AA"	# Crater, craters
 }
@@ -2816,7 +2816,7 @@ Location "Martial" "Sol/Mercury"
 # Origin: Maria, Brazilian sculptor (1894-1973).
 Location "Martins" "Sol/Mercury"
 {
-	LongLat	[ 55.06999999999999 -8.0 0 ]
+	LongLat	[ 55.07 -8.0 0 ]
 	Size	12.40
 	Type	"AA"	# Crater, craters
 }
@@ -2888,7 +2888,7 @@ Location "Mendes Pinto" "Sol/Mercury"
 # Origin: German; expedition on Meteor ship explored the South Atlantic Ocean, 1925-1927.
 Location "Meteor Rupēs" "Sol/Mercury"
 {
-	LongLat	[ 14.300000000000011 -47.7 0 ]
+	LongLat	[ 14.3 -47.7 0 ]
 	Size	990.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -3023,7 +3023,7 @@ Location "Munch" "Sol/Mercury"
 # Origin: Mihály; Hungarian painter (1844-1900).
 Location "Munkácsy" "Sol/Mercury"
 {
-	LongLat	[ 101.13999999999999 21.95 0 ]
+	LongLat	[ 101.14 21.95 0 ]
 	Size	193.00
 	Type	"AA"	# Crater, craters
 }
@@ -3059,7 +3059,7 @@ Location "Myron" "Sol/Mercury"
 # Origin: Vladimir;  Russian and American writer (1899-1977).
 Location "Nabokov" "Sol/Mercury"
 {
-	LongLat	[ 55.75999999999999 -14.56 0 ]
+	LongLat	[ 55.76 -14.56 0 ]
 	Size	166.00
 	Type	"AA"	# Crater, craters
 }
@@ -3068,7 +3068,7 @@ Location "Nabokov" "Sol/Mercury"
 # Origin: Carolina; Scottish songwriter (1766-1845).
 Location "Nairne" "Sol/Mercury"
 {
-	LongLat	[ 1.589999999999975 -70.34 0 ]
+	LongLat	[ 1.59 -70.34 0 ]
 	Size	56.00
 	Type	"AA"	# Crater, craters
 }
@@ -3077,7 +3077,7 @@ Location "Nairne" "Sol/Mercury"
 # Origin: Māori word for snake.
 Location "Nākahi Facula" "Sol/Mercury"
 {
-	LongLat	[ 17.80000000000001 -52.7 0 ]
+	LongLat	[ 17.8 -52.7 0 ]
 	Size	64.00
 	Type	"FA"	# Facula, faculae
 }
@@ -3113,7 +3113,7 @@ Location "Nathair Facula" "Sol/Mercury"
 # Origin: American; oceanic research and underwater archaeology vessel that performs studies in the Mediterranean and Caribbean since 2009.
 Location "Nautilus Rupes" "Sol/Mercury"
 {
-	LongLat	[ 66.67000000000002 -28.23 0 ]
+	LongLat	[ 66.67 -28.23 0 ]
 	Size	348.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -3141,7 +3141,7 @@ Location "Nāwahī" "Sol/Mercury"
 # Origin: Welsh word for snake.
 Location "Neidr Facula" "Sol/Mercury"
 {
-	LongLat	[ 57.30000000000001 35.9 0 ]
+	LongLat	[ 57.3 35.9 0 ]
 	Size	90.00
 	Type	"FA"	# Facula, faculae
 }
@@ -3151,7 +3151,7 @@ Location "Neidr Facula" "Sol/Mercury"
 # Additional info: Origin changed from “;Pablo; Chilean poet (1904-1973)“; to “;Jan; Czech poet, journalist, writer, and art critic (1834-1891);  Johann Baptist Georg; Classical Czech composer (1708-1780)“; on September 27, 2022.Reference for Johann Baptist Georg Neruda: Biographical Encyclopedia of the Austrian Empire, Volume 20, pg. 189, edited and published by Constantin von Wurzbach  (in German, the Biographisches Lexikon des Kaiserthums Oesterreich or BLKÖ). https://de.wikisource.org/wiki/BLK%C3%96:Neruda,_Johann_Georg
 Location "Neruda" "Sol/Mercury"
 {
-	LongLat	[ 125.78999999999999 -52.66 0 ]
+	LongLat	[ 125.79 -52.66 0 ]
 	Size	112.00
 	Type	"AA"	# Crater, craters
 }
@@ -3241,7 +3241,7 @@ Location "Oskison" "Sol/Mercury"
 # Origin: Arabic word for the planet Mercury.
 Location "Otaared Planitia" "Sol/Mercury"
 {
-	LongLat	[ 22.389999999999986 18.26 0 ]
+	LongLat	[ 22.39 18.26 0 ]
 	Size	470.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -3259,7 +3259,7 @@ Location "Ovid" "Sol/Mercury"
 # Origin: Ancient city in the Campania region of Italy.
 Location "Paestum Vallis" "Sol/Mercury"
 {
-	LongLat	[ 126.03999999999999 60.28 0 ]
+	LongLat	[ 126.04 60.28 0 ]
 	Size	96.00
 	Type	"VA"	# Vallis, valles
 }
@@ -3349,7 +3349,7 @@ Location "PENTAS" "Sol/Mercury"
 # Origin: Marius; French and Russian choreographer and dancer (1818-1910).
 Location "Petipa" "Sol/Mercury"
 {
-	LongLat	[ 21.05000000000001 11.54 0 ]
+	LongLat	[ 21.05 11.54 0 ]
 	Size	12.00
 	Type	"AA"	# Crater, craters
 }
@@ -3412,7 +3412,7 @@ Location "Philoxenus" "Sol/Mercury"
 # Origin: Pablo; Spanish painter and sculptor (1881-1973).
 Location "Picasso" "Sol/Mercury"
 {
-	LongLat	[ 50.24000000000001 3.44 0 ]
+	LongLat	[ 50.24 3.44 0 ]
 	Size	134.00
 	Type	"AA"	# Crater, craters
 }
@@ -3521,7 +3521,7 @@ Location "Praxiteles" "Sol/Mercury"
 # Origin: Sergey; Russian composer (1891-1953).
 Location "Prokofiev" "Sol/Mercury"
 {
-	LongLat	[ 62.920000000000016 85.77 0 ]
+	LongLat	[ 62.92 85.77 0 ]
 	Size	112.00
 	Type	"AA"	# Crater, craters
 }
@@ -3611,7 +3611,7 @@ Location "Rabelais" "Sol/Mercury"
 # Origin: Sergei V.; Russian composer, pianist, and conductor (1873-1943).
 Location "Rachmaninoff" "Sol/Mercury"
 {
-	LongLat	[ 57.370000000000005 27.66 0 ]
+	LongLat	[ 57.37 27.66 0 ]
 	Size	305.00
 	Type	"AA"	# Crater, craters
 }
@@ -3755,7 +3755,7 @@ Location "Rimbaud" "Sol/Mercury"
 # Origin: Diego; Mexican painter (1886-1957).
 Location "Rivera" "Sol/Mercury"
 {
-	LongLat	[ 32.18000000000001 69.29 0 ]
+	LongLat	[ 32.18 69.29 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -3836,7 +3836,7 @@ Location "Rūmī" "Sol/Mercury"
 # Origin: Shota; Georgian poet (c. 1160-1216).
 Location "Rustaveli" "Sol/Mercury"
 {
-	LongLat	[ 82.74000000000001 52.41 0 ]
+	LongLat	[ 82.74 52.41 0 ]
 	Size	200.00
 	Type	"AA"	# Crater, craters
 }
@@ -3926,7 +3926,7 @@ Location "Sarpa Facula" "Sol/Mercury"
 # Origin: Augusta; American sculptor (1892-1962).
 Location "Savage" "Sol/Mercury"
 {
-	LongLat	[ 93.41000000000003 -8.59 0 ]
+	LongLat	[ 93.41 -8.59 0 ]
 	Size	93.00
 	Type	"AA"	# Crater, craters
 }
@@ -4007,7 +4007,7 @@ Location "Selen Rupēs" "Sol/Mercury"
 # Origin: Theodor Seuss Geisel; American author and cartoonist (1904-1991).
 Location "Seuss" "Sol/Mercury"
 {
-	LongLat	[ 33.160000000000025 7.65 0 ]
+	LongLat	[ 33.16 7.65 0 ]
 	Size	64.00
 	Type	"AA"	# Crater, craters
 }
@@ -4324,7 +4324,7 @@ Location "Sōtatsu" "Sol/Mercury"
 # Origin: John Philip; American bandmaster and composer (1854-1932).
 Location "Sousa" "Sol/Mercury"
 {
-	LongLat	[ 0.6299999999999955 46.69 0 ]
+	LongLat	[ 0.63 46.69 0 ]
 	Size	138.00
 	Type	"AA"	# Crater, craters
 }
@@ -4351,7 +4351,7 @@ Location "Spitteler" "Sol/Mercury"
 # Origin: Edward; American photographer and painter (1879-1973).
 Location "Steichen" "Sol/Mercury"
 {
-	LongLat	[ 77.04000000000002 -12.79 0 ]
+	LongLat	[ 77.04 -12.79 0 ]
 	Size	196.00
 	Type	"AA"	# Crater, craters
 }
@@ -4387,7 +4387,7 @@ Location "Stilbon Planitia" "Sol/Mercury"
 # Origin: Strauss family of musicians.
 Location "Strauss" "Sol/Mercury"
 {
-	LongLat	[ 74.47000000000003 70.42 0 ]
+	LongLat	[ 74.47 70.42 0 ]
 	Size	17.00
 	Type	"AA"	# Crater, craters
 }
@@ -4414,7 +4414,7 @@ Location "Strindberg" "Sol/Mercury"
 # Origin: Basque word for snake.
 Location "Suge Facula" "Sol/Mercury"
 {
-	LongLat	[ 59.60000000000002 26.1 0 ]
+	LongLat	[ 59.6 26.1 0 ]
 	Size	32.00
 	Type	"FA"	# Facula, faculae
 }
@@ -4613,7 +4613,7 @@ Location "To Ngoc Van" "Sol/Mercury"
 # Origin: Pamela Lyndon (born Helen Lyndon Goff); Australian-born British writer best known for Mary Poppins series of children’s books (1899-1996).
 Location "Travers" "Sol/Mercury"
 {
-	LongLat	[ 30.899999999999977 -28.0 0 ]
+	LongLat	[ 30.9 -28.0 0 ]
 	Size	164.00
 	Type	"AA"	# Crater, craters
 }
@@ -4685,7 +4685,7 @@ Location "Turgenev" "Sol/Mercury"
 # Origin: Etruscan messenger god equivalent of Roman god Mercury.
 Location "Turms Planitia" "Sol/Mercury"
 {
-	LongLat	[ 9.189999999999998 -31.05 0 ]
+	LongLat	[ 9.19 -31.05 0 ]
 	Size	622.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -4712,7 +4712,7 @@ Location "Ular Facula" "Sol/Mercury"
 # Origin: English vessel which took Edmond Halley to Saint Helena in 1676 to conduct a survey of the stars in the southern hemisphere. While there, Halley observed the 1677 transit of Mercury which enabled him to make one of the earliest calculations to estimate the size of the solar system.
 Location "Unity Rupes" "Sol/Mercury"
 {
-	LongLat	[ 84.80000000000001 27.16 0 ]
+	LongLat	[ 84.8 27.16 0 ]
 	Size	350.00
 	Type	"RU"	# Rupes, rupēs
 }
@@ -4739,7 +4739,7 @@ Location "Ustad Isa" "Sol/Mercury"
 # Origin: Swahili (E. Africa) name for the planet Mercury.
 Location "Utaridi Planitia" "Sol/Mercury"
 {
-	LongLat	[ 89.82999999999998 -65.5 0 ]
+	LongLat	[ 89.83 -65.5 0 ]
 	Size	930.00
 	Type	"PL"	# Planitia, planitiae
 }
@@ -4856,7 +4856,7 @@ Location "Vieira da Silva" "Sol/Mercury"
 # Origin: Heitor; Brazilian composer (1887-1959).
 Location "Villa-Lobos" "Sol/Mercury"
 {
-	LongLat	[ 6.7900000000000205 5.27 0 ]
+	LongLat	[ 6.79 5.27 0 ]
 	Size	67.00
 	Type	"AA"	# Crater, craters
 }

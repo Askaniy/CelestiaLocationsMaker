@@ -12,7 +12,7 @@
 # Origin: Gaul god of the apple tree.
 Location "Abellio" "Sol/Ceres"
 {
-	LongLat	[ -66.91000000000003 33.2 0 ]
+	LongLat	[ -66.91 33.2 0 ]
 	Size	32.00
 	Type	"AA"	# Crater, craters
 }
@@ -30,7 +30,7 @@ Location "Achita" "Sol/Ceres"
 # Origin: Sumi tribe (Nagaland, NE India) traditional post-harvest festival, signifies the celebration of the seasons harvest’s thanksgiving.
 Location "Ahuna Mons" "Sol/Ceres"
 {
-	LongLat	[ -43.80000000000001 -10.48 0 ]
+	LongLat	[ -43.8 -10.48 0 ]
 	Size	20.00
 	Type	"MO"	# Mons, montes
 }
@@ -66,7 +66,7 @@ Location "Aristaeus" "Sol/Ceres"
 # Origin: Syrian god of agriculture.
 Location "Asari" "Sol/Ceres"
 {
-	LongLat	[ -40.120000000000005 83.03 0 ]
+	LongLat	[ -40.12 83.03 0 ]
 	Size	56.00
 	Type	"AA"	# Crater, craters
 }
@@ -75,7 +75,7 @@ Location "Asari" "Sol/Ceres"
 # Origin: Greek/Phrygian god of vegetation and of fertility.
 Location "Attis" "Sol/Ceres"
 {
-	LongLat	[ -102.16000000000003 -73.07 0 ]
+	LongLat	[ -102.16 -73.07 0 ]
 	Size	22.00
 	Type	"AA"	# Crater, craters
 }
@@ -93,7 +93,7 @@ Location "Axomama" "Sol/Ceres"
 # Origin: Quechua (Peru) harvest festival (in May). Aymuray means “the song of the harvest”.
 Location "Aymuray Tholi" "Sol/Ceres"
 {
-	LongLat	[ -24.389999999999986 28.78 0 ]
+	LongLat	[ -24.39 28.78 0 ]
 	Size	81.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -120,7 +120,7 @@ Location "Bagach Tholus" "Sol/Ceres"
 # Origin: Mordvinian (Volga River Region, Russia) agricultural festival.
 Location "Baltay Catena" "Sol/Ceres"
 {
-	LongLat	[ -85.50999999999999 -49.34 0 ]
+	LongLat	[ -85.51 -49.34 0 ]
 	Size	83.50
 	Type	"CA"	# Catena, catenae
 }
@@ -129,7 +129,7 @@ Location "Baltay Catena" "Sol/Ceres"
 # Origin: Yap Islands (Caroline Islands, Micronesia) guardian of the taro fields who controls the yield of the crops.
 Location "Begbalel" "Sol/Ceres"
 {
-	LongLat	[ -34.64999999999998 17.71 0 ]
+	LongLat	[ -34.65 17.71 0 ]
 	Size	102.00
 	Type	"AA"	# Crater, craters
 }
@@ -147,7 +147,7 @@ Location "Belun" "Sol/Ceres"
 # Origin: Egyptian grain god.
 Location "Besua" "Sol/Ceres"
 {
-	LongLat	[ -59.79000000000002 -42.35 0 ]
+	LongLat	[ -59.79 -42.35 0 ]
 	Size	17.00
 	Type	"AA"	# Crater, craters
 }
@@ -282,7 +282,7 @@ Location "Cozobi" "Sol/Ceres"
 # Origin: Nigerian god of vegetables.
 Location "Dada" "Sol/Ceres"
 {
-	LongLat	[ -23.24000000000001 58.63 0 ]
+	LongLat	[ -23.24 58.63 0 ]
 	Size	12.00
 	Type	"AA"	# Crater, craters
 }
@@ -381,7 +381,7 @@ Location "Emesh" "Sol/Ceres"
 # Origin: Sumerian god of farming.
 Location "Enkimdu" "Sol/Ceres"
 {
-	LongLat	[ -100.89999999999998 78.9 0 ]
+	LongLat	[ -100.9 78.9 0 ]
 	Size	9.00
 	Type	"AA"	# Crater, craters
 }
@@ -408,7 +408,7 @@ Location "Ezinu" "Sol/Ceres"
 # Origin: Nigerian god who supplied the yams.
 Location "Fejokoo" "Sol/Ceres"
 {
-	LongLat	[ -47.889999999999986 29.15 0 ]
+	LongLat	[ -47.89 29.15 0 ]
 	Size	68.00
 	Type	"AA"	# Crater, craters
 }
@@ -471,7 +471,7 @@ Location "Hakumyi" "Sol/Ceres"
 # Origin: Hittite (Asia Minor) goddess of grain.
 Location "Halki" "Sol/Ceres"
 {
-	LongLat	[ -25.399999999999977 25.9 0 ]
+	LongLat	[ -25.4 25.9 0 ]
 	Size	20.00
 	Type	"AA"	# Crater, craters
 }
@@ -499,7 +499,7 @@ Location "Hanami Planum" "Sol/Ceres"
 # Origin: Indian god of agriculture.
 Location "Hatipowa" "Sol/Ceres"
 {
-	LongLat	[ -2.2900000000000205 -16.08 0 ]
+	LongLat	[ -2.29 -16.08 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -545,7 +545,7 @@ Location "Homshuk" "Sol/Ceres"
 # Origin: Hosil bayrami; Uzbek (Central Asia) cotton harvest festival.
 Location "Hosil Tholus" "Sol/Ceres"
 {
-	LongLat	[ -39.29000000000002 43.31 0 ]
+	LongLat	[ -39.29 43.31 0 ]
 	Size	31.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -626,7 +626,7 @@ Location "Jarimba" "Sol/Ceres"
 # Origin: Slavic god of fertility and harvest, who comes down to the Underworld after every harvest and returns to a usual world every spring.
 Location "Jarovit" "Sol/Ceres"
 {
-	LongLat	[ -75.25999999999999 67.9 0 ]
+	LongLat	[ -75.26 67.9 0 ]
 	Size	66.00
 	Type	"AA"	# Crater, craters
 }
@@ -644,7 +644,7 @@ Location "Juling" "Sol/Ceres"
 # Origin: Latvian god of fertility of the field.
 Location "Jumis" "Sol/Ceres"
 {
-	LongLat	[ -43.60000000000002 51.6 0 ]
+	LongLat	[ -43.6 51.6 0 ]
 	Size	15.00
 	Type	"AA"	# Crater, craters
 }
@@ -690,7 +690,7 @@ Location "Kait" "Sol/Ceres"
 # Origin: Micronesian (Pohnpei/Ponape Island, Caroline Islands) god of the coconut palm.
 Location "Kaneki" "Sol/Ceres"
 {
-	LongLat	[ -65.39999999999998 23.8 0 ]
+	LongLat	[ -65.4 23.8 0 ]
 	Size	31.50
 	Type	"AA"	# Crater, craters
 }
@@ -726,7 +726,7 @@ Location "Kiriamma" "Sol/Ceres"
 # Origin: Lithuanian spirit, guardian of cherry trees.
 Location "Kirnis" "Sol/Ceres"
 {
-	LongLat	[ -95.69999999999999 4.9 0 ]
+	LongLat	[ -95.7 4.9 0 ]
 	Size	115.00
 	Type	"AA"	# Crater, craters
 }
@@ -771,7 +771,7 @@ Location "Kupalo" "Sol/Ceres"
 # Origin: African-American festival (“;First Fruits“;) based on ancient African harvest festivals (from December 26 to January 1).
 Location "Kwanzaa Tholus" "Sol/Ceres"
 {
-	LongLat	[ -33.31999999999999 32.06 0 ]
+	LongLat	[ -33.32 32.06 0 ]
 	Size	48.00
 	Type	"TH"	# Tholus, tholi
 }
@@ -798,7 +798,7 @@ Location "Liber" "Sol/Ceres"
 # Origin: Ancient Roman festival to honor Liber and Libera, deities of the vine, worshiped, along with Ceres as fertility gods, held on March 17.
 Location "Liberalia Mons" "Sol/Ceres"
 {
-	LongLat	[ -48.99000000000001 6.02 0 ]
+	LongLat	[ -48.99 6.02 0 ]
 	Size	90.00
 	Type	"MO"	# Mons, montes
 }
@@ -825,7 +825,7 @@ Location "Lohri Tholus" "Sol/Ceres"
 # Origin: Hawaiian god of agriculture.
 Location "Lono" "Sol/Ceres"
 {
-	LongLat	[ -55.629999999999995 -36.61 0 ]
+	LongLat	[ -55.63 -36.61 0 ]
 	Size	20.00
 	Type	"AA"	# Crater, craters
 }
@@ -834,7 +834,7 @@ Location "Lono" "Sol/Ceres"
 # Origin: Celtic harvest festival, traditionally celebrated on August 1.
 Location "Lughnasa Tholus" "Sol/Ceres"
 {
-	LongLat	[ -33.69999999999999 20.2 0 ]
+	LongLat	[ -33.7 20.2 0 ]
 	Size	35.87
 	Type	"TH"	# Tholus, tholi
 }
@@ -870,7 +870,7 @@ Location "Megwomets" "Sol/Ceres"
 # Origin: Roman god of harvesting, of cutting of the grain.
 Location "Messor" "Sol/Ceres"
 {
-	LongLat	[ -126.27000000000001 49.93 0 ]
+	LongLat	[ -126.27 49.93 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -906,7 +906,7 @@ Location "Mondamin" "Sol/Ceres"
 # Origin: Bengal region (Bangladesh and West Bengal state in India) “new rice” harvest festival.
 Location "Nabanna Fossa" "Sol/Ceres"
 {
-	LongLat	[ -75.94999999999999 1.71 0 ]
+	LongLat	[ -75.95 1.71 0 ]
 	Size	168.00
 	Type	"FO"	# Fossa, fossae
 }
@@ -915,7 +915,7 @@ Location "Nabanna Fossa" "Sol/Ceres"
 # Origin: Azerbaijani festival of pomegranate harvest. Held in October – November in Goychaycity, center of pomegranates cultivation in Azerbaijan.
 Location "Nar Sulcus" "Sol/Ceres"
 {
-	LongLat	[ -79.88999999999999 -41.86 0 ]
+	LongLat	[ -79.89 -41.86 0 ]
 	Size	63.00
 	Type	"SU"	# Sulcus, sulci
 }
@@ -951,7 +951,7 @@ Location "Niman Rupes" "Sol/Ceres"
 # Origin: Sumerian goddess of plants and vegetation.
 Location "Ninsar" "Sol/Ceres"
 {
-	LongLat	[ -96.74000000000001 30.3 0 ]
+	LongLat	[ -96.74 30.3 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -960,7 +960,7 @@ Location "Ninsar" "Sol/Ceres"
 # Origin: Canelos Quichua (Ecuador) female spirit of the garden soil and of pottery clay.
 Location "Nunghui" "Sol/Ceres"
 {
-	LongLat	[ -87.69999999999999 -54.0 0 ]
+	LongLat	[ -87.7 -54.0 0 ]
 	Size	22.00
 	Type	"AA"	# Crater, craters
 }
@@ -969,7 +969,7 @@ Location "Nunghui" "Sol/Ceres"
 # Origin: Roman agricultural deity of the harrowing.
 Location "Occator" "Sol/Ceres"
 {
-	LongLat	[ -120.66999999999999 19.82 0 ]
+	LongLat	[ -120.67 19.82 0 ]
 	Size	92.00
 	Type	"AA"	# Crater, craters
 }
@@ -996,7 +996,7 @@ Location "Omonga" "Sol/Ceres"
 # Origin: Harvest festival in Kerala, India, held in August-September.
 Location "Onam Labes" "Sol/Ceres"
 {
-	LongLat	[ -43.98000000000002 51.23 0 ]
+	LongLat	[ -43.98 51.23 0 ]
 	Size	4.80
 	Type	"LA"	# Labes, labēs
 }
@@ -1005,7 +1005,7 @@ Location "Onam Labes" "Sol/Ceres"
 # Origin: God of agriculture in Afro-Brazilian beliefs of Yoruba derivation.
 Location "Oxo" "Sol/Ceres"
 {
-	LongLat	[ -0.39999999999997726 42.21 0 ]
+	LongLat	[ -0.4 42.21 0 ]
 	Size	10.00
 	Type	"AA"	# Crater, craters
 }
@@ -1023,7 +1023,7 @@ Location "Pasola Facula" "Sol/Ceres"
 # Origin: Seto (SE Estonia) fertility god.
 Location "Peko" "Sol/Ceres"
 {
-	LongLat	[ -28.600000000000023 39.7 0 ]
+	LongLat	[ -28.6 39.7 0 ]
 	Size	11.00
 	Type	"AA"	# Crater, craters
 }
@@ -1041,7 +1041,7 @@ Location "Piuku" "Sol/Ceres"
 # Origin: Tamil (Sri Lanka and S. India) harvest festival observed in mid-January. It is a time for giving thanks to nature.
 Location "Pongal Catena" "Sol/Ceres"
 {
-	LongLat	[ -92.33999999999997 -37.37 0 ]
+	LongLat	[ -92.34 -37.37 0 ]
 	Size	95.50
 	Type	"CA"	# Catena, catenae
 }
@@ -1077,7 +1077,7 @@ Location "Razeka" "Sol/Ceres"
 # Origin: Maori (New Zealand) god of agriculture, of cultivated foods.
 Location "Rongo" "Sol/Ceres"
 {
-	LongLat	[ -11.29000000000002 3.21 0 ]
+	LongLat	[ -11.29 3.21 0 ]
 	Size	68.00
 	Type	"AA"	# Crater, craters
 }
@@ -1086,7 +1086,7 @@ Location "Rongo" "Sol/Ceres"
 # Origin: Teutonic goddess who symbolizes the ripe fields of harvest.
 Location "Roskva" "Sol/Ceres"
 {
-	LongLat	[ -26.980000000000018 58.9 0 ]
+	LongLat	[ -26.98 58.9 0 ]
 	Size	22.00
 	Type	"AA"	# Crater, craters
 }
@@ -1105,7 +1105,7 @@ Location "Samhain Catenae" "Sol/Ceres"
 # Origin: Indonesian (Bali and Java Islands) god of agriculture.
 Location "Sedana" "Sol/Ceres"
 {
-	LongLat	[ -45.30000000000001 36.5 0 ]
+	LongLat	[ -45.3 36.5 0 ]
 	Size	58.00
 	Type	"AA"	# Crater, craters
 }
@@ -1114,7 +1114,7 @@ Location "Sedana" "Sol/Ceres"
 # Origin: Egyptian name of Isis as goddess of cultivated lands and fields.
 Location "Sekhet" "Sol/Ceres"
 {
-	LongLat	[ -104.94999999999999 -66.42 0 ]
+	LongLat	[ -104.95 -66.42 0 ]
 	Size	40.00
 	Type	"AA"	# Crater, craters
 }
@@ -1177,7 +1177,7 @@ Location "Tahu" "Sol/Ceres"
 # Origin: Malaysian goddess in charge of the tuber harvest.
 Location "Takel" "Sol/Ceres"
 {
-	LongLat	[ -79.51999999999998 50.76 0 ]
+	LongLat	[ -79.52 50.76 0 ]
 	Size	22.00
 	Type	"AA"	# Crater, craters
 }
@@ -1186,7 +1186,7 @@ Location "Takel" "Sol/Ceres"
 # Origin: Polish god of the fields, of the tilling.
 Location "Tawals" "Sol/Ceres"
 {
-	LongLat	[ -121.97999999999999 -39.06 0 ]
+	LongLat	[ -121.98 -39.06 0 ]
 	Size	8.80
 	Type	"AA"	# Crater, craters
 }
@@ -1195,7 +1195,7 @@ Location "Tawals" "Sol/Ceres"
 # Origin: Hittite (Asia Minor) god of fertility and vegetation.
 Location "Telepinu" "Sol/Ceres"
 {
-	LongLat	[ -24.399999999999977 23.2 0 ]
+	LongLat	[ -24.4 23.2 0 ]
 	Size	31.00
 	Type	"AA"	# Crater, craters
 }
@@ -1213,7 +1213,7 @@ Location "Thrud" "Sol/Ceres"
 # Origin: Land Dayaks (Borneo/Kalimantan, Indonesia) malevolent spirit who devours and depletes the rice.
 Location "Tibong" "Sol/Ceres"
 {
-	LongLat	[ -7.800000000000011 -29.82 0 ]
+	LongLat	[ -7.8 -29.82 0 ]
 	Size	36.00
 	Type	"AA"	# Crater, craters
 }
@@ -1240,7 +1240,7 @@ Location "Tupo" "Sol/Ceres"
 # Origin: Nigerian (Zuru Emirate, Kebbi State) harvest festival.
 Location "Uhola Catenae" "Sol/Ceres"
 {
-	LongLat	[ -73.33999999999997 -10.65 0 ]
+	LongLat	[ -73.34 -10.65 0 ]
 	Size	400.00
 	Type	"CA"	# Catena, catenae
 }
@@ -1249,7 +1249,7 @@ Location "Uhola Catenae" "Sol/Ceres"
 # Origin: Indian and Iranian deity of plants and fields.
 Location "Urvara" "Sol/Ceres"
 {
-	LongLat	[ -110.75999999999999 -45.66 0 ]
+	LongLat	[ -110.76 -45.66 0 ]
 	Size	170.00
 	Type	"AA"	# Crater, craters
 }
@@ -1267,7 +1267,7 @@ Location "Vendimia Planitia" "Sol/Ceres"
 # Origin: Roman goddess of food and nourishment.
 Location "Victa" "Sol/Ceres"
 {
-	LongLat	[ -58.95999999999998 36.23 0 ]
+	LongLat	[ -58.96 36.23 0 ]
 	Size	32.00
 	Type	"AA"	# Crater, craters
 }
@@ -1303,7 +1303,7 @@ Location "Wangala Tholus" "Sol/Ceres"
 # Origin: Fon (Benin/Dahomey) god of thunder and fertility.
 Location "Xevioso" "Sol/Ceres"
 {
-	LongLat	[ -49.39999999999998 0.7 0 ]
+	LongLat	[ -49.4 0.7 0 ]
 	Size	8.50
 	Type	"AA"	# Crater, craters
 }
@@ -1321,7 +1321,7 @@ Location "Xochipilli" "Sol/Ceres"
 # Origin: Dahomey goddess worshipped by women at the harvest rites.
 Location "Yalode" "Sol/Ceres"
 {
-	LongLat	[ -67.51999999999998 -42.58 0 ]
+	LongLat	[ -67.52 -42.58 0 ]
 	Size	260.00
 	Type	"AA"	# Crater, craters
 }
@@ -1622,7 +1622,7 @@ Location "Kowal" "Sol/Pluto-Charon/Pluto"
 # Origin: Lemminkäinen is a hero of the Finnish national epic The Kalevala. He travels to the Underworld to capture the black swan.
 Location "Lemminkäinen Vallis" "Sol/Pluto-Charon/Pluto"
 {
-	LongLat	[ -121.27000000000001 87.42 0 ]
+	LongLat	[ -121.27 87.42 0 ]
 	Size	726.00
 	Type	"VA"	# Vallis, valles
 }
@@ -1739,7 +1739,7 @@ Location "Rosetta Planitia" "Sol/Pluto-Charon/Pluto"
 # Origin: Damon; American astronomer; investigated the formation history of Pluto (1959–2004).
 Location "Simonelli" "Sol/Pluto-Charon/Pluto"
 {
-	LongLat	[ -45.24000000000001 12.79 0 ]
+	LongLat	[ -45.24 12.79 0 ]
 	Size	286.00
 	Type	"AA"	# Crater, craters
 }
@@ -1748,7 +1748,7 @@ Location "Simonelli" "Sol/Pluto-Charon/Pluto"
 # Origin: A powerful, eight-legged horse in Norse mythology who carried Odin into the Underworld.
 Location "Sleipnir Fossa" "Sol/Pluto-Charon/Pluto"
 {
-	LongLat	[ -125.49000000000001 23.7 0 ]
+	LongLat	[ -125.49 23.7 0 ]
 	Size	508.00
 	Type	"FO"	# Fossa, fossae
 }
@@ -1913,7 +1913,7 @@ Location "Butler Mons" "Sol/Pluto-Charon/Charon"
 # Origin: Chilote (southern Chile) legendary, sentient ghost ship, which could suddenly appear and then quickly disappears again, leaving no evidence of its presence.
 Location "Caleuche Chasma" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -118.19999999999999 72.5 0 ]
+	LongLat	[ -118.2 72.5 0 ]
 	Size	400.00
 	Type	"CM"	# Chasma, chasmata
 }
@@ -1931,7 +1931,7 @@ Location "Clarke Montes" "Sol/Pluto-Charon/Charon"
 # Origin: Protagonist in the fiction novel The Underground Railroad, by US author Colson Whitehead (2016). She was a slave who undertook a long journey to freedom in the North through the network of routes and safe houses for fugitive southern slaves, depicted as an actual railroad.
 Location "Cora" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -8.279999999999973 17.09 0 ]
+	LongLat	[ -8.28 17.09 0 ]
 	Size	9.00
 	Type	"AA"	# Crater, craters
 }
@@ -1958,7 +1958,7 @@ Location "Kubrick Mons" "Sol/Pluto-Charon/Charon"
 # Origin: Egyptian boat that carries the sun god Ra across the sky in the daytime.
 Location "Mandjet Chasma" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -65.60000000000002 4.8 0 ]
+	LongLat	[ -65.6 4.8 0 ]
 	Size	385.00
 	Type	"CM"	# Chasma, chasmata
 }
@@ -1967,7 +1967,7 @@ Location "Mandjet Chasma" "Sol/Pluto-Charon/Charon"
 # Origin: Anne; US-Irish author of science fiction novels, including the Dragonriders of Pern series, which recounts the human colonization of the fictional planet Pern (1926-2011).
 Location "McCaffrey Dorsum" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -65.11000000000001 74.28 0 ]
+	LongLat	[ -65.11 74.28 0 ]
 	Size	420.00
 	Type	"DO"	# Dorsum, dorsa
 }
@@ -1976,7 +1976,7 @@ Location "McCaffrey Dorsum" "Sol/Pluto-Charon/Charon"
 # Origin: Hero of humorous folktales told throughout the Middle East, southern Europe and parts of Asia. Undertook numerous journeys with his donkey, upon which he is seated facing backwards. Supposed to be of a Turkish origin.
 Location "Nasreddin" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -51.39999999999998 25.5 0 ]
+	LongLat	[ -51.4 25.5 0 ]
 	Size	29.70
 	Type	"AA"	# Crater, craters
 }
@@ -1985,7 +1985,7 @@ Location "Nasreddin" "Sol/Pluto-Charon/Charon"
 # Origin: Captain of the Nautilus, a submarine, in the novels “;Twenty Thousand Leagues Under the Sea“; (1870) and “;The Mysterious Island“; (1874) by the French author Jules Verne (1825–1905). The stories recount fantastical undersea travels and explorations.
 Location "Nemo" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -45.89999999999998 -15.7 0 ]
+	LongLat	[ -45.9 -15.7 0 ]
 	Size	44.00
 	Type	"AA"	# Crater, craters
 }
@@ -1994,7 +1994,7 @@ Location "Nemo" "Sol/Pluto-Charon/Charon"
 # Origin: Spaceship pilot, the main character in a series of fictional stories by the Polish author Stanislaw Lem (1921–2006). He travelled between the Earth, Moon and Mars.
 Location "Pirx" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -103.69999999999999 55.2 0 ]
+	LongLat	[ -103.7 55.2 0 ]
 	Size	90.00
 	Type	"AA"	# Crater, craters
 }
@@ -2012,7 +2012,7 @@ Location "Revati" "Sol/Pluto-Charon/Charon"
 # Origin: Russian merchant in the medieval epic tale (Bylina), who traveled to the bottom of the sea.
 Location "Sadko" "Sol/Pluto-Charon/Charon"
 {
-	LongLat	[ -28.80000000000001 -16.1 0 ]
+	LongLat	[ -28.8 -16.1 0 ]
 	Size	28.00
 	Type	"AA"	# Crater, craters
 }
