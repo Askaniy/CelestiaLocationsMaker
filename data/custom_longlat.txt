@@ -96,4 +96,4 @@ Butz	25 41 0
 Lob	63 29 0
 
 # Proteus
-Pharos	-5 -20 4
+Pharos	-5 -25 0

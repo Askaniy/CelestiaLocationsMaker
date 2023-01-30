@@ -12,7 +12,7 @@
 # Origin: Island where Proteus reigned.
 Location "Pharos" "Sol/Neptune/Proteus"
 {
-	LongLat	[ -5 -20  ]
+	LongLat	[ -5 -20 4 ]
 	Size	255
 	Type	"AA"	# Crater, craters
 }
