@@ -52,12 +52,17 @@ no_list = ("n", "f", "0")
 
 # SSC writer
 
-def reader(target):
+def proper_round(num):
+    return num
+
+def reader(request):
     global zero_size_counter
     locations = []
     for line in database:
         data = dict(zip(columns, line))
-        if target == data["Target"] and data["Approval Status"] == "Approved":
+        target = data["Target"]
+        name = data["Feature Name"]
+        if request == target and data["Approval Status"] == "Approved":
             location = "\n"
 
             # Comments
@@ -71,51 +76,60 @@ def reader(target):
             
             # Name
             if data["Feature Type Code"] in ("AL", "ME", "OC", "RE", "TA"):
-                location += f'Location "{data["Feature Name"].upper()}"'
+                location += f'Location "{name.upper()}"'
             else:
-                location += f'Location "{data["Feature Name"]}"'
+                location += f'Location "{name}"'
             
             # Target
-            if data["Target"] == "Moon":
+            if target == "Moon":
                 location += f' "Sol/Earth/Moon"\n'
-            elif data["Target"] in sets["marsmoons_locs.ssc"]:
-                location += f' "Sol/Mars/{data["Target"]}"\n'
-            elif data["Target"] in sets["jupitermoons_locs.ssc"]:
-                location += f' "Sol/Jupiter/{data["Target"]}"\n'
-            elif data["Target"] in sets["saturnmoons_locs.ssc"]:
-                location += f' "Sol/Saturn/{data["Target"]}"\n'
-            elif data["Target"] in sets["uranusmoons_locs.ssc"]:
-                location += f' "Sol/Uranus/{data["Target"]}"\n'
-            elif data["Target"] in sets["neptunemoons_locs.ssc"]:
-                location += f' "Sol/Neptune/{data["Target"]}"\n'
-            elif data["Target"] in ("Pluto", "Charon"):
-                location += f' "Sol/Pluto-Charon/{data["Target"]}"\n'
-            elif data["Target"] == "Dactyl":
+            elif target in sets["marsmoons_locs.ssc"]:
+                location += f' "Sol/Mars/{target}"\n'
+            elif target in sets["jupitermoons_locs.ssc"]:
+                location += f' "Sol/Jupiter/{target}"\n'
+            elif target in sets["saturnmoons_locs.ssc"]:
+                location += f' "Sol/Saturn/{target}"\n'
+            elif target in sets["uranusmoons_locs.ssc"]:
+                location += f' "Sol/Uranus/{target}"\n'
+            elif target in sets["neptunemoons_locs.ssc"]:
+                location += f' "Sol/Neptune/{target}"\n'
+            elif target in ("Pluto", "Charon"):
+                location += f' "Sol/Pluto-Charon/{target}"\n'
+            elif target == "Dactyl":
                 location += f' "Sol/Ida/Dactyl"\n'
             else:
-                location += f' "Sol/{data["Target"]}"\n'
+                location += f' "Sol/{target}"\n'
             
             # LongLat
             location += '{\n'
-            if data["Feature Name"] in coord_dict:
-                location += f'\tLongLat\t[ {coord_dict[data["Feature Name"]]} ]\n'
+            if name in custom_longlat:
+                location += f'\tLongLat\t[ {custom_longlat[name]} ]\n'
             else:
-                long = data["Center Longitude"]
-                lat = data["Center Latitude"]
-                if data["Target"] in retrograde_rotators:
-                    long = long[1:] if long[0] == "-" else "-"+long
-                    lat = lat[1:] if lat[0] == "-" else "-"+lat
-                elif data["Target"] == "Vesta": # coordinate system by the Dawn team, see ReadMe
-                    long = round(float(data["Center Longitude"])-150, 2)
-                location += f'\tLongLat\t[ {long} {lat} 0 ]\n'
+                long = float(data["Center Longitude"])
+                lat = float(data["Center Latitude"])
+                lat_system, direction, scope = data["Coordinate System"].split(", ")
+                invert_long = False
+                if scope == "0 - 360":
+                    if target == "Vesta": # coordinate system by the Dawn team, see ReadMe
+                        long -= 150
+                    if long > 180:
+                        long -= 360
+                if direction == "+West":
+                    invert_long = not invert_long
+                if target in retrograde_rotators:
+                    invert_long = not invert_long
+                    lat *= -1
+                if invert_long:
+                    long *= -1
+                location += f'\tLongLat\t[ {proper_round(long)} {proper_round(lat)} 0 ]\n'
             
             # Size/Importance
             if float(data["Diameter"]) == 0:
                 zero_size_counter += 1
                 if data["Feature Type Code"] == "AL":
                     location += f'\tImportance\t20\n'
-                elif data["Feature Name"] in size_dict:
-                    location += f'\tSize\t{size_dict[data["Feature Name"]]}\n'
+                elif name in custom_size:
+                    location += f'\tSize\t{custom_size[name]}\n'
                 else:
                     location += f'\tSize\t10\n'
             else:
@@ -242,7 +256,7 @@ elif choice == "2":
         print("Input was wrong, please try again.\n")
         sys.exit(2)
 
-elif choice == "3":
+elif choice == "3" or choice in none_list: # default one
     set_list = list(sets.items())
 
 elif choice == "4":
@@ -268,13 +282,13 @@ else:
 
 # Custom coordinates and altitudes
 
-coord_dict = {}
+custom_longlat = {}
 try:
     with open(data_path + "/custom_longlat.txt", "r", encoding="UTF-8") as coords:
         for line in coords:
             try:
                 name, coord = line.split("\t")
-                coord_dict.update({name: coord[:-1]})
+                custom_longlat.update({name: coord[:-1]})
             except Exception:
                 pass
 except Exception:
@@ -283,13 +297,13 @@ except Exception:
 
 # Sizes of zero-sized locations
 
-size_dict = {}
+custom_size = {}
 try:
     with open(data_path + "/custom_size.txt", "r", encoding="UTF-8") as zeros:
         for line in zeros:
             try:
                 name, size = line.split("\t")
-                size_dict.update({name: size[:-1]})
+                custom_size.update({name: size[:-1]})
             except Exception:
                 pass
 except Exception:
