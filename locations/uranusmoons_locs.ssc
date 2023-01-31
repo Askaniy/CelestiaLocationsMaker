@@ -1,819 +1,636 @@
 # 88 locations on Puck, Miranda, Ariel, Umbriel, Titania and Oberon.
-
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
-
-# Date of creation: 30.01.2023
-# Last update: 30.01.2023
 
 
 # 3 locations on Puck.
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Scottish mischievous spirits.
 Location "Bogle" "Sol/Uranus/Puck"
 {
 	LongLat	[ 115 12 0 ]
 	Size	45
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: German roguish or evil spirits.
 Location "Butz" "Sol/Uranus/Puck"
 {
 	LongLat	[ 25 41 0 ]
 	Size	20
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: British mischievous spirits.
 Location "Lob" "Sol/Uranus/Puck"
 {
 	LongLat	[ 63 29 0 ]
 	Size	20
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
 
 # 18 locations on Miranda.
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: King of Naples in “;The Tempest.“;
 Location "Alonso" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 7.4 44 0 ]
 	Size	25
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Forest, location of “;As You Like It.“;
 Location "Arden Corona" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -73.7 29.1 0 ]
 	Size	318
-	Type	"CR"	# Corona, coronae
+	Type	"CR"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Location of earlier action in “;The Tempest.“;
 Location "Argier Rupes" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 37.2 43.2 0 ]
 	Size	141
-	Type	"RU"	# Rupes, rupēs
+	Type	"RU"
 }
 
-# Approval date: 1988; Last update: May 15, 2010
-# Origin: Location of castle where Macbeth was defeated.
 Location "DUNSINANE REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -11.9 31.5 0 ]
 	Size	244
-	Type	"RE"	# Regio, regiones
+	Type	"RE"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Location of Hamlet's castle.
 Location "Elsinore Corona" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 102.9 24.8 0 ]
 	Size	323
-	Type	"CR"	# Corona, coronae
+	Type	"CR"
 }
 
-# Approval date: 1997; Last update: Oct 01, 2006
-# Origin: Home of twins and setting for “;The Comedy of Errors.“;
 Location "EPHESUS REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 110 15 0 ]
 	Size	225
-	Type	"RE"	# Regio, regiones
+	Type	"RE"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Son of King of Naples; loves Miranda in “;The Tempest.“;
 Location "Ferdinand" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 157.9 34.8 0 ]
 	Size	17
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: A lord of Naples in “;The Tempest.“;
 Location "Francisco" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 124 73.2 0 ]
 	Size	14
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: May 15, 2010
-# Origin: Honest old counselor of Naples in “;The Tempest.“;
 Location "Gonzalo" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -77 11.4 0 ]
 	Size	11
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: May 15, 2010
-# Origin: Location of Macbeth's castle.
 Location "Inverness Corona" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 34.3 66.9 0 ]
 	Size	234
-	Type	"CR"	# Corona, coronae
+	Type	"CR"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Location of part of “;Two Gentlemen From Verona.“;
 Location "MANTUA REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 179.8 39.6 0 ]
 	Size	399
-	Type	"RE"	# Regio, regiones
+	Type	"RE"
 }
 
-# Approval date: 1997; Last update: Oct 01, 2006
-# Origin: Destination in “;The Tempest.“;
 Location "Naples Sulcus" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 100 32 0 ]
 	Size	260
-	Type	"SU"	# Sulcus, sulci
+	Type	"SU"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Rightful Duke of Mila in “;The Tempest.“;
 Location "Prospero" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 30.1 32.9 0 ]
 	Size	21
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Location of “;Winter's Tale.“;
 Location "SICILIA REGIO" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 42.8 30 0 ]
 	Size	174
-	Type	"RE"	# Regio, regiones
+	Type	"RE"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: A drunken butler in “;The Tempest.“;
 Location "Stephano" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 125.9 41.1 0 ]
 	Size	16
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1997; Last update: Oct 01, 2006
-# Origin: Home of twins in the “;Comedy of Errors.“;
 Location "Syracusa Sulcus" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 67 15 0 ]
 	Size	40
-	Type	"SU"	# Sulcus, sulci
+	Type	"SU"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: A jester in “;The Tempest.“;
 Location "Trinculo" "Sol/Uranus/Miranda"
 {
 	LongLat	[ -163.4 63.7 0 ]
 	Size	11
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Where Romeo and Juliet lived.
 Location "Verona Rupes" "Sol/Uranus/Miranda"
 {
 	LongLat	[ 12.2 18.3 0 ]
 	Size	116
-	Type	"RU"	# Rupes, rupēs
+	Type	"RU"
 }
 
 
 # 26 locations on Ariel.
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirit of the iron mines.
 Location "Abans" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 108.7 15.5 0 ]
 	Size	20
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirit in Spenser's “;Fairy Queene.“;
 Location "Agape" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 23.5 46.9 0 ]
 	Size	34
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Eskimo benevolent spirit.
 Location "Ataksak" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 135.7 53.1 0 ]
 	Size	22
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Good spirit who fills Italian children's stockings with toys on twelfth night.
 Location "Befana" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -31.9 17 0 ]
 	Size	21
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Good spirit in Maeterlinck's “;The Bluebird.“;
 Location "Berylune" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 32.1 22.5 0 ]
 	Size	29
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: German good spirits who live in woods.
 Location "Brownie Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 22.4 16 0 ]
 	Size	343
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirit of beautiful maiden.
 Location "Deive" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -23 22.3 0 ]
 	Size	20
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Czech ancestral benevolent spirit and household guardian.
 Location "Djadek" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 108.9 12 0 ]
 	Size	22
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Slavic spirit protector of home.
 Location "Domovoy" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 20.3 71.5 0 ]
 	Size	71
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Irish king of spirits; provided horses and wine to men.
 Location "Finvara" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -19 15.8 0 ]
 	Size	31
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: May 15, 2010
-# Origin: Irish god of battle; leads mens' souls to Annwn.
 Location "Gwyn" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -22.5 77.5 0 ]
 	Size	34
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Replaced Oberon as King of Spirits when Oberon died.
 Location "Huon" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -33.7 37.8 0 ]
 	Size	40
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Pueblo (USA) good spirits who bring rain or other blessings.
 Location "Kachina Chasmata" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 114 33.7 0 ]
 	Size	622
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: British race of quaint spirit babies.
 Location "Kewpie Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 33.1 28.3 0 ]
 	Size	467
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: French wind spirits who cure diseases.
 Location "Korrigan Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 12.5 27.6 0 ]
 	Size	365
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Vital spirits (Gold Coast).
 Location "Kra Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 5.8 32.1 0 ]
 	Size	142
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Inca good spirit.
 Location "Laica" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -44.4 21.3 0 ]
 	Size	30
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirits or dwarfs.
 Location "Leprechaun Vallis" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -10.2 10.4 0 ]
 	Size	328
-	Type	"VA"	# Vallis, valles
+	Type	"VA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Queen of Spirits, dethroned Titania.
 Location "Mab" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 7.8 38.8 0 ]
 	Size	34
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirit heroine of medieval French story.
 Location "Melusine" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -8.9 52.9 0 ]
 	Size	50
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Irish Queen of Fairies.
 Location "Oonagh" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 115.6 21.9 0 ]
 	Size	39
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: British spirits that live in rocks.
 Location "Pixie Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ -5.1 20.4 0 ]
 	Size	278
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirit in Hudson's “;Green Mansions.“;
 Location "Rima" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 99.2 18.3 0 ]
 	Size	41
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Earth spirits.
 Location "Sprite Vallis" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 20 14.9 0 ]
 	Size	305
-	Type	"VA"	# Vallis, valles
+	Type	"VA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: British air spirits who influence the temperaments man.
 Location "Sylph Chasma" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 7 48.6 0 ]
 	Size	349
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirit that brings day.
 Location "Yangoor" "Sol/Uranus/Ariel"
 {
 	LongLat	[ 80.3 68.7 0 ]
 	Size	78
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
 
 # 13 locations on Umbriel.
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Dwarf who guarded Niebelung gold, also had a mantle of invisibility.
 Location "Alberich" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -42.2 33.6 0 ]
 	Size	52
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Troll who helped build a church in Kallundburg, Zealand.
 Location "Fin" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -44.3 37.4 0 ]
 	Size	43
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: King of gnomes.
 Location "Gob" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -27.8 12.7 0 ]
 	Size	88
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Polynesian chief evil spirit.
 Location "Kanaloa" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ 14.3 10.8 0 ]
 	Size	86
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Aboriginal spirit who travels at night.
 Location "Malingee" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -13.9 22.9 0 ]
 	Size	164
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Macouas and Banayis evil spirit.
 Location "Minepa" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -8.2 42.7 0 ]
 	Size	58
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Persian evil spirit who disguised malevolence by charm; disturbed natural elements and heavenly bodies.
 Location "Peri" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -4.3 9.2 0 ]
 	Size	61
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Chief devil.
 Location "Setibos" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ 13.7 30.8 0 ]
 	Size	50
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Troll who stole three wives of a man living in Englerup.
 Location "Skynd" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ 28.3 1.8 0 ]
 	Size	72
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Dec 30, 2008
-# Origin: Volga Finn evil spirit.
 Location "Vuver" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ 48.4 4.7 0 ]
 	Size	98
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Baramba (West Africa) devil spirit.
 Location "Wokolo" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ -1.8 30 0 ]
 	Size	208
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Australian dark spirit.
 Location "Wunda" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ 86.4 7.9 0 ]
 	Size	131
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Dec 30, 2008
-# Origin: Slavic evil spirit.
 Location "Zlyden" "Sol/Uranus/Umbriel"
 {
 	LongLat	[ 33.8 23.3 0 ]
 	Size	44
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
 
 # 18 locations on Titania.
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Wife of Antipholus of Ephesus in “;The Comedy of Errors.“;
 Location "Adriana" "Sol/Uranus/Titania"
 {
 	LongLat	[ -3.9 20.1 0 ]
 	Size	50
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Feb 17, 2017
-# Origin: Location in “;Merchant of Venice.“;
-# Additional info: Origin was changed from “;Location in 'As You Like It'.“; on 02/17/2017, to correct an error.
 Location "Belmont Chasma" "Sol/Uranus/Titania"
 {
 	LongLat	[ -32.6 8.5 0 ]
 	Size	258
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Sister of the French queen in “;Henry VI, part 3.“;
 Location "Bona" "Sol/Uranus/Titania"
 {
 	LongLat	[ 8.8 55.8 0 ]
 	Size	51
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Wife of Julius Caesar.
 Location "Calphurnia" "Sol/Uranus/Titania"
 {
 	LongLat	[ 68.6 42.4 0 ]
 	Size	100
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Mother of King John.
 Location "Elinor" "Sol/Uranus/Titania"
 {
 	LongLat	[ 26.4 44.8 0 ]
 	Size	74
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Mother of Hamlet.
 Location "Gertrude" "Sol/Uranus/Titania"
 {
 	LongLat	[ 72.9 15.8 0 ]
 	Size	326
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Cymbelline's daughter.
 Location "Imogen" "Sol/Uranus/Titania"
 {
 	LongLat	[ 38.8 23.8 0 ]
 	Size	28
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Attendant to Cleopatra in “;Anthony and Cleopatra.“;
 Location "Iras" "Sol/Uranus/Titania"
 {
 	LongLat	[ 21.2 19.2 0 ]
 	Size	33
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shylock's daughter in “;The Merchant of Venice.“;
 Location "Jessica" "Sol/Uranus/Titania"
 {
 	LongLat	[ 74.1 55.3 0 ]
 	Size	64
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Henry VIII's first queen.
 Location "Katherine" "Sol/Uranus/Titania"
 {
 	LongLat	[ 28.1 51.2 0 ]
 	Size	75
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Waiting woman to Julia in “;Two Gentlemen of Verona.“;
 Location "Lucetta" "Sol/Uranus/Titania"
 {
 	LongLat	[ 82.9 14.7 0 ]
 	Size	58
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Daughter to Pericles in “;Pericles, Prince of Tyre.“;
 Location "Marina" "Sol/Uranus/Titania"
 {
 	LongLat	[ 44 15.5 0 ]
 	Size	40
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Location in “;Much Ado About Nothing.“;
 Location "Messina Chasmata" "Sol/Uranus/Titania"
 {
 	LongLat	[ 25 33.3 0 ]
 	Size	1492
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shepardess in “;The Winter's Tale.“;
 Location "Mopsa" "Sol/Uranus/Titania"
 {
 	LongLat	[ 57.8 11.9 0 ]
 	Size	101
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Alcibiades' mistress in “;Timon of Athens.“;
 Location "Phrynia" "Sol/Uranus/Titania"
 {
 	LongLat	[ 50.8 24.3 0 ]
 	Size	35
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Location in “;All's Well That Ends Well.“;
 Location "Rousillon Rupes" "Sol/Uranus/Titania"
 {
 	LongLat	[ -26.5 14.7 0 ]
 	Size	402
-	Type	"RU"	# Rupes, rupēs
+	Type	"RU"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Attendant to Hero and Beatrice in “;Much Ado About Nothing.“;
 Location "Ursula" "Sol/Uranus/Titania"
 {
 	LongLat	[ -45.2 12.4 0 ]
 	Size	135
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Friend to Vergilia in “;Coriolanus.“;
 Location "Valeria" "Sol/Uranus/Titania"
 {
 	LongLat	[ -4.2 34.5 0 ]
 	Size	59
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
 
 # 10 locations on Oberon.
 
-# Approval date: 1988; Last update: May 12, 2020
-# Origin: Shakespearean hero in “;Anthony and Cleopatra.“;
-# Additional info: Latitude and longitude values updated on 5/12/2020.
 Location "Antony" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -65.4 27.5 0 ]
 	Size	47
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shakespearean hero in “;Julius Caesar.“;
 Location "Caesar" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -61.1 26.6 0 ]
 	Size	76
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shakespearean hero.
 Location "Coriolanus" "Sol/Uranus/Oberon"
 {
 	LongLat	[ 14.8 11.4 0 ]
 	Size	120
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shakespearean character in “;Merry Wives of Windsor.“;
 Location "Falstaff" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -19 22.1 0 ]
 	Size	124
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shakespearean hero.
 Location "Hamlet" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -44.4 46.1 0 ]
 	Size	206
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shakespearean hero in “;King Lear.“;
 Location "Lear" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -31.5 5.4 0 ]
 	Size	126
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Mar 25, 2013
-# Origin: Shakespearean hero.
-# Additional info: Spelling changed from MacBeth March 25, 2013.
 Location "Macbeth" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -112.5 58.4 0 ]
 	Size	203
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Spirit place, forest home of Oberon in “;Midsummer Night's Dream.“;
 Location "Mommur Chasma" "Sol/Uranus/Oberon"
 {
 	LongLat	[ 36.5 16.3 0 ]
 	Size	537
-	Type	"CM"	# Chasma, chasmata
+	Type	"CM"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shakespearean character.
 Location "Othello" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -42.9 66 0 ]
 	Size	114
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }
 
-# Approval date: 1988; Last update: Oct 01, 2006
-# Origin: Shakespearean character in “;Romeo and Juliet.“;
 Location "Romeo" "Sol/Uranus/Oberon"
 {
 	LongLat	[ -89.4 28.7 0 ]
 	Size	159
-	Type	"AA"	# Crater, craters
+	Type	"AA"
 }

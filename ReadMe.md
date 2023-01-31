@@ -12,8 +12,7 @@ Run [clm.py](clm.py) in console, customize settings, choose output format (and t
 
 - CLM is still has a beta status: it may contain inaccuracies for some bodies. Help is welcome.
 - It is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). You can turn on legacy mode that constrains location types according to Celestia 1.6 after launch.
-- By default, the script adds a file description and creation info by Celestia Origin standard to the first lines of SSC. You can turn off the feature after launch.
-- By default, the script adds comments about the location type, dates of creation and last update, as well as information about the origin of the name for each location. You can turn off the feature after launch.
+- You can turn on comments about the location type, dates of creation and last update, as well as information about the origin of the name for each location.
 - Names of `albedo features (AL)`, `mare/maria (ME)`, `oceanus/oceani (OC)`, `regio/regiones (RE)` and `terra/terrae (TA)` are written in capital letters.
 - Coordinates and altitude of locations can be set manually through the [custom_longlat.txt](data/custom_longlat.txt). Their parameters are tailored to the models used in Celestia Origin. Also, it contains locations with not specified coordinates.
 - The [database](data/searchresults.csv) contains 333 locations with zero sizes. If the size of one of them is specified in the [custom_size.txt](data/custom_size.txt), the script uses it. Else, `Importance` sets to 20 for albedo features and `Size` sets to 10 (km) for other location types.
@@ -29,4 +28,4 @@ Run [clm.py](clm.py) in console, customize settings, choose output format (and t
 5. Scroll, choose the `CSV` link;
 6. Save the file to the `data` folder.
 
-The last database update was on January 29, 2023.
+The last database update was on January 31, 2023.

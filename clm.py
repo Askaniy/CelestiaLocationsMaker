@@ -96,8 +96,10 @@ def reader(request):
                 location += f' "Sol/Uranus/{target}"\n'
             elif target in sets["neptunemoons_locs.ssc"]:
                 location += f' "Sol/Neptune/{target}"\n'
-            elif target in ("Pluto", "Charon"):
+            elif target in ("Pluto", "Charon") and styleCO: # CO uses barycenter
                 location += f' "Sol/Pluto-Charon/{target}"\n'
+            elif target == "Charon":
+                location += f' "Sol/Pluto/Charon"\n'
             elif target == "Dactyl":
                 location += f' "Sol/Ida/Dactyl"\n'
             else:
@@ -158,7 +160,7 @@ def writer(target_list, path):
             target = target_list[0]
             locations = reader(target)
             print(f'{target} was processed')
-            counter = f'# {len(locations)} location{"" if len(locations) == 1 else "s"} on {target}.\n\n'
+            counter = f'# {len(locations)} location{"" if len(locations) == 1 else "s"} on {target}.\n'
             crutch = "\n"
         else:
             locations = []
@@ -166,18 +168,18 @@ def writer(target_list, path):
             for target in target_list:
                 locs = reader(target)
                 n += len(locs)
-                if description:
-                    locations.append(f'\n\n# {len(locs)} locations on {target}.\n')
+                locations.append(f'\n\n# {len(locs)} locations on {target}.\n')
                 locations.append("".join(locs))
                 print(f'{target} was processed')
             target_list_temp = target_list[:-2]
             target_list_temp.append(f'{target_list[-2]} and {target_list[-1]}')
-            counter = f'# {n} locations on {", ".join(target_list_temp)}.\n\n'
+            counter = f'# {n} locations on {", ".join(target_list_temp)}.\n'
             crutch = ""
-        if description:
-            ssc.write(counter)
-            ssc.write(f'# SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)\n\n')
-            ssc.write(f'# Date of creation: {today}\n')
+        ssc.write(counter)
+        ssc.write("\n" if styleCO else "")
+        ssc.write(f'# SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)\n')
+        if styleCO:
+            ssc.write(f'\n# Date of creation: {today}\n')
             ssc.write(f'# Last update: {today}\n')
         ssc.write(crutch + "".join(locations))
 
@@ -215,27 +217,28 @@ except Exception:
 
 
 print("\n                     Welcome to Celestia Locations Maker!")
-print("              First come settings, then the selection of targets.\n")
 
 
 # Setting flags
 
 # by default
 celestia16 = False
-description = True
-comments = True
+styleCO = False
+comments = False
 
 if input("(1/3) Do you want to constrain location types according to Celestia 1.6? [y/n] (n): ").strip().lower() in yes_list:
     celestia16 = True
-if input("(2/3) Do you want to add a file description to the first lines of SSC? [y/n] (y): ").strip().lower() in no_list:
-    description = False
-if input("(3/3) Do you want to add comments to SSC about each location? [y/n] (y): ").strip().lower() in no_list:
-    comments = False
+if input("(2/3) Do you want to use Celestia Origin style? [y/n] (n): ").strip().lower() in yes_list:
+    styleCO = True
+    comments = True
+    print("(3/3) Comments about each location are on")
+elif input("(3/3) Do you want to add comments to SSC about each location? [y/n] (n): ").strip().lower() in yes_list:
+    comments = True
 
 
 # Target selection
 
-print("\n[1] Create SSC for each object    [3] Create SSCs according to standard object sets")
+print("\n[1] Create SSC for each object   >[3] Create SSCs according to standard object sets")
 print("[2] Select object...              [4] Select set...")
 
 choice = input("\nPlease choose processing mode: ")
