@@ -2,7 +2,7 @@
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
-# 1 locations on Proteus.
+# 1 location on Proteus.
 
 Location "Pharos" "Sol/Neptune/Proteus"
 {

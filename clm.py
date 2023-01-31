@@ -168,7 +168,7 @@ def writer(target_list, path):
             for target in target_list:
                 locs = reader(target)
                 n += len(locs)
-                locations.append(f'\n\n# {len(locs)} locations on {target}.\n')
+                locations.append(f'\n\n# {len(locs)} location{"" if len(locs) == 1 else "s"} on {target}.\n')
                 locations.append("".join(locs))
                 print(f'{target} was processed')
             target_list_temp = target_list[:-2]
