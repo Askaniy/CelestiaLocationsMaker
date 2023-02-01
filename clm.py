@@ -160,7 +160,7 @@ def writer(target_list, path):
             target = target_list[0]
             locations = reader(target)
             print(f'{target} was processed')
-            counter = f'# {len(locations)} location{"" if len(locations) == 1 else "s"} on {target}.\n'
+            counter = f'# {len(locations)} location{"" if len(locations) == 1 else "s"} on {"the " if target == "Moon" else ""}{target}.\n'
             crutch = "\n"
         else:
             locations = []
@@ -168,7 +168,7 @@ def writer(target_list, path):
             for target in target_list:
                 locs = reader(target)
                 n += len(locs)
-                locations.append(f'\n\n# {len(locs)} location{"" if len(locs) == 1 else "s"} on {target}.\n')
+                locations.append(f'\n\n# {len(locs)} location{"" if len(locs) == 1 else "s"} on {"the " if target == "Moon" else ""}{target}.\n')
                 locations.append("".join(locs))
                 print(f'{target} was processed')
             target_list_temp = target_list[:-2]
