@@ -1,4 +1,4 @@
-# 707 locations on Amalthea, Thebe, Io, Europa, Ganymede and Callisto.
+# 715 locations on Amalthea, Thebe, Io, Europa, Ganymede and Callisto.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -43,7 +43,7 @@ Location "Zethus" "Sol/Jupiter/Thebe"
 }
 
 
-# 224 locations on Io.
+# 232 locations on Io.
 
 Location "Ababinili Patera" "Sol/Jupiter/Io"
 {
@@ -147,6 +147,13 @@ Location "Asha Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 134.42 -8.84 0 ]
 	Size	117.97
+	Type	"PE"
+}
+
+Location "Asis Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -91.14 44.33 0 ]
+	Size	98
 	Type	"PE"
 }
 
@@ -479,6 +486,13 @@ Location "Galai Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Gauwa Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -12.18 35.65 0 ]
+	Size	27
+	Type	"PE"
+}
+
 Location "Gibil Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 65.41 -14.91 0 ]
@@ -518,6 +532,13 @@ Location "Grian Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ -11.85 -11.3 0 ]
 	Size	87.8
+	Type	"PE"
+}
+
+Location "Gurzil Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -48.26 50.4 0 ]
+	Size	51
 	Type	"PE"
 }
 
@@ -742,6 +763,13 @@ Location "Kinich Ahau Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 49.75 49.35 0 ]
 	Size	44.26
+	Type	"PE"
+}
+
+Location "Kotar Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -61.37 11.18 0 ]
+	Size	67
 	Type	"PE"
 }
 
@@ -1057,6 +1085,13 @@ Location "Päive Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 1.45 -45.69 0 ]
 	Size	57.42
+	Type	"PE"
+}
+
+Location "Pajonn Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -90.75 83.38 0 ]
+	Size	67
 	Type	"PE"
 }
 
@@ -1466,6 +1501,13 @@ Location "Tol-Ava Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Tonatiuh" "Sol/Jupiter/Io"
+{
+	LongLat	[ -77 52 0 ]
+	Size	10
+	Type	"ER"
+}
+
 Location "Tsũi Goab Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ -163.45 -1.27 0 ]
@@ -1550,6 +1592,13 @@ Location "Vahagn Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Verbti Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -87.92 37.99 0 ]
+	Size	62
+	Type	"PE"
+}
+
 Location "Viracocha Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 79.93 -61.75 0 ]
@@ -1589,6 +1638,13 @@ Location "Yaw Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ -132.34 9.62 0 ]
 	Size	36.55
+	Type	"PE"
+}
+
+Location "Yeloje Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -132.4 20.1 0 ]
+	Size	107
 	Type	"PE"
 }
 

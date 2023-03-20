@@ -38495,14 +38495,14 @@ Location "Middle Crescent" "Sol/Earth/Moon"
 	Type	"LF"
 }
 
-Location "Milankovič" "Sol/Earth/Moon"
+Location "Milanković" "Sol/Earth/Moon"
 {
 	LongLat	[ 171.35 76.53 0 ]
 	Size	94.21
 	Type	"AA"
 }
 
-Location "Milankovič E" "Sol/Earth/Moon"
+Location "Milanković E" "Sol/Earth/Moon"
 {
 	LongLat	[ -177.49 77.57 0 ]
 	Size	49.3

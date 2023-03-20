@@ -1,4 +1,4 @@
-# 1993 locations on Mars.
+# 1994 locations on Mars.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -8157,7 +8157,7 @@ Location "Mila" "Sol/Mars"
 	Type	"AA"
 }
 
-Location "Milankovič" "Sol/Mars"
+Location "Milanković" "Sol/Mars"
 {
 	LongLat	[ -146.58 54.46 0 ]
 	Size	113.51
@@ -10674,6 +10674,13 @@ Location "Roemer" "Sol/Mars"
 {
 	LongLat	[ 8.09 -27.46 0 ]
 	Size	120
+	Type	"AA"
+}
+
+Location "Roman" "Sol/Mars"
+{
+	LongLat	[ 80.42 -4.38 0 ]
+	Size	60
 	Type	"AA"
 }
 
