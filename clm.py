@@ -23,14 +23,14 @@ sets = {
     'neptunemoons_locs.ssc': ['Proteus', 'Triton'],
     'dwarfplanets_locs.ssc': ['Ceres', 'Pluto', 'Charon'],
     'asteroids_locs.ssc': [
-        'Vesta', 'Lutetia', 'Ida', 'Dactyl', 'Mathilde', 'Eros', 'Gaspra', 'Steins', 'Itokawa', 'Bennu', 'Ryugu'
+        'Vesta', 'Lutetia', 'Eros', 'Ida', 'Dactyl', 'Mathilde', 'Gaspra', 'Steins', 'Itokawa', 'Dimorphos', 'Bennu', 'Ryugu'
     ]
 }
 
 objects = tuple(sorted(sum(sets.values(), [])))
 
 retrograde_rotators = (
-    'Ariel', 'Bennu', 'Ida', 'Itokawa', 'Miranda', 'Oberon', 'Puck', 'Ryugu', 'Steins', 'Titania', 'Triton', 'Umbriel', 'Venus'
+    'Ariel', 'Bennu', 'Dimorphos', 'Ida', 'Itokawa', 'Miranda', 'Oberon', 'Puck', 'Ryugu', 'Steins', 'Titania', 'Triton', 'Umbriel', 'Venus'
 )
 
 #columns = (

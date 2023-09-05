@@ -10,13 +10,14 @@ Run [clm.py](clm.py) in console, customize settings, choose output format (and t
 
 ## What do I need to know?
 
-- CLM is still has a beta status: it may contain inaccuracies for some bodies. Help is welcome.
+- CLM is still may contain inaccuracies for some bodies. Help is welcome.
 - It is designed for the Celestia 1.7 and Celestia Origin, which support all existing [types of locations](https://en.wikibooks.org/wiki/Celestia/SSC_File#Type_%22string%22). You can turn on legacy mode that constrains location types according to Celestia 1.6 after launch.
 - You can turn on comments about the location type, dates of creation and last update, as well as information about the origin of the name for each location.
 - Names of `albedo features (AL)`, `mare/maria (ME)`, `oceanus/oceani (OC)`, `regio/regiones (RE)` and `terra/terrae (TA)` are written in capital letters.
 - Coordinates and altitude of locations can be set manually through the [custom_longlat.txt](data/custom_longlat.txt). Their parameters are tailored to the models used in Celestia Origin. Also, it contains locations with not specified coordinates.
-- The [database](data/searchresults.csv) contains 333 locations with zero sizes. If the size of one of them is specified in the [custom_size.txt](data/custom_size.txt), the script uses it. Else, `Importance` sets to 20 for albedo features and `Size` sets to 10 (km) for other location types.
-- The rotation of Venus, Puck, Miranda, Ariel, Umbriel, Titania, Oberon, Triton, Bennu, Ida, Itokawa, Ryugu and Steins is retrograde. For correct display in Celestia, their coordinates are inverted.
+- The [database](data/searchresults.csv) contains 337 locations with zero sizes. If the size of one of them is specified in the [custom_size.txt](data/custom_size.txt), the script uses it. Else, `Importance` sets to 20 for albedo features and `Size` sets to 10 (km) for other location types.
+- Asteroids for the [asteroids_locs.ssc](locations/asteroids_locs.ssc) are sorted by their identifying number.
+- The rotation of Venus, Puck, Miranda, Ariel, Umbriel, Titania, Oberon, Triton, Bennu, Dimorphos, Ida, Itokawa, Ryugu and Steins is retrograde. For correct display in Celestia, their coordinates are inverted.
 - The IAU in the location database uses the [Vesta coordinate system](https://en.wikipedia.org/wiki/4_Vesta#Coordinate_systems) with an offset of 150° relative to the *Dawn* team system. Since Celestia Origin uses the model based on the second coordinate system, this shift is hardcoded.
 
 ## How to update the database file?
