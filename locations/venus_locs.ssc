@@ -1,4 +1,4 @@
-# 1976 locations on Venus.
+# 1986 locations on Venus.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -847,6 +847,13 @@ Location "Aranyani Chasma" "Sol/Venus"
 	LongLat	[ -74.4 -69.3 0 ]
 	Size	718
 	Type	"CM"
+}
+
+Location "Arasy Mons" "Sol/Venus"
+{
+	LongLat	[ 150.26 40.26 0 ]
+	Size	69
+	Type	"MO"
 }
 
 Location "Ardwinna Chasma" "Sol/Venus"
@@ -3712,6 +3719,13 @@ Location "Fiona" "Sol/Venus"
 	Type	"AA"
 }
 
+Location "Firtos Mons" "Sol/Venus"
+{
+	LongLat	[ 139.91 47.35 0 ]
+	Size	143
+	Type	"MO"
+}
+
 Location "Firuza" "Sol/Venus"
 {
 	LongLat	[ -108 -51.8 0 ]
@@ -4867,6 +4881,13 @@ Location "Idunn Mons" "Sol/Venus"
 	Type	"MO"
 }
 
+Location "Ignirtoq Tholi" "Sol/Venus"
+{
+	LongLat	[ 137.2 50.98 0 ]
+	Size	90
+	Type	"TH"
+}
+
 Location "Ikas Coronae" "Sol/Venus"
 {
 	LongLat	[ 71.4 40.7 0 ]
@@ -5110,6 +5131,13 @@ Location "ISHTAR TERRA" "Sol/Venus"
 	LongLat	[ -27.5 -70.4 0 ]
 	Size	5610
 	Type	"TA"
+}
+
+Location "Ismo Tholi" "Sol/Venus"
+{
+	LongLat	[ 146.66 29.71 0 ]
+	Size	125
+	Type	"TH"
 }
 
 Location "Isolde" "Sol/Venus"
@@ -8871,6 +8899,13 @@ Location "Nyakaio Vallis" "Sol/Venus"
 	Type	"VA"
 }
 
+Location "Nyakaya Fluctus" "Sol/Venus"
+{
+	LongLat	[ 149.33 41.41 0 ]
+	Size	253
+	Type	"FL"
+}
+
 Location "Nyal'ga" "Sol/Venus"
 {
 	LongLat	[ -64.5 -17 0 ]
@@ -9340,6 +9375,13 @@ Location "OVDA REGIO" "Sol/Venus"
 	Type	"RE"
 }
 
+Location "Oxomoco Tholus" "Sol/Venus"
+{
+	LongLat	[ 141.01 32.28 0 ]
+	Size	140
+	Type	"TH"
+}
+
 Location "Oya Dorsa" "Sol/Venus"
 {
 	LongLat	[ -157.5 -21.5 0 ]
@@ -9386,6 +9428,13 @@ Location "Pajan Yan Tholus" "Sol/Venus"
 {
 	LongLat	[ 107.8 -8.3 0 ]
 	Size	80
+	Type	"TH"
+}
+
+Location "Pakhet Tholus" "Sol/Venus"
+{
+	LongLat	[ 138.55 28.85 0 ]
+	Size	111
 	Type	"TH"
 }
 
@@ -10063,8 +10112,8 @@ Location "Rani" "Sol/Venus"
 
 Location "Raskova Paterae" "Sol/Venus"
 {
-	LongLat	[ 137.2 51 0 ]
-	Size	80
+	LongLat	[ 137.38 51.05 0 ]
+	Size	33
 	Type	"PE"
 }
 
@@ -10213,6 +10262,13 @@ Location "Rita" "Sol/Venus"
 	LongLat	[ 25.2 -71 0 ]
 	Size	8.3
 	Type	"AA"
+}
+
+Location "Robigo Fluctus" "Sol/Venus"
+{
+	LongLat	[ 152.73 42.22 0 ]
+	Size	233
+	Type	"FL"
 }
 
 Location "Rogneda Patera" "Sol/Venus"
@@ -10570,6 +10626,13 @@ Location "Saodat" "Sol/Venus"
 	LongLat	[ 15.4 2.9 0 ]
 	Size	3.7
 	Type	"AA"
+}
+
+Location "Saosis Fluctus" "Sol/Venus"
+{
+	LongLat	[ 151.71 43.87 0 ]
+	Size	282
+	Type	"FL"
 }
 
 Location "Sapas Mons" "Sol/Venus"
@@ -13559,6 +13622,13 @@ Location "Zamudio" "Sol/Venus"
 	LongLat	[ 170.7 -9.6 0 ]
 	Size	19
 	Type	"AA"
+}
+
+Location "Zana Tholus" "Sol/Venus"
+{
+	LongLat	[ 147.76 44.63 0 ]
+	Size	26
+	Type	"TH"
 }
 
 Location "Zaramama Corona" "Sol/Venus"

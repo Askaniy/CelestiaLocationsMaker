@@ -1,4 +1,4 @@
-# 566 locations on Mercury.
+# 572 locations on Mercury.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -55,6 +55,13 @@ Location "Agwo Facula" "Sol/Mercury"
 {
 	LongLat	[ 146.3 22.4 0 ]
 	Size	50
+	Type	"FA"
+}
+
+Location "Ahas Facula" "Sol/Mercury"
+{
+	LongLat	[ -89.4 -21.37 0 ]
+	Size	45
 	Type	"FA"
 }
 
@@ -1724,6 +1731,13 @@ Location "Inyoka Faculae" "Sol/Mercury"
 	Type	"FA"
 }
 
+Location "Italica Rupes" "Sol/Mercury"
+{
+	LongLat	[ -139.63 -42.42 0 ]
+	Size	282
+	Type	"RU"
+}
+
 Location "Ives" "Sol/Mercury"
 {
 	LongLat	[ -111.99 -32.87 0 ]
@@ -2123,6 +2137,13 @@ Location "MacNicol" "Sol/Mercury"
 	Type	"AA"
 }
 
+Location "Madu Facula" "Sol/Mercury"
+{
+	LongLat	[ -74.87 -21.24 0 ]
+	Size	70
+	Type	"FA"
+}
+
 Location "Magritte" "Sol/Mercury"
 {
 	LongLat	[ 121.63 -72.78 0 ]
@@ -2134,6 +2155,13 @@ Location "Mahler" "Sol/Mercury"
 {
 	LongLat	[ -18.82 -19.68 0 ]
 	Size	104
+	Type	"AA"
+}
+
+Location "Manley" "Sol/Mercury"
+{
+	LongLat	[ 103.39 -10.53 0 ]
+	Size	218
 	Type	"AA"
 }
 
@@ -2188,15 +2216,15 @@ Location "Martins" "Sol/Mercury"
 
 Location "Matabei" "Sol/Mercury"
 {
-	LongLat	[ -13.9 -39.87 0 ]
-	Size	23.52
+	LongLat	[ -14.05 -39.85 0 ]
+	Size	24
 	Type	"AA"
 }
 
 Location "Matisse" "Sol/Mercury"
 {
-	LongLat	[ -90.05 -23.83 0 ]
-	Size	189.04
+	LongLat	[ -90.19 -23.8 0 ]
+	Size	189
 	Type	"AA"
 }
 
@@ -2244,8 +2272,8 @@ Location "Meteor Rupēs" "Sol/Mercury"
 
 Location "Michelangelo" "Sol/Mercury"
 {
-	LongLat	[ -109.78 -44.92 0 ]
-	Size	229.72
+	LongLat	[ -109.69 -44.92 0 ]
+	Size	230
 	Type	"AA"
 }
 
@@ -2258,8 +2286,8 @@ Location "Mickiewicz" "Sol/Mercury"
 
 Location "Milton" "Sol/Mercury"
 {
-	LongLat	[ -175.06 -26.13 0 ]
-	Size	180
+	LongLat	[ -175.03 -26.1 0 ]
+	Size	180.85
 	Type	"AA"
 }
 
@@ -2457,6 +2485,13 @@ Location "Neumann" "Sol/Mercury"
 	LongLat	[ -34.56 -37.22 0 ]
 	Size	122
 	Type	"AA"
+}
+
+Location "Ngu Facula" "Sol/Mercury"
+{
+	LongLat	[ -90.85 -22.77 0 ]
+	Size	53
+	Type	"FA"
 }
 
 Location "Nizāmī" "Sol/Mercury"
@@ -3787,6 +3822,13 @@ Location "Vlaminck" "Sol/Mercury"
 	LongLat	[ -13.51 28.48 0 ]
 	Size	82
 	Type	"AA"
+}
+
+Location "Volasiga Rupes" "Sol/Mercury"
+{
+	LongLat	[ -146 -36.22 0 ]
+	Size	830
+	Type	"RU"
 }
 
 Location "Vonnegut" "Sol/Mercury"

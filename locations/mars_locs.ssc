@@ -1,4 +1,4 @@
-# 1994 locations on Mars.
+# 2004 locations on Mars.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -1570,6 +1570,13 @@ Location "Bernard" "Sol/Mars"
 	Type	"AA"
 }
 
+Location "Berrocal" "Sol/Mars"
+{
+	LongLat	[ 84.49 -7.76 0 ]
+	Size	11
+	Type	"AA"
+}
+
 Location "Berseba" "Sol/Mars"
 {
 	LongLat	[ -37.6 -4.4 0 ]
@@ -2459,6 +2466,13 @@ Location "Chafe" "Sol/Mars"
 	Type	"AA"
 }
 
+Location "Chakpar" "Sol/Mars"
+{
+	LongLat	[ -99.93 19.29 0 ]
+	Size	19
+	Type	"AA"
+}
+
 Location "CHALCE" "Sol/Mars"
 {
 	LongLat	[ 0 -49.67 0 ]
@@ -3145,6 +3159,13 @@ Location "Culter" "Sol/Mars"
 	Type	"AA"
 }
 
+Location "Cuparaque" "Sol/Mars"
+{
+	LongLat	[ 86.64 -8.58 0 ]
+	Size	14
+	Type	"AA"
+}
+
 Location "Curie" "Sol/Mars"
 {
 	LongLat	[ -4.75 28.78 0 ]
@@ -3674,6 +3695,13 @@ Location "Dromore" "Sol/Mars"
 {
 	LongLat	[ -49.58 19.88 0 ]
 	Size	14.75
+	Type	"AA"
+}
+
+Location "Druzhba" "Sol/Mars"
+{
+	LongLat	[ 86.45 -8.8 0 ]
+	Size	1.9
 	Type	"AA"
 }
 
@@ -7037,6 +7065,13 @@ Location "Lenya" "Sol/Mars"
 	Type	"AA"
 }
 
+Location "Leoben" "Sol/Mars"
+{
+	LongLat	[ 87.44 -10.38 0 ]
+	Size	15
+	Type	"AA"
+}
+
 Location "Lethe Vallis" "Sol/Mars"
 {
 	LongLat	[ 154.97 3.16 0 ]
@@ -9039,6 +9074,13 @@ Location "Nordenskiöld" "Sol/Mars"
 	Type	"AA"
 }
 
+Location "Nord Rupes" "Sol/Mars"
+{
+	LongLat	[ -127.26 85.99 0 ]
+	Size	140
+	Type	"RU"
+}
+
 Location "Northport" "Sol/Mars"
 {
 	LongLat	[ -54.48 18.52 0 ]
@@ -9064,6 +9106,13 @@ Location "Nune" "Sol/Mars"
 {
 	LongLat	[ -38.76 17.55 0 ]
 	Size	8.47
+	Type	"AA"
+}
+
+Location "Nunu" "Sol/Mars"
+{
+	LongLat	[ 89.03 -13.32 0 ]
+	Size	10
 	Type	"AA"
 }
 
@@ -9942,6 +9991,13 @@ Location "Pica" "Sol/Mars"
 	Type	"AA"
 }
 
+Location "Picardi" "Sol/Mars"
+{
+	LongLat	[ -159.5 -8.06 0 ]
+	Size	79
+	Type	"AA"
+}
+
 Location "Pickering" "Sol/Mars"
 {
 	LongLat	[ -132.61 -33.48 0 ]
@@ -10789,6 +10845,13 @@ Location "Rutherford" "Sol/Mars"
 	Type	"AA"
 }
 
+Location "Ruwais" "Sol/Mars"
+{
+	LongLat	[ 175.89 22.86 0 ]
+	Size	28
+	Type	"AA"
+}
+
 Location "Ruza" "Sol/Mars"
 {
 	LongLat	[ -52.71 -34 0 ]
@@ -10968,6 +11031,13 @@ Location "Sarno" "Sol/Mars"
 {
 	LongLat	[ -54.15 -44.37 0 ]
 	Size	20.29
+	Type	"AA"
+}
+
+Location "Sasakan" "Sol/Mars"
+{
+	LongLat	[ 89.44 -14.37 0 ]
+	Size	28
 	Type	"AA"
 }
 

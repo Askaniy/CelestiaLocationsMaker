@@ -1,4 +1,4 @@
-# 715 locations on Amalthea, Thebe, Io, Europa, Ganymede and Callisto.
+# 729 locations on Amalthea, Thebe, Io, Europa, Ganymede and Callisto.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -43,7 +43,7 @@ Location "Zethus" "Sol/Jupiter/Thebe"
 }
 
 
-# 232 locations on Io.
+# 245 locations on Io.
 
 Location "Ababinili Patera" "Sol/Jupiter/Io"
 {
@@ -731,6 +731,13 @@ Location "Kane Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Kanlaon Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 22.04 -31.06 0 ]
+	Size	94
+	Type	"PE"
+}
+
 Location "Karei Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ -13.17 0.2 0 ]
@@ -871,6 +878,13 @@ Location "Mama Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Mandulis Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 54.48 -30.42 0 ]
+	Size	37
+	Type	"PE"
+}
+
 Location "Manua Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 38.18 35.91 0 ]
@@ -983,6 +997,13 @@ Location "Mithra Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Mixcoatl Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ -141.15 -46.32 0 ]
+	Size	246
+	Type	"FL"
+}
+
 Location "Monan Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ -104.2 15.54 0 ]
@@ -1067,6 +1088,20 @@ Location "Nyambe Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Odqan Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -174.36 -42.33 0 ]
+	Size	86
+	Type	"PE"
+}
+
+Location "Olafat Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 115.61 -62.66 0 ]
+	Size	119
+	Type	"PE"
+}
+
 Location "Ot Mons" "Sol/Jupiter/Io"
 {
 	LongLat	[ 144.24 4.28 0 ]
@@ -1114,6 +1149,13 @@ Location "Pele" "Sol/Jupiter/Io"
 	LongLat	[ 104.72 -18.71 0 ]
 	Size	200
 	Type	"ER"
+}
+
+Location "Pillan Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 116.64 -10.58 0 ]
+	Size	95
+	Type	"FL"
 }
 
 Location "Pillan Mons" "Sol/Jupiter/Io"
@@ -1170,6 +1212,13 @@ Location "Pyerun Patera" "Sol/Jupiter/Io"
 	LongLat	[ 108.94 -55.65 0 ]
 	Size	56.93
 	Type	"PE"
+}
+
+Location "Quzah Fluctūs" "Sol/Jupiter/Io"
+{
+	LongLat	[ 48.43 -31.76 0 ]
+	Size	189
+	Type	"FL"
 }
 
 Location "Radegast Patera" "Sol/Jupiter/Io"
@@ -1326,6 +1375,13 @@ Location "Shoshu Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Shurdi Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 69.26 -38.47 0 ]
+	Size	46
+	Type	"PE"
+}
+
 Location "Sigurd Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ -98.05 -5.77 0 ]
@@ -1403,6 +1459,13 @@ Location "Svarog Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Tabiti Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 84.1 -6.75 0 ]
+	Size	103
+	Type	"PE"
+}
+
 Location "Talos Paterae" "Sol/Jupiter/Io"
 {
 	LongLat	[ 5.24 -26.35 0 ]
@@ -1477,6 +1540,13 @@ Location "Tiermes Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 9.85 22.29 0 ]
 	Size	112.56
+	Type	"PE"
+}
+
+Location "Tiwaz Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ 80.25 -70.44 0 ]
+	Size	78
 	Type	"PE"
 }
 
@@ -1571,6 +1641,13 @@ Location "Ülgen Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Upulevo Fluctus" "Sol/Jupiter/Io"
+{
+	LongLat	[ 45.08 -79.88 0 ]
+	Size	113
+	Type	"FL"
+}
+
 Location "Uta Fluctus" "Sol/Jupiter/Io"
 {
 	LongLat	[ -16.14 -33.12 0 ]
@@ -1627,11 +1704,25 @@ Location "Wabasso Patera" "Sol/Jupiter/Io"
 	Type	"PE"
 }
 
+Location "Wanajo Patera" "Sol/Jupiter/Io"
+{
+	LongLat	[ -178.87 -58.75 0 ]
+	Size	24
+	Type	"PE"
+}
+
 Location "Wayland Patera" "Sol/Jupiter/Io"
 {
 	LongLat	[ 134.17 -32.55 0 ]
 	Size	94.47
 	Type	"PE"
+}
+
+Location "Xihe" "Sol/Jupiter/Io"
+{
+	LongLat	[ 70 -55 0 ]
+	Size	10
+	Type	"ER"
 }
 
 Location "Yaw Patera" "Sol/Jupiter/Io"
@@ -1670,7 +1761,7 @@ Location "Zamama" "Sol/Jupiter/Io"
 }
 
 
-# 128 locations on Europa.
+# 129 locations on Europa.
 
 Location "Acacallis Linea" "Sol/Jupiter/Europa"
 {
@@ -2341,6 +2432,13 @@ Location "Onga Linea" "Sol/Jupiter/Europa"
 {
 	LongLat	[ 148.7 -38.7 0 ]
 	Size	870
+	Type	"LI"
+}
+
+Location "Pasiphae Linea" "Sol/Jupiter/Europa"
+{
+	LongLat	[ -8.06 41.08 0 ]
+	Size	1306
 	Type	"LI"
 }
 

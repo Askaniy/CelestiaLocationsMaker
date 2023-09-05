@@ -1407,8 +1407,8 @@ Location "Argiletum Fossae" "Sol/Saturn/Dione"
 
 Location "Arpi Fossae" "Sol/Saturn/Dione"
 {
-	LongLat	[ -130.8 47.47 0 ]
-	Size	330
+	LongLat	[ -119 52 0 ]
+	Size	425
 	Type	"FO"
 }
 

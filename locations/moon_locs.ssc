@@ -1,4 +1,4 @@
-# 9051 locations on the Moon.
+# 9054 locations on the Moon.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -7947,6 +7947,13 @@ Location "Briggs C" "Sol/Earth/Moon"
 	Type	"SF"
 }
 
+Location "Brill" "Sol/Earth/Moon"
+{
+	LongLat	[ -93.41 -88.27 0 ]
+	Size	17
+	Type	"AA"
+}
+
 Location "Brisbane" "Sol/Earth/Moon"
 {
 	LongLat	[ 68.76 -49.2 0 ]
@@ -8351,6 +8358,13 @@ Location "Bunsen D" "Sol/Earth/Moon"
 	LongLat	[ -86.71 40.85 0 ]
 	Size	13.6
 	Type	"SF"
+}
+
+Location "Burbidge" "Sol/Earth/Moon"
+{
+	LongLat	[ 48.6 -86.35 0 ]
+	Size	21
+	Type	"AA"
 }
 
 Location "Burckhardt" "Sol/Earth/Moon"
@@ -18675,6 +18689,13 @@ Location "Florey" "Sol/Earth/Moon"
 {
 	LongLat	[ -19.75 87.04 0 ]
 	Size	69.06
+	Type	"AA"
+}
+
+Location "Floss" "Sol/Earth/Moon"
+{
+	LongLat	[ 42.27 -84.28 0 ]
+	Size	9
 	Type	"AA"
 }
 
@@ -53533,8 +53554,8 @@ Location "Seyfert A" "Sol/Earth/Moon"
 
 Location "Shackleton" "Sol/Earth/Moon"
 {
-	LongLat	[ 129.78 -89.67 0 ]
-	Size	20.92
+	LongLat	[ 132.32 -89.63 0 ]
+	Size	21
 	Type	"AA"
 }
 

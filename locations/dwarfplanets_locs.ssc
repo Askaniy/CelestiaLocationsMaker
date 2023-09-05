@@ -1,4 +1,4 @@
-# 222 locations on Ceres, Pluto and Charon.
+# 228 locations on Ceres, Pluto and Charon.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -1048,7 +1048,7 @@ Location "Zatik" "Sol/Ceres"
 }
 
 
-# 59 locations on Pluto.
+# 65 locations on Pluto.
 
 Location "Adlivun Cavus" "Sol/Pluto"
 {
@@ -1097,6 +1097,13 @@ Location "Challenger Colles" "Sol/Pluto"
 	LongLat	[ -164.9 23.05 0 ]
 	Size	76
 	Type	"CO"
+}
+
+Location "Chandrayaan Linea" "Sol/Pluto"
+{
+	LongLat	[ -21.92 19.21 0 ]
+	Size	377
+	Type	"LI"
 }
 
 Location "Coleman Mons" "Sol/Pluto"
@@ -1204,6 +1211,13 @@ Location "Hillary Montes" "Sol/Pluto"
 	Type	"MO"
 }
 
+Location "Hiten Linea" "Sol/Pluto"
+{
+	LongLat	[ -6.1 23.52 0 ]
+	Size	178
+	Type	"LI"
+}
+
 Location "Hunahpu Valles" "Sol/Pluto"
 {
 	LongLat	[ 154.41 49.09 0 ]
@@ -1265,6 +1279,13 @@ Location "LOWELL REGIO" "Sol/Pluto"
 	LongLat	[ -22 86 0 ]
 	Size	1215
 	Type	"RE"
+}
+
+Location "Luna Linea" "Sol/Pluto"
+{
+	LongLat	[ 22.78 19.88 0 ]
+	Size	220
+	Type	"LI"
 }
 
 Location "Lunokhod Planitia" "Sol/Pluto"
@@ -1365,6 +1386,13 @@ Location "Sputnik Planitia" "Sol/Pluto"
 	Type	"PL"
 }
 
+Location "Surveyor Linea" "Sol/Pluto"
+{
+	LongLat	[ -30.48 22.61 0 ]
+	Size	217
+	Type	"LI"
+}
+
 Location "Tabei Montes" "Sol/Pluto"
 {
 	LongLat	[ 164.33 -11.73 0 ]
@@ -1449,6 +1477,13 @@ Location "Wright Mons" "Sol/Pluto"
 	Type	"MO"
 }
 
+Location "Yutu Linea" "Sol/Pluto"
+{
+	LongLat	[ 1.79 32.77 0 ]
+	Size	324
+	Type	"LI"
+}
+
 Location "Zagar" "Sol/Pluto"
 {
 	LongLat	[ 155.23 -5.74 0 ]
@@ -1461,6 +1496,13 @@ Location "Zheng He Montes" "Sol/Pluto"
 	LongLat	[ 160.57 19.01 0 ]
 	Size	101
 	Type	"MO"
+}
+
+Location "Zond Linea" "Sol/Pluto"
+{
+	LongLat	[ -23.18 23.91 0 ]
+	Size	192
+	Type	"LI"
 }
 
 
