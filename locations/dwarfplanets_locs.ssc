@@ -1,4 +1,4 @@
-# 228 locations on Ceres, Pluto and Charon.
+# 230 locations on Ceres, Pluto and Charon.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -1048,7 +1048,7 @@ Location "Zatik" "Sol/Ceres"
 }
 
 
-# 65 locations on Pluto.
+# 67 locations on Pluto.
 
 Location "Adlivun Cavus" "Sol/Pluto"
 {
@@ -1083,6 +1083,13 @@ Location "Beatrice Fossa" "Sol/Pluto"
 	LongLat	[ 129.26 0.19 0 ]
 	Size	382
 	Type	"FO"
+}
+
+Location "BELTON REGIO" "Sol/Pluto"
+{
+	LongLat	[ 91.42 -9.21 0 ]
+	Size	3255
+	Type	"RE"
 }
 
 Location "Burney" "Sol/Pluto"
@@ -1363,6 +1370,13 @@ Location "Rosetta Planitia" "Sol/Pluto"
 	LongLat	[ 157.22 -22.31 0 ]
 	Size	480
 	Type	"PL"
+}
+
+Location "SAFRONOV REGIO" "Sol/Pluto"
+{
+	LongLat	[ -150.51 -13.36 0 ]
+	Size	740
+	Type	"RE"
 }
 
 Location "Simonelli" "Sol/Pluto"

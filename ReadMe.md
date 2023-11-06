@@ -17,7 +17,7 @@ Run [clm.py](clm.py) in console, customize settings, choose output format (and t
 - Coordinates and altitude of locations can be set manually through the [custom_longlat.txt](data/custom_longlat.txt). Their parameters are tailored to the models used in Celestia Origin. Also, it contains locations with not specified coordinates.
 - The [database](data/searchresults.csv) contains 337 locations with zero sizes. If the size of one of them is specified in the [custom_size.txt](data/custom_size.txt), the script uses it. Else, `Importance` sets to 20 for albedo features and `Size` sets to 10 (km) for other location types.
 - Asteroids for the [asteroids_locs.ssc](locations/asteroids_locs.ssc) are sorted by their identifying number.
-- The rotation of Venus, Puck, Miranda, Ariel, Umbriel, Titania, Oberon, Triton, Bennu, Dimorphos, Ida, Itokawa, Ryugu and Steins is retrograde. For correct display in Celestia, their coordinates are inverted.
+- Venus, Puck, Miranda, Ariel, Umbriel, Titania, Oberon, Triton, Bennu, Dimorphos, Ida, Itokawa, Ryugu, Steins and Arrokoth are retrograde rotators. For correct display in Celestia, their coordinates are inverted.
 - The IAU in the location database uses the [Vesta coordinate system](https://en.wikipedia.org/wiki/4_Vesta#Coordinate_systems) with an offset of 150° relative to the *Dawn* team system. Since Celestia Origin uses the model based on the second coordinate system, this shift is hardcoded.
 
 ## How to update the database file?
@@ -29,4 +29,4 @@ Run [clm.py](clm.py) in console, customize settings, choose output format (and t
 5. Scroll, choose the `CSV` link;
 6. Save the file to the `data` folder.
 
-The last database update was on September 5, 2023.
+The last database update was on November 6, 2023.

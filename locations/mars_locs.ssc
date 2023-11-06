@@ -9937,7 +9937,7 @@ Location "Phlegethon Catena" "Sol/Mars"
 
 Location "PHLEGRA" "Sol/Mars"
 {
-	LongLat	[ 172.2 31 0 ]
+	LongLat	[ 170 30 0 ]
 	Size	134
 	Type	"AL"
 }
@@ -11099,7 +11099,7 @@ Location "Scamander Vallis" "Sol/Mars"
 
 Location "SCANDIA" "Sol/Mars"
 {
-	LongLat	[ -147.9 60.21 0 ]
+	LongLat	[ -150 60 0 ]
 	Importance	20
 	Type	"AL"
 }

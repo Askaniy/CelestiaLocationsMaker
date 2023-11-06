@@ -53554,8 +53554,8 @@ Location "Seyfert A" "Sol/Earth/Moon"
 
 Location "Shackleton" "Sol/Earth/Moon"
 {
-	LongLat	[ 132.32 -89.63 0 ]
-	Size	21
+	LongLat	[ 129.78 -89.67 0 ]
+	Size	20.92
 	Type	"AA"
 }
 

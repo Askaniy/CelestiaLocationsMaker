@@ -1,4 +1,4 @@
-# 363 locations on Vesta, Lutetia, Eros, Ida, Dactyl, Mathilde, Gaspra, Steins, Itokawa, Dimorphos, Bennu and Ryugu.
+# 368 locations on Vesta, Lutetia, Eros, Ida, Dactyl, Mathilde, Gaspra, Steins, Itokawa, Dimorphos, Bennu, Ryugu and Arrokoth.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -2576,4 +2576,42 @@ Location "Urashima" "Sol/Ryugu"
 	LongLat	[ -92.9 8.1 0 ]
 	Size	0.29
 	Type	"AA"
+}
+
+
+# 5 locations on Arrokoth.
+
+Location "Akasa Linea" "Sol/Arrokoth"
+{
+	LongLat	[ 0 0 0 ]
+	Size	9
+	Type	"LI"
+}
+
+Location "Ka'an Arcus" "Sol/Arrokoth"
+{
+	LongLat	[ 0 0 0 ]
+	Size	9
+	Type	"AR"
+}
+
+Location "Sky" "Sol/Arrokoth"
+{
+	LongLat	[ 0 0 0 ]
+	Size	6.8
+	Type	"AA"
+}
+
+Location "WEEYO" "Sol/Arrokoth"
+{
+	LongLat	[ 0 0 0 ]
+	Size	15.4
+	Type	"LO"
+}
+
+Location "WENU" "Sol/Arrokoth"
+{
+	LongLat	[ 0 0 0 ]
+	Size	21.6
+	Type	"LO"
 }

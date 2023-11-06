@@ -2216,15 +2216,15 @@ Location "Martins" "Sol/Mercury"
 
 Location "Matabei" "Sol/Mercury"
 {
-	LongLat	[ -14.05 -39.85 0 ]
-	Size	24
+	LongLat	[ -13.9 -39.87 0 ]
+	Size	23.52
 	Type	"AA"
 }
 
 Location "Matisse" "Sol/Mercury"
 {
-	LongLat	[ -90.19 -23.8 0 ]
-	Size	189
+	LongLat	[ -90.05 -23.83 0 ]
+	Size	189.04
 	Type	"AA"
 }
 
@@ -2272,8 +2272,8 @@ Location "Meteor Rupēs" "Sol/Mercury"
 
 Location "Michelangelo" "Sol/Mercury"
 {
-	LongLat	[ -109.69 -44.92 0 ]
-	Size	230
+	LongLat	[ -109.78 -44.92 0 ]
+	Size	229.72
 	Type	"AA"
 }
 
@@ -2286,8 +2286,8 @@ Location "Mickiewicz" "Sol/Mercury"
 
 Location "Milton" "Sol/Mercury"
 {
-	LongLat	[ -175.03 -26.1 0 ]
-	Size	180.85
+	LongLat	[ -175.06 -26.13 0 ]
+	Size	180
 	Type	"AA"
 }
 

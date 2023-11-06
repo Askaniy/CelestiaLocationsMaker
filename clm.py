@@ -23,14 +23,14 @@ sets = {
     'neptunemoons_locs.ssc': ['Proteus', 'Triton'],
     'dwarfplanets_locs.ssc': ['Ceres', 'Pluto', 'Charon'],
     'asteroids_locs.ssc': [
-        'Vesta', 'Lutetia', 'Eros', 'Ida', 'Dactyl', 'Mathilde', 'Gaspra', 'Steins', 'Itokawa', 'Dimorphos', 'Bennu', 'Ryugu'
+        'Vesta', 'Lutetia', 'Eros', 'Ida', 'Dactyl', 'Mathilde', 'Gaspra', 'Steins', 'Itokawa', 'Dimorphos', 'Bennu', 'Ryugu', 'Arrokoth'
     ]
 }
 
 objects = tuple(sorted(sum(sets.values(), [])))
 
 retrograde_rotators = (
-    'Ariel', 'Bennu', 'Dimorphos', 'Ida', 'Itokawa', 'Miranda', 'Oberon', 'Puck', 'Ryugu', 'Steins', 'Titania', 'Triton', 'Umbriel', 'Venus'
+    'Ariel', 'Arrokoth', 'Bennu', 'Dimorphos', 'Ida', 'Itokawa', 'Miranda', 'Oberon', 'Puck', 'Ryugu', 'Steins', 'Titania', 'Triton', 'Umbriel', 'Venus'
 )
 
 #columns = (
@@ -78,7 +78,7 @@ def reader(request):
                     location += f'# Additional info: {data["Additional Info"]}\n'
             
             # Name
-            if data['Feature Type Code'] in ('AL', 'ME', 'OC', 'RE', 'TA'):
+            if data['Feature Type Code'] in ('AL', 'LO', 'ME', 'OC', 'RE', 'TA'):
                 location += f'Location "{name.upper()}"'
             else:
                 location += f'Location "{name}"'
