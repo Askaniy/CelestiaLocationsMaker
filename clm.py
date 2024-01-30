@@ -23,14 +23,14 @@ sets = {
     'neptunemoons_locs.ssc': ['Proteus', 'Triton'],
     'dwarfplanets_locs.ssc': ['Ceres', 'Pluto', 'Charon'],
     'asteroids_locs.ssc': [
-        'Vesta', 'Lutetia', 'Eros', 'Ida', 'Dactyl', 'Mathilde', 'Gaspra', 'Steins', 'Itokawa', 'Dimorphos', 'Bennu', 'Ryugu', 'Arrokoth'
+        'Vesta', 'Lutetia', 'Ida', 'Dactyl', 'Mathilde', 'Eros', 'Gaspra', 'Steins', 'Itokawa', 'Didymos', 'Dimorphos', 'Bennu', 'Ryugu', 'Arrokoth'
     ]
 }
 
 objects = tuple(sorted(sum(sets.values(), [])))
 
 retrograde_rotators = (
-    'Ariel', 'Arrokoth', 'Bennu', 'Dimorphos', 'Ida', 'Itokawa', 'Miranda', 'Oberon', 'Puck', 'Ryugu', 'Steins', 'Titania', 'Triton', 'Umbriel', 'Venus'
+    'Ariel', 'Ida', 'Miranda', 'Oberon', 'Puck', 'Titania', 'Triton', 'Umbriel', 'Venus'
 )
 
 #columns = (
@@ -102,6 +102,8 @@ def reader(request):
                 location += f' "Sol/Pluto/Charon"\n'
             elif target == 'Dactyl':
                 location += f' "Sol/Ida/Dactyl"\n'
+            elif target == 'Dimorphos':
+                location += f' "Sol/Didymos/Dimorphos"\n'
             else:
                 location += f' "Sol/{target}"\n'
             
