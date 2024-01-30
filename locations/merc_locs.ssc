@@ -2216,8 +2216,8 @@ Location "Martins" "Sol/Mercury"
 
 Location "Matabei" "Sol/Mercury"
 {
-	LongLat	[ -13.9 -39.87 0 ]
-	Size	23.52
+	LongLat	[ -14.05 -39.85 0 ]
+	Size	24
 	Type	"AA"
 }
 
@@ -2286,8 +2286,8 @@ Location "Mickiewicz" "Sol/Mercury"
 
 Location "Milton" "Sol/Mercury"
 {
-	LongLat	[ -175.06 -26.13 0 ]
-	Size	180
+	LongLat	[ -175.03 -26.1 0 ]
+	Size	180.85
 	Type	"AA"
 }
 

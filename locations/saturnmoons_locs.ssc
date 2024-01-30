@@ -1407,8 +1407,8 @@ Location "Argiletum Fossae" "Sol/Saturn/Dione"
 
 Location "Arpi Fossae" "Sol/Saturn/Dione"
 {
-	LongLat	[ -119 52 0 ]
-	Size	425
+	LongLat	[ -130.8 47.47 0 ]
+	Size	330
 	Type	"FO"
 }
 
@@ -1568,8 +1568,8 @@ Location "Eumelus" "Sol/Saturn/Dione"
 
 Location "Eurotas Chasmata" "Sol/Saturn/Dione"
 {
-	LongLat	[ 58.65 4.94 0 ]
-	Size	1000
+	LongLat	[ 90 18 0 ]
+	Size	1200
 	Type	"CM"
 }
 
