@@ -194,3 +194,13 @@ Yeates Regio	5
 # 25143 Itokawa
 Gando	0.01
 San Marco	0.01
+
+# 65803 Didymos
+Gong Saxum	0.022
+
+# Dimorphos
+Bongo	0.01
+Caccavella Saxum	0.01
+Marimba	0.01
+Pūniu Saxum	0.01
+Tamboril	0.01

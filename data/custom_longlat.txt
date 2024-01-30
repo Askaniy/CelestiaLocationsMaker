@@ -97,3 +97,49 @@ Lob	63 29 0
 
 # Proteus
 Pharos	-5 -25 0
+
+# 951 Gaspra
+# From original gaspra_locs.ssc
+Aix	-156 47 0
+Alupka	-72 67 0
+Baden-Baden	-57 42 0
+Badagstein	-6 27 0
+Bagnoles	-120 56 0
+Bath	-11 12 0
+Beppu	-58 -3 0
+Brookton	-102 25 0
+Calistoga	-5 30 0
+Carlsbad	-86 29 0
+Charax	0 7 0
+Helwan	-115 23 0
+Ixtapan	-87 7 0
+Katsiveli	-68 53 0
+Krynica	-37 46 0
+Lisdoonvarna	-357 14 0
+Loutraki	-130 41 0
+Mandal	-48 20 0
+Manikaran	-152 66 0
+Marienbad	-81 32 0
+Miskhor	-66 8 0
+Moree	-143 34 0
+Ramlösa	-7 15 0
+Rio Hondo	-22 30 0
+Rotorua	-32 17 0
+Saratoga	-221.5 16.2 0
+Spa	-146 52 0
+Tang-Shan	-258.8 50.6 0
+Yalova	-12 27 0
+Yalta	-231.3 45.7 0
+Zohar	-117 21 0
+
+# 25143 Itokawa
+# From original itokawa_locs.ssc
+Arcoona Regio	-190 -10 0
+LINEAR Regio	130 0 0
+Miyabaru	5 10 0
+Ohsumi Regio	255 -20 0
+Yoshinobu Regio	-10 20 0
+
+# 65803 Didymos
+# From https://doi.org/10.26007/30x0-fv64
+Gong Saxum	1.9 5.8 0
