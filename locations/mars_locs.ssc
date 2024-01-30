@@ -1,4 +1,4 @@
-# 2004 locations on Mars.
+# 2005 locations on Mars.
 # SSC-file author: CLM tool by Askaniy (https://github.com/Askaniy/CelestiaLocationsMaker)
 
 
@@ -3479,6 +3479,13 @@ Location "DEUTERONILUS" "Sol/Mars"
 	LongLat	[ 0 34.68 0 ]
 	Importance	20
 	Type	"AL"
+}
+
+Location "Deuteronilus Cavus" "Sol/Mars"
+{
+	LongLat	[ 14.01 36.15 0 ]
+	Size	123
+	Type	"CB"
 }
 
 Location "Deuteronilus Colles" "Sol/Mars"
